@@ -31,7 +31,7 @@ Este artículo resume la estructura, los requisitos, la puntuación y un orden d
   - ISC（Information Systems and Controls）：信息系统与内部控制，偏 IT 审计与系统控制
   - TCP（Tax Compliance and Planning）：税务合规与筹划，是 REG 税务部分的加深
 
-每门考试 4 小时，题型为选择题（MCQ）加案例模拟题（Task-Based Simulations，简称 TBS）；BAR、FAR、AUD 等科目还可能包含需要动手操作的模拟。选哪门 Discipline 不影响执照的执业范围，三张执照完全等价；选科只反映你的专长方向。选科的一般思路：以后做税务选 TCP，做审计或技术审计选 ISC，FAR 学得最扎实、想冲高阶报告选 BAR。
+每门考试 4 小时，题型为选择题（MCQ）加案例模拟题（Task-Based Simulations，简称 TBS）；BAR、FAR、AUD 等科目还可能包含需要动手操作的模拟。选哪门 Discipline 不影响执照的执业范围，所有 CPA 执照完全等价；选科只反映你的专长方向。选科的一般思路：以后做税务选 TCP，做审计或技术审计选 ISC，FAR 学得最扎实、想冲高阶报告选 BAR。
 
 **English**
 

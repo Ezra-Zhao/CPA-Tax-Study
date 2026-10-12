@@ -68,11 +68,11 @@ El derecho fiscal federal primero clasifica la entidad. Según el reglamento che
 
 - AGI ≈ $80,000 − $5,652 = $74,348
 - 减 2025 年单身标准扣除 $15,750 → $58,598
-- 再减 §199A 合格营业收入扣除（见第三节，本例取 20% × $80,000 = $16,000）→ 应税收入 ≈ $42,598
+- 再减 §199A 合格营业收入扣除（见第三节）：暂按 20% × QBI $80,000 = $16,000，但 §199A(a) 还有一条总上限——扣除不得超过扣除前应税收入（减净资本利得，本例为 0）的 20%，即 $58,598 × 20% ≈ $11,720；两者取小，实际扣除 $11,720 → 应税收入 ≈ $46,878
 - 按 2025 年单身税率档：10% 档 $0–$11,925，12% 档 $11,925–$48,475
-- 所得税 ≈ $11,925 × 10% + ($42,598 − $11,925) × 12% ≈ $1,193 + $3,681 ≈ $4,874
+- 所得税 ≈ $11,925 × 10% + ($46,878 − $11,925) × 12% ≈ $1,193 + $4,194 ≈ $5,387
 
-合计联邦税负 ≈ $11,304 + $4,874 ≈ $16,178，占净利约 20%。注意自雇税是大头——这是很多新业主第一次报税时最意外的部分。实务上这笔税靠季度预缴（Form 1040-ES）分四次付，而不是年底一次付清。
+合计联邦税负 ≈ $11,304 + $5,387 ≈ $16,691，占净利约 21%。注意自雇税是大头——这是很多新业主第一次报税时最意外的部分。实务上这笔税靠季度预缴（Form 1040-ES）分四次付，而不是年底一次付清。
 
 **English**
 
@@ -93,11 +93,11 @@ Step 2 — federal income tax (simplified; state tax and other adjustments ignor
 
 - AGI ≈ $80,000 − $5,652 = $74,348
 - Less the 2025 standard deduction for a single filer, $15,750 → $58,598
-- Less the §199A qualified business income deduction (Section 3 below; here 20% × $80,000 = $16,000) → taxable income ≈ $42,598
+- Less the §199A qualified business income deduction (Section 3 below): tentatively 20% × QBI of $80,000 = $16,000, but §199A(a) imposes an overall cap — the deduction may not exceed 20% of taxable income (computed before this deduction, minus net capital gain, which is zero here), i.e. 20% × $58,598 ≈ $11,720. The lesser amount applies: deduction of $11,720 → taxable income ≈ $46,878
 - 2025 single brackets: 10% on $0–$11,925; 12% on $11,925–$48,475
-- Income tax ≈ $11,925 × 10% + ($42,598 − $11,925) × 12% ≈ $1,193 + $3,681 ≈ $4,874
+- Income tax ≈ $11,925 × 10% + ($46,878 − $11,925) × 12% ≈ $1,193 + $4,194 ≈ $5,387
 
-Total federal burden ≈ $11,304 + $4,874 ≈ $16,178, roughly 20% of net profit. Note that the SE tax is the bigger piece — the part that surprises most first-time filers. In practice it is paid through quarterly estimated payments (Form 1040-ES), not in one lump sum at filing time.
+Total federal burden ≈ $11,304 + $5,387 ≈ $16,691, roughly 21% of net profit. Note that the SE tax is the bigger piece — the part that surprises most first-time filers. In practice it is paid through quarterly estimated payments (Form 1040-ES), not in one lump sum at filing time.
 
 **Español**
 
@@ -118,11 +118,11 @@ Paso 2: impuesto federal sobre la renta (simplificado; sin impuesto estatal ni o
 
 - AGI ≈ $80.000 − $5.652 = $74.348
 - Menos la deducción estándar 2025 para solteros, $15.750 → $58.598
-- Menos la deducción §199A (sección 3; aquí 20 % × $80.000 = $16.000) → base imponible ≈ $42.598
+- Menos la deducción §199A (sección 3): provisionalmente 20 % × QBI de $80.000 = $16.000, pero la §199A(a) impone un tope general: la deducción no puede superar el 20 % de la base imponible calculada antes de esta deducción (menos la ganancia neta de capital, aquí cero), es decir, 20 % × $58.598 ≈ $11.720. Rige la cifra menor: deducción de $11.720 → base imponible ≈ $46.878
 - Tramos 2025 para solteros: 10 % de $0 a $11.925; 12 % de $11.925 a $48.475
-- Impuesto ≈ $11.925 × 10 % + ($42.598 − $11.925) × 12 % ≈ $1.193 + $3.681 ≈ $4.874
+- Impuesto ≈ $11.925 × 10 % + ($46.878 − $11.925) × 12 % ≈ $1.193 + $4.194 ≈ $5.387
 
-Carga federal total ≈ $11.304 + $4.874 ≈ $16.178, alrededor del 20 % de la ganancia neta. Observe que el impuesto SE es la parte mayor: es lo que más sorprende a quienes declaran por primera vez. En la práctica se paga en cuatro pagos estimados trimestrales (Formulario 1040-ES), no en un solo pago al declarar.
+Carga federal total ≈ $11.304 + $5.387 ≈ $16.691, alrededor del 21 % de la ganancia neta. Observe que el impuesto SE es la parte mayor: es lo que más sorprende a quienes declaran por primera vez. En la práctica se paga en cuatro pagos estimados trimestrales (Formulario 1040-ES), no en un solo pago al declarar.
 
 ---
 
@@ -134,7 +134,8 @@ IRC §199A 给穿透实体业主一个额外扣除：合格营业收入（QBI）
 
 - 它是税表上的扣除（在标准扣除或列举扣除之后再减），不减少自雇税的计算基数——上面案例里自雇税仍按 $80,000 全额算是这个原因。
 - 有收入门槛。2025 年单身应税收入在门槛（约 $197,300 起，逐步淘汰区间约 $50,000）以下，一般可全额享受；超过门槛后，会引入 W-2 工资与资产基数限制，且特定服务行业（SSTB，如咨询、法律、医疗）在门槛以上逐步失去资格。
-- 本例业主做 IT 咨询，属于 SSTB 范畴；正因为收入在门槛以下，才取到全额 20%。收入再涨一个台阶，结论会完全不同——这是筹划时最先要复核的点。
+- 还有一条总上限（§199A(a)）：扣除额不得超过扣除前应税收入减去净资本利得后的 20%。收入不高时，这条上限比"20% × QBI"先咬到——本例的暂定扣除 $16,000 就是被它压到 $11,720 的。
+- 本例业主做 IT 咨询，属于 SSTB 范畴；正因为收入在门槛以下，SSTB 的淘汰规则不适用，20% 的暂定额成立，只是最后被上面的总上限压低。收入一旦越过门槛，SSTB 资格逐步丧失，结论会完全不同——这是筹划时最先要复核的点。
 
 **English**
 
@@ -142,7 +143,8 @@ IRC §199A gives owners of pass-through businesses an extra deduction of up to 2
 
 - It is a deduction on the return (taken after the standard or itemized deduction) and it does not reduce the self-employment tax base — which is why the SE tax above is computed on the full $80,000.
 - It has income thresholds. For 2025, a single filer with taxable income below the threshold (about $197,300, with a phase-in range of roughly $50,000 above it) generally gets the full 20%; above the threshold, W-2 wage and property limits phase in, and specified service trades or businesses (SSTBs — consulting, law, health, and similar) phase out entirely.
-- The IT consulting business in this example is an SSTB; the full 20% is available only because income sits below the threshold. One income level higher and the answer changes completely — this is the first thing to re-check in any planning scenario.
+- There is also an overall cap (§199A(a)): the deduction cannot exceed 20% of taxable income (computed before this deduction) minus net capital gain. At modest income levels this cap bites before the 20%-of-QBI figure does — in the example above, it is what trims the tentative $16,000 down to $11,720.
+- The IT consulting business in this example is an SSTB; because income sits below the threshold, the SSTB phase-out does not apply and the tentative 20% stands — though the overall cap then trims it, as Section 2 shows. Once income crosses the threshold, SSTB eligibility phases out and the answer changes completely — this is the first thing to re-check in any planning scenario.
 
 **Español**
 
@@ -150,7 +152,8 @@ La Sección 199A del IRC concede a los dueños de negocios transparentes una ded
 
 - Es una deducción en la declaración (posterior a la deducción estándar o detallada) y no reduce la base del impuesto de trabajo por cuenta propia; por eso el impuesto SE del ejemplo se calcula sobre los $80.000 completos.
 - Tiene umbrales de ingreso. En 2025, un contribuyente soltero con base imponible por debajo del umbral (unos $197.300, con una franja de transición de unos $50.000) obtiene, por lo general, el 20 % completo; por encima, entran límites de salarios W-2 y de activos, y los negocios de servicios especificados (SSTB: consultoría, derecho, salud y similares) pierden el beneficio por completo.
-- La consultoría de TI del ejemplo es un SSTB; el 20 % completo solo está disponible porque el ingreso está bajo el umbral. Con un nivel de ingreso mayor, la conclusión cambia por completo: es lo primero que hay que revisar en cualquier planificación.
+- Existe además un tope general (§199A(a)): la deducción no puede superar el 20 % de la base imponible (calculada antes de esta deducción) menos la ganancia neta de capital. Con ingresos modestos, este tope actúa antes que la cifra del 20 % del QBI: en el ejemplo anterior es lo que reduce los $16.000 provisionales a $11.720.
+- La consultoría de TI del ejemplo es un SSTB; como el ingreso está bajo el umbral, la exclusión de los SSTB no aplica y el 20 % provisional se mantiene, aunque luego el tope general lo reduce, como muestra la sección 2. Si el ingreso supera el umbral, la elegibilidad SSTB se pierde gradualmente y la conclusión cambia por completo: es lo primero que hay que revisar en cualquier planificación.
 
 ---
 
@@ -198,7 +201,7 @@ En resumen, el costo real de una LLC pequeña son cuatro piezas juntas: impuesto
 默认不是唯一选项。单成员 LLC 可以：
 
 - 提交 Form 8832，选择按 C 公司纳税：公司独立报 Form 1120，按 21% 联邦公司税率缴税；但利润分红给个人时再缴一层股息税（双重征税），且业主给自己发工资要走 payroll 并缴雇佣税。
-- 或先选按公司分类、再提交 Form 2553 选 S 公司：仍是穿透（报 Form 1120-S，K-1 给个人），但业主可以以雇员身份领"合理工资"（reasonable compensation），工资部分缴雇佣税，剩余利润分配不缴自雇税——省税逻辑就在这条缝里。代价是 payroll 申报、账务与合规成本上升，且工资必须"合理"，明显压低工资会被 IRS 重新归类。
+- 或提交 Form 2553 选 S 公司（单独提交 2553 即被视为同时作出按公司分类的选择，不必先交 Form 8832）：仍是穿透（报 Form 1120-S，K-1 给个人），但业主可以以雇员身份领"合理工资"（reasonable compensation），工资部分缴雇佣税，剩余利润分配不缴自雇税——省税逻辑就在这条缝里。代价是 payroll 申报、账务与合规成本上升，且工资必须"合理"，明显压低工资会被 IRS 重新归类。
 - 加州注意：S 公司在加州另有 1.5% 的特许经营税（franchise tax，最低 $800），联邦省下的要先扣掉这一块再比较。
 - 选择有生效日与撤销限制（Form 8832 的选择一般有 60 个月锁定期的规则），属于需要先算账、再动手的决定。
 
@@ -209,7 +212,7 @@ En resumen, el costo real de una LLC pequeña son cuatro piezas juntas: impuesto
 The default is not the only option. A single-member LLC can:
 
 - File Form 8832 to be taxed as a C corporation: the company files Form 1120 and pays the flat 21% federal corporate rate — but profits distributed to the owner are taxed again as dividends (double taxation), and paying the owner a salary means running payroll with employment taxes.
-- Or classify as a corporation and then file Form 2553 to elect S status: still a pass-through (Form 1120-S, Schedule K-1 to the owner), but the owner takes a "reasonable compensation" salary subject to employment tax, while remaining profit distributions escape SE tax. That gap is where the savings live. The costs: payroll filings, heavier bookkeeping, and a salary that must genuinely be reasonable — an artificially low salary can be reclassified by the IRS.
+- Or file Form 2553 to elect S status (filing Form 2553 alone is treated as also making the corporate classification election — no prior Form 8832 is required): still a pass-through (Form 1120-S, Schedule K-1 to the owner), but the owner takes a "reasonable compensation" salary subject to employment tax, while remaining profit distributions escape SE tax. That gap is where the savings live. The costs: payroll filings, heavier bookkeeping, and a salary that must genuinely be reasonable — an artificially low salary can be reclassified by the IRS.
 - California caveat: an S corporation owes California's 1.5% franchise tax (minimum $800), which must be netted against the federal savings before deciding.
 - Elections have effective-date and revocation limits (a Form 8832 election is generally locked in for 60 months), so this is a compute-first decision.
 
@@ -220,7 +223,7 @@ As a rule of thumb, once Schedule C profit is steadily above roughly $40,000–$
 La opción por defecto no es la única. Una LLC de un solo miembro puede:
 
 - Presentar el Formulario 8832 para tributar como corporación C: la empresa declara el Formulario 1120 y paga la tasa corporativa federal fija del 21 %, pero las ganancias distribuidas al dueño tributan otra vez como dividendos (doble imposición), y pagarle un salario exige nómina con impuestos sobre el empleo.
-- O clasificarse como corporación y luego presentar el Formulario 2553 para elegir el estatus S: sigue siendo transparente (Formulario 1120-S, Anexo K-1 al dueño), pero el dueño cobra un salario de «compensación razonable» sujeto a impuestos sobre el empleo, mientras que el resto de la ganancia distribuida escapa al impuesto SE. En esa diferencia está el ahorro. Los costos: declaraciones de nómina, contabilidad más pesada y un salario que debe ser realmente razonable; un salario artificialmente bajo puede ser reclasificado por el IRS.
+- O presentar el Formulario 2553 para elegir el estatus S (presentar solo el 2553 se trata también como elección de clasificación corporativa; no hace falta un 8832 previo): sigue siendo transparente (Formulario 1120-S, Anexo K-1 al dueño), pero el dueño cobra un salario de «compensación razonable» sujeto a impuestos sobre el empleo, mientras que el resto de la ganancia distribuida escapa al impuesto SE. En esa diferencia está el ahorro. Los costos: declaraciones de nómina, contabilidad más pesada y un salario que debe ser realmente razonable; un salario artificialmente bajo puede ser reclasificado por el IRS.
 - Advertencia de California: una corporación S debe el impuesto de franquicia estatal del 1,5 % (mínimo $800), que hay que descontar del ahorro federal antes de decidir.
 - Las elecciones tienen reglas de fecha de vigencia y revocación (la elección del Formulario 8832, en general, queda bloqueada por 60 meses), así que es una decisión que se calcula antes de actuar.
 
@@ -231,7 +234,7 @@ Como referencia práctica: cuando la ganancia del Anexo C supera de forma establ
 ## 参考来源 / References / Referencias
 
 - IRC §199A（合格营业收入扣除）；Treas. Reg. §301.7701-2、§301.7701-3（实体分类）
-- IRS Publication 334《Tax Guide for Small Business》；Publication 535《Business Expenses》；Publication 583《Starting a Business and Keeping Records》
+- IRS Publication 334《Tax Guide for Small Business》；Publication 583《Starting a Business and Keeping Records》；IRS《Guide to Business Expense Resources》（原 Publication 535《Business Expenses》已停刊，最后版本为 2022 年）
 - IRS《Single Member Limited Liability Companies》专题页（irs.gov）；Schedule SE 说明（自雇税与 92.35% 系数、社保工资基数）
 - California FTB，Form 568 说明与 LLC fee 分档表（ftb.ca.gov）
 - IRS Rev. Proc. 与 2025 年税率档公告（标准扣除、税率档、社保工资基数）
