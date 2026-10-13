@@ -10,7 +10,7 @@ Notas de estudio sobre el examen CPA de EE. UU. y temas fiscales, en cuatro secc
 
 | 栏目 Section | 起始文章 First article |
 | --- | --- |
-| [CPA备考](CPA备考/) | [美国 CPA 考试总览与备考路线](CPA备考/美国CPA考试总览与备考路线.md) |
+| [CPA备考](CPA备考/) | [美国 CPA 考试总览与备考路线](CPA备考/美国CPA考试总览与备考路线.md)；[FAR 财务会计与报告深挖](CPA备考/FAR财务会计与报告深挖.md) |
 | [案例分析](案例分析/) | [单成员 LLC 的税务处理案例](案例分析/单成员LLC的税务处理案例.md) |
 | [常用财税常识](常用财税常识/) | [个人账和公司账为什么必须分开](常用财税常识/个人账和公司账为什么必须分开.md) |
 | [美国税法与保险法](美国税法与保险法/) | [美国税法体系与保险法基础概览](美国税法与保险法/美国税法体系与保险法基础概览.md) |
