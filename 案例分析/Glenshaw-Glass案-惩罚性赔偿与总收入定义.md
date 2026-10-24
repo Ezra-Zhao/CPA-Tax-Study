@@ -76,6 +76,63 @@ Fuentes: Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955); Internal Reven
 
 ---
 
+## 한국어 (초역, 원어민 감수 대기)
+
+### Glenshaw Glass 사건: 징벌적 손해배상은 총소득인가?
+
+**사실관계.** Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955)은 두 사건을 병합한 판결이다. Glenshaw Glass는 Hartford-Empire와의 오랜 특허·반독점 분쟁을 합의로 종결하면서 합의금을 받았는데, 그중 약 324,529달러는 사기 및 불공정 경쟁에 대한 징벌적 손해배상(punitive damages)으로 명시적으로 배분된 금액이었고, 회사는 그 부분을 소득으로 신고하지 않았다. William Goldman Theatres는 반독점 소송에서 125,000달러의 이익 손실을 인정받고 3배 배상(treble damages) 375,000달러를 선고받았으나, 보상 부분 125,000달러만 신고하고 징벌적 초과분 250,000달러는 신고하지 않았다. 국세청장(Commissioner of Internal Revenue)은 두 사건 모두에 대해 부족세액 통지를 했다.
+
+**쟁점.** 쟁점은 징벌적 손해배상이 1939년 법전 제22(a)조(현행 제61(a)조의 전신)가 말하는 총소득에 해당하는가였다. 제61(a)조는 "그 출처를 불문한 모든 소득"(all income from whatever source derived)에 미치며, 열다섯 가지 예시적 범주를 열거하되 정의를 거기에 한정하지 않는다. 납세자들은 Eisner v. Macomber, 252 U.S. 189 (1920)의 더 좁은 정의, 즉 소득이란 자본이나 노동, 또는 그 양쪽에서 파생된 이득이라는 정의에 의존했다. 징벌적 손해배상은 어느 쪽에서 파생된 것도 아니라는 주장이었다.
+
+**판결.** Warren 대법원장이 다수의견을 썼다. 징벌적 손해배상은 과세 대상 총소득이다. 법원은 Macomber를 뒤집지 않았다. 그 정의는 주식배당이라는 맥락에서 나온 설명일 뿐 제61조의 상한이 아니라고 본 것이다. 의회가 그처럼 포괄적인 문언을 사용한 것은, 특별히 면제된 이득을 제외한 모든 이득에 대해 수정헌법 제16조가 허용하는 한도까지 과세하려는 의도였다.
+
+**3요소 기준.** 이 판결의 지속적인 기여는 그 작업 정의이다. 소득이란 "부인할 수 없는 부의 증가로서, 명확히 실현되었고, 납세자가 그에 대해 완전한 지배권을 가지는 경우"(instances of undeniable accessions to wealth, clearly realized, and over which the taxpayers have complete dominion)를 말한다. 세 요소가 모두 갖추어져야 한다. (1) 부의 증가, (2) 명확한 실현, (3) 완전한 지배와 통제가 그것이다. 징벌적 손해배상은 세 가지를 모두 충족한다. 돈이 들어왔고, 소송이 끝났으며, 납세자는 반환 의무 없이 자유롭게 쓸 수 있었다. 법원은 분석의 부담도 확정했다. 제외를 주장하는 납세자는 구체적인 법정 제외 규정을 지목해야 하며, 제외 규정을 찾기 전까지 그 항목은 총소득에 포함되는 것으로 추정된다.
+
+**오늘날의 적용.** 이 틀은 현행법에서도 그대로 작동한다. 제61(a)조는 같은 폭을 유지하고, 제104(a)(2)조는 신체적 상해(personal physical injuries)에 대한 보상적 손해배상만을 제외하는데, 그 조문 말미는 부당한 사망(wrongful death)에 관한 좁은 예외를 빼면 징벌적 손해배상은 제외되지 않는다고 명시한다. 따라서 기업 소송의 징벌적 손해배상은 오늘날에도 전액 과세되고, 신체 상해 사건에서도 징벌 부분은 원칙적으로 과세된다. REG 대비로는 3요소 기준의 정확한 문언과 분석 순서를 기억해야 한다. 먼저 제61조로 포함하고, 그다음 제101조부터 제140조까지에서 제외 규정을 찾는 순서이다.
+
+출처: Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955); Internal Revenue Code §§ 61(a), 104(a)(2); Eisner v. Macomber, 252 U.S. 189 (1920).
+
+---
+
+## Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+### Vụ Glenshaw Glass: tiền bồi thường mang tính trừng phạt có phải là tổng thu nhập không?
+
+**Sự kiện.** Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955) gộp hai vụ án. Glenshaw Glass dàn xếp một tranh chấp dài hơi về bằng sáng chế và chống độc quyền với Hartford-Empire và nhận một khoản dàn xếp, trong đó khoảng 324.529 đô la được phân bổ rõ ràng cho bồi thường mang tính trừng phạt (punitive damages) vì hành vi gian lận và cạnh tranh không lành mạnh; công ty không khai phần này là thu nhập. William Goldman Theatres được xác định thiệt hại lợi nhuận 125.000 đô la trong một vụ kiện chống độc quyền và được tuyên bồi thường gấp ba (treble damages) là 375.000 đô la; công ty chỉ khai phần bồi thường 125.000 đô la và không khai phần vượt quá mang tính trừng phạt 250.000 đô la. Cơ quan thuế (Commissioner of Internal Revenue) đã ra thông báo truy thu đối với cả hai vụ.
+
+**Vấn đề.** Câu hỏi là liệu bồi thường mang tính trừng phạt có thuộc tổng thu nhập theo Điều 22(a) của Bộ luật 1939, tiền thân của Điều 61(a) hiện hành, hay không. Điều 61(a) bao quát "mọi thu nhập từ bất kỳ nguồn nào" (all income from whatever source derived) và liệt kê mười lăm nhóm ví dụ mà không giới hạn định nghĩa trong các nhóm đó. Người nộp thuế dựa vào định nghĩa hẹp hơn trong Eisner v. Macomber, 252 U.S. 189 (1920): thu nhập là khoản lợi thu được từ vốn, từ lao động, hoặc từ cả hai. Theo họ, bồi thường trừng phạt không xuất phát từ nguồn nào trong hai nguồn này.
+
+**Phán quyết.** Chánh án Warren viết ý kiến của Tòa: bồi thường mang tính trừng phạt là tổng thu nhập chịu thuế. Tòa không lật lại Macomber; Tòa coi định nghĩa đó là cách diễn giải hình thành trong bối cảnh cổ tức bằng cổ phiếu, chứ không phải trần của Điều 61. Khi dùng ngôn từ bao quát như vậy, Quốc hội có ý đánh thuế mọi khoản lợi, trừ những khoản được miễn rõ ràng, đến mức tối đa mà Tu chính án thứ Mười sáu cho phép.
+
+**Tiêu chuẩn ba yếu tố.** Đóng góp lâu dài của phán quyết là định nghĩa thực hành của nó: thu nhập gồm "những trường hợp gia tăng tài sản không thể chối cãi, đã thực hiện rõ ràng, và người nộp thuế có quyền chi phối hoàn toàn đối với chúng" (instances of undeniable accessions to wealth, clearly realized, and over which the taxpayers have complete dominion). Cả ba yếu tố phải có mặt: gia tăng tài sản, sự thực hiện rõ ràng, và quyền chi phối hoàn toàn. Bồi thường trừng phạt thỏa mãn cả ba: tiền đã về tay, vụ kiện đã kết thúc, và người nộp thuế có thể tiêu khoản tiền mà không có nghĩa vụ hoàn trả. Tòa cũng ấn định gánh nặng phân tích: người nộp thuế 주장 được loại trừ phải chỉ ra một quy định loại trừ cụ thể trong luật; tổng thu nhập được suy đoán là bao gồm khoản đó cho đến khi tìm thấy quy định loại trừ.
+
+**Áp dụng hiện nay.** Khung này vẫn vận hành trong luật hiện hành. Điều 61(a) giữ nguyên độ bao quát đó, trong khi Điều 104(a)(2) chỉ loại trừ bồi thường cho thương tích thân thể cá nhân (personal physical injuries), và phần cuối của điều này nói rõ rằng bồi thường mang tính trừng phạt không được loại trừ, ngoài một ngoại lệ hẹp về tử vong oan (wrongful death). Vì vậy, bồi thường trừng phạt trong kiện tụng thương mại ngày nay vẫn chịu thuế toàn bộ, và ngay cả trong vụ thương tích thân thể, phần trừng phạt về nguyên tắc vẫn chịu thuế. Để ôn thi REG, hãy nhớ nguyên văn tiêu chuẩn ba yếu tố và thứ tự phân tích: đưa vào theo Điều 61 trước, rồi tìm quy định loại trừ trong các Điều 101–140.
+
+Nguồn: Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955); Internal Revenue Code §§ 61(a), 104(a)(2); Eisner v. Macomber, 252 U.S. 189 (1920).
+
+---
+
+## हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+### Glenshaw Glass मामला: क्या दंडात्मक हर्जाना सकल आय है?
+
+**तथ्य।** Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955) में दो मामले एक साथ जुड़े थे। Glenshaw Glass ने Hartford-Empire के साथ लंबे पेटेंट और अविश्वास (antitrust) विवाद का समझौता किया और एक समझौता राशि पाई, जिसमें से लगभग $324,529 स्पष्ट रूप से धोखाधड़ी और अनुचित प्रतिस्पर्धा के लिए दंडात्मक हर्जाने (punitive damages) के रूप में आवंटित थे; कंपनी ने उस हिस्से को आय के रूप में 신고 नहीं किया। William Goldman Theatres को एक अविश्वास मुकदमे में $125,000 के लाभ-हानि का हकदार पाया गया और तिगुना हर्जाना (treble damages) $375,000 दिया गया; उसने केवल $125,000 का प्रतिपूरक हिस्सा 신고 किया और $250,000 का दंडात्मक अतिरिक्त हिस्सा 신고 नहीं किया। राजस्व आयुक्त (Commissioner of Internal Revenue) ने दोनों मामलों में कमी का नोटिस जारी किया।
+
+**विवाद।** प्रश्न यह था कि क्या दंडात्मक हर्जाना 1939 की संहिता की धारा 22(a) — जो वर्तमान धारा 61(a) की पूर्ववर्ती है — के अंतर्गत सकल आय में आता है। धारा 61(a) "किसी भी स्रोत से प्राप्त समस्त आय" (all income from whatever source derived) तक पहुँचती है और पंद्रह उदाहरणात्मक श्रेणियाँ गिनाती है, किंतु परिभाषा को उन्हीं तक सीमित नहीं करती। करदाताओं ने Eisner v. Macomber, 252 U.S. 189 (1920) की संकीर्ण परिभाषा का सहारा लिया — आय अर्थात पूँजी से, श्रम से, या दोनों से प्राप्त लाभ। उनका तर्क था कि दंडात्मक हर्जाना इनमें से किसी से नहीं आता।
+
+**निर्णय।** मुख्य न्यायाधीश Warren ने न्यायालय की ओर से लिखा: दंडात्मक हर्जाना करयोग्य सकल आय है। न्यायालय ने Macomber को पलटा नहीं; उसने उस परिभाषा को शेयर-लाभांश के संदर्भ में बनी व्याख्या माना, धारा 61 की सीमा नहीं। इतनी व्यापक भाषा का प्रयोग करके कांग्रेस का आशय था कि विशेष रूप से छूट प्राप्त लाभों को छोड़कर सभी लाभों पर, सोलहवें संशोधन के अधीन अपनी शक्ति की पूर्ण सीमा तक, कर लगाया जाए।
+
+**त्रि-तत्त्व परीक्षण।** इस निर्णय का स्थायी योगदान इसकी व्यावहारिक परिभाषा है: आय से तात्पर्य है "धन की निर्विवाद वृद्धि के वे उदाहरण, जो स्पष्ट रूप से साकार हुए हों, और जिन पर करदाताओं का पूर्ण आधिपत्य हो" (instances of undeniable accessions to wealth, clearly realized, and over which the taxpayers have complete dominion)। तीनों तत्त्व उपस्थित होने चाहिए — धन में वृद्धि, स्पष्ट साकार होना, और पूर्ण आधिपत्य व नियंत्रण। दंडात्मक हर्जाना तीनों पर खरा उतरता है: धन आ गया, मुकदमा समाप्त हो गया, और करदाता उसे लौटाने के किसी दायित्व के बिना खर्च कर सकता था। न्यायालय ने विश्लेषण का भार भी तय किया: छूट का दावा करने वाले करदाता को कोई विशिष्ट वैधानिक छूट-प्रावधान दिखाना होगा; जब तक छूट न मिल जाए, उस मद को सकल आय में शामिल माना जाएगा।
+
+**आधुनिक प्रयोग।** यह ढाँचा वर्तमान कानून में भी कार्यरत है। धारा 61(a) वही व्यापकता बनाए रखती है, जबकि धारा 104(a)(2) केवल व्यक्तिगत शारीरिक चोट (personal physical injuries) के लिए मिले प्रतिपूरक हर्जाने को बाहर करती है — और उसका अंतिम पाठ स्पष्ट कहता है कि दंडात्मक हर्जाना बाहर नहीं होगा, सिवाय ग़लत मृत्यु (wrongful death) के एक संकीर्ण अपवाद के। अतः व्यावसायिक मुकदमों में दंडात्मक हर्जाना आज भी पूर्णतः करयोग्य है, और शारीरिक चोट के मामले में भी दंडात्मक हिस्सा सामान्यतः करयोग्य होता है। REG की तैयारी के लिए त्रि-तत्त्व परीक्षण के सटीक शब्द और विश्लेषण का क्रम याद रखें: पहले धारा 61 के अंतर्गत शामिल करें, फिर धारा 101–140 में छूट खोजें।
+
+स्रोत: Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955); Internal Revenue Code §§ 61(a), 104(a)(2); Eisner v. Macomber, 252 U.S. 189 (1920).
+
+---
+
 *免责声明：本篇为个人学习笔记，不构成税务、法律或财务建议。具体事项请咨询持牌 CPA 或税务律师。*
 *Disclaimer: This article is a personal study note, not tax, legal, or financial advice.*
 *Aviso: Este artículo es una nota de estudio personal; no constituye asesoría fiscal, legal ni financiera.*
+*고지: 이 글은 개인 학습 노트이며 세무·법률·재무 자문이 아닙니다.*
+*Tuyên bố: Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế, pháp lý hay tài chính.*
+*अस्वीकरण: यह लेख एक व्यक्तिगत अध्ययन नोट है; यह कर, कानूनी या वित्तीय सलाह नहीं है।*
