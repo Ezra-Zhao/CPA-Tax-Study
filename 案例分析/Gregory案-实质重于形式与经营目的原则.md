@@ -5,6 +5,27 @@
 - 这是 CPA REG 和税务实务里绕不开的源头案：实质重于形式（substance over form）、经营目的（business purpose）和后来成文的经济实质（economic substance, IRC § 7701(o)）都从这里长出来。
 - 按案例分析的结构走：事实与数字、争点、判决、推理、今天怎么用。
 
+
+### 한국어 (초역, 원어민 감수 대기)
+
+이 글에서 다루는 내용:
+- 연방 대법원 Gregory v. Helvering, 293 U.S. 465 (1935)을 분석한다: 문구상으로는 세법 조문을 완전히 따라간 회사 재편이 왜 결국 세법에서 인정받지 못했는가.
+- 이 사건은 CPA REG와 세무 실무에서 피할 수 없는 원천 사건이다: 실질이 형식에 우선(substance over form), 사업 목적(business purpose), 그리고 나중에 성문화된 경제 실질(economic substance, IRC § 7701(o))이 모두 여기서 나왔다.
+- 사례 분석의 구조를 따른다: 사실과 숫자, 쟁점, 판결, 추론, 오늘날의 활용.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Bài viết này nói về:
+- Phân tích vụ án Tòa tối cao liên bang Gregory v. Helvering, 293 U.S. 465 (1935): một cuộc tái tổ chức công ty đi đúng từng chữ điều luật thuế, vì sao cuối cùng không được luật thuế công nhận.
+- Đây là vụ án nguồn không thể tránh trong CPA REG và thực hành thuế: thực chất hơn hình thức (substance over form), mục đích kinh doanh (business purpose) và thực chất kinh tế được thành văn sau này (economic substance, IRC § 7701(o)) đều mọc ra từ đây.
+- Đi theo cấu trúc phân tích vụ án: sự kiện và con số, vấn đề, phán quyết, lập luận, hôm nay dùng thế nào.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+यह लेख इन बातों पर है:
+- संघीय सर्वोच्च न्यायालय के Gregory v. Helvering, 293 U.S. 465 (1935) का विश्लेषण: एक कंपनी पुनर्गठन जो अक्षरशः कर प्रावधानों के अनुसार चला, अंत में कर कानून द्वारा क्यों मान्यता नहीं पाया।
+- यह CPA REG और कर अभ्यास में अपरिहार्य स्रोत मामला है: रूप से ऊपर सार (substance over form), व्यवसाय उद्देश्य (business purpose) और बाद में संहिताबद्ध आर्थिक सार (economic substance, IRC § 7701(o)) — सभी यहीं से निकले।
+- मामले के विश्लेषण की संरचना अपनाई गई है: तथ्य और संख्याएँ, विवाद, निर्णय, तर्क, आज का उपयोग।
 ---
 
 ## 一、案件事实与数字
@@ -30,7 +51,32 @@ Así llegó una operación en tres pasos comprimida en días. El 18 de septiembr
 
 El Comisionado de Rentas Internas, Guy T. Helvering, no lo aceptó. En sustancia, argumentó, no hubo reorganización alguna: Gregory era dueña de las tres sociedades, Averill existió solo para hacer pasar las acciones, vivió seis días y se disolvió. La distribución era en sustancia un dividendo, y ella había declarado unos 10.000 dólares de menos. La Junta de Apelaciones Fiscales (Board of Tax Appeals, antecesora del actual Tribunal Fiscal) falló primero a favor de Gregory, Gregory v. Commissioner, 27 B.T.A. 223 (1932). El Segundo Circuito revocó a favor del Comisionado, Helvering v. Gregory, 69 F.2d 809 (2d Cir. 1934), con opinión del juez Learned Hand. El Tribunal Supremo confirmó al Segundo Circuito.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+Evelyn Gregory는 United Mortgage Company의 전체 지분을 단독으로 보유했고, United는 Monitor Securities Corporation의 주식 1,000주를 보유하고 있었다. 그녀는 이 Monitor 주식을 자기 명의로 가져와 팔고 싶었다. United가 주식을 배당으로 직접 그녀에게 나누어 주면, 그녀는 일반 소득으로 배당세를 내야 했다. 그녀가 원한 것은 더 낮은 자본 이득 처리였다.
+
+그래서 사흘간의 작업이 있었다. 1928년 9월 18일, 그녀는 Averill Corporation을 신설했다. 사흘 후 United는 그 Monitor 주식 1,000주를 Averill에 이전했고, Averill은 자기 주식 전부를 Gregory 본인에게 발행했다. 9월 24일 Averill은 해산했고, 주식은 Gregory의 손에 들어갔으며, 그녀는 그날 133,333.33달러에 팔았다. 그녀는 1928년 신고서에서 이렇게 주장했다: 이는 《1928년 수익법》 제112조에 부합하는 면세 회사 재편이며, 그녀의 원가 기준은 57,325.45달러, 과세 자본 순이익은 76,007.88달러이다.
+
+국세청장(Commissioner of Internal Revenue) Guy T. Helvering은 인정하지 않았다. 그는 실질적으로 재편이 전혀 없었다고 말했다 — 세 회사 모두 Gregory 한 사람의 것이었고, Averill은 이 주식을 넘기기 위해 태어나 엿새를 살고 해산했다. 이 분배는 실질적으로 배당이며, 그녀는 약 10,000달러의 세금을 과소 신고했다. 세무 항소위원회(Board of Tax Appeals, 오늘날 세무법원의 전신)는 먼저 Gregory의 손을 들어주었고, 사건 번호는 Gregory v. Commissioner, 27 B.T.A. 223 (1932)이다. 제2순회 항소법원은 이를 뒤집어 청장의 손을 들어주었고, Helvering v. Gregory, 69 F.2d 809 (2d Cir. 1934), 의견은 Learned Hand 판사가 썼다. 대법원은 제2순회의 결론을 유지했다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Evelyn Gregory một mình nắm toàn bộ cổ phần của United Mortgage Company, và United nắm 1.000 cổ phiếu của Monitor Securities Corporation. Bà muốn lấy số cổ phiếu Monitor này về tên mình để bán. Nếu United trực tiếp chia cổ phiếu cho bà dưới dạng cổ tức, bà phải nộp thuế cổ tức theo thu nhập thông thường; thứ bà muốn là xử lý lãi vốn thấp hơn.
+
+Thế là có thao tác ba ngày. Ngày 18 tháng 9 năm 1928, bà lập mới Averill Corporation; ba ngày sau, United chuyển 1.000 cổ phiếu Monitor đó cho Averill, Averill phát hành toàn bộ cổ phiếu của mình cho chính Gregory; ngày 24 tháng 9, Averill giải thể, cổ phiếu về tay Gregory, và bà bán ngay trong ngày với giá 133.333,33 đô la. Trên tờ khai năm 1928, bà khẳng định: đây là một cuộc tái tổ chức công ty miễn thuế phù hợp Điều 112 của 《Đạo luật Doanh thu 1928》, cơ sở chi phí của bà là 57.325,45 đô la, lãi vốn ròng chịu thuế là 76.007,88 đô la.
+
+Ủy viên Thuế vụ (Commissioner of Internal Revenue) Guy T. Helvering không công nhận. Ông nói về thực chất hoàn toàn không có tái tổ chức — ba công ty đều là của một mình Gregory, Averill sinh ra chỉ để chuyển tay số cổ phiếu này, sống sáu ngày rồi giải thể; khoản phân phối này về thực chất là cổ tức, bà đã khai thiếu khoảng 10.000 đô la tiền thuế. Ủy ban Kháng cáo Thuế (Board of Tax Appeals, tiền thân của Tòa án Thuế ngày nay) trước xử cho Gregory thắng, số án Gregory v. Commissioner, 27 B.T.A. 223 (1932); Tòa phúc thẩm Vòng 2 lật lại, xử cho Ủy viên thắng, Helvering v. Gregory, 69 F.2d 809 (2d Cir. 1934), ý kiến do thẩm phán Learned Hand viết; Tòa tối cao giữ nguyên kết luận của Vòng 2.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+Evelyn Gregory United Mortgage Company के सभी शेयर अकेले धारण करती थीं, और United के पास Monitor Securities Corporation के 1,000 शेयर थे। वह इन Monitor शेयरों को अपने नाम लेकर बेचना चाहती थीं। यदि United सीधे शेयरों को लाभांश के रूप में उन्हें दे देता, तो उन्हें सामान्य आय के रूप में लाभांश कर देना पड़ता; वह चाहती थीं कम दर वाला पूँजी लाभ उपचार।
+
+तब तीन दिन का कार्य हुआ। 18 सितंबर 1928 को उन्होंने Averill Corporation की स्थापना की; तीन दिन बाद United ने वे 1,000 Monitor शेयर Averill को स्थानांतरित किए, Averill ने अपने सभी शेयर Gregory को स्वयं जारी किए; 24 सितंबर को Averill भंग हो गया, शेयर Gregory के हाथों में आ गए, और उन्होंने उसी दिन उन्हें 133,333.33 डॉलर में बेच दिया। अपनी 1928 की विवरणी में उन्होंने दावा किया: यह 《1928 राजस्व अधिनियम》 की धारा 112 के अनुरूप एक कर-मुक्त कंपनी पुनर्गठन है, उनका लागत आधार 57,325.45 डॉलर है, करयोग्य शुद्ध पूँजी लाभ 76,007.88 डॉलर है।
+
+राजस्व आयुक्त (Commissioner of Internal Revenue) Guy T. Helvering ने मान्यता नहीं दी। उन्होंने कहा कि सार में कोई पुनर्गठन था ही नहीं — तीनों कंपनियाँ Gregory अकेले की थीं, Averill केवल इन शेयरों को सौंपने के लिए जन्मा, छह दिन जीकर भंग हो गया; यह वितरण सार में लाभांश था, उन्होंने लगभग 10,000 डॉलर कर कम रिपोर्ट किया था। कर अपील बोर्ड (Board of Tax Appeals, आज के कर न्यायालय का पूर्ववर्ती) ने पहले Gregory के पक्ष में निर्णय दिया, मामला Gregory v. Commissioner, 27 B.T.A. 223 (1932); द्वितीय सर्किट अपील न्यायालय ने उसे पलटकर आयुक्त के पक्ष में दिया, Helvering v. Gregory, 69 F.2d 809 (2d Cir. 1934), मत Learned Hand न्यायाधीश ने लिखा; सर्वोच्च न्यायालय ने द्वितीय सर्किट के निष्कर्ष को बनाए रखा।
+
 ---
+
 
 ## 二、争点
 
@@ -49,7 +95,26 @@ La cuestión: si una operación cumple en la forma cada elemento del texto legal
 
 El argumento de Gregory no era débil. Un contribuyente tiene derecho a organizar sus asuntos por los medios que la ley permite para que sus impuestos sean lo más bajos posible —los propios tribunales reconocen ese derecho— y, si todos los elementos legales están presentes, el motivo no debería cambiar el resultado. La respuesta del Comisionado: la norma dice «reorganización», y lo que el Congreso quiso favorecer fue una reestructuración empresarial genuina, no un dividendo disfrazado de reorganización.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+쟁점: 한 거래가 형식상 세법 조문의 모든 요소를 충족하면, 그 거래가 세금을 아끼는 것 외에 어떤 사업적 또는 회사 차원의 목적도 없더라도, 조문이 주는 면세 대우를 그대로 얻는가?
+
+Gregory 측의 논점도 약하지 않다: 납세자에게는 법이 허용하는 방식으로 자신의 일을 배열하고 세금을 최소로 줄일 권리가 있으며, 이는 법원도 부인하지 않는다. 조문의 요소가 모두 갖춰졌으면 동기가 결과를 바꿔서는 안 된다. 청장 측의 논점은: 조문에 쓰인 것은 「재편」이며, 입법이 장려하려는 것은 진짜 기업 구조 조정이지, 배당에 재편의 외투를 입히는 것이 아니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Vấn đề: một giao dịch về hình thức thỏa mãn mọi yếu tố của điều luật thuế, thì có vì thế mà hưởng được đãi ngộ miễn thuế do điều luật ban cho hay không — dù giao dịch đó ngoài tiết kiệm thuế ra, không có bất kỳ mục đích kinh doanh hay cấp công ty nào?
+
+Luận điểm của phía Gregory không yếu: người nộp thuế có quyền sắp xếp công việc của mình theo cách pháp luật cho phép, giảm thuế xuống thấp nhất; điều này ngay cả tòa án cũng không phủ nhận; yếu tố điều luật đã đủ cả, động cơ không nên thay đổi kết quả. Luận điểm của phía Ủy viên là: điều luật viết là 「tái tổ chức」, thứ lập pháp muốn khuyến khích là điều chỉnh cấu trúc doanh nghiệp thật, không phải khoác cho cổ tức chiếc áo tái tổ chức.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+विवाद: क्या कोई लेन-देन रूप में कर प्रावधान के प्रत्येक तत्त्व को पूरा कर ले, तो केवल इसी से उसे प्रावधान द्वारा दिया गया कर-मुक्त उपचार मिल जाता है — भले उस लेन-देन का कर बचाने के अलावा कोई व्यवसाय या कंपनी स्तर का उद्देश्य न हो?
+
+Gregory पक्ष का तर्क कमज़ोर नहीं था: करदाता को कानून द्वारा अनुमत तरीके से अपने मामलों को व्यवस्थित करके कर न्यूनतम करने का अधिकार है, इसे न्यायालय भी नहीं नकारता; प्रावधान के तत्त्व पूरे हों तो मंशा परिणाम नहीं बदलनी चाहिए। आयुक्त पक्ष का तर्क था: प्रावधान में लिखा है 「पुनर्गठन」, विधायिका जिसे प्रोत्साहित करना चाहती है वह वास्तविक उद्यम संरचना समायोजन है, लाभांश को पुनर्गठन का आवरण पहनाना नहीं।
+
 ---
+
 
 ## 三、判决
 
@@ -74,7 +139,32 @@ La sentencia establece dos puntos que se volvieron marco básico del derecho fis
 
 El resultado: no hay reorganización libre de impuestos. La distribución tributa según su sustancia, es decir, por la vía del dividendo.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+1935년 1월 7일, 대법원은 만장일치로 청장의 손을 들어주어 제2순회의 결론을 유지했다. Sutherland 대법관이 의견을 썼다.
+
+판결은 두 가지를 확립했고, 이는 후에 세법의 기본 틀이 되었다. 첫째, 납세자가 합법적인 방식으로 세 부담을 줄이거나 피할 권리는 「의심의 여지가 없다」(cannot be doubted) — 절세(avoidance) 자체는 잘못이 아니다. 둘째, 그러나 이 사건이 답해야 할 질문은: 세금을 아끼려는 동기를 제쳐두고, 한 일이 「조문이 가리키는 바로 그 일」인가이다. Averill은 하나의 「인위적 장치」(contrivance)에 불과했고, 그 설립, 존속, 소멸은 오직 한 가지 일을 위해서였다: 주식을 재편의 형식으로 Gregory 명의로 이전하는 것. 법원은 전체 작업을 「회사 재편으로 위장한, 정교하고 우회적인 양도 형식」(an elaborate and devious form of conveyance masquerading as a corporate reorganization)이라고 불렀고, 한 마디 판시를 남겼다: 형식만 인정하면 「인위적 기교를 현실 위에 올려놓는 것」(to exalt artifice above reality)이다.
+
+결과: 면세 재편은 성립하지 않으며, 이 분배는 그 실질대로 처리된다 — 즉 배당의 경로로 과세된다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Ngày 7 tháng 1 năm 1935, Tòa tối cao nhất trí xử cho Ủy viên thắng, giữ nguyên kết luận của Vòng 2. Thẩm phán Sutherland viết ý kiến.
+
+Phán quyết xác lập hai điểm, sau này thành khung cơ bản của luật thuế. Thứ nhất, quyền của người nộp thuế dùng cách hợp pháp để giảm hoặc tránh gánh nặng thuế là 「không thể nghi ngờ」(cannot be doubted) — tránh thuế (avoidance) tự nó không phải lỗi. Thứ hai, nhưng câu hỏi vụ án này phải trả lời là: gạt động cơ tiết kiệm thuế sang một bên, việc đã làm có phải là 「chính việc mà điều luật chỉ」hay không. Averill chỉ là một 「thiết bị nhân tạo」(contrivance); việc lập ra, tồn tại và chết đi của nó chỉ vì một việc: chuyển cổ phiếu về tên Gregory dưới hình thức tái tổ chức. Tòa gọi toàn bộ thao tác là 「một hình thức chuyển nhượng tinh vi và vòng vo, ngụy trang thành tái tổ chức công ty」(an elaborate and devious form of conveyance masquerading as a corporate reorganization), và để lại một câu phán: nếu chỉ công nhận hình thức, tức là 「tôn thủ thuật nhân tạo lên trên hiện thực」(to exalt artifice above reality).
+
+Kết quả: tái tổ chức miễn thuế không thành lập, khoản phân phối này xử lý theo thực chất của nó — tức đánh thuế theo con đường cổ tức.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+7 जनवरी 1935 को सर्वोच्च न्यायालय ने सर्वसम्मति से आयुक्त के पक्ष में निर्णय दिया, द्वितीय सर्किट के निष्कर्ष को बनाए रखा। न्यायाधीश Sutherland ने मत लिखा।
+
+निर्णय ने दो बातें स्थापित कीं, जो बाद में कर कानून का मूल ढाँचा बनीं। पहली, करदाता का वैध तरीकों से कर भार घटाने या उससे बचने का अधिकार 「संदेह से परे」(cannot be doubted) है — कर से बचना (avoidance) स्वयं कोई अपराध नहीं। दूसरी, लेकिन इस मामले का प्रश्न यह था: कर बचाने की मंशा को छोड़कर, किया गया कार्य क्या 「वही कार्य है जिसकी ओर प्रावधान इशारा करता है」? Averill केवल एक 「कृत्रिम युक्ति」(contrivance) था, उसकी स्थापना, अस्तित्व और मृत्यु केवल एक कार्य के लिए थे: शेयरों को पुनर्गठन के रूप में Gregory के नाम स्थानांतरित करना। न्यायालय ने पूरी प्रक्रिया को 「कंपनी पुनर्गठन का भेष धरे एक विस्तृत और टेढ़ा हस्तांतरण रूप」(an elaborate and devious form of conveyance masquerading as a corporate reorganization) कहा, और एक वाक्य छोड़ा: केवल रूप को मानें तो यह 「कृत्रिम चातुर्य को वास्तविकता से ऊपर उठाना」(to exalt artifice above reality) होगा।
+
+परिणाम: कर-मुक्त पुनर्गठन स्थापित नहीं हुआ, यह वितरण अपने सार के अनुसार उपचारित होगा — अर्थात लाभांश के मार्ग से कर लगेगा।
+
 ---
+
 
 ## 四、推理与三条原则的源头
 
@@ -111,7 +201,44 @@ La opinión del juez Learned Hand en el Segundo Circuito merece leerse por sí m
 
 Y hay que separar tres categorías. La elusión lícita —reducir impuestos con operaciones reales y razones empresariales reales— es un derecho. Un montaje tipo Gregory cumple la forma pero está vacío de sustancia, y la consecuencia es la recalificación y el pago del impuesto debido. La evasión —ocultar ingresos, falsificar registros— es otra cosa y puede ser delito. La línea entre las tres no es el motivo, sino si la operación es real y si los registros son verdaderos.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+Gregory 사건에서 세 가지 원칙이 나왔고, 이후 반복해서 사용되니, CPA를 공부할 때는 이것들을 구분해야 한다:
+
+- **실질이 형식에 우선(substance over form)**: 거래의 세무 결과는 경제적 실질을 보며, 법률 문서가 어떻게 쓰였는지만 보지 않는다. 형식과 실질이 일치하지 않으면 실질이 기준이다.
+- **사업 목적(business purpose)**: 어느 조문의 우대 대우를 얻으려면, 거래에 진짜 비세금 사업 이유가 있어야 한다 — 사업 통합, 리스크 감소, 사업 확장 모두 되지만, 세금을 낮추는 것 자체는 해당하지 않는다.
+- **경제 실질(economic substance)**: 거래는 납세자의 경제적 지위를 실질적으로 바꿔야 하고(세 부담 외에), 납세자에게 세전 이익 취득 같은 실질적 목적이 있어야 한다. 2010년 의회는 이 원칙을 IRC § 7701(o)로 성문화했다: 두 조건이 모두 동시에 충족되어야 한다(conjunctive test). 충족하지 못하면, IRC § 6662에는 엄격 책임의 벌금도 있다 — 미공개 거래는 40%, 공개한 거래는 20%이며, 합리적 이유에 의한 항변 여지가 없다.
+
+Learned Hand가 제2순회에서 쓴 의견은 따로 읽을 가치가 있다. 그는 먼저 납세자의 권리를 끝까지 말한다 — 누구도 국고에 가장 유리한 길을 선택할 의무는 없고, 「세금을 더 낼 애국적 의무」도 없다 — 그 다음에 전환한다: 그러나 의회의 뜻은 사전적 정의에 납치될 수 없으며, 한 단어의 의미는 그 부분들의 합보다 크고, 재편 조문의 전제는 조정이 경영 중인 사업 자체에 봉사해야 한다는 것이다. 대법원은 제2순회의 추론에 대해 「보탤 것이 거의 없다」고 말하며, 기본적으로 전부 받아들였다.
+
+세 가지 선을 또 구분해야 한다: 합법적 절세(avoidance, 진짜 거래와 진짜 사업 이유로 세 부담을 낮추는 것)는 권리이다. Gregory식 배열은 형식은 합격이지만 실질이 비어 있어, 재정의(recharacterization)되고 세금이 추가된다. 탈세(evasion, 소득 은닉, 기록 위조)는 또 다른 일로, 형사 범죄를 구성할 수 있다. 세 가지의 차이는 동기가 아니라, 거래가 진짜인지 가짜인지, 기록이 진짜인지 가짜인지에 있다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Từ vụ Gregory mọc ra ba nguyên tắc sau này được dùng đi dùng lại; học CPA phải phân rõ chúng:
+
+- **Thực chất hơn hình thức (substance over form)**: hậu quả thuế của giao dịch nhìn vào thực chất kinh tế, không chỉ nhìn văn bản pháp lý viết thế nào. Hình thức và thực chất không nhất quán, lấy thực chất làm chuẩn.
+- **Mục đích kinh doanh (business purpose)**: muốn được đãi ngộ ưu đãi của một điều luật nào đó, giao dịch phải có lý do kinh doanh phi thuế thật — hợp nhất nghiệp vụ, giảm rủi ro, mở rộng kinh doanh đều được, còn hạ thuế tự nó không tính.
+- **Thực chất kinh tế (economic substance)**: giao dịch phải thay đổi thực chất vị thế kinh tế của người nộp thuế (ngoài gánh nặng thuế), và người nộp thuế phải có mục đích thực chất như thu lợi nhuận trước thuế. Năm 2010, Quốc hội thành văn nguyên tắc này thành IRC § 7701(o): hai điều kiện phải đồng thời thỏa mãn (conjunctive test); không thỏa mãn, IRC § 6662 còn có tiền phạt trách nhiệm nghiêm ngặt — giao dịch không công khai phạt 40%, đã công khai phạt 20%, và không có dư địa kháng biện lý do hợp lý.
+
+Ý kiến của Learned Hand ở Vòng 2 đáng đọc riêng. Ông trước hết nói hết quyền của người nộp thuế — không ai có nghĩa vụ chọn con đường có lợi nhất cho ngân khố, càng không có 「nghĩa vụ yêu nước nộp thêm thuế」— rồi mới chuyển: nhưng ý của Quốc hội không thể bị định nghĩa từ điển bắt cóc; nghĩa của một từ lớn hơn tổng các phần của nó, và tiền đề của điều luật tái tổ chức là việc điều chỉnh phải phục vụ chính sự nghiệp đang kinh doanh. Tòa tối cao nói lập luận của Vòng 2 「hầu như không có gì để bổ sung」, cơ bản nhận toàn bộ.
+
+Còn phải phân rõ ba đường: tránh thuế hợp pháp (avoidance, dùng giao dịch thật và lý do kinh doanh thật để hạ gánh nặng thuế) là quyền; sắp xếp kiểu Gregory là hình thức đạt nhưng thực chất rỗng, sẽ bị định tính lại (recharacterization) và truy thu; trốn thuế (evasion, giấu thu nhập, giả mạo hồ sơ) là chuyện khác, có thể cấu thành tội hình sự. Sự khác nhau của ba thứ không ở động cơ, mà ở giao dịch thật hay giả, hồ sơ thật hay giả.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+Gregory मामले से तीन सिद्धांत निकले, जिनका बाद में बार-बार उपयोग हुआ; CPA की पढ़ाई में इन्हें अलग-अलग समझें:
+
+- **रूप से ऊपर सार (substance over form)**: लेन-देन के कर परिणाम आर्थिक सार को देखते हैं, केवल कानूनी दस्तावेज़ कैसे लिखे हैं, यह नहीं। रूप और सार मेल न खाएँ तो सार ही मानक है।
+- **व्यवसाय उद्देश्य (business purpose)**: किसी प्रावधान का रियायती उपचार पाने के लिए लेन-देन का वास्तविक गैर-कर व्यावसायिक कारण होना चाहिए — व्यवसाय एकीकरण, जोखिम घटना, व्यवसाय विस्तार, सब चलता है; कर घटाना स्वयं कारण नहीं है।
+- **आर्थिक सार (economic substance)**: लेन-देन को करदाता की आर्थिक स्थिति में (कर भार के अलावा) सारभूत परिवर्तन करना चाहिए, और करदाता का कर-पूर्व लाभ जैसा सारभूत उद्देश्य होना चाहिए। 2010 में कांग्रेस ने इस सिद्धांत को IRC § 7701(o) के रूप में संहिताबद्ध किया: दोनों शर्तें एक साथ पूरी होनी चाहिए (conjunctive test); पूरी न हों तो IRC § 6662 में कठोर दायित्व वाला जुर्माना भी है — अघोषित लेन-देन पर 40%, घोषित पर 20%, और उचित कारण का बचाव उपलब्ध नहीं।
+
+Learned Hand का द्वितीय सर्किट मत अलग से पढ़ने योग्य है। वह पहले करदाता के अधिकार को पूरी तरह कहता है — किसी का कर्तव्य नहीं कि वह राजकोष के लिए सबसे लाभदायक रास्ता चुने, और 「अधिक कर देने का देशभक्ति कर्तव्य」 भी नहीं है — फिर मोड़ लेता है: लेकिन कांग्रेस का आशय शब्दकोश परिभाषा से बंधा नहीं रह सकता; एक शब्द का अर्थ उसके भागों के योग से बड़ा होता है, और पुनर्गठन प्रावधान की पूर्वशर्त यह है कि समायोजन स्वयं चल रहे व्यवसाय की सेवा करे। सर्वोच्च न्यायालय ने द्वितीय सर्किट के तर्क के बारे में कहा कि 「इसमें जोड़ने को लगभग कुछ नहीं है」, मूलतः पूरा स्वीकार किया।
+
+तीन रेखाएँ और अलग करें: वैध कर-बचत (avoidance, वास्तविक लेन-देन और वास्तविक व्यावसायिक कारण से कर भार घटाना) एक अधिकार है; Gregory जैसी व्यवस्था रूप में उत्तीर्ण लेकिन सार में खाली है, वह पुनःवर्गीकृत (recharacterization) होगी और कर बढ़ेगा; कर चोरी (evasion, आय छिपाना, अभिलेख झूठे बनाना) एक अलग मामला है, आपराधिक अपराध बन सकता है। तीनों का अंतर मंशा में नहीं, इसमें है कि लेन-देन असली है या नकली, अभिलेख असली हैं या नकली।
+
 ---
+
 
 ## 五、今天怎么用
 
@@ -142,7 +269,38 @@ Segundo, la estructuración cotidiana. Elegir entidad, repartir la remuneración
 
 Tercero, la documentación. Tras la codificación, el rastro documental es la protección: dejar por escrito el propósito no fiscal antes de la operación, guardar pruebas de un cambio real en la posición económica y revelar lo que corresponda en los formularios 8275 u 8886 (revelar también reduce la sanción del § 6662 del 40% al 20% y demuestra que nada se ocultó). Un plan fiscal, por elegante que sea, sin sustancia empresarial ni registros escritos es, en el marco de Gregory, una Averill de seis días de vida.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+Gregory 사건은 오늘날의 업무에서 최소 세 가지 접점이 있다.
+
+첫째는 시험이다. REG 과목이 회사 재편과 반조세 회피 원칙을 물을 때, Gregory가 표준 출처이다: 「단계는 모두 맞지만 목적은 오직 세금 절감」인 구조를 제시하면, 답의 방향은 거의 항상 그 세무 대우를 인정하지 않는 것이다. FAR와 AUD에서도 「실질이 형식에 우선」은 회계와 감사의 공통 언어이다 — 리스, 수익 인식, 특수관계자 거래에서 형식과 실질이 충돌하면 실질을 본다. 이 사고는 세법과 뿌리가 같다.
+
+둘째는 일상적인 구조 배열이다. 회사에 실체를 선택하고, 배당으로 할지 급여로 할지, S 법인을 갈지 LLC를 갈지는, 그 자체로 모두 합법적 절세의 공간이지만, Gregory식 질문을 견뎌야 한다: 이 구조에 진짜 사업 이유가 있는가? 문서, 장부, 회의 기록, 실제 운영이 따라오는가? 이 저장소의 Watson 사건이 말하는 「합리적 급여」와 본 사건은 같은 선상에 있다 — 형식상의 분류는 실질상의 공전을 구할 수 없다.
+
+셋째는 기록을 남기는 것이다. 경제 실질이 성문화된 이후, 기록은 방패이다: 거래 전에 비세금 목적을 명확히 쓰고, 경제적 지위가 진짜로 바뀌었음을 증명할 수 있는 자료를 보존하고, 공개해야 할 것은 Form 8275나 8886으로 공개한다(공개하면 § 6662 벌금이 40%에서 20%로 내려가고, 납세자가 숨기지 않았음을 보여준다). 절세 방안이 아무리 아름답게 만들어져도, 사업 실질과 서면 기록이 없으면, Gregory의 틀에서는 수명이 엿새인 Averill이다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Vụ Gregory trong công việc ngày nay có ít nhất ba điểm rơi.
+
+Thứ nhất là kỳ thi. Khi môn REG kiểm tra tái tổ chức công ty và nguyên tắc chống tránh thuế, Gregory là nguồn chuẩn: đề cho một cấu trúc 「các bước đều đúng, mục đích chỉ có tiết kiệm thuế」, hướng đáp án hầu như luôn là không công nhận đãi ngộ thuế của nó. Trong FAR và AUD, 「thực chất hơn hình thức」cũng là ngôn ngữ chung của kế toán và kiểm toán — thuê tài sản, ghi nhận doanh thu, giao dịch bên liên quan, khi hình thức và thực chất đánh nhau thì nhìn thực chất; tư duy này cùng nguồn với luật thuế.
+
+Thứ hai là sắp xếp cấu trúc hằng ngày. Chọn thực thể cho công ty, làm cổ tức hay lương, đi công ty S hay LLC, những sắp xếp này tự chúng đều là không gian tránh thuế hợp pháp, nhưng phải chịu được truy vấn kiểu Gregory: cấu trúc này có lý do kinh doanh thật không? Văn bản, sổ sách, biên bản họp, vận hành thực tế có theo kịp không? Vụ Watson trong kho này nói về 「lương hợp lý」và vụ này cùng một đường — phân loại trên hình thức cứu không nổi sự chạy không trên thực chất.
+
+Thứ ba là lưu dấu vết. Sau khi thực chất kinh tế được thành văn, lưu dấu vết là lá chắn: trước giao dịch viết rõ mục đích phi thuế, bảo tồn tài liệu chứng minh vị thế kinh tế thay đổi thật, thứ cần công khai thì công khai theo Form 8275 hoặc 8886 (công khai đưa tiền phạt § 6662 từ 40% xuống 20%, và cho thấy người nộp thuế không giấu giếm). Phương án tiết kiệm thuế làm đẹp đến đâu, không có thực chất kinh doanh và hồ sơ văn bản, trong khung của Gregory thì là Averill có tuổi thọ sáu ngày.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+Gregory मामला आज के कार्य में कम से कम तीन स्थानों पर आता है।
+
+पहला है परीक्षा। REG विषय जब कंपनी पुनर्गठन और कर-परिहार विरोधी सिद्धांत पूछता है, Gregory मानक स्रोत है: एक ऐसी संरचना दी जाए जिसके 「चरण सब सही हैं, उद्देश्य केवल कर बचाना है」, उत्तर की दिशा लगभग हमेशा उसके कर उपचार को मान्यता न देना होती है। FAR और AUD में भी 「रूप से ऊपर सार」 लेखांकन और ऑडिट की साझा भाषा है — पट्टे, आय मान्यता, संबंधित पक्ष लेन-देन में रूप और सार टकराएँ तो सार देखें; यह सोच कर कानून से एक ही मूल रखती है।
+
+दूसरा है रोज़मर्रा की संरचना व्यवस्था। कंपनी के लिए इकाई चुनना, लाभांश देना या वेतन, S कंपनी जाना या LLC — ये व्यवस्थाएँ स्वयं वैध कर-बचत का क्षेत्र हैं, लेकिन इन्हें Gregory जैसे प्रश्नों को झेलना होगा: क्या इस संरचना का वास्तविक व्यावसायिक कारण है? दस्तावेज़, बही, बैठक अभिलेख, वास्तविक संचालन साथ चलते हैं? इस भंडार का Watson मामला जो 「उचित वेतन」 कहता है और यह मामला एक ही रेखा पर हैं — रूप का वर्गीकरण सार की खाली चाल को नहीं बचा सकता।
+
+तीसरा है अभिलेख छोड़ना। आर्थिक सार के संहिताबद्ध होने के बाद अभिलेख ही ढाल है: लेन-देन से पहले गैर-कर उद्देश्य स्पष्ट लिखें, आर्थिक स्थिति के वास्तविक परिवर्तन को सिद्ध करने वाली सामग्री संरक्षित रखें, जिसे घोषित करना हो उसे Form 8275 या 8886 से घोषित करें (घोषणा से § 6662 जुर्माना 40% से घटकर 20% हो जाता है, और यह भी दिखता है कि करदाता छिपा नहीं रहा था)। कर-बचत योजना कितनी भी सुंदर बनाई जाए, व्यावसायिक सार और लिखित अभिलेख न हों तो Gregory के ढाँचे में वह छह दिन जीवित रहने वाला Averill है।
+
 ---
+
 
 ## 参考依据
 
@@ -157,3 +315,9 @@ Tercero, la documentación. Tras la codificación, el rastro documental es la pr
 本篇为个人学习笔记，不构成税务、财务或法律建议。具体交易安排请咨询持牌 CPA 或税务律师。
 
 *This article is a personal study note, not tax advice. / Este artículo es una nota de estudio personal, no constituye asesoría fiscal.*
+
+본 글은 개인 학습 노트이며 세무·재무·법률 조언이 아닙니다. 구체적인 거래 배열은 면허 CPA나 세무 변호사에게 상담하십시오.
+
+Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính hay pháp lý. Sắp xếp giao dịch cụ thể hãy tham vấn CPA có giấy phép hoặc luật sư thuế.
+
+यह लेख एक व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या कानूनी सलाह नहीं है। विशिष्ट लेन-देन व्यवस्था के लिए लाइसेंसधारी CPA या कर वकील से परामर्श करें।
