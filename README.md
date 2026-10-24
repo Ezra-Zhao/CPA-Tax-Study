@@ -22,6 +22,7 @@ Notas de estudio sobre el examen CPA de EE. UU. y temas fiscales, en cuatro secc
 | 日期 | 标题 |
 | --- | --- |
 | 2026-10-22 | [标准扣除先记牢三个数字：2026 年单身 $16,100、夫妻合并 $32,200、户主 $24,150](每日一税/001-小常识-标准扣除2026三个数字.md) |
+| 2026-10-24 | [SALT 上限涨到 $40,400：加州有房的人，今年先算这笔账](每日一税/002-技巧-SALT上限40400怎么用.md) |
 
 ## 语言说明 / Language note / Nota de idioma
 
