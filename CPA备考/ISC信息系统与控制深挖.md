@@ -31,6 +31,21 @@ ISC tiene dos antecesores: parte de su contenido viene de la tecnología de la i
 
 ---
 
+### 한국어 (초역 · 初译待校)
+2024년 1월부터 CPA Evolution은 통합 CPA 시험을 Core와 Discipline 구조로 바꿨습니다. Core 3과목(FAR, AUD, REG)은 모두 필수이고, Discipline은 BAR(비즈니스 분석 및 보고), ISC(정보시스템 및 통제), TCP(세무 컴플라이언스 및 기획) 중 하나를 선택합니다. 4과목을 모두 합격하면 시험 요건을 충족하고, 교육·경험·주 윤리시험은 각 주 회계위원회가 정합니다.
+
+ISC의 전신은 두 가지입니다. 일부는 폐지된 BEC의 정보기술 부분에서 왔고, 일부는 AUD 안의 IT 통제와 SOC 내용의 심화판입니다. 컴퓨터과학 시험이 아니라 CPA의 관점, 즉 시스템이 통제되는지, 데이터가 신뢰할 수 있는지, 보안 실패가 재무보고와 인증 위험으로 번질 수 있는지를 묻습니다. IT 배경이 없어도 합격할 수 있지만 세 가지 Discipline 중 용어 밀도가 가장 높아 학습 계획에서 용어 예산을 먼저 잡아야 합니다. 어떤 Discipline을 선택해도 면허는 동일합니다. 달라지는 것은 준비 비용과 이후 적합성입니다. IT 감사·SOC 보고·시스템 컨설팅에는 ISC, 세무 실무에는 TCP, 재무 분석과 가치평가에는 BAR가 맞습니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Từ tháng 1 năm 2024, CPA Evolution cấu trúc kỳ thi CPA thống nhất thành Core cộng Discipline. Ba phần Core bắt buộc với mọi người — FAR, AUD và REG — và mỗi thí sinh chọn một trong ba Discipline: BAR, ISC hoặc TCP. Đậu cả bốn phần là đáp ứng yêu cầu thi; học vấn, kinh nghiệm và kỳ thi đạo đức của bang do hội đồng kế toán từng bang quy định.
+
+ISC có hai tiền thân: một phần đến từ nội dung công nghệ thông tin của phần BEC đã bãi bỏ, một phần là phiên bản đào sâu của nội dung kiểm soát CNTT và SOC trong AUD. Đây không phải kỳ thi khoa học máy tính; góc nhìn của nó vẫn là của CPA: hệ thống có được kiểm soát không, dữ liệu có đáng tin không, và một sự cố bảo mật có lan sang báo cáo tài chính và rủi ro chứng thực không. Thí sinh không có nền CNTT vẫn đậu được, nhưng ISC có mật độ thuật ngữ cao nhất trong ba Discipline, nên kế hoạch học nên dành ngân sách cho từ vựng trước. Lựa chọn Discipline không thay đổi bằng cấp; nó thay đổi chi phí chuẩn bị và sự phù hợp nghề nghiệp sau này.
+
+### हिन्दी (अनुवाद · 初译待校)
+जनवरी 2024 से CPA Evolution ने Uniform CPA Examination को Core और Discipline संरचना में बदल दिया। तीन Core खंड सभी के लिए अनिवार्य हैं — FAR, AUD और REG — और हर उम्मीदवार तीन Disciplines में से एक चुनता है: BAR, ISC या TCP। चारों खंड पास करने से परीक्षा की आवश्यकता पूरी होती है; शिक्षा, अनुभव और राज्य नीति-परीक्षा हर राज्य के बोर्ड के मामले हैं।
+
+ISC के दो पूर्वज हैं: इसका कुछ हिस्सा सेवानिवृत्त BEC खंड की सूचना-प्रौद्योगिकी सामग्री से आया है, और कुछ AUD के भीतर IT-controls और SOC सामग्री का गहरा संस्करण है। यह कंप्यूटर-विज्ञान की परीक्षा नहीं है। इसका दृष्टिकोण CPA का ही रहता है: क्या प्रणालियाँ नियंत्रित हैं, क्या डेटा विश्वसनीय है, और क्या सुरक्षा विफलता वित्तीय रिपोर्टिंग और सत्यापन जोखिम में फैल सकती है। IT पृष्ठभूमि के बिना उम्मीदवार भी पास हो सकते हैं, लेकिन ISC तीनों Disciplines में सबसे घनी शब्दावली रखता है, इसलिए अध्ययन योजना में शब्दावली को पहले स्थान देना चाहिए। Discipline का चुनाव लाइसेंस नहीं बदलता: तीनों में से कोई भी उसी CPA प्रमाणपत्र तक ले जाता है।
+
 ## 二、考试结构：82 道选择题、6 道模拟题、60 比 40
 
 ### 中文
@@ -65,6 +80,33 @@ Con el mayor número de MCQ de todo el examen valiendo el 60 %, el volumen de pr
 
 ---
 
+### 한국어 (초역 · 初译待校)
+ISC는 객관식 비중이 가장 큰 Discipline입니다. 먼저 고정할 숫자:
+- 시간과 문항 수: 4시간, 객관식(MCQ) 82문항과 사례 시뮬레이션(TBS) 6개, 5개 testlet 구성 — MCQ testlet 2개(각 41문항), 이후 TBS testlet 3개.
+- 가중치: MCQ가 총점의 60%, TBS가 40%입니다. 대부분 과목의 50 대 50과 다른 ISC의 대표적 특징입니다. 폭넓은 MCQ로 용어와 프레임워크의 숙련도를 묻고, 시뮬레이션에서는 시스템이나 SOC 시나리오를 주고 통제와 보고 판단을 요구합니다.
+- 채점: 0~99점 척도, 합격은 75점이며 모든 과목과 같은 척도이고 정답률 75%를 뜻하지 않습니다.
+- 기술 수준: AICPA 블루프린트에서 ISC는 기억·이해와 적용에 기대고 분석 비중은 작습니다. AUD처럼 평가(Evaluation) 수준을 전면에 두지 않습니다.
+
+학습 함의는 직접적입니다. 전체 시험에서 가장 많은 MCQ가 점수의 60%를 차지하므로, 문항당 약 1분 반의 시간 감각으로 푸는 연습량이 주전장이고, TBS 연습은 고정된 시나리오 루틴 — 어떤 SOC 보고서가 맞는지, 통제 결함의 등급이 어떻게 되는지, 사고 대응 단계 중 무엇이 빠졌는지 — 에 관한 것입니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+ISC là Discipline nặng trắc nghiệm nhất. Các con số cần nhớ trước:
+- Thời lượng và khối lượng: bốn giờ, 82 câu trắc nghiệm (MCQ) và 6 bài mô phỏng theo nhiệm vụ (TBS), trong năm testlet — hai testlet MCQ mỗi testlet 41 câu, rồi ba testlet TBS.
+- Trọng số: MCQ chiếm 60% điểm và TBS 40% — một khác biệt có chủ đích so với tỷ lệ 50/50 của hầu hết các phần, và là đặc điểm nhận diện của ISC. MCQ bao phủ rộng kiểm tra mức thành thạo thuật ngữ và khung; các bài mô phỏng đặt ra một kịch bản hệ thống hoặc SOC và yêu cầu phán đoán về kiểm soát và báo cáo.
+- Thang điểm: từ 0 đến 99, đậu ở 75 — cùng thang với mọi phần, và không phải tỷ lệ đúng 75%.
+- Mức kỹ năng: theo Blueprint của AICPA, ISC dựa vào ghi nhớ, hiểu và áp dụng, với một phần nhỏ phân tích; nó không nhấn mức đánh giá như AUD.
+
+Hệ quả học tập rất trực tiếp: với số MCQ cao nhất toàn kỳ thi chiếm 60% điểm, khối lượng luyện câu hỏi có bấm giờ là chiến trường chính — khoảng một phút rưỡi mỗi câu — còn luyện TBS là về các quy trình kịch bản cố định.
+
+### हिन्दी (अनुवाद · 初译待校)
+ISC सबसे अधिक बहुविकल्पीय-भारी Discipline है। पहले तय करने योग्य आँकड़े:
+- अवधि और मात्रा: चार घंटे, 82 बहुविकल्पीय प्रश्न (MCQ) और 6 task-based simulations (TBS), पाँच testlets में — 41-41 प्रश्नों के दो MCQ testlet, फिर तीन TBS testlet।
+- भार: MCQ कुल अंक का 60% और TBS 40% रखते हैं — अधिकांश खंडों के 50/50 विभाजन से जानबूझकर अलग, और ISC की पहचान। व्यापक MCQ कवरेज शब्दावली और frameworks की पकड़ परखता है; simulations किसी systems या SOC परिदृश्य को सामने रखकर नियंत्रण और रिपोर्टिंग निर्णय माँगते हैं।
+- अंक: 0 से 99 का scaled score, पास होने के लिए 75 — हर खंड जैसा ही पैमाना, और यह 75% सही दर नहीं है।
+- कौशल स्तर: AICPA Blueprint के तहत ISC याद रखने और समझने के साथ अनुप्रयोग पर झुकता है, विश्लेषण का हिस्सा छोटा है; यह AUD की तरह evaluation स्तर को केंद्र में नहीं रखता।
+
+अध्ययन का निष्कर्ष सीधा है: पूरी परीक्षा की सबसे अधिक MCQ संख्या 60% अंक रखती है, इसलिए समयबद्ध प्रश्न-अभ्यास की मात्रा मुख्य युद्धक्षेत्र है — लगभग डेढ़ मिनट प्रति MCQ — जबकि TBS अभ्यास निश्चित परिदृश्य दिनचर्याओं के बारे में है।
+
 ## 三、内容领域一与二：信息系统与数据管理、安全保密与隐私
 
 ### 中文
@@ -95,6 +137,27 @@ Según los Blueprints vigentes de la AICPA, ISC tiene tres áreas; las dos prime
 Ambas áreas son, ante todo, de terminología: primero el glosario, después los escenarios.
 
 ---
+
+### 한국어 (초역 · 初译待校)
+현행 AICPA CPA 시험 블루프린트에 따르면 ISC는 세 영역으로 구성되며, 앞의 두 영역이 각각 35~45%를 차지해 시험의 대부분을 이룹니다.
+
+영역 I: 정보시스템 및 데이터 관리(35~45%). 회계정보시스템이 어떻게 구성되고 데이터가 어떻게 흐르는지: IT 인프라와 ERP 같은 기업 시스템, 시스템 개발과 변경 관리, IT 일반통제(논리적 접근, 변경, 운영)와 응용통제(입력, 처리, 출력)의 분업, 관계형 구조와 무결성 제약을 포함한 데이터베이스 개념, 수집부터 보관·폐기까지의 데이터 수명주기와 데이터 거버넌스. 각 통제는 그것이 대응하는 위험과 연결되어야 합니다. 변경 관리는 무단 프로그램 변경이 보고 데이터를 오염시키는 것에, 직무 분리는 한 사람이 거래 전 과정을 처리하는 것에 대응합니다.
+
+영역 II: 보안, 기밀성 및 개인정보(35~45%). 프레임워크와 실무를 함께: 사이버보안 프레임워크(NIST Cybersecurity Framework의 기능, COBIT의 거버넌스 역할), 위협과 공격 유형(피싱, 랜섬웨어, 내부자 위협), 방어 체계 — 접근 통제와 신원 관리(최소 권한, 다요소 인증), 전송 중·저장 시 암호화와 대칭·비대칭의 역할 분담, 네트워크와 엔드포인트 보호, 사고 대응과 업무 연속성(RTO와 RPO의 구분 포함), 데이터 분류·보존·국가 간 이전에 관한 개인정보 의무. 이 영역의 문항은 대부분 시나리오 판단입니다. 두 영역 모두 용어가 먼저입니다. 용어표를 먼저 만들고 그다음 시나리오를 훈련하는 순서를 지켜야 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Theo Blueprints hiện hành của AICPA, ISC có ba lĩnh vực nội dung. Hai lĩnh vực đầu mỗi lĩnh vực chiếm 35–45% và tạo thành phần lớn của bài thi:
+
+Lĩnh vực I: Hệ thống thông tin và quản lý dữ liệu (35–45%). Cách các hệ thống thông tin kế toán được xây dựng và dữ liệu di chuyển qua chúng: hạ tầng CNTT và hệ thống doanh nghiệp như ERP, phát triển hệ thống và quản lý thay đổi, sự phân chia giữa kiểm soát chung CNTT (truy cập logic, thay đổi, vận hành) và kiểm soát ứng dụng (đầu vào, xử lý, đầu ra), khái niệm cơ sở dữ liệu gồm cấu trúc quan hệ và ràng buộc toàn vẹn, vòng đời dữ liệu từ thu thập đến lưu trữ và hủy bỏ, và quản trị dữ liệu. Mỗi kiểm soát phải gắn với rủi ro mà nó đáp ứng.
+
+Lĩnh vực II: Bảo mật, bí mật và riêng tư (35–45%). Khung lý thuyết song hành thực hành: khung an ninh mạng (các chức năng của NIST Cybersecurity Framework, vai trò quản trị của COBIT); các loại mối đe dọa và tấn công (lừa đảo phishing, mã độc tống tiền, mối đe dọa nội bộ); hệ thống phòng thủ — kiểm soát truy cập và quản lý danh tính (đặc quyền tối thiểu, xác thực đa yếu tố), mã hóa khi truyền và khi lưu, bảo vệ mạng và thiết bị đầu cuối; ứng phó sự cố và liên tục kinh doanh, gồm phân biệt giữa RTO và RPO; và nghĩa vụ riêng tư quanh phân loại, lưu giữ và chuyển dữ liệu xuyên biên giới. Cả hai lĩnh vực đều đặt thuật ngữ lên trước: xây bảng thuật ngữ rồi mới luyện kịch bản.
+
+### हिन्दी (अनुवाद · 初译待校)
+वर्तमान AICPA CPA Examination Blueprints के तहत ISC के तीन सामग्री क्षेत्र हैं। पहले दो प्रत्येक 35–45% रखते हैं और पेपर का बड़ा हिस्सा बनाते हैं:
+
+क्षेत्र I: सूचना प्रणाली और डेटा प्रबंधन (35–45%)। लेखा सूचना प्रणालियाँ कैसे बनती हैं और डेटा उनमें कैसे बहता है: IT अवसंरचना और ERP जैसे उद्यम सिस्टम, सिस्टम विकास और परिवर्तन प्रबंधन, IT general controls (तार्किक पहुँच, परिवर्तन, संचालन) और application controls (इनपुट, प्रसंस्करण, आउटपुट) के बीच विभाजन, संबंधपरक संरचना और अखंडता बाधाओं सहित डेटाबेस अवधारणाएँ, संग्रह से अभिलेख और निपटान तक डेटा जीवन-चक्र, और डेटा शासन। हर नियंत्रण को उस जोखिम से जोड़ना चाहिए जिसका वह उत्तर देता है।
+
+क्षेत्र II: सुरक्षा, गोपनीयता और निजता (35–45%)। व्यवहार के साथ frameworks: साइबरसुरक्षा frameworks (NIST Cybersecurity Framework के कार्य, COBIT की शासन भूमिका); ख़तरे और हमले के प्रकार (phishing, ransomware, आंतरिक ख़तरे); रक्षात्मक ढांचा — पहुँच नियंत्रण और पहचान प्रबंधन (न्यूनतम विशेषाधिकार, बहु-कारक प्रमाणीकरण), परिवहन और भंडारण में एन्क्रिप्शन, नेटवर्क और endpoint सुरक्षा; घटना प्रतिक्रिया और व्यवसाय निरंतरता, RTO और RPO के बीच अंतर सहित; और निजता दायित्व। दोनों क्षेत्र शब्दावली-प्रथम हैं: पहले शब्दावली बनाएँ, फिर परिदृश्यों का अभ्यास करें।
 
 ## 四、内容领域三：SOC 鉴证（15%–25%）
 
@@ -130,6 +193,33 @@ La herramienta de estudio es una tabla de decisión: ¿la materia es la informac
 
 ---
 
+### 한국어 (초역 · 初译待校)
+세 번째 영역은 비중은 가장 작지만 CPA의 전문 역할과 가장 긴밀히 연결돼 있고, 체계적 암기로 확보하기 가장 쉬운 부분입니다.
+- SOC 1: 이용자 기업의 재무보고 내부통제와 관련된 서비스 조직 통제에 대한 보고서로, AICPA 인증 기준(SSAE 체계, 현행은 개정된 SSAE No. 18)에 따라 수행됩니다. 이용자는 이용자 기업 경영진과 이용자 감사인으로, 대상 범위가 가장 좁습니다.
+- SOC 2: 신뢰 서비스 기준(Trust Services Criteria)의 다섯 범주 — 보안(유일한 필수 범주), 가용성, 처리 무결성, 기밀성, 개인정보 — 에 대해 통제를 평가합니다. 배포는 시스템을 충분히 이해하는 당사자로 제한됩니다.
+- SOC 3: 같은 기준을 쓰지만 일반 이용을 위해 작성되어 공개 배포할 수 있고, 웹사이트 인증 마크 형태로 자주 나타납니다.
+- Type I과 Type II의 구분: Type I은 특정 시점의 통제 설계를 다루고, Type II는 일정 기간(보통 최소 6개월의 관찰 기간)을 다루며 운영 효과성을 테스트합니다.
+
+효율적인 학습 도구는 의사결정표입니다. 업무가 재무보고에 관한 것인지 더 넓은 운영 신뢰에 관한 것인지, 대상이 누구인지, 운영 효과성을 테스트해야 하는지 — 세 가지 답이 보고서 유형을 거의 유일하게 결정합니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Lĩnh vực thứ ba nhỏ nhất về trọng số nhưng gắn chặt nhất với vai trò chuyên môn của CPA — và dễ bảo toàn nhất bằng ghi nhớ có hệ thống:
+- SOC 1 báo cáo về các kiểm soát tại tổ chức dịch vụ liên quan đến kiểm soát nội bộ về báo cáo tài chính của đơn vị sử dụng, thực hiện theo chuẩn chứng thực của AICPA (khung SSAE, hiện là SSAE No. 18 đã sửa đổi). Người dùng là ban lãnh đạo đơn vị sử dụng và kiểm toán viên của họ — đối tượng hẹp nhất.
+- SOC 2 đánh giá kiểm soát theo Trust Services Criteria trong năm nhóm — bảo mật (nhóm bắt buộc duy nhất), sẵn sàng, toàn vẹn xử lý, bí mật và riêng tư. Việc phân phối bị giới hạn cho các bên có đủ hiểu biết về hệ thống.
+- SOC 3 dùng cùng tiêu chí nhưng viết cho mục đích sử dụng chung và có thể phân phối công khai, thường xuất hiện dưới dạng con dấu trên trang web.
+- Type I khác Type II: Type I đề cập thiết kế kiểm soát tại một thời điểm, Type II bao phủ một giai đoạn (thường là thời gian quan sát ít nhất sáu tháng) và kiểm tra hiệu quả vận hành.
+
+Công cụ học hiệu quả là bảng quyết định: công việc liên quan báo cáo tài chính hay lòng tin vận hành rộng hơn, đối tượng là ai, và có phải kiểm tra hiệu quả vận hành không.
+
+### हिन्दी (अनुवाद · 初译待校)
+तीसरा क्षेत्र भार में सबसे छोटा है और CPA की पेशेवर भूमिका से सबसे कसकर जुड़ा है — और व्यवस्थित याद से सुरक्षित करना सबसे आसान है:
+- SOC 1 सेवा संगठन के उन नियंत्रणों पर रिपोर्ट करता है जो उपयोगकर्ता संस्थाओं के वित्तीय रिपोर्टिंग पर आंतरिक नियंत्रण से संबंधित हैं, AICPA attestation standards (SSAE ढांचा, वर्तमान में संशोधित SSAE No. 18) के तहत निष्पादित। इसके उपयोगकर्ता उपयोगकर्ता-संस्था का प्रबंधन और उपयोगकर्ता लेखापरीक्षक हैं — सबसे संकीर्ण दर्शक।
+- SOC 2 Trust Services Criteria की पाँच श्रेणियों — सुरक्षा (एकमात्र अनिवार्य श्रेणी), उपलब्धता, प्रसंस्करण अखंडता, गोपनीयता और निजता — के विरुद्ध नियंत्रणों का मूल्यांकन करता है। वितरण सीमित रहता है।
+- SOC 3 वही criteria उपयोग करता है लेकिन सामान्य उपयोग के लिए लिखा जाता है और सार्वजनिक रूप से वितरित किया जा सकता है, अक्सर वेबसाइट पर मुहर के रूप में दिखता है।
+- Type I बनाम Type II: Type I किसी समय-बिंदु पर नियंत्रणों के डिज़ाइन को संबोधित करता है, जबकि Type II एक अवधि (आमतौर पर कम से कम छह महीने की अवलोकन अवधि) को कवर करता है और संचालन प्रभावशीलता का परीक्षण करता है।
+
+कुशल अध्ययन उपकरण एक निर्णय तालिका है: कार्य वित्तीय रिपोर्टिंग के बारे में है या व्यापक परिचालन विश्वास के बारे में, दर्शक कौन है, और क्या संचालन प्रभावशीलता का परीक्षण आवश्यक है? तीन उत्तर रिपोर्ट प्रकार को लगभग एकमात्र रूप से तय कर देते हैं।
+
 ## 五、怎么选、怎么备：给三类人的建议
 
 ### 中文
@@ -149,10 +239,25 @@ El orden de estudio sigue los pesos del blueprint: primero el glosario de marcos
 
 ---
 
+### 한국어 (초역 · 初译待校)
+ISC 선택 판단은 세 문장으로 압축됩니다. IT 감사, 시스템 구현, 보안 경험이 있는 응시자는 어휘 대부분을 이미 업무에서 만났으므로 준비 비용이 가장 낮습니다. 순수 회계 배경에서 IT 감사나 컨설팅으로 이동하려는 응시자에게 준비 과정 자체가 입문 훈련이 됩니다. 순수 세무나 순수 재무보고 업무로 향하는 응시자는 ISC와의 겹침이 가장 적어, 소속 회사가 이 라인을 필요로 하지 않는 한 보통 TCP나 BAR가 더 잘 맞습니다.
+
+학습 순서는 블루프린트 가중치대로 정하세요. 영역 I과 II의 프레임워크·통제·공격 용어표를 먼저 만들고, MCQ를 대량으로 훈련하고, SOC 의사결정표로 영역 III를 마무리하고, TBS 연습은 시나리오 결론 쓰기에 남겨 두세요. ISC 합격률은 Discipline 중 상대적으로 높은 편이었지만, 그것은 내용을 쉽게 해서가 아니라 선택하는 사람의 배경을 반영한 결과에 가깝습니다. IT 배경이 없는 응시자는 시간 예산을 넉넉히 잡는 편이 안전합니다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Quyết định về ISC gói gọn trong ba câu. Thí sinh có kinh nghiệm kiểm toán CNTT, triển khai hệ thống hoặc bảo mật đã gặp phần lớn từ vựng trong công việc, nên chi phí chuẩn bị thấp nhất. Thí sinh từ nền kế toán thuần túy muốn chuyển sang kiểm toán CNTT hoặc tư vấn sẽ nhận được đào tạo nhập môn ngay từ quá trình chuẩn bị. Thí sinh hướng tới công việc thuế thuần túy hoặc báo cáo tài chính thuần túy có ít điểm chung nhất với ISC và thường phù hợp hơn với TCP hoặc BAR, trừ khi hãng của họ cần tuyến này.
+
+Sắp xếp việc học theo trọng số blueprint: xây bảng thuật ngữ về khung, kiểm soát và tấn công của Lĩnh vực I và II trước, luyện MCQ số lượng lớn thứ hai, khép Lĩnh vực III bằng bảng quyết định SOC, và dành luyện TBS cho việc viết kết luận kịch bản. Tỷ lệ đậu của ISC từng ở mức tương đối cao trong các Discipline, nhưng điều đó phản ánh người chọn nó hơn là nội dung dễ hơn.
+
+### हिन्दी (अनुवाद · 初译待校)
+ISC का निर्णय तीन वाक्यों में सिमटता है। IT audit, systems implementation या सुरक्षा अनुभव वाले उम्मीदवार अधिकांश शब्दावली से काम पर पहले ही मिल चुके होते हैं, इसलिए उनकी तैयारी लागत सबसे कम होती है। विशुद्ध लेखा पृष्ठभूमि से IT audit या परामर्श में जाने वाले उम्मीदवारों को तैयारी से ही प्रवेश प्रशिक्षण मिल जाता है। विशुद्ध कर या विशुद्ध वित्तीय-रिपोर्टिंग कार्य की ओर जाने वालों का ISC से सबसे कम मेल है और वे आमतौर पर TCP या BAR के लिए बेहतर उपयुक्त होते हैं, जब तक कि उनकी फ़र्म को इस लाइन की आवश्यकता न हो।
+
+अध्ययन को blueprint भार के अनुसार क्रमबद्ध करें: पहले क्षेत्र I और II के frameworks, controls और attacks की शब्दावली बनाएँ, दूसरे चरण में MCQ का भरपूर अभ्यास करें, SOC निर्णय तालिका से क्षेत्र III बंद करें, और TBS अभ्यास परिदृश्य निष्कर्ष लिखने के लिए रखें। ISC की उत्तीर्ण दरें Disciplines में अपेक्षाकृत ऊँची रही हैं, लेकिन यह इस बात को अधिक दर्शाता है कि इसे कौन चुनता है, आसान सामग्री को नहीं — IT पृष्ठभूमि के बिना उम्मीदवारों को भारी बजट रखना चाहिए।
+
 ## 来源与声明
 
 主要依据：AICPA《Uniform CPA Examination Blueprints》现行 ISC 部分（结构 82 道 MCQ 与 6 道 TBS、权重 60/40、三领域权重 35–45% / 35–45% / 15–25%）；AICPA 信任服务准则（Trust Services Criteria）与 SSAE No. 18 鉴证准则体系；NIST Cybersecurity Framework 功能框架。题量与权重口径经 Becker 等备考机构对蓝图的转述交叉核对。
 
 本篇为个人学习笔记，不构成税务、财务或考试保证方面的专业建议。考试结构与蓝图以 AICPA 当年发布为准。
 
-This article is a personal study note and does not constitute professional advice. / Este artículo es una nota personal de estudio y no constituye asesoría profesional. La versión en español es una traducción de estudio, pendiente de revisión por un hablante nativo.
+This article is a personal study note and does not constitute professional advice. / Este artículo es una nota personal de estudio y no constituye asesoría profesional. La versión en español es una traducción de estudio; las versiones en coreano, vietnamita e hindi son traducciones iniciales, todas pendientes de revisión por un hablante nativo.
