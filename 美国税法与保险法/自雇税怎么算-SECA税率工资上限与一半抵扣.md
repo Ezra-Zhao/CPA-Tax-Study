@@ -30,6 +30,30 @@ El umbral es bajo: ingresos netos de 400 dólares o más activan el impuesto, qu
 
 Una regla de coordinación importa para quien tiene ambos tipos de ingreso. El tope anual de la base salarial de la Seguridad Social se aplica sumando salarios e ingresos autónomos. Los salarios W-2 consumen primero el límite, y solo el espacio restante soporta el 12,4% en el Anexo SE. La parte de Medicare, 2,9%, no tiene tope y se aplica a cada dólar.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+직원이 내는 급여세는 FICA라고 부른다: 사회보장세 12.4%에 의료보험세(Medicare) 2.9%를 더해 합계 15.3%이며, 그중 절반인 7.65%는 임금에서 원천징수되고 나머지 절반 7.65%는 고용주가 부담하므로, 직원은 급여명세서에서 자기 몫 절반만 본다. 자영업자에게는 두 번째 절반을 대신 내 줄 고용주가 없다. 자영업자 기여법(Self-Employment Contributions Act, SECA, IRC 제1401조부터 제1403조에 편제)이 두 절반을 하나로 합쳐, 제1402조에 정의된 자영업 순소득(net earnings from self-employment)에 대해 본인이 한 번에 내도록 한 것이 바로 자영업세이다.
+
+신고 문턱은 낮다: 자영업 순소득이 400달러 이상이면 신고하고 세금을 내야 하며, Schedule SE로 계산해 Form 1040과 함께 제출한다. 전형적인 원천은 개인사업자의 Schedule C 이익, 농장의 Schedule F 소득, 그리고 파트너가 Schedule K-1로 나눠 받는 지분 소득이다. 반대로 배당, 이자, 그리고 일반적인 경우의 임대소득은 자영업 소득이 아니어서 이 세금에 들어가지 않으며, 이는 REG 시험에서 단골로 나오는 구별 포인트이다. S 법인 주주가 배분으로 받는 돈도 마찬가지로 이 세금에 들어가지 않고, 본인에게 지급하는 합리적 급여만 급여세를 거치는데, 이것이 바로 앞에서 다룬 Watson 판례가 급여의 성격을 다툰 이유이다.
+
+두 종류 소득을 모두 가진 사람에게는 하나의 조정 규칙이 중요하다. 연간 사회보장 임금 상한은 임금과 자영업 소득을 합쳐서 적용된다. W-2 임금이 먼저 상한을 소진하고, 남은 여유분에 대해서만 Schedule SE에서 12.4%가 적용된다. 의료보험 부분 2.9%는 상한이 없어 모든 달러에 적용된다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Thuế tiền lương mà người lao động đóng gọi là FICA: thuế An sinh xã hội 12,4% cộng thuế Medicare 2,9%, tổng cộng 15,3%, trong đó một nửa 7,65% khấu trừ từ lương, nửa còn lại 7,65% do chủ lao động đóng, nên người lao động chỉ thấy một nửa của mình trên phiếu lương. Người tự làm chủ không có chủ lao động gánh nửa còn lại. Đạo luật Đóng góp của Người tự làm chủ (Self-Employment Contributions Act, SECA, quy định tại các điều 1401 đến 1403 của IRC) gộp cả hai nửa thành một sắc thuế đánh trên thu nhập ròng từ tự làm chủ (net earnings from self-employment, định nghĩa tại điều 1402), do chính cá nhân đóng một lần. Đó là thuế tự làm chủ.
+
+Ngưỡng phải khai rất thấp: thu nhập ròng từ tự làm chủ đạt 400 đô la là phải khai báo và nộp thuế, tính bằng Schedule SE, nộp cùng Form 1040. Nguồn điển hình là lợi nhuận của hộ kinh doanh cá thể trên Schedule C, thu nhập nông trại trên Schedule F, và phần thu nhập của thành viên hợp danh nhận qua Schedule K-1. Ngược lại, cổ tức, lãi và — trong trường hợp thông thường — thu nhập cho thuê không phải thu nhập tự làm chủ, không thuộc sắc thuế này, đây là điểm phân biệt thường trực trong ôn thi REG. Tiền phân phối mà cổ đông công ty S nhận cũng không phải thu nhập tự làm chủ; chỉ mức lương hợp lý tự trả cho mình mới đi qua thuế tiền lương, đó chính là lý do vụ Watson đã học trước đây bàn về tính chất tiền lương.
+
+Còn một quy tắc phối hợp quan trọng với người có cả hai loại thu nhập. Trần hàng năm của cơ sở lương An sinh xã hội áp dụng gộp lương và thu nhập tự làm chủ. Lương W-2 dùng trước hạn mức trần, phần hạn mức còn lại mới đến lượt thu nhập tự làm chủ chịu 12,4% trên Schedule SE. Phần Medicare 2,9% không có trần, bao nhiêu thu nhập cũng đóng toàn bộ.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+कर्मचारियों द्वारा दिया जाने वाला वेतन कर FICA कहलाता है: सामाजिक सुरक्षा कर 12.4% और Medicare कर 2.9%, कुल 15.3%, जिसमें से आधा 7.65% वेतन से काटा जाता है और दूसरा आधा 7.65% नियोक्ता देता है, कर्मचारी को वेतन पर्ची पर केवल अपना आधा ही दिखता है। स्व-रोज़गार वाले के पास दूसरा आधा देने वाला कोई नियोक्ता नहीं होता। स्व-रोज़गार अंशदान अधिनियम (Self-Employment Contributions Act, SECA, IRC धारा 1401 से 1403 में संहिताबद्ध) दोनों आधों को एक साथ जोड़कर, धारा 1402 में परिभाषित स्व-रोज़गार शुद्ध आय (net earnings from self-employment) पर व्यक्ति द्वारा एक बार में दिया जाने वाला कर बना देता है — यही स्व-रोज़गार कर है।
+
+किसे देना है, सीमा देखें: स्व-रोज़गार शुद्ध आय 400 डॉलर तक पहुँचते ही घोषणा और कर देना होता है, Schedule SE से गणना करके Form 1040 के साथ दाखिल किया जाता है। आय के स्रोत सामान्यतः एकल स्वामित्व के Schedule C लाभ, फ़ार्म Schedule F, और साझेदारी से Schedule K-1 द्वारा बँटी स्व-रोज़गार आय होते हैं। इसके विपरीत, लाभांश, ब्याज और सामान्य स्थिति में किराया आय स्व-रोज़गार आय नहीं है, इस कर में नहीं आती — यह REG की तैयारी में स्थायी विभेद बिंदु है। S निगम के शेयरधारक को वितरण से मिली राशि भी स्व-रोज़गार आय नहीं गिनी जाती, केवल स्वयं को दिया गया उचित वेतन ही वेतन कर से गुज़रता है, यही पहले वाले Watson मामले में वेतन के स्वरूप पर चर्चा का कारण था।
+
+एक और कड़ी भी है: यदि किसी व्यक्ति के पास W-2 वेतन भी है और स्व-रोज़गार आय भी, तो सामाजिक सुरक्षा भाग की वार्षिक सीमा दोनों को मिलाकर लगती है। W-2 वेतन पहले सीमा का हिस्सा उपयोग करता है, बची हुई सीमा पर ही स्व-रोज़गार आय पर 12.4% लगता है, Schedule SE में इसी क्रम से गणना होती है। Medicare के 2.9% की कोई सीमा नहीं है, जितनी भी आय हो पूरी पर लगता है।
+
 ---
 
 ## 二、四步算完：净收入、92.35%、税率、上限
@@ -67,6 +91,42 @@ Paso tres: aplicar las tasas contra el tope. La parte de Seguridad Social, 12,4%
 
 Paso cuatro: revisar el 0,9% adicional. El Impuesto Adicional de Medicare (Additional Medicare Tax), sección 1401(b)(2), añade un 0,9% sobre los ingresos autónomos que superen umbrales fijados por ley: 200.000 dólares para solteros, 250.000 para declaración conjunta y 125.000 para casados que declaran por separado. Los umbrales no se ajustan por inflación y el impuesto se calcula en el Formulario 8959. No tiene parte empresarial equivalente y queda fuera de la deducción de la mitad que sigue.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+계산 순서는 고정된 네 단계이며, 2026년 자영업 순소득 80,000달러에 W-2 임금이 없는 사람을 예로 들어 한 번 따라가 보자.
+
+첫째 단계, 순소득을 정한다. 영업수입에서 공제 가능한 사업비용을 빼면 자영업 순소득 80,000달러가 되며, 이 단계는 Schedule C에서 완성되고, 비용을 어떻게 인정하는지는 별도의 규칙 체계로 이 글에서는 전개하지 않는다.
+
+둘째 단계, 92.35%를 곱한다. IRC 제1402조 (a)(12)항은 과세 기준을 순소득의 92.35%로 정한다. 그 논리는 직원 기준을 모방한 것이다: 고용주가 내는 절반의 급여세는 원래 직원의 임금에 포함되지 않으므로, 자영업자는 먼저 고용주 몫에 해당하는 7.65%를 기준에서 빼고 나서 세금을 계산한다. 80,000달러에 92.35%를 곱하면 73,880달러이다.
+
+셋째 단계, 세율을 적용하고 상한을 건다. 사회보장 부분 12.4%는 상한 이내 부분에만 부과된다: 2026년의 과세 임금 기준(contribution and benefit base)은 184,500달러로, 사회보장청(SSA)이 전국 평균임금 지수에 따라 공표하며, 2025년은 176,100달러였다. 예시의 73,880달러는 상한 안에 있으므로 12.4%와 2.9%가 전액 적용되어, 73,880달러에 15.3%를 곱하면 11,303.64달러, 약 11,304달러이다. 과세 기준이 184,500달러를 초과하면 초과 부분은 2.9%의 의료보험 부분만 내고 12.4%는 더 내지 않는다.
+
+넷째 단계, 고소득자는 0.9%를 다시 본다. 추가 의료보험세(Additional Medicare Tax, IRC 제1401조 (b)(2)항)는 문턱을 넘는 자영업 소득에 0.9%를 추가로 부과한다: 단독 200,000달러, 부부 합산 신고 250,000달러, 부부 분리 신고 125,000달러이며, 문턱은 법조문에 고정되어 물가 조정을 하지 않고, Form 8959로 계산한다. 여기에는 고용주 대응 몫이 없으며, 뒤에서 말할 절반 공제에도 이 부분은 포함되지 않는다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Thứ tự tính cố định bốn bước, lấy ví dụ người có thu nhập ròng tự làm chủ năm 2026 là 80.000 đô la, không có lương W-2 để đi một lượt.
+
+Bước một, xác định thu nhập ròng. Doanh thu kinh doanh trừ chi phí kinh doanh được khấu trừ, được thu nhập ròng tự làm chủ 80.000 đô la, bước này hoàn thành trên Schedule C, chi phí được công nhận thế nào là một bộ quy tắc khác, bài này không triển khai.
+
+Bước hai, nhân với 92,35%. Khoản (a)(12) điều 1402 IRC quy định cơ sở chịu thuế là 92,35% thu nhập ròng, lý do là mô phỏng chuẩn của người lao động: nửa thuế tiền lương do chủ lao động đóng vốn không tính vào lương của người lao động, nên người tự làm chủ trước tiên loại khỏi cơ sở phần tương đương phần của chủ lao động 7,65%, rồi mới tính thuế. 80.000 nhân 92,35% bằng 73.880 đô la.
+
+Bước ba, áp thuế suất và chặn trần. Phần An sinh xã hội 12,4% chỉ đánh trên phần trong trần: cơ sở lương chịu thuế (contribution and benefit base) năm 2026 là 184.500 đô la, do Cơ quan An sinh Xã hội (SSA) công bố theo chỉ số lương bình quân toàn quốc, năm 2025 là 176.100 đô la. 73.880 đô la trong ví dụ nằm trong trần, nên 12,4% và 2,9% áp toàn bộ, 73.880 nhân 15,3% bằng 11.303,64 đô la, khoảng 11.304 đô la. Nếu cơ sở chịu thuế vượt 184.500 đô la, phần vượt chỉ đóng phần Medicare 2,9%, không đóng 12,4% nữa.
+
+Bước bốn, thu nhập cao xem thêm 0,9%. Thuế Medicare bổ sung (Additional Medicare Tax, khoản (b)(2) điều 1401 IRC) đánh thêm 0,9% trên thu nhập tự làm chủ vượt ngưỡng: độc thân 200.000 đô la, vợ chồng khai chung 250.000 đô la, vợ chồng khai riêng 125.000 đô la, ngưỡng do luật viết chết, không điều chỉnh theo lạm phát, tính bằng Form 8959. Nó không có phần tương ứng của chủ lao động, khoản khấu trừ một nửa nói ở phần sau cũng không bao gồm phần này.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+गणना का क्रम चार निश्चित चरणों का है, 2026 में 80,000 डॉलर स्व-रोज़गार शुद्ध आय और W-2 वेतन न रखने वाले व्यक्ति का उदाहरण लेकर चलें।
+
+पहला चरण, शुद्ध आय तय करें। व्यवसाय आय से कटौती योग्य व्यवसाय खर्च घटाकर स्व-रोज़गार शुद्ध आय 80,000 डॉलर मिलती है, यह चरण Schedule C पर पूरा होता है, खर्च कैसे माने जाते हैं यह नियमों का अलग समूह है, इस लेख में विस्तार नहीं है।
+
+दूसरा चरण, 92.35% से गुणा करें। IRC धारा 1402 की उपधारा (a)(12) कर आधार को शुद्ध आय के 92.35% पर तय करती है, तर्क कर्मचारी मानक का अनुकरण है: नियोक्ता द्वारा दिया गया आधा वेतन कर मूलतः कर्मचारी के वेतन में गिना ही नहीं जाता, इसलिए स्व-रोज़गार वाला पहले नियोक्ता हिस्से के बराबर 7.65% आधार से निकालता है, फिर कर गिनता है। 80,000 गुणा 92.35% बराबर 73,880 डॉलर।
+
+तीसरा चरण, दरें लगाएँ और सीमा रोकें। सामाजिक सुरक्षा भाग 12.4% केवल सीमा के भीतर वाले भाग पर लगता है: 2026 का करयोग्य वेतन आधार (contribution and benefit base) 184,500 डॉलर है, सामाजिक सुरक्षा प्रशासन (SSA) द्वारा राष्ट्रीय औसत वेतन सूचकांक के अनुसार प्रकाशित, 2025 में 176,100 डॉलर था। उदाहरण के 73,880 डॉलर सीमा के भीतर हैं, इसलिए 12.4% और 2.9% पूरे लगते हैं, 73,880 गुणा 15.3% बराबर 11,303.64 डॉलर, लगभग 11,304 डॉलर। यदि कर आधार 184,500 डॉलर से अधिक हो जाए, तो अधिक भाग पर केवल 2.9% Medicare भाग लगेगा, 12.4% नहीं।
+
+चौथा चरण, उच्च आय पर 0.9% फिर देखें। अतिरिक्त Medicare कर (Additional Medicare Tax, IRC धारा 1401 की उपधारा (b)(2)) सीमा से अधिक स्व-रोज़गार आय पर अलग से 0.9% लगाता है: एकल 200,000 डॉलर, विवाहित संयुक्त दाखिल 250,000 डॉलर, विवाहित अलग दाखिल 125,000 डॉलर, सीमाएँ कानून में स्थिर हैं, मुद्रास्फीति समायोजन नहीं होता, Form 8959 से गणना होती है। इसका कोई नियोक्ता समकक्ष हिस्सा नहीं है, आगे बताई गई आधी कटौती में भी यह भाग शामिल नहीं है।
+
 ---
 
 ## 三、一半抵扣：省的是所得税，不是自雇税本身
@@ -92,6 +152,30 @@ Siguiendo el ejemplo: la mitad de 11.304 dólares es 5.652 dólares, que se rest
 
 En cuanto al calendario, el impuesto SE acompaña al impuesto sobre la renta en los pagos estimados trimestrales del Formulario 1040-ES y se regulariza en el 1040 anual. Pagar de menos acarrea la misma penalización por pago insuficiente, bajo las reglas de puerto seguro ya tratadas en el artículo sobre impuestos estimados.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+자영업자가 가장 자주 틀리는 항목이 IRC 제164조 (f)항이 주는 절반 공제이다. 고용주가 내는 절반의 급여세는 고용주에게 사업비용이며, 자영업자는 혼자 두 절반을 모두 내므로, 세법은 자영업세의 절반을 고용주 몫으로 보아 소득세를 계산할 때 총소득에서 공제하도록 한다. 위치는 Form 1040의 Schedule 1로, 총소득 조정(above-the-line)에 속하며, 항목별 공제를 쓰지 않고 표준공제를 받는 사람도 그대로 쓸 수 있다.
+
+둘째 절의 예를 이어서 계산하자: 자영업세 11,304달러, 그 절반은 5,652달러이며, 이 5,652달러를 조정총소득(AGI)에서 빼고, 실제로 아끼는 소득세는 본인이 어느 한계 세율 구간에 있는지에 달려 있다. 기억할 제한은 세 가지이다. 첫째, 이 공제는 소득세만 줄이고 자영업세 자체는 줄이지 않으므로, Schedule SE로 계산된 11,304달러는 한 푼도 빠짐없이 내야 한다. 둘째, 공제되는 절반은 정규 15.3% 부분만 해당하고, 0.9% 추가 의료보험세는 포함되지 않는다. 셋째, 순서를 뒤집으면 안 된다: 92.35%는 자영업세를 계산하기 전에 기준을 조정하는 것이고, 50% 공제는 자영업세를 계산한 뒤에 AGI를 조정하는 것으로, 두 조정은 비슷해 보이지만 위치가 완전히 다르며, 시험에서 이곳에 선택지를 파는 것을 좋아한다.
+
+신고 리듬으로는, 자영업세는 소득세와 함께 분기별 추정세(Form 1040-ES)를 따라가며, 연 4회 먼저 내고 연말에 Form 1040에서 정산한다; 적게 내면 과소납부 벌금도 마찬가지로 붙으며, 세이프 하버 규칙은 앞에서 다룬 분기별 추정세 글과 같은 체계이다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Khoản mà người tự làm chủ dễ nhớ sai nhất là khoản khấu trừ một nửa do khoản (f) điều 164 IRC cho. Nửa thuế tiền lương do chủ lao động đóng, đối với chủ lao động là chi phí kinh doanh; người tự làm chủ một mình đóng cả hai nửa, nên luật thuế cho người đó lấy một nửa thuế tự làm chủ làm phần của chủ lao động, khấu trừ khỏi tổng thu nhập khi tính thuế thu nhập, vị trí ở Schedule 1 của Form 1040, thuộc khoản khấu trừ trên dòng điều chỉnh tổng thu nhập (above-the-line), không cần liệt kê từng khoản, người dùng khấu trừ tiêu chuẩn cũng dùng được như thường.
+
+Lấy ví dụ ở mục hai tính tiếp: thuế tự làm chủ 11.304 đô la, một nửa là 5.652 đô la, 5.652 đô la này trừ khỏi thu nhập gộp đã điều chỉnh (AGI), tiết kiệm được bao nhiêu thuế thu nhập tùy thuộc người đó rơi vào bậc thuế biên nào. Ba giới hạn phải nhớ kỹ. Một là khoản khấu trừ này chỉ giảm thuế thu nhập, không giảm chính thuế tự làm chủ, 11.304 đô la tính ra trên Schedule SE phải đóng không thiếu một xu. Hai là một nửa được khấu trừ chỉ tính phần thông thường 15,3%, thuế Medicare bổ sung 0,9% không nằm trong đó. Ba là thứ tự không được đảo ngược: 92,35% là điều chỉnh cơ sở trước khi tính thuế tự làm chủ, khấu trừ 50% là điều chỉnh AGI sau khi đã tính xong thuế tự làm chủ, hai điều chỉnh trông giống nhau, vị trí hoàn toàn khác nhau, thi cử thích đặt phương án ở chỗ này.
+
+Về nhịp khai báo, thuế tự làm chủ đi cùng thuế thu nhập theo thuế tạm tính hàng quý (Form 1040-ES), một năm bốn kỳ đóng trước, cuối năm quyết toán thừa thiếu trên Form 1040; đóng thiếu cũng bị phạt đóng thiếu như thường, quy tắc bến an toàn cùng một bộ với bài về thuế tạm tính hàng quý đã nói trước đây.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+स्व-रोज़गार वालों की सबसे आसानी से गलत होने वाली मद IRC धारा 164 की उपधारा (f) द्वारा दी गई आधी कटौती है। नियोक्ता द्वारा दिया गया आधा वेतन कर नियोक्ता के लिए व्यवसाय खर्च है, स्व-रोज़गार वाला अकेला दोनों आधे देता है, इसलिए कर कानून उसे स्व-रोज़गार कर के आधे को नियोक्ता हिस्सा मानकर आयकर गिनते समय कुल आय से घटाने देता है, स्थान Form 1040 के Schedule 1 में है, यह कुल आय समायोजन की ऊपर-की-पंक्ति (above-the-line) कटौती है, मदवार सूची न देने वाले और मानक कटौती लेने वाले भी इसे उपयोग कर सकते हैं।
+
+दूसरे खंड के उदाहरण को आगे गिनें: स्व-रोज़गार कर 11,304 डॉलर, आधा 5,652 डॉलर है, यह 5,652 डॉलर समायोजित कुल आय (AGI) से घटाया जाता है, कितना आयकर बचेगा यह इस पर निर्भर करता है कि वह किस सीमांत कर सोपान में पड़ता है। तीन सीमाएँ याद रखें। एक, यह कटौती केवल आयकर घटाती है, स्व-रोज़गार कर स्वयं नहीं घटाती, Schedule SE से निकले 11,304 डॉलर पूरे देने होंगे। दो, कटौती वाला आधा केवल नियमित 15.3% भाग पर गिना जाता है, 0.9% अतिरिक्त Medicare कर इसमें नहीं है। तीन, क्रम उलटा नहीं हो सकता: 92.35% स्व-रोज़गार कर गिनने से पहले आधार समायोजित करता है, 50% कटौती स्व-रोज़गार कर गिनने के बाद AGI समायोजित करती है, दोनों समायोजन दिखने में समान हैं, स्थान पूरी तरह अलग हैं, परीक्षा में यहाँ विकल्प रखना पसंद किया जाता है।
+
+दाखिल की लय में, स्व-रोज़गार कर आयकर के साथ तिमाही अनुमानित कर (Form 1040-ES) के साथ चलता है, वर्ष में चार किस्तें पहले दी जाती हैं, वर्ष के अंत में Form 1040 पर अधिक-कम समायोजित होता है; कम दें तो कम भुगतान का जुर्माना भी लगेगा, सुरक्षित बंदरगाह नियम पहले वाले तिमाही अनुमानित कर लेख की ही प्रणाली है।
+
 ---
 
 ## 四、加州落点与 REG 备考定位
@@ -111,6 +195,24 @@ La capa de California es simple: California no tiene un impuesto estatal separad
 
 Para REG, el impuesto del trabajo autónomo reaparece en el área de impuestos individuales, y los puntos evaluados suelen ser los mismos cuatro: la tasa del 15,3% dividida en 12,4% y 2,9%, el ajuste de base del 92,35%, la cifra del tope salarial del año en curso y la regla de que la deducción del 50% reduce el impuesto sobre la renta pero no el impuesto SE en sí. Ubique esos cuatro puntos en el Anexo C, el Anexo SE y el Anexo 1, y esta familia de preguntas se vuelve casi un regalo.
 
+### 한국어 (초역, 원어민 감수 대기)
+
+캘리포니아 층은 매우 간단하다: 캘리포니아에는 별도의 주 단위 자영업세가 없다. 자영업 소득은 캘리포니아에서 주 소득세에만 들어가며, Form 540으로 신고하고 세율은 캘리포니아 자체의 누진 구간을 따르며, 자영업세 절반 공제는 연방에서 계산된 AGI를 기초로 주세 계산의 출발점에 자연스럽게 따라 들어간다. 캘리포니아 세법은 이 항목에서 연방 처리를 대체로 따른다. 진짜로 혼동하기 쉬운 것은 다른 두 가지이다: 다른 사람에게 임금을 지급할 때 고용주가 캘리포니아에서 부담하는 주 장애보험(SDI) 등 급여세 의무는 고용주세로, 본인의 자영업세와는 다른 체계이며; LLC가 캘리포니아에서 매년 내는 연간세와 총수입 기준으로 계산되는 수수료도 자영업세가 아니므로, 세 가지 청구서를 한 가지로 기억하지 말 것.
+
+시험 대비 위치: 자영업세는 REG의 개인세 부분에 반복해서 나오며, 출제 포인트는 보통 네 가지이다 — 세율 15.3%와 12.4%에 2.9%를 더한 분해, 92.35%의 기준 조정, 당해 연도 임금 상한 숫자, 50% 공제는 소득세만 줄이고 자영업세는 줄이지 않는다는 점. 이 네 가지를 Schedule C, Schedule SE, Schedule 1 세 장의 표 위치와 맞춰 두면, 이 유형의 문제는 거의 공짜 점수이다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+Tầng California rất đơn giản: California không đặt thêm một sắc thuế tự làm chủ cấp bang riêng. Thu nhập tự làm chủ ở California chỉ vào thuế thu nhập bang, khai bằng Form 540, thuế suất đi theo biểu lũy tiến riêng của California, khoản khấu trừ một nửa thuế tự làm chủ dựa trên AGI đã tính ở liên bang tự nhiên đi vào điểm khởi đầu tính thuế bang, luật thuế California đại thể tuân theo cách xử lý liên bang ở khoản này. Hai việc thực sự dễ nhầm là hai việc khác: khi trả lương cho người khác, chủ lao động ở California có nghĩa vụ thuế tiền lương như bảo hiểm khuyết tật bang (SDI), đó là thuế của chủ lao động, khác hệ với thuế tự làm chủ của bản thân; khoản thuế hàng năm LLC phải đóng ở California mỗi năm và khoản phí tính theo tổng doanh thu cũng không phải thuế tự làm chủ, đừng ghi ba khoản tiền thành một.
+
+Định vị ôn thi: thuế tự làm chủ xuất hiện lặp lại trong phần thuế cá nhân của REG, điểm ra đề thường chỉ có bốn: thuế suất 15,3% và cách tách 12,4% cộng 2,9%, điều chỉnh cơ sở 92,35%, con số trần lương của năm hiện tại, khấu trừ 50% chỉ giảm thuế thu nhập không giảm thuế tự làm chủ. Đối chiếu bốn điểm này với vị trí của ba biểu Schedule C, Schedule SE, Schedule 1, dạng câu hỏi này về cơ bản là điểm cho không.
+
+### हिन्दी (अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+कैलिफ़ोर्निया स्तर बहुत सरल है: कैलिफ़ोर्निया में अलग से राज्य-स्तरीय स्व-रोज़गार कर नहीं है। स्व-रोज़गार आय कैलिफ़ोर्निया में केवल राज्य आयकर में जाती है, Form 540 से दाखिल होती है, दर कैलिफ़ोर्निया के अपने प्रगतिशील सोपानों के अनुसार लगती है, स्व-रोज़गार कर की आधी कटौती संघीय स्तर पर निकले AGI के आधार पर राज्य कर गणना के प्रारंभ बिंदु में स्वाभाविक रूप से आ जाती है, कैलिफ़ोर्निया कर कानून इस मद में संघीय व्यवहार का मोटे तौर पर पालन करता है। वास्तव में भ्रमित करने वाली दो अन्य बातें हैं: दूसरों को वेतन देते समय नियोक्ता पर कैलिफ़ोर्निया में राज्य विकलांगता बीमा (SDI) जैसी वेतन कर देयताएँ नियोक्ता कर हैं, स्वयं के स्व-रोज़गार कर से अलग प्रणाली; LLC को कैलिफ़ोर्निया में हर वर्ष देना पड़ने वाला वार्षिक कर और कुल आय के आधार पर लगने वाला शुल्क भी स्व-रोज़गार कर नहीं है, तीनों बिलों को एक न समझें।
+
+परीक्षा स्थिति: स्व-रोज़गार कर REG के व्यक्तिगत कर भाग में बार-बार आता है, प्रश्न बिंदु सामान्यतः चार ही होते हैं — दर 15.3% और उसका 12.4% जमा 2.9% में विभाजन, 92.35% आधार समायोजन, उस वर्ष की वेतन सीमा संख्या, 50% कटौती केवल आयकर घटाती है स्व-रोज़गार कर नहीं। इन चार बिंदुओं को Schedule C, Schedule SE और Schedule 1 तीनों फ़ॉर्मों के स्थान से मिला लें, तो इस प्रकार के प्रश्न लगभग मुफ़्त के अंक हैं।
+
 ---
 
 ## 来源与说明 / Sources / Fuentes
@@ -120,3 +222,7 @@ Para REG, el impuesto del trabajo autónomo reaparece en el área de impuestos i
 西班牙语为学习译稿，待母语校对。El texto en español es una traducción de estudio, pendiente de revisión por un hablante nativo.
 
 声明：本篇为个人学习笔记，不构成税务、财务或法律建议。This article is a personal study note only and does not constitute tax, financial, or legal advice. Este artículo es una nota personal de estudio y no constituye asesoría fiscal, financiera ni legal.
+
+본문의 한국어, 베트남어, 힌디어는 학습용 초역으로 원어민 감수를 기다리고 있습니다. Bản tiếng Hàn, tiếng Việt và tiếng Hindi trong bài là bản dịch sơ bộ phục vụ học tập, chờ người bản ngữ hiệu đính. इस लेख के कोरियाई, वियतनामी और हिन्दी अनुवाद अध्ययन के लिए प्रारंभिक अनुवाद हैं, मूल-भाषी समीक्षा लंबित है।
+
+이 글은 개인 학습 노트이며 세무, 재무 또는 법률 조언이 아닙니다. Bài này là ghi chú học tập cá nhân, không cấu thành tư vấn thuế, tài chính hay pháp lý. यह लेख एक व्यक्तिगत अध्ययन नोट है, कर, वित्तीय या कानूनी सलाह नहीं है।
