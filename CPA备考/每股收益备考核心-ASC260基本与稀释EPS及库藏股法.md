@@ -16,15 +16,15 @@
 
 ### English
 
-Basic EPS has one formula: basic EPS = (net income − preferred dividends) ÷ weighted-average common shares outstanding. The numerator is income available to common shareholders, so the preferred claim comes out first; the denominator is the weighted average for the period, not the ending count.
+Basic EPS = (net income − preferred dividends) ÷ weighted-average common shares outstanding. The numerator is income available to common shareholders; the denominator is the period's weighted average, not the ending count.
 
-Deduct preferred dividends two ways. Cumulative preferred stock: deduct the current-period dividend whether or not it was declared. Noncumulative preferred stock: deduct only dividends actually declared. In short, cumulative is charged by the year, noncumulative by the declaration. If both figures are given, classify the stock first, then pick the number. (Study translation draft — pending review.)
+Cumulative preferred dividends are deducted for the current period whether declared or not, because they belong to the preferred holders. Noncumulative dividends are deducted only when declared. Classify the stock first, then pick the figure. (Study translation draft — pending review.)
 
 ### Español (译稿)
 
-El EPS básico tiene una sola fórmula: EPS básico = (ingreso neto − dividendos preferentes) ÷ promedio ponderado de acciones comunes en circulación. El numerador es el ingreso disponible para los accionistas comunes, por eso primero sale la parte preferente; el denominador es el promedio ponderado del periodo, no el número al cierre.
+EPS básico = (ingreso neto − dividendos preferentes) ÷ promedio ponderado de acciones comunes en circulación. El numerador es el ingreso disponible para los accionistas comunes; el denominador es el promedio ponderado del periodo, no el número al cierre.
 
-Los dividendos preferentes se restan de dos maneras. Acciones acumulativas: se resta el dividendo del periodo corriente se haya declarado o no. Acciones no acumulativas: solo se restan los dividendos efectivamente declarados. En resumen, las acumulativas se cargan por año y las no acumulativas por declaración. Si el enunciado da ambas cifras, clasifique primero la acción y luego elija el número. (Borrador de traducción para estudio — pendiente de revisión.)
+Los dividendos acumulativos se restan por el periodo corriente, se hayan declarado o no, porque pertenecen a los tenedores preferentes. Los no acumulativos se restan solo cuando se declaran. Clasifique primero la acción y luego elija la cifra. (Borrador de traducción para estudio — pendiente de revisión.)
 
 ### 한국어 (초역·교정 대기)
 
@@ -34,15 +34,15 @@ Los dividendos preferentes se restan de dos maneras. Acciones acumulativas: se r
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
-EPS cơ bản chỉ có một công thức: EPS cơ bản = (lợi nhuận ròng − cổ tức ưu đãi) ÷ số cổ phiếu phổ thông bình quân gia quyền đang lưu hành. Tử số là thu nhập thuộc về cổ đông phổ thông, nên phần ưu đãi trừ trước; mẫu số là bình quân gia quyền của kỳ, không phải số cổ phiếu cuối kỳ.
+EPS cơ bản = (lợi nhuận ròng − cổ tức ưu đãi) ÷ số cổ phiếu phổ thông bình quân gia quyền đang lưu hành. Tử số là thu nhập thuộc về cổ đông phổ thông; mẫu số là bình quân gia quyền của kỳ, không phải số cuối kỳ.
 
-Cổ tức ưu đãi trừ theo hai cách. Cổ phiếu ưu đãi tích lũy: trừ cổ tức của kỳ hiện tại dù đã công bố hay chưa. Cổ phiếu ưu đãi không tích lũy: chỉ trừ cổ tức đã thực sự công bố. Tóm lại, loại tích lũy tính theo năm, loại không tích lũy tính theo lần công bố. Khi đề cho cả hai con số, hãy phân loại cổ phiếu trước rồi mới chọn số. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
+Cổ tức tích lũy được trừ cho kỳ hiện tại dù đã công bố hay chưa, vì chúng thuộc về cổ đông ưu đãi. Cổ tức không tích lũy chỉ trừ khi đã công bố. Hãy phân loại cổ phiếu trước, rồi chọn con số. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
-मूल EPS का एक ही सूत्र है: मूल EPS = (शुद्ध आय − अधिमान लाभांश) ÷ भारित-औसत सामान्य शेयर। अंश सामान्य शेयरधारकों को उपलब्ध आय है, इसलिए अधिमान दावा पहले निकलता है; हर अवधि का भारित औसत है, अंतिम संख्या नहीं।
+मूल EPS = (शुद्ध आय − अधिमान लाभांश) ÷ भारित-औसत सामान्य शेयर। अंश सामान्य शेयरधारकों को उपलब्ध आय है; हर अवधि का भारित औसत है, अंतिम संख्या नहीं।
 
-अधिमान लाभांश दो तरीकों से घटता है। संचयी अधिमान शेयरों में चालू अवधि का लाभांश घटाएँ, चाहे घोषित हुआ हो या नहीं। असंचयी शेयरों में केवल घोषित लाभांश घटता है। सार: संचयी वर्ष के हिसाब से, असंचयी घोषणा के हिसाब से। दोनों आँकड़े दिए हों तो पहले शेयर का प्रकार तय करें, फिर संख्या चुनें। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
+संचयी अधिमान लाभांश चालू अवधि के लिए घटता है, चाहे घोषित हुआ हो या नहीं, क्योंकि वह अधिमान धारकों का है। असंचयी लाभांश केवल घोषित होने पर घटता है। पहले शेयर का प्रकार तय करें, फिर संख्या चुनें। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
 
 ---
 
@@ -58,19 +58,19 @@ Cổ tức ưu đãi trừ theo hai cách. Cổ phiếu ưu đãi tích lũy: tr
 
 ### English
 
-The denominator is weighted because a share counts only while it was outstanding. Shares issued mid-year earn weight only after issuance; shares repurchased mid-year drop out from the repurchase date. Drawing the timeline and weighting each segment beats memorising rules.
+A share counts only while it was outstanding, so the denominator is time-weighted. Mid-year issues earn weight after issuance; mid-year repurchases drop out at repurchase.
 
-Two changes ignore time weighting and are adjusted retrospectively for all periods presented: stock dividends and stock splits, under ASC 260-10-55. No new resources enter; the same pie is cut into more slices, so prior-period counts and EPS are restated. A genuine issue for cash is weighted only from its issue date. The test is whether new resources came in.
+Stock dividends and stock splits ignore time weighting and are adjusted retrospectively for all periods presented, under ASC 260-10-55: no new resources enter, and the same pie is cut into more slices, so prior counts and EPS are restated. A cash issue is weighted only from its issue date.
 
-Running example, step one: net income $500,000, preferred dividends $50,000, weighted-average shares 200,000. Basic EPS = (500,000 − 50,000) ÷ 200,000 = 450,000 ÷ 200,000 = $2.25. Every dilution calculation starts from $2.25, and diluted EPS can only equal or fall below it. (Study translation draft — pending review.)
+Step one: net income $500,000, preferred dividends $50,000, weighted-average shares 200,000. Basic EPS = (500,000 − 50,000) ÷ 200,000 = $2.25. Diluted EPS can only equal or fall below this figure. (Study translation draft — pending review.)
 
 ### Español (译稿)
 
-El denominador es ponderado porque cada acción cuenta solo mientras estuvo en circulación. Las emitidas a mitad de año pesan solo tras la emisión; las recompradas salen desde la fecha de recompra. Dibujar la línea de tiempo y ponderar cada tramo es más seguro que memorizar reglas.
+Cada acción cuenta solo mientras estuvo en circulación, por eso el denominador se pondera por tiempo. Las emisiones de mitad de año pesan tras la emisión; las recompras salen en la fecha de recompra.
 
-Dos cambios ignoran la ponderación temporal y se ajustan retroactivamente en todos los periodos presentados: los dividendos en acciones y los desdoblamientos (splits), según la ASC 260-10-55. No entran recursos nuevos; el mismo pastel se corta en más porciones, así que las cifras anteriores se reexpresan. Una emisión por efectivo se pondera solo desde su fecha. La prueba es si entraron recursos nuevos.
+Los dividendos en acciones y los desdoblamientos (splits) ignoran la ponderación temporal y se ajustan retroactivamente en todos los periodos presentados, según la ASC 260-10-55: no entran recursos nuevos, el mismo pastel se corta en más porciones y las cifras anteriores se reexpresan. Una emisión por efectivo se pondera desde su fecha.
 
-Ejemplo continuo, primer paso: ingreso neto de $500,000, dividendos preferentes de $50,000 y promedio ponderado de 200,000 acciones. EPS básico = (500,000 − 50,000) ÷ 200,000 = 450,000 ÷ 200,000 = $2.25. Todo cálculo de dilución parte de $2.25, y el EPS diluido solo puede igualarlo o quedar por debajo. (Borrador de traducción para estudio — pendiente de revisión.)
+Primer paso: ingreso neto de $500,000, dividendos preferentes de $50,000, promedio de 200,000 acciones. EPS básico = (500,000 − 50,000) ÷ 200,000 = $2.25. El EPS diluido solo puede igualar esta cifra o quedar por debajo. (Borrador de traducción para estudio — pendiente de revisión.)
 
 ### 한국어 (초역·교정 대기)
 
@@ -82,19 +82,19 @@ Ejemplo continuo, primer paso: ingreso neto de $500,000, dividendos preferentes 
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
-Mẫu số là bình quân gia quyền vì mỗi cổ phiếu chỉ được tính trong thời gian nó lưu hành. Cổ phiếu phát hành giữa năm chỉ tính trọng số sau ngày phát hành; cổ phiếu mua lại giữa năm rời khỏi phép tính từ ngày mua lại. Vẽ trục thời gian và tính trọng số từng đoạn vững hơn ghi nhớ quy tắc.
+Mỗi cổ phiếu chỉ được tính khi nó đang lưu hành, nên mẫu số tính trọng số theo thời gian. Cổ phiếu phát hành giữa năm chỉ tính sau ngày phát hành; cổ phiếu mua lại rời phép tính từ ngày mua lại.
 
-Có hai loại thay đổi bỏ qua trọng số thời gian và phải điều chỉnh hồi tố cho mọi kỳ được trình bày: cổ tức bằng cổ phiếu và tách cổ phiếu, theo ASC 260-10-55. Không có nguồn lực mới đi vào; cùng một chiếc bánh chỉ cắt thành nhiều phần hơn, nên số cổ phiếu và EPS các kỳ trước phải trình bày lại. Đợt phát hành thu tiền thật chỉ tính trọng số từ ngày phát hành. Tiêu chí là có nguồn lực mới đi vào hay không.
+Cổ tức bằng cổ phiếu và tách cổ phiếu bỏ qua trọng số thời gian và phải điều chỉnh hồi tố cho mọi kỳ được trình bày, theo ASC 260-10-55: không có nguồn lực mới, cùng một chiếc bánh được cắt thành nhiều phần hơn, nên số liệu các kỳ trước trình bày lại. Đợt phát hành thu tiền chỉ tính từ ngày phát hành.
 
-Ví dụ xuyên suốt, bước một: lợi nhuận ròng $500,000, cổ tức ưu đãi $50,000, bình quân gia quyền 200,000 cổ phiếu. EPS cơ bản = (500,000 − 50,000) ÷ 200,000 = 450,000 ÷ 200,000 = $2.25. Mọi phép tính pha loãng đều bắt đầu từ $2.25, và EPS pha loãng chỉ có thể bằng hoặc thấp hơn. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
+Bước một: lợi nhuận ròng $500,000, cổ tức ưu đãi $50,000, bình quân 200,000 cổ phiếu. EPS cơ bản = (500,000 − 50,000) ÷ 200,000 = $2.25. EPS pha loãng chỉ có thể bằng hoặc thấp hơn con số này. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
-हर भारित औसत इसलिए है क्योंकि शेयर केवल उतने समय गिना जाता है जितने समय वह चलन में रहा। बीच में जारी शेयरों को जारी होने के बाद का ही भार मिलता है; पुनः खरीदे गए शेयर पुनः खरीद की तिथि से बाहर हो जाते हैं। समय-रेखा बनाकर हर खंड को भार देना नियम रटने से अधिक स्थिर है।
+शेयर केवल उतने समय गिना जाता है जितने समय वह चलन में रहा, इसलिए हर समय-भारित होता है। बीच में जारी शेयर जारी होने के बाद ही भार पाते हैं; पुनः खरीदे गए शेयर पुनः खरीद की तिथि से बाहर हो जाते हैं।
 
-दो परिवर्तन समय-भार को अनदेखा करते हैं और सभी प्रस्तुत अवधियों के लिए पूर्वव्यापी समायोजित होते हैं: स्टॉक लाभांश और स्टॉक विभाजन, ASC 260-10-55 के अनुसार। कोई नया संसाधन नहीं आता; वही पाई अधिक टुकड़ों में कटती है, इसलिए पूर्व अवधियों के आँकड़े पुनः प्रस्तुत होते हैं। नकद निर्गम केवल उसकी तिथि से भारित होता है। कसौटी यही है कि क्या नए संसाधन आए।
+स्टॉक लाभांश और स्टॉक विभाजन समय-भार को अनदेखा करते हैं और सभी प्रस्तुत अवधियों के लिए पूर्वव्यापी समायोजित होते हैं, ASC 260-10-55 के अनुसार: कोई नया संसाधन नहीं आता, वही पाई अधिक टुकड़ों में कटती है, इसलिए पूर्व आँकड़े पुनः प्रस्तुत होते हैं। नकद निर्गम केवल उसकी तिथि से भारित होता है।
 
-निरंतर उदाहरण, पहला चरण: शुद्ध आय $500,000, अधिमान लाभांश $50,000, भारित औसत 200,000 शेयर। मूल EPS = (500,000 − 50,000) ÷ 200,000 = 450,000 ÷ 200,000 = $2.25। हर तनुकरण परिकलन $2.25 से शुरू होता है, और तनुकृत EPS इससे बराबर या कम ही हो सकता है। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
+पहला चरण: शुद्ध आय $500,000, अधिमान लाभांश $50,000, भारित औसत 200,000 शेयर। मूल EPS = (500,000 − 50,000) ÷ 200,000 = $2.25। तनुकृत EPS इससे बराबर या कम ही हो सकता है। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
 
 ---
 
@@ -110,19 +110,19 @@ Ví dụ xuyên suốt, bước một: lợi nhuận ròng $500,000, cổ tức 
 
 ### English
 
-Diluted EPS asks: if dilutive potential common shares all became common shares, how far would EPS be spread? Potential shares include options, warrants, convertible debt, and convertible preferred stock. Test each item first, then include items ranked by dilutive effect.
+Diluted EPS asks how far EPS would be spread if dilutive potential common shares — options, warrants, convertible debt, convertible preferred stock — all became common shares. Test each item first, then include items by dilutive effect.
 
-Options and warrants use the treasury stock method: assume exercise at the start of the period (or at grant, if later) and receipt of the proceeds; assume the proceeds repurchase shares at the average market price; shares issued minus shares repurchasable is the incremental count, added to the denominator only. An increment arises only when average price exceeds exercise price; below that, the item is antidilutive.
+Options and warrants use the treasury stock method: assume exercise at the start of the period (or at grant, if later), receipt of the proceeds, and repurchase of shares at the average market price. Shares issued minus shares repurchasable is the incremental count, added to the denominator only. No increment arises when average price is at or below exercise price; the item is then antidilutive.
 
-Continue: 20,000 options, exercise price $20, average market price $25. Proceeds = 20,000 × $20 = $400,000; repurchasable = 400,000 ÷ 25 = 16,000; incremental = 20,000 − 16,000 = 4,000. Numerator stays $450,000; denominator = 200,000 + 4,000 = 204,000; diluted EPS = 450,000 ÷ 204,000 ≈ $2.21 (nearest cent). Compute the increment first. (Study translation draft — pending review.)
+Example: 20,000 options, exercise price $20, average price $25. Proceeds = 20,000 × $20 = $400,000; repurchasable = 400,000 ÷ 25 = 16,000; incremental = 4,000 shares. Numerator $450,000; denominator 204,000; diluted EPS = 450,000 ÷ 204,000 ≈ $2.21 (nearest cent). (Study translation draft — pending review.)
 
 ### Español (译稿)
 
-El EPS diluido pregunta: si toda acción potencial dilutiva se convirtiera en acción común, ¿hasta dónde se repartiría el EPS? Las acciones potenciales incluyen opciones, warrants, deuda convertible y preferentes convertibles. Primero se prueba cada elemento; luego se incorporan por grado de dilución.
+El EPS diluido pregunta hasta dónde se repartiría el EPS si las acciones potenciales dilutivas — opciones, warrants, deuda convertible, preferentes convertibles — se convirtieran en acciones comunes. Pruebe cada elemento primero; luego incorpórelos por efecto dilutivo.
 
-Las opciones y los warrants usan el método de acciones en tesorería (treasury stock method): suponga el ejercicio al inicio del periodo (o en la concesión, si es posterior) y la recepción del importe; suponga que ese importe recompra acciones al precio medio de mercado; las emitidas menos las recompradas dan las acciones incrementales, solo en el denominador. Solo hay incremento cuando el precio medio supera el de ejercicio; por debajo, el elemento es antidilutivo.
+Las opciones y los warrants usan el método de acciones en tesorería (treasury stock method): suponga el ejercicio al inicio del periodo (o en la concesión, si es posterior), la recepción del importe y la recompra de acciones al precio medio de mercado. Las emitidas menos las recompradas dan las acciones incrementales, solo en el denominador. No hay incremento cuando el precio medio no supera el de ejercicio; el elemento es entonces antidilutivo.
 
-Siga: 20,000 opciones, ejercicio de $20, precio medio de $25. Importe = 20,000 × $20 = $400,000; recompradas = 400,000 ÷ 25 = 16,000; incrementales = 20,000 − 16,000 = 4,000. El numerador sigue en $450,000; el denominador es 200,000 + 4,000 = 204,000; EPS diluido = 450,000 ÷ 204,000 ≈ $2.21 (al centavo). Calcule primero el incremento. (Borrador de traducción para estudio — pendiente de revisión.)
+Ejemplo: 20,000 opciones, ejercicio de $20, precio medio de $25. Importe = 20,000 × $20 = $400,000; recompradas = 400,000 ÷ 25 = 16,000; incrementales = 4,000 acciones. Numerador $450,000; denominador 204,000; EPS diluido = 450,000 ÷ 204,000 ≈ $2.21 (al centavo). (Borrador de traducción para estudio — pendiente de revisión.)
 
 ### 한국어 (초역·교정 대기)
 
@@ -134,19 +134,19 @@ Siga: 20,000 opciones, ejercicio de $20, precio medio de $25. Importe = 20,000 �
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
-EPS pha loãng hỏi: nếu mọi cổ phiếu tiềm năng có tính pha loãng đều thành cổ phiếu phổ thông, EPS sẽ bị trải mỏng đến đâu? Cổ phiếu tiềm năng gồm quyền chọn, chứng quyền, nợ chuyển đổi và cổ phiếu ưu đãi chuyển đổi. Kiểm tra từng khoản trước, rồi đưa vào theo mức độ pha loãng.
+EPS pha loãng hỏi EPS sẽ bị trải mỏng đến đâu nếu mọi cổ phiếu tiềm năng có tính pha loãng — quyền chọn, chứng quyền, nợ chuyển đổi, cổ phiếu ưu đãi chuyển đổi — đều thành cổ phiếu phổ thông. Kiểm tra từng khoản trước, rồi đưa vào theo mức độ pha loãng.
 
-Quyền chọn và chứng quyền dùng phương pháp cổ phiếu quỹ (treasury stock method): giả định thực hiện vào đầu kỳ (hoặc ngày cấp, nếu muộn hơn) và thu được tiền thực hiện; giả định số tiền đó mua lại cổ phiếu theo giá bình quân của kỳ; số phát hành trừ số mua lại được là số tăng thêm, chỉ cộng vào mẫu số. Chỉ có số tăng thêm khi giá bình quân cao hơn giá thực hiện; thấp hơn thì khoản đó chống pha loãng.
+Quyền chọn và chứng quyền dùng phương pháp cổ phiếu quỹ (treasury stock method): giả định thực hiện vào đầu kỳ (hoặc ngày cấp, nếu muộn hơn), thu được tiền, và dùng tiền đó mua lại cổ phiếu theo giá bình quân của kỳ. Số phát hành trừ số mua lại được là số tăng thêm, chỉ cộng vào mẫu số. Không có số tăng thêm khi giá bình quân không cao hơn giá thực hiện; khoản đó khi ấy chống pha loãng.
 
-Tiếp tục: 20,000 quyền chọn, giá thực hiện $20, giá bình quân $25. Tiền thu = 20,000 × $20 = $400,000; mua lại được = 400,000 ÷ 25 = 16,000; tăng thêm = 20,000 − 16,000 = 4,000. Tử số giữ $450,000; mẫu số = 200,000 + 4,000 = 204,000; EPS pha loãng = 450,000 ÷ 204,000 ≈ $2.21 (đến cent). Hãy tính số tăng thêm trước. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
+Ví dụ: 20,000 quyền chọn, giá thực hiện $20, giá bình quân $25. Tiền thu = 20,000 × $20 = $400,000; mua lại được = 400,000 ÷ 25 = 16,000; tăng thêm = 4,000 cổ phiếu. Tử số $450,000; mẫu số 204,000; EPS pha loãng = 450,000 ÷ 204,000 ≈ $2.21 (đến cent). (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
-तनुकृत EPS पूछता है: यदि सभी तनुकारी संभाव्य सामान्य शेयर सामान्य शेयर बन जाएँ, तो EPS कितना पतला बँटेगा? संभाव्य शेयरों में विकल्प, वारंट, परिवर्तनीय ऋण और परिवर्तनीय अधिमान शेयर आते हैं। पहले हर मद को परखें, फिर तनुकरण के क्रम में शामिल करें।
+तनुकृत EPS पूछता है कि यदि तनुकारी संभाव्य सामान्य शेयर — विकल्प, वारंट, परिवर्तनीय ऋण, परिवर्तनीय अधिमान शेयर — सभी सामान्य शेयर बन जाएँ, तो EPS कितना पतला बँटेगा। पहले हर मद को परखें, फिर तनुकरण के क्रम में शामिल करें।
 
-विकल्पों और वारंटों पर ट्रेज़री स्टॉक विधि लगती है: अवधि के आरंभ में (या अनुदान तिथि पर, यदि बाद में हो) प्रयोग और राशि की प्राप्ति मानें; मानें कि उस राशि से औसत बाज़ार मूल्य पर शेयर पुनः खरीदे जाते हैं; जारी शेयरों में से पुनः खरीद योग्य घटाने पर वृद्धिशील शेयर मिलते हैं, जो केवल हर में जुड़ते हैं। वृद्धि तभी मिलती है जब औसत मूल्य प्रयोग मूल्य से ऊपर हो; नीचे हो तो मद प्रतितनुकारी है।
+विकल्पों और वारंटों पर ट्रेज़री स्टॉक विधि लगती है: अवधि के आरंभ में (या अनुदान तिथि पर, यदि बाद में हो) प्रयोग, राशि की प्राप्ति और औसत बाज़ार मूल्य पर पुनः खरीद मानें। जारी शेयरों में से पुनः खरीद योग्य घटाने पर वृद्धिशील शेयर मिलते हैं, जो केवल हर में जुड़ते हैं। औसत मूल्य प्रयोग मूल्य से ऊपर न हो तो वृद्धि नहीं मिलती; मद तब प्रतितनुकारी है।
 
-आगे: $20 प्रयोग मूल्य और $25 औसत मूल्य वाले 20,000 विकल्प। आगम = 20,000 × $20 = $400,000; पुनः खरीद योग्य = 400,000 ÷ 25 = 16,000; वृद्धिशील = 20,000 − 16,000 = 4,000। अंश $450,000 ही रहता है; हर = 200,000 + 4,000 = 204,000; तनुकृत EPS = 450,000 ÷ 204,000 ≈ $2.21 (निकटतम सेंट तक)। पहले वृद्धि निकालें। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
+उदाहरण: $20 प्रयोग मूल्य और $25 औसत मूल्य वाले 20,000 विकल्प। आगम = 20,000 × $20 = $400,000; पुनः खरीद योग्य = 400,000 ÷ 25 = 16,000; वृद्धिशील = 4,000 शेयर। अंश $450,000; हर 204,000; तनुकृत EPS = 450,000 ÷ 204,000 ≈ $2.21 (निकटतम सेंट तक)। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
 
 ---
 
@@ -160,15 +160,15 @@ Tiếp tục: 20,000 quyền chọn, giá thực hiện $20, giá bình quân $2
 
 ### English
 
-Convertible securities use the if-converted method, not the treasury stock method: assume conversion already happened. Convertible debt is assumed converted at the start of the period (or at issuance, if later). Add back after-tax interest to the numerator — the add-back is interest × (1 − tax rate), since the interest and its tax shield both disappear — and add the conversion shares to the denominator. Convertible preferred stock is parallel: add back the dividend previously deducted, with no (1 − tax rate) factor.
+Convertible securities use the if-converted method: assume conversion at the start of the period (or at issuance, if later). For debt, add back after-tax interest — interest × (1 − tax rate) — to the numerator, and add the conversion shares to the denominator. For convertible preferred stock, add back the dividend previously deducted, with no tax factor.
 
-Test each item for antidilution by its incremental per-share effect: numerator increment ÷ denominator increment. If conversion would raise EPS, exclude it. Rank several securities by that effect, smallest first, include them one at a time from the most dilutive, recompute each step, and stop when the next item would raise EPS. In a loss period, all potential shares are antidilutive and excluded, so diluted EPS equals basic EPS. (Study translation draft — pending review.)
+Test each item by its incremental per-share effect, numerator increment ÷ denominator increment; exclude any item whose conversion would raise EPS. Rank items from most dilutive, include them one at a time, recompute each step, and stop when the next item would raise EPS. In a loss period, all potential shares are antidilutive and excluded, so diluted EPS equals basic EPS. (Study translation draft — pending review.)
 
 ### Español (译稿)
 
-Los valores convertibles usan el método if-converted, no el de acciones en tesorería: suponer que la conversión ya ocurrió. La deuda convertible se supone convertida al inicio del periodo (o en la emisión, si es posterior). Al numerador se le devuelve el interés después de impuestos — la devolución es interés × (1 − tasa fiscal), porque desaparecen el interés y su escudo fiscal — y al denominador se le suman las acciones de la conversión. La preferente convertible es paralela: vuelve el dividendo antes restado, sin factor (1 − tasa fiscal).
+Los valores convertibles usan el método if-converted: suponer la conversión al inicio del periodo (o en la emisión, si es posterior). En la deuda, se devuelve al numerador el interés después de impuestos — interés × (1 − tasa fiscal) — y se suman al denominador las acciones de la conversión. En la preferente convertible, vuelve el dividendo antes restado, sin factor fiscal.
 
-Pruebe cada elemento como antidilutivo por su efecto incremental por acción: incremento del numerador ÷ incremento del denominador. Si la conversión elevara el EPS, exclúyalo. Ordene varios valores por ese efecto, de menor a mayor, incorpórelos uno a uno desde el más dilutivo, recalcule en cada paso y deténgase cuando el siguiente vaya a subir el EPS. En un periodo con pérdida, todas las acciones potenciales son antidilutivas y se excluyen, así que el EPS diluido iguala al básico. (Borrador de traducción para estudio — pendiente de revisión.)
+Pruebe cada elemento por su efecto incremental por acción, incremento del numerador ÷ incremento del denominador; excluya el que elevara el EPS al convertirse. Ordene los elementos desde el más dilutivo, incorpórelos uno a uno, recalcule en cada paso y deténgase cuando el siguiente vaya a subir el EPS. En un periodo con pérdida, todas las acciones potenciales son antidilutivas y se excluyen, así que el EPS diluido iguala al básico. (Borrador de traducción para estudio — pendiente de revisión.)
 
 ### 한국어 (초역·교정 대기)
 
@@ -178,15 +178,15 @@ Pruebe cada elemento como antidilutivo por su efecto incremental por acción: in
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
-Chứng khoán chuyển đổi dùng phương pháp if-converted, không dùng phương pháp cổ phiếu quỹ: giả định việc chuyển đổi đã xảy ra. Nợ chuyển đổi được giả định chuyển đổi vào đầu kỳ (hoặc ngày phát hành, nếu muộn hơn). Tử số cộng lại lãi sau thuế — khoản cộng là lãi × (1 − thuế suất), vì cả lãi và lá chắn thuế của lãi đều biến mất — và mẫu số cộng số cổ phiếu khi chuyển đổi. Cổ phiếu ưu đãi chuyển đổi tương tự: cộng lại cổ tức đã trừ trước đó, không nhân (1 − thuế suất).
+Chứng khoán chuyển đổi dùng phương pháp if-converted: giả định chuyển đổi vào đầu kỳ (hoặc ngày phát hành, nếu muộn hơn). Với nợ, cộng lại vào tử số lãi sau thuế — lãi × (1 − thuế suất) — và cộng vào mẫu số số cổ phiếu khi chuyển đổi. Với cổ phiếu ưu đãi chuyển đổi, cộng lại cổ tức đã trừ trước đó, không nhân hệ số thuế.
 
-Kiểm tra chống pha loãng cho từng khoản bằng tác động tăng thêm trên mỗi cổ phiếu: phần tăng tử số ÷ phần tăng mẫu số. Nếu chuyển đổi làm EPS tăng lên, hãy loại khoản đó. Khi có nhiều chứng khoán, xếp chúng theo tác động đó từ nhỏ đến lớn, đưa vào từng khoản từ khoản pha loãng nhất, tính lại ở mỗi bước và dừng khi khoản tiếp theo sẽ đẩy EPS lên. Trong kỳ lỗ, mọi cổ phiếu tiềm năng đều chống pha loãng và bị loại, nên EPS pha loãng bằng EPS cơ bản. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
+Kiểm tra từng khoản bằng tác động tăng thêm trên mỗi cổ phiếu của nó, phần tăng tử số ÷ phần tăng mẫu số; loại khoản nào mà chuyển đổi sẽ làm EPS tăng lên. Xếp các khoản từ pha loãng nhất, đưa vào từng khoản, tính lại ở mỗi bước và dừng khi khoản tiếp theo sẽ đẩy EPS lên. Trong kỳ lỗ, mọi cổ phiếu tiềm năng đều chống pha loãng và bị loại, nên EPS pha loãng bằng EPS cơ bản. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
-परिवर्तनीय प्रतिभूतियों पर ट्रेज़री स्टॉक विधि नहीं, if-converted विधि लगती है: मान लें कि परिवर्तन हो चुका है। परिवर्तनीय ऋण को अवधि के आरंभ में (या निर्गम तिथि पर, यदि बाद में हो) परिवर्तित माना जाता है। अंश में कर-पश्चात ब्याज वापस जोड़ें — वापसी ब्याज × (1 − कर दर) है, क्योंकि ब्याज और उसकी कर-ढाल दोनों समाप्त हो जाते हैं — और हर में परिवर्तन वाले शेयर जोड़ें। परिवर्तनीय अधिमान शेयर भी समान है: पहले घटाया गया लाभांश वापस जुड़ता है, बिना (1 − कर दर) गुणक के।
+परिवर्तनीय प्रतिभूतियों पर if-converted विधि लगती है: अवधि के आरंभ में (या निर्गम तिथि पर, यदि बाद में हो) परिवर्तन मान लें। ऋण के लिए अंश में कर-पश्चात ब्याज — ब्याज × (1 − कर दर) — वापस जोड़ें और हर में परिवर्तन वाले शेयर जोड़ें। परिवर्तनीय अधिमान शेयर के लिए पहले घटाया गया लाभांश वापस जुड़ता है, बिना कर गुणक के।
 
-हर मद को उसके वृद्धिशील प्रति-शेयर प्रभाव से परखें: अंश की वृद्धि ÷ हर की वृद्धि। यदि परिवर्तन से EPS बढ़ जाए तो मद को बाहर रखें। कई प्रतिभूतियाँ हों तो उन्हें उस प्रभाव के बढ़ते क्रम में रखें, सबसे तनुकारी से एक-एक करके लाएँ, हर चरण पर फिर गणना करें, और अगली मद EPS बढ़ाने लगे तो रुक जाएँ। हानि वाली अवधि में सभी संभाव्य शेयर प्रतितनुकारी माने जाते हैं और बाहर रहते हैं, इसलिए तनुकृत EPS मूल EPS के बराबर होता है। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
+हर मद को उसके वृद्धिशील प्रति-शेयर प्रभाव, अंश की वृद्धि ÷ हर की वृद्धि, से परखें; जिस मद के परिवर्तन से EPS बढ़ जाए, उसे बाहर रखें। मदों को सबसे तनुकारी से क्रम में रखें, एक-एक करके लाएँ, हर चरण पर फिर गणना करें, और अगली मद EPS बढ़ाने लगे तो रुक जाएँ। हानि वाली अवधि में सभी संभाव्य शेयर प्रतितनुकारी होते हैं और बाहर रहते हैं, इसलिए तनुकृत EPS मूल EPS के बराबर होता है। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
 
 ---
 
@@ -200,15 +200,15 @@ Kiểm tra chống pha loãng cho từng khoản bằng tác động tăng thêm
 
 ### English
 
-The earlier sections assumed all earnings belong to common stock. The two-class method handles the exception: participating securities share earnings alongside common stock. From ASC 260-10-45-59A onward, basic EPS uses the two-class method when participating securities exist: earnings are allocated by participation rights, undistributed earnings are shared on the agreed basis, and each class gets its own per-share amount. Examples are participating preferred stock and classes with participating dividends.
+Participating securities share earnings alongside common stock, so earnings cannot all go to the common class. From ASC 260-10-45-59A, basic EPS then uses the two-class method: earnings are allocated by participation rights, undistributed earnings are shared on the agreed basis, and each class gets its own per-share amount.
 
-The ASC 718 link is easily missed. An unvested share-based award with nonforfeitable rights to dividends can collect dividends before vesting and keep them even if it never vests; it is a participating security, allocated earnings under the two-class method. An award with forfeitable dividend rights is not. Test: if vesting fails, must earlier dividends be returned? If not, the award participates. For diluted EPS, compare the two-class result with the treasury stock and if-converted results and report the more dilutive one. (Study translation draft — pending review.)
+Under ASC 718, an unvested share-based award with nonforfeitable rights to dividends is a participating security: it collects dividends before vesting and keeps them even if it never vests, so earnings are allocated to it under the two-class method. Awards with forfeitable dividend rights are not participating securities. For diluted EPS, report the more dilutive of the two-class, treasury stock, and if-converted results. (Study translation draft — pending review.)
 
 ### Español (译稿)
 
-Las secciones anteriores suponían que toda la ganancia pertenece a las acciones comunes. El método de dos clases (two-class method) trata la excepción: los valores participativos comparten las ganancias con las acciones comunes. Desde la ASC 260-10-45-59A, el EPS básico usa el método de dos clases cuando existen valores participativos: la ganancia se reparte según los derechos de participación, la ganancia no distribuida se comparte en la base pactada y cada clase obtiene su importe por acción. Ejemplos: preferentes participativas y clases con dividendo participativo.
+Los valores participativos comparten las ganancias con las acciones comunes, así que la ganancia no puede ir entera a la clase común. Desde la ASC 260-10-45-59A, el EPS básico usa entonces el método de dos clases (two-class method): la ganancia se reparte según los derechos de participación, la no distribuida se comparte en la base pactada y cada clase obtiene su importe por acción.
 
-El enlace con la ASC 718 se pasa por alto con facilidad. Una concesión de pago basado en acciones aún no consolidada (unvested) con derechos no confiscables a dividendos puede cobrar dividendos antes de consolidarse y quedárselos aunque nunca se consolide; es un valor participativo y recibe ganancia con el método de dos clases. Una concesión con derechos confiscables no lo es. Prueba: si la consolidación falla, ¿hay que devolver los dividendos previos? Si no, participa. Para el EPS diluido, compare el resultado de dos clases con los de tesorería e if-converted y presente el más dilutivo. (Borrador de traducción para estudio — pendiente de revisión.)
+Según la ASC 718, una concesión de pago basado en acciones aún no consolidada (unvested) con derechos no confiscables a dividendos es un valor participativo: cobra dividendos antes de consolidarse y los conserva aunque nunca se consolide, así que recibe ganancia con el método de dos clases. Las concesiones con derechos confiscables no son valores participativos. Para el EPS diluido, presente el resultado más dilutivo entre dos clases, tesorería e if-converted. (Borrador de traducción para estudio — pendiente de revisión.)
 
 ### 한국어 (초역·교정 대기)
 
@@ -218,15 +218,15 @@ ASC 718과의 연결은 놓치기 쉽습니다. 몰수 불가능한 배당권(no
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
-Các mục trước giả định toàn bộ thu nhập thuộc về cổ phiếu phổ thông. Phương pháp hai lớp (two-class method) xử lý ngoại lệ: chứng khoán tham gia cùng chia thu nhập với cổ phiếu phổ thông. Từ ASC 260-10-45-59A trở đi, EPS cơ bản dùng phương pháp hai lớp khi có chứng khoán tham gia: thu nhập được phân bổ theo quyền tham gia, thu nhập chưa phân phối cũng được chia trên cơ sở đã thỏa thuận, và mỗi lớp có con số riêng. Ví dụ là cổ phiếu ưu đãi tham gia và các lớp có cổ tức tham gia.
+Chứng khoán tham gia cùng chia thu nhập với cổ phiếu phổ thông, nên thu nhập không thể gán hết cho lớp phổ thông. Từ ASC 260-10-45-59A, EPS cơ bản khi ấy dùng phương pháp hai lớp (two-class method): thu nhập được phân bổ theo quyền tham gia, phần chưa phân phối cũng được chia trên cơ sở đã thỏa thuận, và mỗi lớp có con số riêng.
 
-Điểm nối với ASC 718 rất dễ bị bỏ sót. Một khoản thưởng thanh toán bằng cổ phiếu chưa đủ điều kiện hưởng (unvested) mang quyền cổ tức không thể bị tịch thu (nonforfeitable) có thể nhận cổ tức trước khi đủ điều kiện và giữ luôn kể cả khi không bao giờ đủ điều kiện; nó là chứng khoán tham gia và được phân bổ thu nhập theo phương pháp hai lớp. Khoản thưởng có quyền cổ tức có thể bị tịch thu thì không phải. Kiểm tra: nếu điều kiện hưởng không đạt, cổ tức đã nhận có phải trả lại không? Nếu không, nó tham gia. Với EPS pha loãng, so sánh kết quả hai lớp với cổ phiếu quỹ và if-converted, rồi trình bày kết quả pha loãng hơn. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
+Theo ASC 718, một khoản thưởng thanh toán bằng cổ phiếu chưa đủ điều kiện hưởng (unvested) mang quyền cổ tức không thể bị tịch thu (nonforfeitable) là chứng khoán tham gia: nó nhận cổ tức trước khi đủ điều kiện và giữ luôn kể cả khi không bao giờ đủ điều kiện, nên được phân bổ thu nhập theo phương pháp hai lớp. Khoản thưởng có quyền cổ tức có thể bị tịch thu thì không phải. Với EPS pha loãng, trình bày kết quả pha loãng hơn trong ba phương pháp hai lớp, cổ phiếu quỹ và if-converted. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
-पिछले खंडों ने माना था कि सारी आय सामान्य स्टॉक की है। द्वि-वर्ग विधि (two-class method) अपवाद संभालती है: भागीदारी प्रतिभूतियाँ सामान्य स्टॉक के साथ आय साझा करती हैं। ASC 260-10-45-59A से आगे, भागीदारी प्रतिभूतियाँ हों तो मूल EPS द्वि-वर्ग विधि से निकलता है: आय भागीदारी अधिकारों के अनुसार बाँटी जाती है, अवितरित आय भी तय आधार पर साझा होती है, और हर वर्ग को अपनी प्रति-शेयर राशि मिलती है। उदाहरण हैं भागीदारी अधिमान स्टॉक और भागीदारी लाभांश वाले शेयर वर्ग।
+भागीदारी प्रतिभूतियाँ सामान्य स्टॉक के साथ आय साझा करती हैं, इसलिए आय पूरी सामान्य वर्ग को नहीं दी जा सकती। ASC 260-10-45-59A से आगे, ऐसी प्रतिभूतियाँ हों तो मूल EPS द्वि-वर्ग विधि (two-class method) से निकलता है: आय भागीदारी अधिकारों के अनुसार बाँटी जाती है, अवितरित आय भी तय आधार पर साझा होती है, और हर वर्ग को अपनी प्रति-शेयर राशि मिलती है।
 
-ASC 718 से जुड़ाव आसानी से छूट जाता है। अनर्जित (unvested) शेयर-आधारित भुगतान पुरस्कार, जिसके पास लाभांश के अजब्तीय (nonforfeitable) अधिकार हों, अर्जन से पहले लाभांश ले सकता है और कभी अर्जित न हो तब भी उसे रख सकता है; वह भागीदारी प्रतिभूति है और द्वि-वर्ग विधि से उसे आय बाँटनी होगी। जिस पुरस्कार के लाभांश अधिकार जब्त किए जा सकते हों, वह भागीदारी प्रतिभूति नहीं है। कसौटी: यदि अर्जन विफल हो जाए तो पहले मिला लाभांश वापस करना होगा क्या? यदि नहीं, तो पुरस्कार भागीदार है। तनुकृत EPS के लिए द्वि-वर्ग परिणाम की तुलना ट्रेज़री स्टॉक और if-converted परिणामों से करें और अधिक तनुकारी परिणाम प्रस्तुत करें। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
+ASC 718 के अनुसार, अनर्जित (unvested) शेयर-आधारित पुरस्कार जिसके पास लाभांश के अजब्तीय (nonforfeitable) अधिकार हों, वह भागीदारी प्रतिभूति है: वह अर्जन से पहले लाभांश लेता है और कभी अर्जित न हो तब भी उसे रखता है, इसलिए द्वि-वर्ग विधि से उसे आय बाँटनी होगी। जब्त किए जा सकने वाले अधिकारों वाला पुरस्कार भागीदारी प्रतिभूति नहीं है। तनुकृत EPS के लिए द्वि-वर्ग, ट्रेज़री स्टॉक और if-converted परिणामों में से अधिक तनुकारी परिणाम प्रस्तुत करें। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
 
 ---
 
@@ -240,15 +240,15 @@ ASC 718 से जुड़ाव आसानी से छूट जाता 
 
 ### English
 
-Presentation matters as much as arithmetic. A public company presents basic and diluted EPS together on the face of the income statement. Per-share amounts are given separately for income from continuing operations and for net income, not just for net income alone. Discontinued operations, when present, get a separate per-share amount, on the face or in the notes, never blended into continuing operations. The notes also reconcile the numerators and denominators and disclose securities excluded this period that could dilute later.
+A public company presents basic and diluted EPS together on the face of the income statement. Per-share amounts are given separately for income from continuing operations and for net income. Discontinued operations get a separate per-share amount, on the face or in the notes, never blended into continuing operations. The notes reconcile the numerators and denominators and disclose securities excluded this period that could dilute later.
 
-Internationally, IAS 33 and ASC 260 are broadly converged: both use basic and diluted measures, the term is diluted EPS under both, and the treasury stock logic and antidilution idea are substantially alike. Differences, in broad direction only, lie in the treatment of certain individual securities, the specific arrangements for participating securities and the two-class method, and some presentation placement requirements. Cross-border work must return to each standard's own text. For exam purposes, convergence is the main line. (Study translation draft — pending review.)
+IAS 33 and ASC 260 are broadly converged: both use basic and diluted measures, the term is diluted EPS under both, and treasury stock logic and the antidilution idea are substantially alike. Differences lie in certain individual securities, participating-security arrangements, and some presentation placement rules. Cross-border work must return to each standard's own text. (Study translation draft — pending review.)
 
 ### Español (译稿)
 
-La presentación importa tanto como la aritmética. Una entidad pública presenta el EPS básico y el diluido juntos en el cuerpo del estado de resultados. Se dan importes por acción por separado para el resultado de operaciones continuadas y para el ingreso neto, no solo para el ingreso neto. Las operaciones discontinuadas, cuando existen, reciben un importe por acción separado, en el cuerpo o en las notas, sin mezclarlo con operaciones continuadas. Las notas además concilian numeradores y denominadores y revelan los valores excluidos en este periodo que podrían diluir más adelante.
+Una entidad pública presenta el EPS básico y el diluido juntos en el cuerpo del estado de resultados. Se dan importes por acción por separado para el resultado de operaciones continuadas y para el ingreso neto. Las operaciones discontinuadas reciben un importe por acción separado, en el cuerpo o en las notas, sin mezclarlo con operaciones continuadas. Las notas concilian numeradores y denominadores y revelan los valores excluidos en este periodo que podrían diluir más adelante.
 
-En el plano internacional, la IAS 33 y la ASC 260 están en gran medida convergidas: ambas usan medidas básica y diluida, el término es diluted EPS en las dos, y la lógica de acciones en tesorería y la idea de antidilución son sustancialmente parecidas. Las diferencias, solo en dirección general, están en el tratamiento de ciertos valores individuales, los arreglos concretos para valores participativos y el método de dos clases, y algunos requisitos de ubicación en la presentación. El trabajo transfronterizo debe volver al texto propio de cada norma. Para el examen, la convergencia es la línea principal. (Borrador de traducción para estudio — pendiente de revisión.)
+La IAS 33 y la ASC 260 están en gran medida convergidas: ambas usan medidas básica y diluida, el término es diluted EPS en las dos, y la lógica de tesorería y la idea de antidilución son parecidas. Las diferencias están en ciertos valores individuales, los arreglos de valores participativos y algunos requisitos de ubicación en la presentación. El trabajo transfronterizo debe volver al texto propio de cada norma. (Borrador de traducción para estudio — pendiente de revisión.)
 
 ### 한국어 (초역·교정 대기)
 
@@ -258,15 +258,15 @@ En el plano internacional, la IAS 33 y la ASC 260 están en gran medida convergi
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
-Trình bày quan trọng không kém số học. Công ty đại chúng trình bày EPS cơ bản và EPS pha loãng cùng nhau trên mặt báo cáo kết quả kinh doanh. Số tiền trên mỗi cổ phiếu được trình bày riêng cho thu nhập từ hoạt động liên tục và cho lợi nhuận ròng, không chỉ riêng cho lợi nhuận ròng. Hoạt động đã ngừng, nếu có, nhận một con số riêng, trên mặt báo cáo hoặc trong thuyết minh, không trộn lẫn với hoạt động liên tục. Thuyết minh còn đối chiếu tử số và mẫu số, đồng thời công bố các chứng khoán bị loại kỳ này nhưng có thể pha loãng về sau.
+Công ty đại chúng trình bày EPS cơ bản và EPS pha loãng cùng nhau trên mặt báo cáo kết quả kinh doanh. Số tiền trên mỗi cổ phiếu được trình bày riêng cho thu nhập từ hoạt động liên tục và cho lợi nhuận ròng. Hoạt động đã ngừng nhận một con số riêng, trên mặt báo cáo hoặc trong thuyết minh, không trộn lẫn với hoạt động liên tục. Thuyết minh đối chiếu tử số và mẫu số, đồng thời công bố các chứng khoán bị loại kỳ này nhưng có thể pha loãng về sau.
 
-Về quốc tế, IAS 33 và ASC 260 về cơ bản hội tụ: cả hai đều dùng thước đo cơ bản và pha loãng, thuật ngữ đều là diluted EPS, logic cổ phiếu quỹ và ý tưởng chống pha loãng cũng về cơ bản giống nhau. Chênh lệch, chỉ nêu ở hướng lớn, nằm ở cách xử lý một số chứng khoán riêng lẻ, sắp xếp cụ thể cho chứng khoán tham gia và phương pháp hai lớp, cùng một số yêu cầu về vị trí trình bày. Công việc xuyên biên giới phải quay về văn bản riêng của từng chuẩn mực. Ở mức độ thi cử, hội tụ là trục chính. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
+IAS 33 và ASC 260 về cơ bản hội tụ: cả hai đều dùng thước đo cơ bản và pha loãng, thuật ngữ đều là diluted EPS, logic cổ phiếu quỹ và ý tưởng chống pha loãng cũng về cơ bản giống nhau. Chênh lệch nằm ở một số chứng khoán riêng lẻ, sắp xếp cho chứng khoán tham gia và một số yêu cầu về vị trí trình bày. Công việc xuyên biên giới phải quay về văn bản riêng của từng chuẩn mực. (Bản dịch sơ bộ phục vụ học tập — chờ hiệu đính.)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
-प्रस्तुति अंकगणित जितनी ही महत्वपूर्ण है। सार्वजनिक कंपनी आय विवरण के मुख्य भाग में मूल EPS और तनुकृत EPS दोनों साथ-साथ प्रस्तुत करती है। प्रति-शेयर राशियाँ केवल शुद्ध आय के लिए नहीं, सतत परिचालनों से आय और शुद्ध आय के लिए अलग-अलग दी जाती हैं। बंद किए गए परिचालन हों तो उनकी प्रति-शेयर राशि भी अलग प्रस्तुत होती है, मुख्य भाग में या नोटों में, सतत परिचालन में मिलाए बिना। नोट अंश और हर का मिलान भी देते हैं और उन प्रतिभूतियों का खुलासा करते हैं जो इस अवधि में बाहर रहीं पर बाद में तनुकृत कर सकती हैं।
+सार्वजनिक कंपनी आय विवरण के मुख्य भाग में मूल EPS और तनुकृत EPS दोनों साथ-साथ प्रस्तुत करती है। प्रति-शेयर राशियाँ सतत परिचालनों से आय और शुद्ध आय के लिए अलग-अलग दी जाती हैं। बंद किए गए परिचालन हों तो उनकी प्रति-शेयर राशि भी अलग प्रस्तुत होती है, मुख्य भाग में या नोटों में, सतत परिचालन में मिलाए बिना। नोट अंश और हर का मिलान देते हैं और उन प्रतिभूतियों का खुलासा करते हैं जो इस अवधि में बाहर रहीं पर बाद में तनुकृत कर सकती हैं।
 
-अंतरराष्ट्रीय स्तर पर IAS 33 और ASC 260 मोटे तौर पर अभिसरित हैं: दोनों में मूल और तनुकृत माप हैं, शब्द दोनों में diluted EPS ही है, और ट्रेज़री स्टॉक तर्क तथा प्रतितनुकरण का विचार काफी हद तक समान है। अंतर, केवल बड़े दिशा-संकेत में, कुछ व्यक्तिगत प्रतिभूतियों के व्यवहार, भागीदारी प्रतिभूतियों और द्वि-वर्ग विधि की ठोस व्यवस्थाओं, और कुछ प्रस्तुति-स्थान आवश्यकताओं में हैं। सीमा-पार कार्य में एक पक्ष का निष्कर्ष दूसरे पर न ले जाएँ; प्रत्येक मानक के अपने पाठ पर लौटें। परीक्षा के लिए अभिसरण ही मुख्य रेखा है। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
+IAS 33 और ASC 260 मोटे तौर पर अभिसरित हैं: दोनों में मूल और तनुकृत माप हैं, शब्द दोनों में diluted EPS ही है, और ट्रेज़री स्टॉक तर्क तथा प्रतितनुकरण का विचार काफी हद तक समान है। अंतर कुछ व्यक्तिगत प्रतिभूतियों के व्यवहार, भागीदारी प्रतिभूतियों की व्यवस्थाओं और कुछ प्रस्तुति-स्थान आवश्यकताओं में हैं। सीमा-पार कार्य में प्रत्येक मानक के अपने पाठ पर लौटें। (अध्ययन हेतु प्रारंभिक अनुवाद — समीक्षा लंबित है।)
 
 ---
 
