@@ -8,6 +8,8 @@ Notas de estudio sobre el examen CPA de EE. UU. y temas fiscales, en cuatro secc
 
 
 支持与更多：[GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — 我在用的模板与工作簿](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+- [收到遗产要交税吗：继承免税与 §1014 基数提升](常用财税常识/收到遗产要交税吗-继承免税与1014条基数提升.md) —— 三层分清：§ 102(a) 继承人收到遗产联邦不征所得税（继承 IRA 例外、SECURE 法 10 年取完），遗产税向遗产收、免税额 2025 年 13,990,000 美元、OBBBA 定 2026 年 15,000,000 美元，真正的大头是 § 1014 基数提升（去世日市值）与加州社区财产 § 1014(b)(6) 全额提升；加州无州遗产税与继承税。（六语对照）
+
 ## 栏目索引 / Sections / Secciones
 
 | 栏目 Section | 起始文章 First article |
