@@ -1,0 +1,90 @@
+# Flowers 案：出差费用扣除与通勤边界
+
+## 一、事实与程序：住在杰克逊，工作在莫比尔
+
+### 中文
+本案是 Commissioner v. Flowers, 326 U.S. 465 (1946)，由美国联邦最高法院判决。纳税人 J. N. Flowers 是铁路公司的律师，常住密西西比州杰克逊（Jackson, Mississippi）。因工作需要，他须长期在阿拉巴马州莫比尔（Mobile, Alabama）办公处理铁路事务。Flowers 自愿选择继续住在杰克逊，而不是搬到莫比尔，于是把他在莫比尔的食宿费用和杰克逊与莫比尔之间的往返交通费，作为经营差旅费在报税时扣除。税务局长（Commissioner）否定这些扣除，Flowers 起诉争执，案件一路打到最高法院。最高法院支持税务局长，维持否定。争议表面是几笔费用能不能扣，底下的问题只有一个：一个自愿把家安在远离工作地点的人，能不能把多出来的吃住行都算成生意的成本。
+
+### English
+The case is Commissioner v. Flowers, 326 U.S. 465 (1946), decided by the U.S. Supreme Court. The taxpayer, J. N. Flowers, was an attorney for a railroad company and lived in Jackson, Mississippi. His work required him to be based for an extended period in Mobile, Alabama. Flowers voluntarily chose to keep living in Jackson rather than move to Mobile, and he deducted, as business travel expenses, his meals and lodging in Mobile and his trips between Jackson and Mobile. The Commissioner disallowed the deductions, Flowers litigated, and the case reached the Supreme Court, which sided with the Commissioner and sustained the disallowance. On the surface the fight was over a few expense items; underneath, the question was one only: when a taxpayer voluntarily keeps his home far from his workplace, can the extra living and travel costs be turned into business costs? The amounts were modest and documented; the fight was over their character, not their size.
+
+### Español (译稿·初译待校)
+El caso es Commissioner v. Flowers, 326 U.S. 465 (1946), resuelto por el Tribunal Supremo de EE. UU. El contribuyente, J. N. Flowers, era abogado de una compañía ferroviaria y vivía en Jackson, Mississippi. Su trabajo le exigía estar destinado durante un período prolongado en Mobile, Alabama. Flowers eligió voluntariamente seguir viviendo en Jackson en lugar de mudarse a Mobile, y dedujo como gastos de viaje de negocios su comida y alojamiento en Mobile y los desplazamientos entre Jackson y Mobile. El Commissioner (comisionado fiscal) denegó las deducciones, Flowers litigó y el caso llegó al Tribunal Supremo, que dio la razón al Commissioner y mantuvo la denegación. En la superficie se discutían unas partidas de gasto; en el fondo había una sola pregunta: quien voluntariamente mantiene su casa lejos de su lugar de trabajo, ¿puede convertir el coste extra de vivir y viajar en un coste del negocio? Los importes eran modestos y estaban documentados; la disputa era por su carácter, no por su cuantía.
+
+### 한국어 (초역·待校)
+
+이 사건은 미국 연방 대법원의 Commissioner v. Flowers, 326 U.S. 465 (1946)입니다. 납세자 J. N. Flowers는 철도 회사 변호사로 잭슨(Jackson)에 살았지만 업무상 모빌(Mobile)에서 장기간 근무해야 했습니다. 그는 이사하지 않고 잭슨에 살기를 자발적으로 선택해 모빌의 식비·숙박비와 왕복 교통비를 출장비로 공제 신고했습니다. 국세청장(Commissioner)은 부인했고 대법원은 부인을 유지했습니다.
+
+### Tiếng Việt (bản dịch sơ bộ·待校)
+Vụ án là Commissioner v. Flowers, 326 U.S. 465 (1946), do Tòa án Tối cao Hoa Kỳ phán quyết. Người nộp thuế, J. N. Flowers, là luật sư của một công ty đường sắt và sống tại Jackson, Mississippi. Công việc đòi hỏi ông phải làm việc trong thời gian dài tại Mobile, Alabama. Flowers tự nguyện chọn tiếp tục sống ở Jackson thay vì chuyển đến Mobile, và ông khấu trừ, như chi phí công tác kinh doanh, tiền ăn ở tại Mobile cùng chi phí đi lại giữa Jackson và Mobile. Cục trưởng thuế (Commissioner) bác bỏ các khoản khấu trừ, Flowers khởi kiện, và vụ việc lên tới Tòa án Tối cao; Tòa đứng về phía Commissioner và giữ nguyên việc bác bỏ. Bề ngoài, tranh chấp xoay quanh vài khoản chi; bên dưới chỉ có một câu hỏi: một người tự nguyện giữ nhà ở xa nơi làm việc thì có thể biến chi phí ăn ở và đi lại phát sinh thêm thành chi phí kinh doanh hay không? Các khoản tiền không lớn và có chứng từ; tranh chấp nằm ở tính chất, không phải số tiền.
+
+### हिन्दी (प्रारंभिक अनुवाद·待校)
+
+यह Commissioner v. Flowers, 326 U.S. 465 (1946) है, अमेरिका के सर्वोच्च न्यायालय का निर्णय। करदाता J. N. Flowers रेलरोड कंपनी के वकील थे, Jackson, Mississippi में रहते थे, परंतु काम के लिए उन्हें लंबे समय तक Mobile, Alabama में रहना पड़ता था। उन्होंने स्वेच्छा से Jackson में रहना चुना और Mobile के भोजन-आवास व यात्रा को व्यावसायिक यात्रा व्यय बताकर कटौती माँगी। आयुक्त ने अस्वीकार किया और सर्वोच्च न्यायालय ने अस्वीकृति बरकरार रखी।
+
+## 二、争点与裁决：§162(a)(2) 三要件
+
+### 中文
+争点是：这些食宿与交通支出，是否属于 IRC §162(a)(2) 允许扣除的「在经营业务过程中、离家在外时发生的差旅费用（含食宿）」。最高法院借本案把 §162(a)(2) 的扣除条件整理成三要件，至今仍是 REG 与 TCP 的标准框架：第一，费用须为合理且必要的差旅支出，金额与业务目的相称；第二，费用须在纳税人「离家在外（away from home）」时发生，即因业务需要在外过夜或停留到必须休息的程度；第三，费用须因经营业务而发生，是工作本身要求产生的，而不是个人安排产生的。三要件须同时满足，缺一不可。法院逐项对照后认定 Flowers 过不了关，扣除全部不成立，税务局长的否定被维持。下面一节看他具体栽在哪一件上。
+
+### English
+The issue was whether the meal, lodging, and travel amounts were deductible under IRC §162(a)(2) as traveling expenses, including meals and lodging, incurred while away from home in pursuit of a trade or business. In this case the Supreme Court organized the §162(a)(2) deduction into three requirements, still the standard REG and TCP framework: first, the expense must be a reasonable and necessary traveling expense, proportionate to the business purpose; second, it must be incurred while the taxpayer is away from home, meaning business requires an overnight stay or a stop long enough to require rest; third, it must be incurred because of the business — generated by the demands of the work, not by personal arrangements. All three must hold at once. Measured against them, Flowers failed, the deductions were denied in full, and the Commissioner's disallowance was sustained. The next section shows exactly which requirement he failed. That is why textbooks still open the travel-expense topic with this 1946 case — and examiners still test it too.
+
+### Español (译稿·初译待校)
+La cuestión era si los importes de comida, alojamiento y viaje eran deducibles bajo la sección 162(a)(2) del IRC como gastos de viaje, incluidos comida y alojamiento, incurridos fuera de casa (away from home) en el ejercicio de un negocio. En este caso el Tribunal Supremo ordenó la deducción de la sección 162(a)(2) en tres requisitos, que siguen siendo el marco estándar en REG y TCP: primero, el gasto debe ser un gasto de viaje razonable y necesario, proporcionado al fin empresarial; segundo, debe incurrirse mientras el contribuyente está fuera de casa, es decir, el negocio exige pernoctar o una parada que requiera descanso; tercero, debe incurrirse por causa del negocio, generado por las exigencias del trabajo y no por decisiones personales. Los tres deben cumplirse a la vez. Contrastados con ellos, Flowers no pasó la prueba, las deducciones se denegaron por completo y se mantuvo la denegación del Commissioner. La sección siguiente muestra en qué requisito cayó exactamente. Por eso los manuales abren el tema de los gastos de viaje con este caso de 1946.
+
+### 한국어 (초역·待校)
+
+쟁점은 이 비용이 IRC §162(a)(2)의 '집을 떠나(away from home) 사업을 수행하며 발생한 출장비'인가였습니다. 대법원이 정리한 세 요건은 지금도 REG와 TCP의 표준 틀입니다. 첫째 합리적이고 필요한 출장 지출일 것, 둘째 납세자가 집을 떠나 있는 동안 발생한 비용일 것(업무상 숙박 필요), 셋째 개인적 사정이 아니라 사업 때문에 발생한 비용일 것. 세 요건은 동시에 충족돼야 합니다. Flowers는 통과하지 못해 공제가 전부 부인됐습니다.
+
+### Tiếng Việt (bản dịch sơ bộ·待校)
+Vấn đề là các khoản ăn, ở và đi lại này có được khấu trừ theo IRC §162(a)(2) như chi phí công tác — gồm cả ăn và ở — phát sinh khi xa nhà (away from home) để tiến hành hoạt động kinh doanh hay không. Trong vụ này, Tòa án Tối cao đã sắp xếp khoản khấu trừ của §162(a)(2) thành ba yêu cầu, đến nay vẫn là khung chuẩn của REG và TCP: một, khoản chi phải là chi phí công tác hợp lý và cần thiết, tương xứng với mục đích kinh doanh; hai, khoản chi phải phát sinh khi người nộp thuế đang xa nhà, nghĩa là công việc đòi hỏi nghỉ qua đêm hoặc dừng lại đủ lâu để cần nghỉ ngơi; ba, khoản chi phải phát sinh vì hoạt động kinh doanh — do yêu cầu của công việc tạo ra, không phải do sắp xếp cá nhân. Cả ba phải đồng thời thỏa mãn. Đối chiếu với chúng, Flowers không qua được, các khoản khấu trừ bị bác toàn bộ và quyết định bác bỏ của Commissioner được giữ nguyên. Mục tiếp theo chỉ ra ông trượt ở yêu cầu nào. Đó là lý do sách giáo khoa mở đầu chủ đề chi phí công tác bằng vụ án năm 1946 này.
+
+### हिन्दी (प्रारंभिक अनुवाद·待校)
+
+प्रश्न था कि ये राशियाँ IRC §162(a)(2) के तहत घर से दूर (away from home) व्यवसाय में किए गए यात्रा व्यय के रूप में कटौती-योग्य हैं या नहीं। सर्वोच्च न्यायालय ने तीन शर्तें रखीं, जो आज भी REG और TCP का मानक ढाँचा हैं: पहली, व्यय उचित और आवश्यक यात्रा व्यय हो; दूसरी, वह तब हो जब करदाता घर से दूर हो, अर्थात काम रात भर रुकना माँगे; तीसरी, व्यय व्यवसाय के कारण हो, व्यक्तिगत व्यवस्था से नहीं। तीनों एक साथ चाहिए। Flowers असफल रहा, कटौतियाँ अस्वीकार हुईं और आयुक्त की अस्वीकृति बरकरार रही।
+
+## 三、推理：败在第二件——税务之家在莫比尔
+
+### 中文
+Flowers 不是输在金额不合理，也不是输在支出与铁路业务毫无关系——他确实在为铁路公司工作。他败在第二件：「离家在外」里的这个「家」，税法上指的不是家庭住所，而是税务之家（tax home）。法院认定，他的税务之家在主要工作地点莫比尔：铁路公司要求他长期驻扎的地方是莫比尔，他的职务与收入都系在那里。既然税务之家在莫比尔，他在莫比尔的吃住就不是「离家在外」的差旅开支，而是人在工作地生活的个人开支；他继续住在杰克逊，纯粹是个人选择，由此多出的食宿与往返交通，属于 IRC §262 明文不得扣除的个人、生活与家庭费用。换句话说，税法补贴的是工作把人临时推离税务之家的额外成本，不补贴个人选址带来的长期额外成本。通勤费用不可扣是同一逻辑的延伸：家与日常工作地点之间的往返，是每个人都要付的个人成本，不因路远就变成经营费用。
+
+### English
+Flowers did not lose because his amounts were unreasonable, nor because the spending was unrelated to the railroad's business — he plainly was working for the railroad. He lost on the second requirement. The "home" in "away from home" is not the family residence; it is the tax home. The Court treated his tax home as Mobile, his principal place of work: Mobile was where the railroad required him to be stationed on a continuing basis and where his duties and income were centered. With his tax home in Mobile, his meals and lodging there were not travel costs away from home but personal living costs at his work post, and his choice to keep living in Jackson was a personal choice. The extra meals, lodging, and trips that choice produced were personal, living, or family expenses, nondeductible under IRC §262. Nondeductible commuting is the same logic extended: travel between home and a regular work post is a personal cost everyone bears, and distance does not convert it into a business expense. Note the asymmetry: the same dollars could be travel costs if Mobile were a temporary post and Jackson his regular post.
+
+### Español (译稿·初译待校)
+Flowers no perdió porque los importes fueran irrazonables, ni porque el gasto no tuviera relación con el negocio ferroviario: estaba trabajando para el ferrocarril. Perdió en el segundo requisito. La «casa» de «fuera de casa» no es la residencia familiar, sino el hogar fiscal (tax home). El Tribunal situó su tax home en Mobile, su lugar principal de trabajo: Mobile era donde la compañía le exigía estar destinado de forma continuada y donde se centraban sus funciones e ingresos. Con el tax home en Mobile, su comida y alojamiento allí no eran costes de viaje fuera de casa, sino gastos personales de vida en su puesto de trabajo; y seguir viviendo en Jackson fue una elección personal. La comida, el alojamiento y los viajes extra que esa elección produjo eran gastos personales, de vida o familiares, no deducibles bajo la sección 262 del IRC. Que los desplazamientos diarios al trabajo (commuting) no sean deducibles es la misma lógica extendida: ir de casa al puesto habitual es un coste personal de todos, y la distancia no lo convierte en gasto del negocio. Nótese la asimetría: los mismos dólares podrían ser costes de viaje si Mobile fuera un destino temporal y Jackson su puesto habitual.
+
+### 한국어 (초역·待校)
+
+Flowers는 금액의 불합리성 때문이 아니라 두 번째 요건에서 졌습니다. 여기서 '집'은 가족 거주지가 아니라 세무상 본거지(tax home)이며, 그의 tax home은 주요 근무지인 모빌이었습니다. 따라서 모빌의 식비·숙박비는 출장비가 아니라 근무지의 개인 생활비이고, 잭슨 거주를 고집한 것은 개인적 선택이므로 추가 비용은 IRC §262상 공제 불가한 개인 비용입니다. 통근 비용 불공제도 같은 논리입니다.
+
+### Tiếng Việt (bản dịch sơ bộ·待校)
+Flowers không thua vì số tiền không hợp lý, cũng không phải vì khoản chi không liên quan đến hoạt động đường sắt — ông rõ ràng đang làm việc cho công ty đường sắt. Ông thua ở yêu cầu thứ hai. Chữ "nhà" trong "xa nhà" (away from home) không phải là nơi ở của gia đình, mà là nhà thuế (tax home). Tòa xác định tax home của ông ở Mobile, nơi làm việc chính của ông: Mobile là nơi công ty đường sắt yêu cầu ông đóng quân lâu dài và là trung tâm nhiệm vụ cùng thu nhập của ông. Khi tax home ở Mobile, tiền ăn ở của ông tại đó không phải chi phí công tác xa nhà mà là chi phí sinh hoạt cá nhân tại nơi làm việc; việc tiếp tục sống ở Jackson thuần túy là lựa chọn cá nhân. Phần ăn, ở và đi lại phát sinh thêm từ lựa chọn đó là chi phí cá nhân, sinh hoạt hoặc gia đình, không được khấu trừ theo IRC §262. Việc chi phí đi làm hằng ngày (commuting) không được khấu trừ là cùng logic đó mở rộng: đi lại giữa nhà và nơi làm việc thường xuyên là chi phí cá nhân mà ai cũng chịu, và khoảng cách xa không biến nó thành chi phí kinh doanh.
+
+### हिन्दी (प्रारंभिक अनुवाद·待校)
+
+Flowers राशि की अनुचितता या व्यवसाय से असंबंध के कारण नहीं हारा; वह दूसरी शर्त पर गिरा। 'घर' का अर्थ पारिवारिक निवास नहीं, कर-घर (tax home) है, और उसका tax home मुख्य कार्यस्थल Mobile था, जहाँ रेलरोड उसे निरंतर चाहता था। इसलिए Mobile का भोजन-आवास यात्रा लागत नहीं, कार्यस्थल की व्यक्तिगत जीवन लागत थी, और Jackson में रहना व्यक्तिगत चुनाव था। उससे उपजा अतिरिक्त खर्च IRC §262 के तहत कटौती-अयोग्य व्यक्तिगत व्यय था। दैनिक आवागमन (commuting) भी यही तर्क है: घर से नियमित कार्यस्थल की यात्रा व्यक्तिगत लागत है, दूरी उसे व्यावसायिक नहीं बनाती।
+
+## 四、教学落点：先定税务之家，再谈扣除
+
+### 中文
+本案留下的操作顺序只有两步。第一步，先定 tax home：一般指纳税人主要工作地点所在的城市或一般地区，而不是他自己选定的家庭住所。第二步，住所与工作地分离时，先问这是工作要求还是个人选择——工作把人临时派离 tax home，食宿交通才可能进 §162(a)(2)；人按个人偏好住在别处、每天或每周往返工作地，多出的开支落在 §262 与通勤规则一侧，不能扣。备考抓手（REG/TCP）：题目出现「自愿不搬家」「家在 A 城、工作在 B 城」，先标出 tax home 在 B 城，答案多半是不许扣；出现「被派往临时项目、原工作地仍在」，才转入离家在外的扣除分析，临时派驻与无限期调动要分开看。Flowers 的一句话记忆法：税法上的家跟着工作走，不跟着枕头走。（个人学习笔记，不构成税务建议。）
+
+### English
+The case leaves a two-step working order. Step one, fix the tax home first: it generally means the city or general area of the taxpayer's principal place of work, not the family residence he happens to choose. Step two, when residence and workplace are apart, ask whether the split is required by the work or chosen by the person: only when the job temporarily sends the taxpayer away from the tax home can meals, lodging, and travel enter §162(a)(2); when he lives elsewhere by personal preference and travels to the work post daily or weekly, the extra cost falls on the §262 and commuting side and is not deductible. Exam hook (REG/TCP): facts saying "chose not to move" or "family in City A, job in City B" point to a tax home in City B and usually to disallowance; facts about a temporary assignment with the regular work post retained are what open the away-from-home analysis, and temporary assignments must be separated from indefinite ones. One-line memory aid for Flowers: for tax purposes, home follows the job, not the pillow. Remember it. Character, not distance, decides. (Personal study notes; not tax advice.)
+
+### Español (译稿·初译待校)
+El caso deja un orden de trabajo de dos pasos. Paso uno: fije primero el tax home, que en general es la ciudad o zona general del lugar principal de trabajo del contribuyente, no la residencia familiar que él elija. Paso dos: cuando residencia y trabajo están separados, pregunte si la separación la exige el trabajo o la elige la persona. Solo cuando el empleo envía temporalmente al contribuyente lejos de su tax home pueden la comida, el alojamiento y el viaje entrar en la sección 162(a)(2); cuando vive en otro lugar por preferencia personal y viaja al puesto a diario o cada semana, el coste extra cae del lado de la sección 262 y del commuting, sin deducción. Gancho de examen (REG/TCP): datos como «eligió no mudarse» o «familia en la ciudad A, empleo en la ciudad B» apuntan a un tax home en la ciudad B y, por lo general, a la denegación; los destinos temporales conservando el puesto habitual son los que abren el análisis de «fuera de casa», y deben separarse de los traslados indefinidos. Frase memoria de Flowers: a efectos fiscales, la casa sigue al trabajo, no a la almohada. (Notas personales de estudio; no constituye asesoría fiscal.) En el examen, subraye quién eligió dónde vivir; eso suele decidir la respuesta.
+
+### 한국어 (초역·待校)
+
+실무 순서는 두 단계입니다. 1단계: tax home을 먼저 정합니다. 일반적으로 주요 근무지가 있는 도시나 일대이며 본인이 고른 가족 거주지가 아닙니다. 2단계: 거주지와 근무지가 떨어져 있으면 업무의 요구인지 개인의 선택인지 묻습니다. 업무가 임시로 tax home을 떠나게 할 때만 비용이 §162(a)(2)에 들어갈 수 있고, 개인 선호로 오가는 비용은 §262와 통근 쪽으로 가 공제되지 않습니다. 시험 포인트: '자발적으로 이사하지 않음'이 보이면 tax home은 근무지 도시이고 답은 대개 부인입니다. 기억법: 세법상의 집은 베개가 아니라 일을 따라갑니다. (개인 학습 노트이며 세무 자문이 아닙니다.)
+
+### Tiếng Việt (bản dịch sơ bộ·待校)
+Vụ án để lại một trình tự làm việc hai bước. Bước một: xác định tax home trước — nói chung đó là thành phố hoặc khu vực chung nơi có địa điểm làm việc chính của người nộp thuế, không phải nơi ở gia đình mà người đó tự chọn. Bước hai: khi nơi ở và nơi làm việc tách nhau, hãy hỏi sự tách ra đó là do công việc yêu cầu hay do cá nhân lựa chọn. Chỉ khi công việc tạm thời đưa người nộp thuế rời khỏi tax home thì tiền ăn, ở và đi lại mới có thể vào §162(a)(2); khi người đó sống nơi khác theo sở thích cá nhân và đi đến nơi làm việc hằng ngày hoặc hằng tuần, chi phí thêm rơi về phía §262 và quy tắc commuting, không được khấu trừ. Điểm ghi nhớ thi (REG/TCP): tình tiết kiểu "tự chọn không chuyển nhà" hoặc "gia đình ở thành phố A, việc ở thành phố B" chỉ ra tax home ở thành phố B và thường dẫn đến bác khấu trừ; chỉ cử đi công tác tạm thời mà vẫn giữ nơi làm việc thường xuyên mới mở ra phân tích xa nhà, và phải tách cử tạm thời khỏi điều chuyển vô thời hạn. Câu nhớ một dòng của Flowers: về thuế, nhà đi theo công việc, không đi theo chiếc gối. (Ghi chú học tập cá nhân; không phải tư vấn thuế.) Trong đề thi, hãy gạch chân chi tiết cho thấy ai đã chọn nơi ở; chi tiết đó thường quyết định đáp án.
+
+### हिन्दी (प्रारंभिक अनुवाद·待校)
+
+मामला दो चरण छोड़ता है। चरण एक: tax home तय करें — आम तौर पर मुख्य कार्यस्थल का शहर या क्षेत्र, न कि स्वयं चुना पारिवारिक निवास। चरण दो: निवास और कार्यस्थल अलग हों तो पूछें, यह काम की माँग है या व्यक्तिगत पसंद। नौकरी अस्थायी रूप से tax home से दूर भेजे, तभी भोजन, आवास और यात्रा §162(a)(2) में आ सकते हैं; पसंद से कहीं और रहकर रोज़ आना-जाना §262 और commuting पक्ष में जाता है। स्मरण-युक्ति: कर के लिए घर काम के पीछे चलता है, तकिये के पीछे नहीं। (व्यक्तिगत अध्ययन नोट; कर सलाह नहीं है।)
+

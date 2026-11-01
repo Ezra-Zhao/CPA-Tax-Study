@@ -261,3 +261,9 @@ ISC का निर्णय तीन वाक्यों में सि�
 本篇为个人学习笔记，不构成税务、财务或考试保证方面的专业建议。考试结构与蓝图以 AICPA 当年发布为准。
 
 This article is a personal study note and does not constitute professional advice. / Este artículo es una nota personal de estudio y no constituye asesoría profesional. La versión en español es una traducción de estudio; las versiones en coreano, vietnamita e hindi son traducciones iniciales, todas pendientes de revisión por un hablante nativo.
+
+본 글은 개인 학습 노트이며 전문 조언이 아닙니다. 한국어 번역은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.
+
+Bài viết này là ghi chú học tập cá nhân, không phải lời khuyên chuyên môn. Bản dịch tiếng Việt là bản dịch học tập, chờ người bản ngữ hiệu đính.
+
+यह लेख एक व्यक्तिगत अध्ययन नोट है और पेशेवर सलाह नहीं है। हिन्दी अनुवाद एक अध्ययन अनुवाद है, मूल-भाषी समीक्षा लंबित है।

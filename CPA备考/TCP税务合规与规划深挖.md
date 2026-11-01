@@ -245,6 +245,7 @@ Hãy sắp xếp công việc theo trọng số. Khu vực II (tuân thủ thự
 - 西班牙语、韩语、越南语、印地语为初译待校（initial translations, pending review）；英语为学习译稿。考试结构与权重如有调整，以 AICPA 与所在州会计委员会的现行公告为准。
 - 本篇为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或税务顾问。
 
+- English: These are personal study notes and do not constitute tax, financial, or legal advice; for your specific matter, consult a licensed CPA or tax advisor.
 - Español: Estas notas son de estudio personal y no constituyen asesoría fiscal, financiera ni legal; para su caso concreto consulte a un CPA con licencia o a un asesor fiscal.
 - 한국어: 본 문서는 개인 학습 노트이며 세무·재무·법률 자문이 아닙니다. 구체적인 사안은 면허 있는 CPA나 세무 전문가와 상담하십시오. (초역, 교정 대기)
 - Tiếng Việt: Tài liệu này là ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính hay pháp lý; với trường hợp cụ thể hãy tham khảo CPA có giấy phép hoặc chuyên gia thuế. (Bản dịch sơ bộ, chờ hiệu đính)
