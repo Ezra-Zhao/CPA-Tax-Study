@@ -101,4 +101,7 @@ Ngoài tầng liên bang, California đăng ký chủ lao động gia đình ri�
 
 *个人学习笔记，不构成税务建议。具体事务请咨询持牌 CPA 或税务顾问。*
 *Personal study notes only; not tax advice.*
-*Notas personales de estudio; no constituyen asesoría fiscal. 한국어·Tiếng Việt·हिन्दी 版本为初译待校。*
+*Notas personales de estudio; no constituyen asesoría fiscal.*
+*개인 학습 노트이며 세무 자문이 아닙니다. 구체적인 사안은 자격 있는 CPA 또는 세무 자문가와 상담하십시오. (초역·待校)*
+*Tiếng Việt: Ghi chú học tập cá nhân, không phải tư vấn thuế. Đối với trường hợp cụ thể, hãy tham khảo CPA có giấy phép hoặc cố vấn thuế. (bản dịch sơ bộ·待校)*
+*हिन्दी: व्यक्तिगत अध्ययन नोट; कर सलाह नहीं। अपने मामले के लिए किसी लाइसेंसप्राप्त CPA या कर सलाहकार से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
