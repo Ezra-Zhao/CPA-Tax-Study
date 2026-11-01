@@ -99,3 +99,8 @@ Danh sách quyết định. 1) Chương trình của bạn có phải HDHP đủ
 主要依据：IRC §§ 125(i)、213(d)、223（重点 (b)/(c)/(f)）；Rev. Proc. 2025-19（2026 年 HSA 供款上限 4,400/8,750 美元、HDHP 最低免赔额 1,700/3,400 美元、自付上限 8,500/17,000 美元）；Rev. Proc. 2025-32（2026 年健康 FSA 上限 3,400 美元、结转上限 680 美元）；IRS Publication 969；CARES Act § 3702（OTC 与经期用品合格化）；加州 FTB 关于 HSA 不跟随联邦的公开口径。雇主计划的结转、宽限期与报销规则以各自计划文本为准，限额每年按通胀调整、引用时注明年份。
 
 本仓库为个人学习笔记，不构成税务、财务或保险建议（personal study notes only; not tax, financial, or insurance advice）。具体事务请咨询持牌 CPA、税务律师或保险顾问。西班牙语为学习译稿、韩语、越南语、印地语为初译待校（pending native review），术语与数字以 IRS 公告原文为准。
+
+- Español (译稿·初译待校): Notas personales de estudio; no constituye asesoría fiscal, financiera ni de seguros. Para casos concretos, rige el texto oficial vigente y el consejo profesional.
+- 한국어 (초역·待校): 개인 학습 노트이며 세무·재무·보험 자문이 아닙니다. 구체적인 사안은 현행 공식 문언과 전문가 의견을 기준으로 합니다.
+- Tiếng Việt (bản dịch sơ bộ·待校): Ghi chú học tập cá nhân; không phải tư vấn thuế, tài chính hay bảo hiểm. Với trường hợp cụ thể, căn cứ vào văn bản chính thức hiện hành và ý kiến chuyên môn.
+- हिन्दी (प्रारंभिक अनुवाद·待校): व्यक्तिगत अध्ययन नोट; यह कर, वित्तीय या बीमा सलाह नहीं है। विशिष्ट मामलों में वर्तमान आधिकारिक पाठ और पेशेवर सलाह ही मान्य है।
