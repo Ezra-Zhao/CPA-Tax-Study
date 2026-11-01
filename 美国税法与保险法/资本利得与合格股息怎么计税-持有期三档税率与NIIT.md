@@ -3,6 +3,14 @@
 这篇在税法图谱里的位置：上一篇拆了个人所得税的计算结构，这一篇只钻投资所得这一块——卖股票、基金、加密资产和房产赚的钱，联邦怎么征税。核心规则集中在《国内税收法典》（Internal Revenue Code, IRC）第 1(h) 条、第 1221/1222 条和第 1411 条，税率门槛每年由 IRS 按通胀调整，文中数字以 2026 税年（Rev. Proc. 2025-32）为主、2025 税年（Rev. Proc. 2024-40）作对照。
 
 
+### English
+
+Where this article sits in the tax-law map: the previous article took apart the computation structure of individual income tax; this one drills into a single block, investment income — how the federal government taxes the money made from selling stocks, funds, crypto assets, and real estate. The core rules concentrate in sections 1(h), 1221/1222, and 1411 of the Internal Revenue Code (IRC); the rate thresholds are adjusted by the IRS for inflation each year, and the figures here rest mainly on tax year 2026 (Rev. Proc. 2025-32), with tax year 2025 (Rev. Proc. 2024-40) as the comparison.
+
+### Español (译稿)
+
+Dónde se sitúa este artículo en el mapa del derecho fiscal: el artículo anterior desarmó la estructura de cálculo del impuesto sobre la renta de las personas; este se adentra en un solo bloque, la renta de inversión: cómo grava el gobierno federal el dinero ganado vendiendo acciones, fondos, criptoactivos e inmuebles. Las reglas centrales se concentran en las secciones 1(h), 1221/1222 y 1411 del Internal Revenue Code (IRC); los umbrales de tasas los ajusta el IRS cada año por inflación, y las cifras del texto se apoyan principalmente en el año fiscal 2026 (Rev. Proc. 2025-32), con el año fiscal 2025 (Rev. Proc. 2024-40) como comparación.
+
 ### 한국어 (초역, 원어민 감수 대기)
 
 이 글이 세법 지도에서 차지하는 위치: 앞 글에서는 개인소득세의 계산 구조를 분해했고, 이 글은 투자소득이라는 한 부분만 파고든다 — 주식, 펀드, 암호자산, 부동산을 팔아 번 돈에 연방이 어떻게 과세하는지. 핵심 규칙은 《국내세입법전》(Internal Revenue Code, IRC) 제1(h)조, 제1221/1222조, 제1411조에 집중되어 있고, 세율 문턱은 IRS가 매년 물가 조정하며, 본문의 숫자는 2026년 과세연도(Rev. Proc. 2025-32)를 중심으로 하고 2025년 과세연도(Rev. Proc. 2024-40)를 대조로 삼는다.

@@ -6,6 +6,20 @@
 - 按案例分析的结构走：事实与数字、争点、判决、推理、今天怎么用。
 
 
+### English
+
+What this article covers:
+- A close reading of the U.S. Supreme Court's Gregory v. Helvering, 293 U.S. 465 (1935): how a corporate reorganization that followed the tax statute to the letter ended up not recognized by tax law at all.
+- This is the source case that CPA REG and tax practice cannot skip: substance over form, business purpose, and the later codified economic substance doctrine (IRC § 7701(o)) all grow out of it.
+- It follows the case-analysis structure: facts and figures, issue, holding, reasoning, and how the case is used today.
+
+### Español (译稿)
+
+Lo que trata este artículo:
+- Una lectura detallada de Gregory v. Helvering, 293 U.S. 465 (1935), del Tribunal Supremo federal: cómo una reorganización corporativa que siguió al pie de la letra el texto fiscal terminó sin ser reconocida por el derecho tributario.
+- Es el caso fuente ineludible en el REG del CPA y en la práctica fiscal: la sustancia sobre la forma (substance over form), el propósito de negocio (business purpose) y la doctrina de la sustancia económica luego codificada (IRC § 7701(o)) nacen todos aquí.
+- Sigue la estructura del análisis de casos: hechos y cifras, cuestión, fallo, razonamiento y uso actual.
+
 ### 한국어 (초역, 원어민 감수 대기)
 
 이 글에서 다루는 내용:

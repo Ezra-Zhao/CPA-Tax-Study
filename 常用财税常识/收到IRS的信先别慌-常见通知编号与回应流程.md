@@ -5,6 +5,18 @@
 - 这篇按通知的性质分四组看：欠款阶梯、数据不符、90 天硬期限、征收最后通牒，外加身份验证类。看懂自己手里是哪一类，回应就有了顺序。
 
 
+### English
+
+What this article covers:
+- The IRS sends out a large volume of notices and letters every year, and the great majority are not an in-person audit but one of three things: a balance due on the account, return data that does not match third-party records, or one action you need to complete. What truly decides the consequences is not the letter's tone, but the number in its upper right corner and the deadline written inside it.
+- This article sorts notices into four groups by their nature — the balance-due ladder, data mismatches, the hard 90-day deadlines, and the final collection ultimatum — plus the identity-verification family. Once you know which group the letter in your hand belongs to, the response falls into order.
+
+### Español (译稿)
+
+Lo que trata este artículo:
+- El IRS envía cada año un gran volumen de avisos (notice) y cartas (letter), y la gran mayoría no son una auditoría en persona sino una de tres cosas: un saldo debido en la cuenta, datos de la declaración que no coinciden con los registros de terceros, o una acción que usted debe completar. Lo que de verdad decide las consecuencias no es el tono de la carta, sino el número en su esquina superior derecha y la fecha límite escrita dentro.
+- Este artículo ordena los avisos en cuatro grupos según su naturaleza —la escalera de saldos debidos, las discrepancias de datos, los plazos duros de 90 días y el ultimátum final de cobro— más la familia de verificación de identidad. Cuando sabe a qué grupo pertenece la carta que tiene en la mano, la respuesta cobra un orden.
+
 ### 한국어 (초역, 원어민 감수 대기)
 
 이 글에서 다루는 내용:
