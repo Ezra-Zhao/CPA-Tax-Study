@@ -271,3 +271,13 @@ IAS 33 और ASC 260 मोटे तौर पर अभिसरित है
 ---
 
 > 免责声明：本文为个人学习笔记，不构成税务、会计或投资建议；具体处理以现行准则原文与专业意见为准。
+>
+> Disclaimer: These are personal study notes and do not constitute tax, accounting, or investment advice; for any specific treatment, rely on the current text of the standards and on professional advice.
+>
+> Aviso: Estas son notas personales de estudio y no constituyen asesoría fiscal, contable ni de inversión; para cualquier tratamiento concreto, siga el texto vigente de las normas y el consejo profesional.
+>
+> 안내: 본 글은 개인 학습 노트이며 세무·회계·투자 자문이 아닙니다. 구체적인 처리는 현행 기준 원문과 전문가 의견에 따르십시오. (초역·待校)
+>
+> Lưu ý: Đây là ghi chú học tập cá nhân, không phải tư vấn thuế, kế toán hay đầu tư; xử lý cụ thể căn cứ vào văn bản chuẩn mực hiện hành và ý kiến chuyên môn. (bản dịch sơ bộ·待校)
+>
+> अस्वीकरण: ये व्यक्तिगत अध्ययन नोट हैं और कर, लेखा या निवेश सलाह नहीं हैं; किसी विशिष्ट व्यवहार के लिए मानकों के वर्तमान पाठ और पेशेवर सलाह को आधार बनाएँ। (प्रारंभिक अनुवाद·待校)
