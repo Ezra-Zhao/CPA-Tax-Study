@@ -157,3 +157,11 @@ Hai chuẩn mực mới hơn là bãi mìn tính toán. Hưu trí: Chuẩn mực
 本篇为个人学习笔记，不构成税务、财务或审计建议。准则条文与考试蓝图会更新，备考与实务判断请以 GASB、FASB 与 AICPA 当期官方文本为准，并咨询持牌 CPA。
 
 This article is a personal study note only and does not constitute tax, financial, or audit advice. Standards and exam blueprints change; rely on the current official texts of GASB, FASB, and the AICPA.
+
+Este artículo es solo una nota de estudio personal y no constituye asesoramiento fiscal, financiero ni de auditoría; las normas y los temarios cambian, así que consulte los textos oficiales vigentes de GASB, FASB y la AICPA.
+
+이 글은 개인 학습 노트일 뿐 세무·재무·감사 자문이 아닙니다. 기준과 시험 블루프린트는 바뀌므로 GASB, FASB, AICPA의 현행 공식 문서를 확인하십시오. (초역, 원어민 감수 대기)
+
+Bài viết này chỉ là ghi chú học tập cá nhân, không cấu thành tư vấn thuế, tài chính hay kiểm toán; chuẩn mực và đề cương thi sẽ thay đổi, hãy dựa vào văn bản chính thức hiện hành của GASB, FASB và AICPA. (Bản dịch sơ bộ, chờ hiệu đính)
+
+यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या लेखापरीक्षा सलाह नहीं है; मानक और परीक्षा रूपरेखाएँ बदलती रहती हैं, इसलिए GASB, FASB और AICPA के वर्तमान आधिकारिक पाठों पर भरोसा करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
