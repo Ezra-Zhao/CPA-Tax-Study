@@ -129,3 +129,9 @@ Bên trong 80 giờ, California cộng thêm hai gói điều kiện gắn với
 ## 免责声明
 
 本篇为个人学习笔记，不构成税务、财务、法律或保险建议。CPE 数字与口径以 California Board of Accountancy 当期公布为准，续照申报前请复核。
+
+- English: These are personal study notes and do not constitute tax, financial, legal, or insurance advice. CPE figures and rules follow the California Board of Accountancy's current publications; verify them before filing a renewal.
+- Español: Estas son notas personales de estudio y no constituyen asesoría fiscal, financiera, legal ni de seguros. Las cifras y reglas de CPE se rigen por las publicaciones vigentes de la California Board of Accountancy; verifíquelas antes de presentar una renovación. (Traducción de estudio, pendiente de revisión nativa.)
+- 한국어: 본 글은 개인 학습 노트이며 세무·재무·법률·보험 자문이 아닙니다. CPE 수치와 기준은 California Board of Accountancy의 당기 공표를 따르므로, 갱신 신고 전에 반드시 재확인하십시오. (초역, 교정 대기)
+- Tiếng Việt: Đây là ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính, pháp lý hay bảo hiểm. Số liệu và quy định CPE theo công bố hiện hành của California Board of Accountancy; hãy kiểm chứng lại trước khi nộp gia hạn. (Bản dịch sơ bộ, chờ hiệu đính)
+- हिन्दी: ये व्यक्तिगत अध्ययन नोट्स हैं और कर, वित्तीय, कानूनी या बीमा सलाह नहीं हैं। CPE के आँकड़े और नियम California Board of Accountancy के वर्तमान प्रकाशनों के अनुसार हैं; नवीनीकरण दाखिल करने से पहले उन्हें सत्यापित करें। (प्रारंभिक अनुवाद, समीक्षा लंबित)
