@@ -119,3 +119,8 @@ Khu vực III, Chính quyền Bang và Địa phương, chiếm 10–20% và là
 - 加州发照学分口径：California Board of Accountancy 执照教育要求（150 学期学分总要求及会计、商业相关与伦理构成），细节以 CBA 官网现行文本为准。
 - 韩语、越南语、印地语为初译待校（initial translations, pending review）；西班牙语为学习译稿，待母语校对。考试结构与权重如有调整，以 AICPA 与所在州会计委员会的现行公告为准。
 - 本篇为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或所在州会计委员会。
+- Study notes only: this article is a personal study record and is not tax, financial, or legal advice. For specific matters, consult a licensed CPA or your state board of accountancy.
+- Solo notas de estudio: este artículo es un registro personal de estudio y no constituye asesoría fiscal, financiera ni legal. Para asuntos concretos, consulte a un CPA con licencia o a la junta de contabilidad de su estado.
+- 학습 노트입니다: 본 글은 개인 학습 기록이며 세무·재무·법률 자문이 아닙니다. 구체적인 사안은 자격 있는 CPA 또는 해당 주 회계위원회에 문의하십시오.
+- Chỉ là ghi chú học tập: bài viết này là hồ sơ học tập cá nhân, không phải tư vấn thuế, tài chính hay pháp lý. Với việc cụ thể, hãy hỏi CPA có giấy phép hoặc hội đồng kế toán của bang bạn.
+- केवल अध्ययन नोट: यह लेख एक व्यक्तिगत अध्ययन अभिलेख है और कर, वित्तीय या कानूनी सलाह नहीं है। विशिष्ट मामलों में लाइसेंसधारी CPA या अपने राज्य के लेखा बोर्ड से परामर्श करें।
