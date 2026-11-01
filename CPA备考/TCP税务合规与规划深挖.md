@@ -244,3 +244,8 @@ Hãy sắp xếp công việc theo trọng số. Khu vực II (tuân thủ thự
 - REG 领域权重（用于第一节分工对比）：引自本仓《REG 税务与商法深挖》所载蓝图口径（商法 15%–25%、道德与程序 10%–20%）。
 - 西班牙语、韩语、越南语、印地语为初译待校（initial translations, pending review）；英语为学习译稿。考试结构与权重如有调整，以 AICPA 与所在州会计委员会的现行公告为准。
 - 本篇为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或税务顾问。
+
+- Español: Estas notas son de estudio personal y no constituyen asesoría fiscal, financiera ni legal; para su caso concreto consulte a un CPA con licencia o a un asesor fiscal.
+- 한국어: 본 문서는 개인 학습 노트이며 세무·재무·법률 자문이 아닙니다. 구체적인 사안은 면허 있는 CPA나 세무 전문가와 상담하십시오. (초역, 교정 대기)
+- Tiếng Việt: Tài liệu này là ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính hay pháp lý; với trường hợp cụ thể hãy tham khảo CPA có giấy phép hoặc chuyên gia thuế. (Bản dịch sơ bộ, chờ hiệu đính)
+- हिन्दी: यह दस्तावेज़ व्यक्तिगत अध्ययन नोट्स है और कर, वित्तीय या कानूनी सलाह नहीं है; अपने मामले के लिए लाइसेंसधारी CPA या कर सलाहकार से परामर्श करें। (प्रारंभिक अनुवाद, समीक्षा लंबित)
