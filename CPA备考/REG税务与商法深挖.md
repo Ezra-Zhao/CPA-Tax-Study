@@ -324,6 +324,8 @@ Fuentes principales: Uniform CPA Examination Blueprints de la AICPA (sección RE
 
 本篇为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或税务律师。西班牙语为学习译稿，待母语校对。
 
+Estas notas son de estudio personal y no constituyen asesoría fiscal, financiera ni legal; para su caso concreto consulte a un CPA con licencia o a un abogado fiscal. El texto en español es una traducción de estudio, pendiente de revisión por un hablante nativo.
+
 This article is a personal study note, not tax, financial, or legal advice. Spanish text is a study translation, pending native review.
 
 본 글은 개인 학습 노트이며 세무·재무·법률 조언이 아닙니다. 구체적인 사안은 면허 CPA나 세무 변호사에게 상담하십시오. 한국어 번역은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.
