@@ -127,3 +127,12 @@ This repository contains personal study notes only and does not constitute tax o
 
 ### Español (译稿)
 Este repositorio contiene solo notas personales de estudio y no constituye asesoría fiscal ni legal. Para la elegibilidad de deducciones y la acreditación en un caso concreto, apóyese en el Código vigente, la orientación del IRS y un profesional fiscal autorizado.
+
+### 한국어 (초역 대기)
+본 저장소는 개인 학습 노트이며 세무 또는 법률 자문이 아닙니다. 구체적인 공제 자격과 증빙 요건은 현행 법전, IRS 지침 및 자격 있는 세무 전문가의 의견을 따르십시오.
+
+### Tiếng Việt (bản dịch sơ bộ)
+Kho lưu trữ này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn thuế hay pháp lý. Về điều kiện khấu trừ và yêu cầu chứng từ trong một trường hợp cụ thể, hãy căn cứ vào Bộ luật hiện hành, hướng dẫn của IRS và ý kiến của chuyên gia thuế có giấy phép.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और कर या कानूनी सलाह नहीं है। किसी ठोस मामले में कटौती की पात्रता और प्रमाणन के लिए वर्तमान संहिता, IRS मार्गदर्शन और लाइसेंसधारी कर पेशेवर की राय पर निर्भर रहें।
