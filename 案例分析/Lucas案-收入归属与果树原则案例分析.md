@@ -77,4 +77,11 @@ Lucas समस्या के सेवा-छोर को नियंत्
 
 本仓库为个人学习笔记，不构成税务、财务、法律或保险方面的专业建议（This repository contains personal study notes only and does not constitute tax, financial, legal, or insurance advice）。具体事务请咨询持牌 CPA、税务律师或保险顾问。
 
+
+Este artículo es una nota personal de estudio y no constituye asesoría fiscal. Para un asunto concreto, consulte a un CPA o profesional fiscal con licencia. (traducción de estudio)
+
+이 글은 개인 학습 노트이며 세무 자문이 아닙니다. 구체적인 사안은 자격 있는 CPA나 세무 전문가와 상담하십시오. (초역·待校)
+
+Bài viết này là ghi chép học tập cá nhân, không phải tư vấn thuế. Với việc cụ thể, hãy tham vấn CPA hoặc chuyên gia thuế có giấy phép. (bản dịch sơ bộ·待校)
+
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
