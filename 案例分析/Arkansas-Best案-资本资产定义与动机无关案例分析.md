@@ -107,3 +107,14 @@
 ---
 
 **声明**：个人学习笔记，不构成法律、税务或医疗建议。具体事务请咨询持牌专业人士。
+
+*Disclaimer: This is a personal study note and does not constitute legal, tax, or medical advice. For specific matters, consult a licensed professional.*
+
+*Aviso: Esta es una nota personal de estudio y no constituye asesoría legal, fiscal ni médica. Para asuntos concretos, consulte a un profesional con licencia.*
+
+*고지: 본 글은 개인 학습 노트이며 법률·세무·의료 자문이 아닙니다. 구체적인 사안은 면허를 갖춘 전문가에게 상담하시기 바랍니다.*
+
+*Tuyên bố: Đây là ghi chú học tập cá nhân, không phải tư vấn pháp lý, thuế hay y tế. Với vấn đề cụ thể, hãy tham vấn chuyên gia có giấy phép.*
+
+*अस्वीकरण: यह व्यक्तिगत अध्ययन नोट है और कानूनी, कर या चिकित्सा सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त पेशेवर से परामर्श करें।*
+

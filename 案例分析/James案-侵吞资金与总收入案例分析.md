@@ -210,4 +210,12 @@ Trong thực hành, hãy giữ vụ án này trong hai sổ riêng. Sổ thứ n
 
 *声明：本篇为个人学习笔记，不构成税务建议。文中涉及归还年度扣除与第 1341 条等现行处理的部分，仅作方向提示，具体适用须按现行法条与最新指引核对；个案事项请咨询持牌 CPA 或税务律师。*
 *Disclaimer: This article is a personal study note and does not constitute tax advice. Passages concerning repayment-year deductions and Section 1341 are directional only and must be verified against current law; for specific matters, consult a licensed CPA or tax attorney.*
+*Aviso: Este artículo es una nota personal de estudio y no constituye asesoría fiscal. Los pasajes sobre deducciones en el año de devolución y el § 1341 son solo orientativos y deben verificarse con la ley vigente; para asuntos concretos, consulte a un CPA con licencia o a un abogado fiscalista.*
+
+*고지: 본 글은 개인 학습 노트이며 세무 자문이 아닙니다. 반환 연도 공제와 § 1341에 관한 부분은 방향 제시에 불과하므로 현행법으로 확인해야 하며, 구체적인 사안은 면허 CPA나 세무 변호사에게 상담하시기 바랍니다.*
+
+*Tuyên bố: Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế. Các đoạn về khấu trừ năm hoàn trả và § 1341 chỉ mang tính định hướng và phải đối chiếu luật hiện hành; với vấn đề cụ thể, hãy tham vấn CPA có giấy phép hoặc luật sư thuế.*
+
+*अस्वीकरण: यह लेख व्यक्तिगत अध्ययन नोट है और कर सलाह नहीं है। वापसी-वर्ष की कटौतियों और § 1341 से संबंधित अंश केवल दिशा-संकेत हैं और वर्तमान कानून से सत्यापित किए जाने चाहिए; किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त CPA या कर वकील से परामर्श करें.*
+
 *Nota: Las versiones en español, coreano, vietnamita e hindi de este artículo son traducciones preliminares pendientes de revisión (初译待校).*
