@@ -100,5 +100,10 @@ California về cơ bản theo khung khấu trừ theo hạng mục của liên 
 - OBBBA（2025 年通过）新增：2026 年起逐项者 0.5% AGI 地板与非逐项者现金quyên góp扣除 § 170(p)（单身 1,000／合并 2,000 美元）。具体适用以 IRS 后续公告与当年 Form 1040 说明为准。
 
 本仓库为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或税务律师。
+Personal study notes only; not tax, financial, or legal advice. Consult a licensed CPA or tax attorney for your specific situation.
+Notas personales de estudio; no constituye asesoramiento fiscal, financiero ni legal. Consulte a un CPA o abogado fiscal con licencia para su caso concreto.
+개인 학습 노트이며 세무·재무·법률 조언이 아닙니다. 구체적인 사안은 자격 있는 CPA나 세무 변호사에게 상담하십시오. (초역 · 初译待校)
+Ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính hay pháp lý. Vui lòng tham vấn CPA hoặc luật sư thuế có giấy phép cho trường hợp cụ thể của bạn. (bản dịch sơ bộ · 初译待校)
+व्यक्तिगत अध्ययन नोट; यह कर, वित्तीय या कानूनी सलाह नहीं है। अपने विशिष्ट मामले के लिए किसी लाइसेंसधारी CPA या कर अधिवक्ता से परामर्श करें। (प्रारंभिक अनुवाद · 初译待校)
 
 （韩语、越南语、印地语为初译待校；西班牙语为学习译稿，待母语校对。）

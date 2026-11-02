@@ -113,3 +113,8 @@ Hồi tiếp theo đến nhanh, và đúng qua cánh cửa mà đa số đã đ�
 ## 免责声明
 
 本仓库为个人学习笔记，不构成税务或法律建议。具体事务请咨询持牌 CPA 或税务律师，并以 IRS 与法院官方文本为准。
+Personal study notes only; not tax or legal advice. Consult a licensed CPA or tax attorney for your specific situation, and rely on the official IRS and court texts.
+Notas personales de estudio; no constituye asesoramiento fiscal ni legal. Consulte a un CPA o abogado fiscal con licencia para su caso concreto y remítase a los textos oficiales del IRS y de los tribunales.
+개인 학습 노트이며 세무·법률 조언이 아닙니다. 구체적인 사안은 자격 있는 CPA나 세무 변호사에게 상담하고, IRS와 법원의 공식 문서를 기준으로 하십시오. (초역 · 初译待校)
+Ghi chú học tập cá nhân, không phải tư vấn thuế hay pháp lý. Vui lòng tham vấn CPA hoặc luật sư thuế có giấy phép cho trường hợp cụ thể của bạn, và căn cứ vào văn bản chính thức của IRS và tòa án. (bản dịch sơ bộ · 初译待校)
+व्यक्तिगत अध्ययन नोट; यह कर या कानूनी सलाह नहीं है। अपने विशिष्ट मामले के लिए किसी लाइसेंसधारी CPA या कर अधिवक्ता से परामर्श करें और IRS व न्यायालय के आधिकारिक पाठों को ही आधार मानें। (प्रारंभिक अनुवाद · 初译待校)
