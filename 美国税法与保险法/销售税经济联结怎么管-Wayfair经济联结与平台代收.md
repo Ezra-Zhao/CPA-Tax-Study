@@ -38,3 +38,13 @@ Người bán từ xa không có cửa hàng hay nhân viên tại một bang c�
 
 ---
 *个人学习笔记，不构成税务建议。*
+
+*Personal study notes only; not tax advice.*
+
+*Notas personales de estudio; no constituye asesoría fiscal.*
+
+*개인 학습 노트이며 세무 자문이 아닙니다.*
+
+*Ghi chú học tập cá nhân, không phải tư vấn thuế.*
+
+*व्यक्तिगत अध्ययन नोट; कर सलाह नहीं।*
