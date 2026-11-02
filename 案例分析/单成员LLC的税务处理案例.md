@@ -473,3 +473,15 @@ Khi nào bắt đầu đáng tính bài toán này? Theo kinh nghiệm, khi lợ
 *Chỉ là ghi chú học tập, không phải lời khuyên. Kho lưu trữ này là hồ sơ học tập cá nhân, các con số nêu ra là ví dụ giảng dạy đơn giản hóa, không phải tư vấn thuế; khai thuế cụ thể hãy theo nguyên văn hiện hành của IRS, FTB và ý kiến của CPA có giấy phép.*
 
 *केवल अध्ययन नोट, सलाह नहीं। यह भंडार एक व्यक्तिगत अध्ययन अभिलेख है, दी गई संख्याएँ शिक्षण हेतु सरलीकृत उदाहरण हैं और कर सलाह नहीं हैं; वास्तविक दाखिल के लिए IRS और FTB के वर्तमान मूल पाठ और लाइसेंसधारी CPA की राय पर निर्भर करें।*
+
+
+---
+
+## 声明（六语集中声明区，本轮补译）
+
+- 中文：个人学习笔记，不构成税务建议；具体事项请咨询持牌 CPA 或税务专业人士。
+- English: Personal study notes only; not tax advice. Consult a licensed CPA or tax professional for specific matters.
+- Español (traducción de estudio, pendiente de revisión nativa): Notas de estudio personales; no es asesoría fiscal. Consulte a un CPA autorizado o profesional fiscal para asuntos específicos.
+- 한국어 (초역, 원어민 감수 대기): 개인 학습 노트이며 세무 자문이 아닙니다. 구체적인 사안은 자격 있는 CPA 또는 세무 전문가와 상담하십시오.
+- Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ghi chú học tập cá nhân, không phải tư vấn thuế. Vui lòng tham khảo CPA có giấy phép hoặc chuyên gia thuế cho vấn đề cụ thể.
+- हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): व्यक्तिगत अध्ययन नोट; कर सलाह नहीं। विशिष्ट मामलों के लिए लाइसेंसधारी CPA या कर विशेषज्ञ से परामर्श करें।

@@ -342,3 +342,15 @@ Este artículo es una nota personal de estudio y no constituye asesoría fiscal,
 Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế, kiểm toán hay tài chính. Sơ đồ kỳ thi và quy tắc đỗ theo công bố hiện hành của AICPA và hội đồng kế toán các bang; với dịch vụ kiểm toán cụ thể, hãy tham vấn CPA có giấy phép.
 
 यह लेख एक व्यक्तिगत अध्ययन नोट है और कर, ऑडिट या वित्तीय सलाह नहीं है। परीक्षा ब्लूप्रिंट और उत्तीर्ण नियम AICPA और राज्य लेखा बोर्डों के वर्तमान प्रकाशनों के अनुसार हैं; किसी विशिष्ट कार्य के लिए लाइसेंसधारी CPA से परामर्श करें।
+
+
+---
+
+## 声明（六语集中声明区，本轮补译）
+
+- 中文：个人学习笔记，不构成税务建议；具体事项请咨询持牌 CPA 或税务专业人士。
+- English: Personal study notes only; not tax advice. Consult a licensed CPA or tax professional for specific matters.
+- Español (traducción de estudio, pendiente de revisión nativa): Notas de estudio personales; no es asesoría fiscal. Consulte a un CPA autorizado o profesional fiscal para asuntos específicos.
+- 한국어 (초역, 원어민 감수 대기): 개인 학습 노트이며 세무 자문이 아닙니다. 구체적인 사안은 자격 있는 CPA 또는 세무 전문가와 상담하십시오.
+- Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ghi chú học tập cá nhân, không phải tư vấn thuế. Vui lòng tham khảo CPA có giấy phép hoặc chuyên gia thuế cho vấn đề cụ thể.
+- हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): व्यक्तिगत अध्ययन नोट; कर सलाह नहीं। विशिष्ट मामलों के लिए लाइसेंसधारी CPA या कर विशेषज्ञ से परामर्श करें।
