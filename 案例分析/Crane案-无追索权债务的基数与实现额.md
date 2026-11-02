@@ -310,3 +310,9 @@ Crane के फुटनोट 37 ने जो प्रश्न आरक्
 本篇为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或税务律师。
 
 This article is a personal study note and does not constitute tax, financial, or legal advice. / Este artículo es una nota personal de estudio y no constituye asesoría fiscal, financiera ni legal. La versión en español es una traducción de estudio, pendiente de revisión por un hablante nativo.
+
+이 글은 개인 학습 노트일 뿐 세무·재무·법률 자문이 아닙니다. (초역, 원어민 감수 대기)
+
+Bài viết này chỉ là ghi chú học tập cá nhân, không cấu thành tư vấn thuế, tài chính hay pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
+
+यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)

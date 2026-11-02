@@ -98,4 +98,12 @@ Welch जो ढाँचा छोड़ गया, वह आज दो IRC �
 
 本仓库为个人学习笔记，不构成税务、财务、法律或保险方面的专业建议（This repository contains personal study notes only and does not constitute tax, financial, legal, or insurance advice）。具体事务请咨询持牌 CPA、税务律师或保险顾问。
 
+Este repositorio contiene solo notas personales de estudio y no constituye asesoría fiscal, financiera, legal ni de seguros.
+
+본 저장소는 개인 학습 노트이며 세무·재무·법률·보험 자문이 아닙니다. (초역, 원어민 감수 대기)
+
+Kho lưu trữ này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn thuế, tài chính, pháp lý hay bảo hiểm. (Bản dịch sơ bộ, chờ hiệu đính)
+
+यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और कर, वित्तीय, कानूनी या बीमा सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*

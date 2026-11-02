@@ -117,3 +117,13 @@ Phán quyết lúc đầu gây ra «nỗi lo INDOPCO»: mọi khoản chi có ch
 ## 免责声明
 
 本仓库为个人学习笔记，不构成税务或法律建议。具体事务请咨询持牌 CPA 或税务律师，并以 IRS 与法院官方文本为准。
+
+This repository contains personal study notes only and does not constitute tax or legal advice.
+
+Este repositorio contiene solo notas personales de estudio y no constituye asesoría fiscal ni legal.
+
+본 저장소는 개인 학습 노트이며 세무 또는 법률 자문이 아닙니다. (초역, 원어민 감수 대기)
+
+Kho lưu trữ này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn thuế hay pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
+
+यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और कर या कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
