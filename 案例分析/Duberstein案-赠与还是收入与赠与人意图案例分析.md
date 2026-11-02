@@ -97,6 +97,11 @@ Duberstein को वर्तमान क़ानून में रखक�
 
 ## 免责声明
 
-本仓库为个人学习笔记，不构成税务、法律或财务建议（This repository contains personal study notes only and does not constitute tax, legal or financial advice）。具体事务请咨询持牌 CPA、税务律师或相关专业人士。
+- 中文：本仓库为个人学习笔记，不构成税务、法律或财务建议。具体事务请咨询持牌 CPA、税务律师或相关专业人士。
+- English: This repository contains personal study notes only and does not constitute tax, legal or financial advice. For specific matters, consult a licensed CPA, a tax attorney, or a relevant professional.
+- Español (译稿·初译待校): Este repositorio contiene solo notas personales de estudio y no constituye asesoría fiscal, legal ni financiera. Para casos concretos, consulte a un CPA con licencia, a un abogado fiscal o al profesional que corresponda.
+- 한국어 (초역·待校): 이 저장소는 개인 학습 노트일 뿐 세무·법률·재무 자문이 아닙니다. 구체적인 사안은 면허 있는 CPA, 세무 변호사 또는 관련 전문가에게 상담하십시오.
+- Tiếng Việt (bản dịch sơ bộ·待校): Kho lưu trữ này chỉ chứa ghi chú học tập cá nhân và không cấu thành tư vấn thuế, pháp lý hay tài chính. Với trường hợp cụ thể, hãy tham vấn CPA có giấy phép, luật sư thuế hoặc chuyên gia liên quan.
+- हिन्दी (प्रारंभिक अनुवाद·待校): यह संग्रह केवल व्यक्तिगत अध्ययन नोट है और कर, कानूनी या वित्तीय सलाह नहीं है। विशिष्ट मामलों में लाइसेंसधारी CPA, कर-वकील या संबंधित पेशेवर से परामर्श करें।
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*

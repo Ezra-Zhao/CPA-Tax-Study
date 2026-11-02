@@ -96,6 +96,11 @@ Các khoản lỗ bị treo trong những năm nắm giữ không biến mất: 
 
 ## 免责声明
 
-本仓库为个人学习笔记，不构成税务、财务或法律建议（This repository contains personal study notes only and does not constitute tax, financial, or legal advice）。具体事务请咨询持牌 CPA 或税务律师；文中联邦口径为主，加州州税另有调整。
+- 中文：本仓库为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或税务律师；文中联邦口径为主，加州州税另有调整。
+- English: This repository contains personal study notes only and does not constitute tax, financial, or legal advice. For specific matters, consult a licensed CPA or tax attorney; the text follows the federal rules, and California state tax has its own adjustments.
+- Español (译稿·初译待校): Este repositorio contiene solo notas personales de estudio y no constituye asesoría fiscal, financiera ni legal. Para casos concretos, consulte a un CPA o abogado fiscal con licencia; el texto sigue las reglas federales, y el impuesto estatal de California tiene sus propios ajustes.
+- 한국어 (초역·待校): 이 저장소는 개인 학습 노트일 뿐 세무·재무·법률 자문이 아닙니다. 구체적인 사안은 면허 있는 CPA나 세무 변호사에게 상담하십시오. 본문은 연방 기준을 중심으로 하며, 캘리포니아 주세에는 별도의 조정이 있습니다.
+- Tiếng Việt (bản dịch sơ bộ·待校): Kho lưu trữ này chỉ chứa ghi chú học tập cá nhân và không cấu thành tư vấn thuế, tài chính hay pháp lý. Với trường hợp cụ thể, hãy tham vấn CPA hoặc luật sư thuế có giấy phép; nội dung theo quy định liên bang là chính, và thuế bang California có các điều chỉnh riêng.
+- हिन्दी (प्रारंभिक अनुवाद·待校): यह संग्रह केवल व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या कानूनी सलाह नहीं है। विशिष्ट मामलों में लाइसेंसधारी CPA या कर-वकील से परामर्श करें; पाठ मुख्यतः संघीय नियमों के अनुसार है, और California राज्य कर में अपने समायोजन हैं।
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
