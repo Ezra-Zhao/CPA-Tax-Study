@@ -127,3 +127,11 @@ Hãy vẽ rõ bán kính của học thuyết. Thứ nhất, phải có một gi
 ## 免责声明
 
 本篇为个人学习笔记，不构成税务或法律建议（Personal study notes only; not tax or legal advice）。算例为教学假设、税率经取整，真实申报请以现行法典、财政部法规与 IRS 最新公告为准，并咨询有执业资格的税务师或律师。
+
+Este artículo es una nota personal de estudio; no constituye asesoría fiscal ni legal.
+
+이 글은 개인 학습 노트이며 세무·법률 자문이 아닙니다. (초역, 원어민 감수 대기)
+
+Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế hay pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
+
+यह लेख एक व्यक्तिगत अध्ययन नोट है; यह कर या कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)

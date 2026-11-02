@@ -150,3 +150,7 @@ Quy tắc thực hành rất gọn: tiền và tài sản tìm được được
 
 *声明：本篇为个人学习笔记，不构成税务建议。具体事项请咨询持牌 CPA 或税务律师。*
 *Disclaimer: This article is a personal study note and does not constitute tax advice. For specific matters, consult a licensed CPA or tax attorney.*
+*Aviso: Notas personales de estudio; no constituye asesoramiento fiscal.*
+*고지 (초역 · 初译待校): 개인 학습 노트이며 세무 조언이 아닙니다.*
+*Tuyên bố (bản dịch sơ bộ · 初译待校): Ghi chú học tập cá nhân, không phải tư vấn thuế.*
+*अस्वीकरण (प्रारंभिक अनुवाद · 初译待校): व्यक्तिगत अध्ययन नोट; यह कर सलाह नहीं है।*
