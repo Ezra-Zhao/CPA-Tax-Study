@@ -1,0 +1,74 @@
+# Bob Jones University 案：免税资格被撤销与公共政策案例分析
+
+> 个人学习笔记，不构成税务建议。案例：Bob Jones University v. United States, 461 U.S. 574 (1983)，美国联邦最高法院判决，与 Goldsboro Christian Schools, Inc. v. United States 合并审理。
+
+## 中文主文
+
+### 一、案情：基于信仰的种族校规，撞上免税资格
+
+Bob Jones University（下称 BJU）位于南卡罗来纳州格林维尔，是一所以宗教为本的大学，其办学与纪律建立在校方对圣经的理解之上。1971 年以前该校不录取黑人学生；此后虽开始录取未婚黑人学生，但仍拒绝录取处于跨种族婚姻中的申请人、拒绝录取公开倡导跨种族婚姻或约会的人，并立有禁止学生跨种族约会的纪律处分规则。合并审理的另一案当事人 Goldsboro Christian Schools 则维持只录取白人学生的招生政策，同样自称出于宗教信念。两校的问题意识完全相同：校方诚实地奉行种族区分的校规，同时主张自己属于 IRC 第 501(c)(3) 条的免税组织，并主张捐赠人可按第 170 条扣除捐款。
+
+IRS 这边的立场是在 1970 年前后转弯的。1970 年以前，IRS 对私立学校一律给予免税地位，不问招生上的种族政策。1970 年 IRS 宣布改变口径；三法官组成的哥伦比亚特区联邦地区法院在 Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971) 中支持这一新口径，判决后经 Coit v. Green, 404 U.S. 997 (1971) 概括维持。1971 年 IRS 正式发布 **Rev. Rul. 71-447, 1971-2 C.B. 230**：没有对学生实行种族非歧视政策的私立学校，不属于第 170 条与第 501(c)(3) 条普通法意义上的「慈善（charitable）」，因而无免税资格、其受赠捐款亦不得扣除。1976 年，IRS 据此撤销 BJU 的免税资格，效力追溯至 1970 年 12 月 1 日。BJU 缴付联邦失业税（FUTA）后起诉退税：地区法院判学校胜诉，第四巡回上诉法院改判 IRS 胜诉，案件与 Goldsboro 案一并上到最高法院。最高法院于 1982 年 10 月 12 日言词辩论，1983 年 5 月 24 日以 **8 比 1** 判决维持 IRS 的撤销，首席大法官 Burger 执笔多数意见，Rehnquist 大法官异议，Powell 大法官另有协同意见。
+
+### 二、法源链：条文里的 charitable，带着普通法的公共政策要件
+
+争议的文字起点其实很短。第 501(c)(3) 条把免税给「专为宗教、慈善、科学或教育等目的而组织与运营」的组织；第 170 条则让捐给这类组织的捐款可以扣除。条文没有明说一句「不得违反公共政策」，多数意见的推理却分四步把这个要件读了进去：
+
+1. **charitable 按普通法含义理解。** 国会在第 170 条与第 501(c)(3) 条里使用「慈善」，用的是普通法（common law）上慈善信托的既有概念。普通法慈善有一个老要件：慈善信托的目的不得违法、不得违背公共政策（public policy），且必须为公众带来利益。换言之，要先是普通法意义上的「慈善」，才进得了条文的大门——种族歧视的教育机构提供的不是公共利益（public benefit），在概念上就站不住。
+2. **公共政策的内容由全国性政策认定。** 教育领域的种族歧视与一项压倒性的全国政策正面冲突：Brown v. Board of Education, 347 U.S. 483 (1954) 否定了公立教育中的种族隔离，其后《1964 年民权法》与三权分支的一系列行动反复确认「在教育中根除种族歧视」是既定的国家政策。政策清楚，歧视性校规与之不一致的结论就成立。
+3. **IRS 的解释有权限、且经国会默示认可。** Rev. Rul. 71-447 的构造不是 IRS 自创：它有 Green 案判决支撑，且国会多年来知情而未推翻、多次拒绝与之相反的立法提案，多数意见据此认定 IRS 没有逾越权限。Rehnquist 大法官的异议正打在这一点上：他认为增设公共政策要件是立法者的事，行政机关无权凭解释加码——这是本案留给行政法与税法解释论的标准对照组。
+4. **第一修正案挡不住撤销。** 校方主张撤销免税侵犯宗教自由行使（Free Exercise）。多数意见承认免税被撤确实给宗教实践带来负担，但认定政府在根除教育种族歧视上的利益是**令人信服的（compelling）重大利益**，其分量实质超过这一负担，且该利益无法用对宗教实践限制更小的手段同等实现；拒绝免税与拒绝捐款扣除均不违宪。注意判决的措辞结构：不是「宗教信念不真诚」——校方的诚实从未被质疑——而是「信念指导的行为与公共政策冲突时，免税这种政府补贴可以不给」。
+
+由此得出的规则句就是本案的考试核心：**依据第 501(c)(3) 条取得免税资格的组织，其慈善目的必须与既定的公共政策相一致；推行种族歧视的教育机构不构成普通法意义上的慈善，免税资格可予撤销，捐赠人的第 170 条扣除随之丧失。**
+
+### 三、推理链复盘：五步缺一不可
+
+把判决压成一条可复述的链，REG 与案例课都按这个顺序考：
+
+1. 条文门槛：免税对象须属于「慈善」等法定类别 →
+2. 概念填充：法定「慈善」沿用普通法慈善概念，自带「目的合法且不违背公共政策、且须惠及公众」的要件 →
+3. 政策锚定：以 Brown 案、1964 年民权法等认定「教育中不得种族歧视」是明确既定的全国公共政策 →
+4. 事实涵摄：涉案校规正是教育中的种族歧视安排，与该政策正面冲突，不产生可承认的公共利益 →
+5. 结论与抗辩处理：非慈善 → 撤销第 501(c)(3) 条免税、连带否定第 170 条扣除；宗教自由抗辩因政府的 compelling 利益而不能成立。
+
+实务上还要接一步后续监管：私立学校要保住免税，须实际执行并**公开宣示**种族非歧视政策（IRS 在 Rev. Proc. 75-50 中给出过认定与公告的操作指引），考试与合规清单里常与本案成对出现。
+
+### 四、考试与实务启示
+
+- **免税是补贴，不是权利。** 本案的底层逻辑是：免税与捐款扣除本质上是公共财政对慈善活动的补贴，政府有权要求受补贴者不与公共政策作对。答题时先把这一层说清，再谈要件，结构就不会散。
+- **公共政策要件的适用保持克制。** 判决之后，这一原则的扩张一直很谨慎：IRS 与法院只在「全国政策明确既定」的情形下动用它，本案的教育种族歧视是最典型、也几乎是唯一的教科书级适用场景。不要把它泛化成「IRS 可以任意以政策否决免税」——Powell 大法官的协同意见提醒的正是这个边界。
+- **与免税组织其他闸口分开。** 公共政策闸口管的是目的与政策一致性，与私人利益禁止（private inurement）、无关经营收入 UBIT（第 511 至 514 条）、Form 990 年报与三年不报自动撤销（第 6033(j) 条）是并行的不同闸口，案例分析时逐项过、不要混（体系见本仓「免税组织与慈善机构怎么计税」一篇）。
+- **组织行为的连带效应。** 免税被撤不只多缴本组织的税：捐赠人的扣除资格一并落空，募款能力随之受损，这是非营利客户合规风险评估里最该先算的一笔账。
+- **后续事实（供实务参照）：** BJU 于 2000 年宣布取消跨种族约会禁令，其联邦免税地位后于 2017 年恢复。规则没有变，变的是校规——这恰好反证本案要件盯的是行为与政策的一致性，而不是对机构或信仰本身的定性。
+
+### 五、备考要点
+
+1. 案名、年份、法院：Bob Jones University v. United States, 461 U.S. 574 (1983)，1983 年 5 月 24 日宣判，8 比 1，Burger 执笔、Rehnquist 异议，并案 Goldsboro Christian Schools；
+2. 关键裁定与文件：Rev. Rul. 71-447, 1971-2 C.B. 230；Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971)；BJU 免税于 1976 年被撤销、追溯至 1970 年 12 月 1 日；
+3. 法条：第 501(c)(3) 条（免税资格）与第 170 条（捐款扣除）共用同一「慈善」概念；
+4. 一句话规则：慈善目的须不违背既定的公共政策，教育中的种族歧视使学校丧失「慈善」定性；
+5. 易混点：本案否定的不是信仰的真诚性，也不是宗教行为本身，而是免税补贴的给付；异议的焦点是「谁有权加要件」（国会对 IRS），不是为歧视辩护。
+
+*声明：个人学习笔记，不构成税务建议。来源：Bob Jones University v. United States, 461 U.S. 574 (1983)（含 syllabus、多数意见、Powell 协同意见与 Rehnquist 异议）；IRC 第 170、501(c)(3) 条；Rev. Rul. 71-447, 1971-2 C.B. 230；Rev. Proc. 75-50；Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971), aff'd sub nom. Coit v. Green, 404 U.S. 997 (1971)。*
+
+---
+
+## English
+
+Bob Jones University v. United States, 461 U.S. 574 (1983), decided May 24, 1983, by an 8–1 vote (Burger, C.J.; Rehnquist, J., dissenting), consolidated with Goldsboro Christian Schools. Bob Jones University, a religious school in Greenville, South Carolina, admitted unmarried Black students after 1971 but denied admission to applicants in interracial marriages or known to advocate interracial dating or marriage, and disciplined students for interracial dating; Goldsboro admitted only white students. Both claimed exemption under IRC § 501(c)(3) and donor deductibility under § 170. After announcing a policy change in 1970 — upheld in Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971) — the IRS formalized the position in Rev. Rul. 71-447, 1971-2 C.B. 230: a private school without a racially nondiscriminatory policy as to students is not "charitable" in the common-law sense reflected in §§ 170 and 501(c)(3). The IRS revoked the University's exemption in 1976, retroactive to December 1, 1970. The Supreme Court affirmed. Its chain of reasoning: "charitable" carries its common-law meaning, under which a charitable purpose may not be illegal or contrary to public policy and must confer a public benefit; an overwhelming national policy against racial discrimination in education — Brown v. Board of Education, 347 U.S. 483 (1954), and the Civil Rights Act of 1964 — supplies the relevant policy; racially discriminatory schools therefore are not charitable, lose exemption, and their donors lose § 170 deductions. The construction did not exceed the IRS's authority, and the burden on religious exercise was justified by the compelling governmental interest in eradicating racial discrimination in education. Exam takeaway: tax exemption is a subsidy conditioned on consistency with established public policy, and the doctrine has been applied with restraint — private schools must also maintain and publicize a nondiscriminatory policy (see Rev. Proc. 75-50). *Personal study notes only; not tax advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+Bob Jones University v. United States, 461 U.S. 574 (1983), resuelto el 24 de mayo de 1983 por 8 votos contra 1 (Burger, presidente; Rehnquist, disidente), acumulado con Goldsboro Christian Schools. La universidad, una institución religiosa de Greenville, Carolina del Sur, admitía desde 1971 a estudiantes negros solteros, pero denegaba el ingreso a solicitantes en matrimonios interraciales o que defendieran las citas o el matrimonio interracial, y sancionaba disciplinariamente las citas interraciales; Goldsboro solo admitía estudiantes blancos. Ambas reclamaban la exención del IRC § 501(c)(3) y la deducibilidad de donaciones del § 170. Tras anunciar un cambio de criterio en 1970 —confirmado en Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971)—, el IRS lo formalizó en la Rev. Rul. 71-447, 1971-2 C.B. 230: una escuela privada sin una política de no discriminación racial hacia los estudiantes no es «caritativa» (charitable) en el sentido del common law reflejado en los §§ 170 y 501(c)(3). En 1976 el IRS revocó la exención de la universidad con efecto retroactivo al 1 de diciembre de 1970. La Corte Suprema confirmó: «charitable» conserva su significado de common law, según el cual un fin caritativo no puede ser ilegal ni contrario a la política pública (public policy) y debe conferir un beneficio público; existe una política nacional abrumadora contra la discriminación racial en la educación —Brown v. Board of Education, 347 U.S. 483 (1954) y la Ley de Derechos Civiles de 1964—; por tanto, las escuelas racialmente discriminatorias no son caritativas, pierden la exención y sus donantes pierden la deducción del § 170. La interpretación no excedió la autoridad del IRS, y la carga sobre el ejercicio religioso quedó justificada por el interés gubernamental imperioso (compelling) de erradicar la discriminación racial en la educación. Clave de examen: la exención es un subsidio condicionado a la coherencia con la política pública establecida, aplicado con moderación; las escuelas privadas deben además mantener y publicitar una política no discriminatoria (véase la Rev. Proc. 75-50). *Notas personales de estudio; no constituye asesoría fiscal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+Bob Jones University v. United States, 461 U.S. 574 (1983)는 1983년 5월 24일 8대 1로 선고되었고(Burger 대법원장 집필, Rehnquist 대법관 반대), Goldsboro Christian Schools 사건과 병합 심리되었습니다. 사우스캐롤라이나주 그린빌의 종교 대학인 Bob Jones University는 1971년 이후 미혼 흑인 학생을 입학시켰지만 인종 간 결혼을 한 지원자와 인종 간 교제·결혼을 옹호하는 지원자의 입학을 거부했고, 학생의 인종 간 교제를 징계 규칙으로 금지했습니다. Goldsboro는 백인 학생만 입학시켰습니다. 두 학교 모두 IRC § 501(c)(3)의 면세 자격과 § 170의 기부금 공제를 주장했습니다. IRS는 1970년 입장 변경을 발표했고(Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971)에서 지지), Rev. Rul. 71-447, 1971-2 C.B. 230으로 이를 공식화했습니다. 학생에 대해 인종차별 금지 정책을 두지 않은 사립학교는 §§ 170과 501(c)(3)에 반영된 보통법상의 «자선(charitable)»이 아니라는 것입니다. IRS는 1976년 대학의 면세를 취소했고 효력은 1970년 12월 1일로 소급했습니다. 대법원은 이를 유지했습니다. 추론의 연결고리는 이렇습니다. «자선»은 보통법의 의미를 그대로 지니며, 자선 목적은 불법이거나 공공정책(public policy)에 반해서는 안 되고 공익을 제공해야 합니다. 교육에서의 인종차별에 반대하는 압도적인 국가 정책이 존재합니다(Brown v. Board of Education, 347 U.S. 483 (1954), 1964년 민권법). 따라서 인종차별적인 학교는 자선이 아니어서 면세를 잃고, 그 기부자는 § 170 공제를 잃습니다. IRS의 해석은 권한을 넘지 않았고, 종교 행사의 자유에 대한 부담은 교육에서의 인종차별을 근절하려는 정부의 긴절한(compelling) 이익으로 정당화되었습니다. 시험 요점: 면세는 확립된 공공정책과의 일치를 조건으로 하는 보조금이며, 이 법리는 신중하게 적용되어 왔습니다. 사립학교는 차별 금지 정책을 유지하고 이를 공표해야 합니다(Rev. Proc. 75-50 참조). *개인 학습 노트이며 세무 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bob Jones University v. United States, 461 U.S. 574 (1983), tuyên ngày 24 tháng 5 năm 1983 với tỷ lệ 8–1 (Chánh án Burger viết ý kiến đa số; Thẩm phán Rehnquist bất đồng), gộp xét xử với vụ Goldsboro Christian Schools. Bob Jones University, một trường đại học tôn giáo ở Greenville, South Carolina, từ năm 1971 nhận sinh viên da đen chưa kết hôn nhưng từ chối ứng viên đang trong hôn nhân khác chủng tộc hoặc công khai ủng hộ hẹn hò, hôn nhân khác chủng tộc, đồng thời có quy định kỷ luật cấm sinh viên hẹn hò khác chủng tộc; Goldsboro chỉ nhận học sinh da trắng. Cả hai đều yêu cầu miễn thuế theo IRC § 501(c)(3) và khấu trừ quyên góp theo § 170. Sau khi tuyên bố đổi lập trường năm 1970 — được ủng hộ trong Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971) — IRS chính thức hóa trong Rev. Rul. 71-447, 1971-2 C.B. 230: trường tư không có chính sách không phân biệt chủng tộc đối với học sinh thì không phải là «từ thiện» (charitable) theo nghĩa thông luật (common law) phản ánh trong §§ 170 và 501(c)(3). Năm 1976, IRS thu hồi quyền miễn thuế của trường, hồi tố đến ngày 1 tháng 12 năm 1970. Tòa Tối cao giữ nguyên: «charitable» mang nghĩa thông luật, theo đó mục đích từ thiện không được bất hợp pháp hay trái chính sách công (public policy) và phải mang lại lợi ích công cộng; tồn tại một chính sách quốc gia áp đảo chống phân biệt chủng tộc trong giáo dục — Brown v. Board of Education, 347 U.S. 483 (1954) và Đạo luật Dân quyền 1964 —; do đó trường phân biệt chủng tộc không phải là tổ chức từ thiện, mất quyền miễn thuế, và người quyên góp của trường mất khấu trừ § 170. Cách giải thích này không vượt quá thẩm quyền của IRS, và gánh nặng lên việc thực hành tôn giáo được biện minh bởi lợi ích nhà nước cấp bách (compelling) trong việc xóa bỏ phân biệt chủng tộc trong giáo dục. Điểm thi cần nhớ: miễn thuế là khoản trợ cấp có điều kiện phải phù hợp với chính sách công đã xác lập, và học thuyết này được áp dụng dè dặt; trường tư còn phải duy trì và công bố công khai chính sách không phân biệt (xem Rev. Proc. 75-50). *Ghi chú học tập cá nhân, không phải tư vấn thuế.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+Bob Jones University v. United States, 461 U.S. 574 (1983), 24 मई 1983 को 8–1 से निर्णीत (मुख्य न्यायाधीश Burger बहुमत में; न्यायाधीश Rehnquist असहमत), Goldsboro Christian Schools के साथ संयुक्त। Greenville, South Carolina का धार्मिक विश्वविद्यालय Bob Jones University 1971 के बाद अविवाहित अश्वेत छात्रों को प्रवेश देता था, किंतु अंतर-नस्लीय विवाह में रहे आवेदकों या अंतर-नस्लीय डेटिंग व विवाह के समर्थकों को प्रवेश से इनकार करता था और छात्रों की अंतर-नस्लीय डेटिंग पर अनुशासनात्मक प्रतिबंध रखता था; Goldsboro केवल श्वेत छात्रों को प्रवेश देता था। दोनों ने IRC § 501(c)(3) के तहत कर-मुक्ति और § 170 के तहत दान-कटौती का दावा किया। 1970 में रुख बदलने की घोषणा के बाद — जिसे Green v. Connally, 330 F. Supp. 1150 (D.D.C. 1971) में समर्थन मिला — IRS ने Rev. Rul. 71-447, 1971-2 C.B. 230 में इसे औपचारिक रूप दिया: छात्रों के प्रति नस्लीय भेदभाव-रहित नीति न रखने वाला निजी विद्यालय §§ 170 और 501(c)(3) में प्रतिबिंबित सामान्य-विधि (common law) अर्थ में «धर्मार्थ» (charitable) नहीं है। 1976 में IRS ने विश्वविद्यालय की छूट रद्द कर दी, प्रभाव 1 दिसंबर 1970 से पूर्वव्यापी। सर्वोच्च न्यायालय ने इसे बरकरार रखा। तर्क-शृंखला: «charitable» अपना सामान्य-विधि अर्थ रखता है, जिसके तहत धर्मार्थ उद्देश्य अवैध या लोक नीति (public policy) के विरुद्ध नहीं हो सकता और उसे सार्वजनिक लाभ देना होगा; शिक्षा में नस्लीय भेदभाव के विरुद्ध भारी राष्ट्रीय नीति मौजूद है — Brown v. Board of Education, 347 U.S. 483 (1954) और नागरिक अधिकार अधिनियम 1964 —; अतः नस्लीय भेदभाव करने वाले विद्यालय धर्मार्थ नहीं हैं, छूट खोते हैं, और उनके दानदाता § 170 कटौती खोते हैं। IRS की व्याख्या उसके अधिकार से बाहर नहीं थी, और धार्मिक आचरण पर पड़ने वाला भार शिक्षा में नस्लीय भेदभाव मिटाने के सरकार के बाध्यकारी (compelling) हित से उचित ठहरा। परीक्षा-बिंदु: कर-मुक्ति स्थापित लोक नीति से संगति की शर्त पर दी गई सब्सिडी है, और यह सिद्धांत संयम से लागू हुआ है; निजी विद्यालयों को भेदभाव-रहित नीति बनाए रखनी और सार्वजनिक करनी भी होती है (Rev. Proc. 75-50 देखें)। *व्यक्तिगत अध्ययन नोट; कर सलाह नहीं।*
