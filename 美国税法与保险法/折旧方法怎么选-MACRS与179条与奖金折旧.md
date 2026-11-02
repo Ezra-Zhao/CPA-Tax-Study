@@ -1,0 +1,86 @@
+# 折旧方法怎么选：MACRS、§ 179 与奖金折旧
+
+> 个人学习笔记，讲清经营资产折旧的联邦框架与加州差异。限额与比例以法条原文与 IRS 当年公告为准，不构成税务建议。
+
+## 中文主文
+
+### 一、起点：§ 167 允许扣，§ 168 决定怎么扣
+
+IRC § 167(a) 允许对用于贸易或经营、或为取得收入而持有的财产，按其损耗（exhaustion, wear and tear）计提合理折旧扣除；土地本身不折旧，建筑物与土地必须分开计价。真正的操作规则在 § 168 的修正加速成本回收系统（Modified Accelerated Cost Recovery System, MACRS）里：先把财产归类、定回收期（recovery period），再选方法与惯例（convention），逐年生成扣除。买入价、运费、安装调试等使资产达到可使用状态的成本一并计入基数（basis），投入使用（placed in service）的年份才是折旧起点，不是付款年份。
+
+另一条可选的替代折旧系统（Alternative Depreciation System, ADS）回收期更长、只用直线法，某些情形必须用（例如免税使用财产、境外使用为主的财产、选择豁免利息限制的房地产经营等），另一些情形可自愿选 ADS 换取其他规则的适用。本文以一般折旧系统（General Depreciation System, GDS）为主线。
+
+### 二、回收期与方法：先分类，再算账
+
+MACRS 常用回收期（GDS）：
+
+| 财产类型 | 回收期 | 常用方法 |
+|---|---|---|
+| 一般设备、家具、计算机等（§ 1245 财产为主） | 3 / 5 / 7 年（最常见 5 年、7 年） | 200% 余额递减转直线 |
+| 农用、赛马等特定财产及部分 15 年财产 | 15 年等 | 150% 余额递减转直线 |
+| 住宅租赁不动产（residential rental property） | 27.5 年 | 直线法 |
+| 非住宅不动产（nonresidential real property，如商铺、办公楼建筑本体） | 39 年 | 直线法 |
+
+方法逻辑：余额递减法前期扣得多、后期自动切换到直线法以便在回收期内扣完；不动产一律直线法，不加速。5 年期财产典型例子是汽车（受 § 280F 上限另限，见下文）、计算机与办公设备；7 年期是办公家具与多数通用机械。分类拿不准时查 Rev. Proc. 87-56 的资产类别表（asset class），不要按「我觉得能用几年」自定年限——回收期是法定分类，不是使用寿命估计。
+
+**惯例（convention）决定第一年算多少**：动产一般用半年惯例（half-year convention）——无论年内何时投入使用，第一年与最后一年各算半年；但若纳税年度最后一个季度投入使用的动产占比超过全年动产基数的 40%，改用季中惯例（mid-quarter convention），按投入季度分别按 37.5% / 25% / 12.5% 等比例起算，目的是防年底突击买设备套半年扣除。不动产用月中惯例（mid-month convention）——投入使用当月只算半个月。出售或报废年份同样受惯例约束，不能把最后一年扣满。
+
+**算例（5 年期设备）**：10,000 美元设备、5 年期、200% 余额递减、半年惯例：标准 MACRS 百分比表为第 1–6 年依次约 20.00% / 32.00% / 19.20% / 11.52% / 11.52% / 5.76%，扣除依次约 2,000 / 3,200 / 1,920 / 1,152 / 1,152 / 576 美元，六个税务年度扣完（回收期 5 年横跨 6 年是半年惯例的正常结果）。若改走 § 179 或奖金折旧，第一年扣除会大幅前置（见下文），但总可扣额仍以基数为限。
+
+### 三、§ 179：合格财产当期费用化，有限额有门槛
+
+IRC § 179 允许纳税人选择把合格财产（主要是 § 1245 动产、新购为主，二手合格财产亦可，有投入使用与经营使用比例等条件）成本在投入使用当年一次性费用化，而不是分年折旧。它是「选择（election）」，要在税表上逐项作出；费用化金额还受当年经营应税收入上限约束（超出部分结转），且与奖金折旧的适用顺序是先 § 179、再奖金折旧、最后常规 MACRS。
+
+**OBBBA 后的联邦限额**：《大而美法案》(OBBBA, One Big Beautiful Bill Act, P.L. 119-21) 提高了 § 179 上限：费用化上限提高到 2,500,000 美元，起扣门槛（phase-out threshold，即当年投入使用合格财产总额超过后上限逐美元缩减的起点）提高到 4,000,000 美元，适用于 2025 年后投入使用的财产（立法口径与 2025 年 1 月 19 日之后投入使用财产的衔接，以法条原文与 IRS 当年公告、税表说明为准；本文谨慎表述为「2025 年后投入使用」，申报时务必再核当年数字）。超过起扣门槛后上限等额缩减，投入总额达到上限 + 门槛量级时 § 179 归零——大额采购年份要先算门槛，再决定 § 179 与奖金折旧的搭配。SUV 等车辆另有单独的 § 179 上限（历年经通胀调整，以当年公告为准）。
+
+### 四、奖金折旧 § 168(k)：合格财产的额外首年扣除
+
+IRC § 168(k) 的奖金折旧（bonus depreciation）是对合格财产（一般为回收期 20 年及以下的 MACRS 财产、部分软件与合格改良财产等，原使用年限等条件以法条为准）在投入使用首年按规定比例先行扣除，剩余基数再走常规 MACRS。它不需要逐项选择去「买」，而是默认适用、不想要须按财产类别 elect out（选择退出）；也不受 § 179 那种应税收入上限与总额门槛的同类约束，亏损年份仍可先扣出（形成或加大 NOL 的处理另按 § 172 规则）。
+
+**比例沿革与 OBBBA 恢复 100%**：TCJA 原排期让奖金比例在 2022 年 100% 之后逐年递减（2023 年 80%、2024 年 60%、2025 年 40%，其后继续递减直至归零）。OBBBA 改写了这条排期：对 2025 年 1 月 19 日之后取得并投入使用的合格财产，奖金折旧恢复为 100%。因此同一台设备，取得与投入使用日期落在分界线前后，第一年扣除可能天差地别——采购单、取得日期与投入使用日期的凭证必须留齐；分界与过渡规则（书面约束性合同等）以 § 168(k) 法条、财政部条例与 IRS 过渡公告为准，拿不准时以 IRS 当年公告为准，不要凭新闻标题下结论。
+
+**§ 179 与奖金折旧怎么搭**：小额到中额、当年有足够经营利润、且想精准控制扣除落在哪个资产上时，§ 179 灵活；大额批量采购、或当年利润不足以吸收 § 179 时，100% 奖金折旧更省事。两者叠加也不能超过基数，且州税差异很大（见加州一节），联邦省下的税不要直接套到州税预期上。
+
+### 五、两个一笔带过的限制：listed property 与 § 280F
+
+列举财产（listed property，§ 280F(d)(4)：乘用车、便携电子设备等易公私混用财产）经营使用比例须过 50% 的 predominant use 测试才能用加速方法与 § 179 / 奖金折旧，否则转 ADS 直线法，且须有同期使用记录（§ 274(d) 的严格证实要求）；比例日后跌到 50% 及以下要收回（recapture）多扣部分。豪华汽车上限（§ 280F(a)）：乘用车每年的折旧扣除（含 § 179 与奖金折旧效果）受法定年度上限封顶，上限金额历年由 IRS 公告（如 Rev. Proc. 系列）按是否适用奖金折旧分列，买贵车不等于能按全价快速折旧——申报前查当年上限表。
+
+### 六、加州：不跟随奖金折旧，§ 179 上限低得多
+
+加州折旧口径与联邦明显脱钩，报州税时必须做 Schedule CA 调整，不能把联邦折旧数直接抄过去：
+
+- **奖金折旧**：加州不跟随（does not conform）联邦 § 168(k) 奖金折旧。联邦首年多扣的部分，在加州要加回，再按加州自己的 MACRS / 直线规则分年扣——同一资产要维护联邦、加州两套折旧台账（双基数、双累计），出售时利得计算也各算各的。
+- **加州 § 179**：加州有自己的 § 179（Cal. Rev. & Tax. Code 对应条文），上限远低于联邦：费用化上限 25,000 美元，起扣门槛 200,000 美元（投入使用合格财产总额超过 200,000 美元后缩减）。联邦用了两百多万的 § 179，加州可能只认 25,000 美元，差额转加州分年折旧。数字以 FTB 当年说明为准，但「联邦与加州差一个数量级」这个量级判断长期稳定。
+- **方法与回收期**：加州大体沿用联邦 MACRS 的分类与回收期框架（不动产 39 年 / 27.5 年等），差异集中在奖金折旧与 § 179 限额两处；另有加州特有的不一致年度（如历史上的 NOL 暂停）会影响扣除的实际受益年份，逐年核 FTB 口径。
+
+### 参考依据
+
+IRC §§ 167, 168（含 § 168(b) 方法、§ 168(d) 惯例、§ 168(g) ADS、§ 168(k) 奖金折旧），174、179、280F、274(d)；OBBBA (P.L. 119-21) 关于 § 179 限额（2,500,000 / 4,000,000 美元）与 § 168(k) 恢复 100% 的条文；Rev. Proc. 87-56（资产类别与回收期）；IRS Publication 946 (How to Depreciate Property)、Form 4562 说明与 § 280F 汽车上限的历年 Rev. Proc. 公告；加州 FTB 关于折旧不一致（nonconformity）、加州 § 179（25,000 / 200,000 美元）与 Schedule CA 的说明。所有限额与比例以法条原文与 IRS / FTB 当年公告为准。
+
+*声明：个人学习笔记，不构成税务建议。具体折旧选择请咨询注册会计师或税务律师。*
+
+---
+
+## English
+
+**Choosing a depreciation method: MACRS, Section 179, and bonus depreciation.** Section 167(a) allows a reasonable allowance for exhaustion and wear and tear on property used in a trade or business or held for the production of income; Section 168's MACRS supplies the mechanics — classify the property, assign its recovery period, then apply the method and convention. Under the general depreciation system, most equipment is 5-year or 7-year property using the 200% declining-balance method switching to straight line; property in longer classes may use 150% declining balance; residential rental property is 27.5-year straight line and nonresidential real property is 39-year straight line (see Rev. Proc. 87-56 for asset classes). Conventions control year one: the half-year convention for personal property, replaced by the mid-quarter convention when more than 40% of the year's personal-property basis is placed in service in the final quarter, and the mid-month convention for real property. Example: $10,000 of 5-year property under 200% declining balance and the half-year convention deducts roughly 20.00% / 32.00% / 19.20% / 11.52% / 11.52% / 5.76% — $2,000 / $3,200 / $1,920 / $1,152 / $1,152 / $576 over six tax years. Section 179 lets the taxpayer elect to expense qualifying property when placed in service, subject to a dollar cap, an investment phase-out, and a taxable-income limit (excess carries forward); the OBBBA (P.L. 119-21) raised the cap to $2,500,000 with a $4,000,000 phase-out threshold for property placed in service after 2025 — state the placed-in-service transition carefully and verify against the statute and current-year IRS guidance. Bonus depreciation under § 168(k) applies by default (elect out by class), with no comparable income limit: after the TCJA phase-down schedule (80% in 2023, 60% in 2024, 40% in 2025), the OBBBA restored 100% bonus for qualified property acquired and placed in service after January 19, 2025, so acquisition and placed-in-service dates on either side of that line change year-one deductions dramatically. Ordering is Section 179 first, then bonus, then regular MACRS on the remaining basis. Two limits deserve a flag: listed property (§ 280F(d)(4)) must pass the more-than-50% predominant business-use test with § 274(d) substantiation or fall back to ADS straight line with recapture risk, and passenger automobiles are capped each year by the § 280F(a) luxury-auto limits published in annual IRS revenue procedures. California does not conform: it allows no federal bonus depreciation and has its own Section 179 capped at $25,000 with a $200,000 phase-out threshold, so taxpayers keep separate federal and California depreciation schedules and reconcile on Schedule CA. *Personal study notes; not tax advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+**Cómo elegir el método de depreciación: MACRS, § 179 y depreciación bonus.** El § 167(a) permite una deducción razonable por agotamiento y desgaste de bienes usados en un negocio o mantenidos para producir ingresos; el MACRS del § 168 aporta la mecánica: clasificar el bien, asignar su período de recuperación y aplicar método y convención. En el sistema general, la mayoría del equipo es propiedad a 5 o 7 años con saldo decreciente del 200 % que luego pasa a línea recta; ciertas clases usan el 150 %; la propiedad residencial de alquiler va a 27,5 años en línea recta y la no residencial a 39 años en línea recta (véase Rev. Proc. 87-56). Las convenciones fijan el primer año: medio año para bienes muebles, sustituida por la de mitad de trimestre cuando más del 40 % de la base mueble del año entra en servicio en el último trimestre, y mitad de mes para inmuebles. Ejemplo: 10.000 dólares de propiedad a 5 años (200 %, medio año) deducen aproximadamente 20,00 % / 32,00 % / 19,20 % / 11,52 % / 11,52 % / 5,76 %: 2.000 / 3.200 / 1.920 / 1.152 / 1.152 / 576 dólares en seis años fiscales. El § 179 permite elegir gastar de inmediato la propiedad calificada al entrar en servicio, con tope en dólares, reducción por inversión total y límite de ingreso imponible del negocio (el exceso se traslada); la OBBBA (P.L. 119-21) elevó el tope a 2.500.000 dólares con umbral de reducción de 4.000.000 para bienes puestos en servicio después de 2025 —la transición debe expresarse con cautela y verificarse contra la ley y la guía del IRS del año—. La depreciación bonus del § 168(k) se aplica por defecto (se puede renunciar por clase) y sin un límite de ingreso comparable: tras la reducción gradual de la TCJA (80 % en 2023, 60 % en 2024, 40 % en 2025), la OBBBA restauró el 100 % para propiedad calificada adquirida y puesta en servicio después del 19 de enero de 2025, por lo que las fechas a uno y otro lado de esa línea cambian radicalmente la deducción del primer año. El orden es: primero § 179, luego bonus y después MACRS ordinario sobre la base restante. Dos límites a anotar: la propiedad catalogada (listed property, § 280F(d)(4)) debe superar la prueba de uso comercial predominante de más del 50 % con la prueba documental del § 274(d), o pasa a línea recta ADS con riesgo de recaptura; y los automóviles de pasajeros tienen topes anuales del § 280F(a) publicados por el IRS. California no se ajusta al sistema federal: no admite la depreciación bonus federal y su propio § 179 tiene un tope de 25.000 dólares con umbral de 200.000, por lo que se llevan dos planes de depreciación (federal y estatal) y se concilian en el Schedule CA. *Notas personales de estudio; no constituye asesoría fiscal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+**감가상각 방법 선택: MACRS, § 179와 보너스 상각.** § 167(a)는 사업용 또는 소득 생산용 재산의 소모·마모에 대한 합리적 상각을 허용하고, § 168의 MACRS가 분류·회수기간·방법·관행의 틀을 제공합니다. 일반제도(GDS)에서 대부분 장비는 5년 또는 7년 재산으로 200% 체감잔액법(후에 정액법 전환)을 쓰고, 일부 장기 분류는 150% 체감잔액법을 쓰며, 주거용 임대 부동산은 27.5년 정액법, 비주거용 부동산은 39년 정액법입니다(자산 분류는 Rev. Proc. 87-56 참조). 관행이 첫해 금액을 정합니다. 동산은 반년 관행(half-year)이 원칙이나, 해당 연도 동산 기초의 40% 초과가 마지막 분기에 사용 개시되면 분기중 관행(mid-quarter)으로 바뀌고, 부동산은 월중 관행(mid-month)을 씁니다. 예: 5년 재산 10,000달러(200%·반년 관행)는 약 20.00% / 32.00% / 19.20% / 11.52% / 11.52% / 5.76%, 즉 2,000 / 3,200 / 1,920 / 1,152 / 1,152 / 576달러를 6개 과세연도에 나눠 공제합니다. § 179는 적격 재산을 사용 개시 연도에 즉시 비용화하도록 선택할 수 있게 하되, 금액 상한·투자액 감축·사업 과세소득 한도(초과분 이월)가 있습니다. OBBBA(P.L. 119-21)는 상한을 2,500,000달러, 감축 개시 문턱을 4,000,000달러로 올렸으며, 적용은 2025년 후 사용 개시 재산에 대한 것으로 법령과 해당 연도 IRS 안내로 확인해야 합니다. § 168(k) 보너스 상각은 기본 적용(분류별 탈퇴 선택 가능)되고 소득 한도가 없습니다. TCJA의 단계적 축소(2023년 80%, 2024년 60%, 2025년 40%) 이후, OBBBA는 2025년 1월 19일 이후 취득·사용 개시된 적격 재산에 대해 100%를 복원했으므로 그 경계 전후의 날짜가 첫해 공제를 크게 바꿉니다. 적용 순서는 § 179, 보너스, 잔여 기초에 대한 일반 MACRS 순입니다. 유의할 제한 두 가지: 열거재산(listed property, § 280F(d)(4))은 사업사용 50% 초과 우세사용 테스트와 § 274(d) 입증을 통과해야 하며, 못 하면 ADS 정액법과 환수(recapture) 위험이 따릅니다. 승용차는 § 280F(a)의 연도별 상한(IRS 연례 안내)이 적용됩니다. 캘리포니아는 연방과 다릅니다. 연방 보너스 상각을 인정하지 않고, 자체 § 179 상한은 25,000달러·문턱 200,000달러이므로 연방용과 주용 상각표를 따로 유지하고 Schedule CA에서 조정해야 합니다. *개인 학습 노트이며 세무 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+**Chọn phương pháp khấu hao thế nào: MACRS, Điều 179 và khấu hao thưởng.** Điều § 167(a) cho phép khấu trừ hợp lý cho hao mòn của tài sản dùng trong kinh doanh hoặc để tạo thu nhập; MACRS của § 168 đưa ra cơ chế: phân loại tài sản, xác định thời gian thu hồi, rồi áp dụng phương pháp và quy ước. Trong hệ thống chung, hầu hết thiết bị là tài sản 5 năm hoặc 7 năm theo phương pháp số dư giảm dần 200% rồi chuyển sang đường thẳng; một số nhóm dài hơn dùng 150%; bất động sản cho thuê nhà ở là 27,5 năm đường thẳng và bất động sản phi nhà ở là 39 năm đường thẳng (xem Rev. Proc. 87-56 về phân loại). Quy ước quyết định năm đầu: nửa năm (half-year) cho động sản, chuyển sang giữa quý (mid-quarter) khi hơn 40% cơ sở động sản của năm được đưa vào sử dụng trong quý cuối, và giữa tháng (mid-month) cho bất động sản. Ví dụ: tài sản 5 năm trị giá 10.000 đô la (200%, nửa năm) khấu trừ khoảng 20,00% / 32,00% / 19,20% / 11,52% / 11,52% / 5,76% — tức 2.000 / 3.200 / 1.920 / 1.152 / 1.152 / 576 đô la trong sáu năm thuế. Điều § 179 cho phép lựa chọn tính toàn bộ chi phí tài sản đủ điều kiện vào năm đưa vào sử dụng, với trần tiền, ngưỡng cắt giảm theo tổng đầu tư và giới hạn thu nhập chịu thuế của hoạt động kinh doanh (phần vượt được chuyển sang năm sau); OBBBA (P.L. 119-21) đã nâng trần lên 2.500.000 đô la với ngưỡng cắt giảm 4.000.000 đô la cho tài sản đưa vào sử dụng sau năm 2025 — cách diễn đạt về thời điểm chuyển tiếp phải thận trọng và đối chiếu luật cùng hướng dẫn IRS của năm hiện hành. Khấu hao thưởng theo § 168(k) áp dụng mặc định (có thể chọn không áp dụng theo nhóm) và không có giới hạn thu nhập tương tự: sau lịch trình giảm dần của TCJA (80% năm 2023, 60% năm 2024, 40% năm 2025), OBBBA đã khôi phục 100% cho tài sản đủ điều kiện được mua và đưa vào sử dụng sau ngày 19/01/2025, nên ngày ở hai phía của mốc này làm thay đổi lớn khoản khấu trừ năm đầu. Thứ tự áp dụng là § 179 trước, rồi khấu hao thưởng, rồi MACRS thông thường trên cơ sở còn lại. Hai giới hạn cần ghi chú: tài sản liệt kê (listed property, § 280F(d)(4)) phải qua bài kiểm tra sử dụng kinh doanh chiếm ưu thế trên 50% kèm chứng cứ theo § 274(d), nếu không sẽ chuyển sang đường thẳng ADS và có nguy cơ bị thu hồi; ô tô chở người bị trần từng năm theo § 280F(a) do IRS công bố hằng năm. California không tuân theo liên bang: không công nhận khấu hao thưởng liên bang và § 179 của bang chỉ có trần 25.000 đô la với ngưỡng 200.000 đô la, nên phải duy trì hai bảng khấu hao riêng (liên bang và bang) và điều chỉnh trên Schedule CA. *Ghi chú học tập cá nhân, không phải tư vấn thuế.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+**मूल्यह्रास विधि कैसे चुनें: MACRS, § 179 और बोनस मूल्यह्रास।** § 167(a) व्यापार में प्रयुक्त या आय-उत्पादन हेतु धारित संपत्ति के क्षय व घिसाव के लिए उचित भत्ता देता है; § 168 का MACRS इसकी कार्यविधि देता है — संपत्ति वर्गीकृत करें, वसूली अवधि तय करें, फिर विधि व परिपाटी लागू करें। सामान्य प्रणाली में अधिकांश उपकरण 5-वर्षीय या 7-वर्षीय संपत्ति होते हैं, जिन पर 200% घटती-शेष विधि और बाद में सीधी रेखा लागू होती है; कुछ लंबी श्रेणियों में 150% घटती-शेष, आवासीय किराया संपत्ति पर 27.5 वर्ष सीधी रेखा और ग़ैर-आवासीय अचल संपत्ति पर 39 वर्ष सीधी रेखा लागू होती है (वर्गीकरण हेतु Rev. Proc. 87-56 देखें)। परिपाटियाँ पहला वर्ष तय करती हैं: चल संपत्ति के लिए अर्ध-वर्ष (half-year), यदि वर्ष की चल-संपत्ति आधार का 40% से अधिक अंतिम तिमाही में सेवा में लगे तो मध्य-तिमाही (mid-quarter), और अचल संपत्ति के लिए मध्य-मास (mid-month)। उदाहरण: 5-वर्षीय संपत्ति 10,000 डॉलर (200%, अर्ध-वर्ष) पर लगभग 20.00% / 32.00% / 19.20% / 11.52% / 11.52% / 5.76% — यानी 2,000 / 3,200 / 1,920 / 1,152 / 1,152 / 576 डॉलर — छह कर-वर्षों में कटौती होती है। § 179 योग्य संपत्ति को सेवा में लगने के वर्ष में ही व्यय करने का चुनाव देता है, जिस पर डॉलर-सीमा, कुल निवेश पर चरणबद्ध कटौती और व्यावसायिक करयोग्य आय की सीमा (अतिरिक्त आगे ले जाया जाता है) लागू होती है; OBBBA (P.L. 119-21) ने सीमा 2,500,000 डॉलर और कटौती-प्रारंभ सीमा 4,000,000 डॉलर कर दी है, जो 2025 के बाद सेवा में लगी संपत्ति पर लागू होती है — संक्रमण का वर्णन सावधानी से करें और क़ानून व चालू वर्ष के IRS मार्गदर्शन से सत्यापित करें। § 168(k) बोनस मूल्यह्रास डिफ़ॉल्ट रूप से लागू होता है (श्रेणी अनुसार बाहर निकलने का विकल्प) और इस पर तुलनीय आय-सीमा नहीं है: TCJA की क्रमिक कमी (2023 में 80%, 2024 में 60%, 2025 में 40%) के बाद OBBBA ने 19 जनवरी 2025 के बाद अर्जित व सेवा में लगाई गई योग्य संपत्ति के लिए 100% पुनः बहाल कर दिया, इसलिए उस रेखा के दोनों ओर की तिथियाँ पहले वर्ष की कटौती में बड़ा अंतर डालती हैं। क्रम है: पहले § 179, फिर बोनस, फिर शेष आधार पर सामान्य MACRS। दो सीमाएँ नोट करें: listed property (§ 280F(d)(4)) को 50% से अधिक प्रमुख व्यावसायिक उपयोग परीक्षा और § 274(d) प्रमाणन पास करना होगा, अन्यथा ADS सीधी रेखा व recapture का जोखिम रहेगा; यात्री कारों पर § 280F(a) की वार्षिक सीमाएँ (IRS के वार्षिक प्रकाशन) लागू होती हैं। California संघीय प्रणाली का अनुसरण नहीं करता: संघीय बोनस मूल्यह्रास मान्य नहीं है और राज्य के अपने § 179 की सीमा केवल 25,000 डॉलर व सीमा-प्रारंभ 200,000 डॉलर है, इसलिए संघीय व राज्य मूल्यह्रास तालिकाएँ अलग रखकर Schedule CA पर समायोजन करना होता है। *व्यक्तिगत अध्ययन नोट; कर सलाह नहीं।*
+
+---
+
+*免责声明（六语）：中文——个人学习笔记，不构成税务、财务、法律或保险专业建议，具体事项请咨询持牌专业人士。English — Personal study notes only; not tax, financial, legal, or insurance advice. Consult a licensed professional for your situation. Español — Notas personales de estudio; no constituye asesoría fiscal, financiera, legal ni de seguros. Consulte a un profesional autorizado. 한국어 — 개인 학습 노트이며 세무·재무·법률·보험 자문이 아닙니다. 구체적 사안은 자격 있는 전문가와 상담하십시오. Tiếng Việt — Ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính, pháp lý hay bảo hiểm. Hãy tham khảo chuyên gia có giấy phép. हिन्दी — व्यक्तिगत अध्ययन नोट; कर, वित्तीय, कानूनी या बीमा सलाह नहीं है। अपने मामले के लिए लाइसेंसधारी पेशेवर से सलाह लें।*
