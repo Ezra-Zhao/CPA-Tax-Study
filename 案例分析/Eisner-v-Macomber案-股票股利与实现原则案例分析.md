@@ -249,8 +249,24 @@ Macomber की परिभाषा जैसी की तैसी नही
 
 主要依据：Eisner v. Macomber, 252 U.S. 189 (1920) 判决原文（50% 股票股利、1,100 股新股、面值 100 美元共 110,000 美元、5 比 4、Pitney 执笔多数意见、Holmes 与 Day 异议、Brandeis 异议且 McKenna 与 Clarke 加入）；Stratton's Independence, Ltd. v. Howbert, 231 U.S. 399 (1913) 所得定义；Revenue Act of 1916；Helvering v. Bruun, 309 U.S. 461 (1940)；Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955)；IRC 第 301、305(a)、305(b)、307 条现行文本。条文以法典现行公布文本为准，个案适用请复核最新修订。
 
-Sources: Eisner v. Macomber, 252 U.S. 189 (1920); Stratton's Independence, Ltd. v. Howbert, 231 U.S. 399 (1913); Revenue Act of 1916; Helvering v. Bruun, 309 U.S. 461 (1940); Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955); IRC §§ 301, 305(a), 305(b), 307. / Fuentes: las sentencias y normas citadas; el texto en español es una traducción de estudio. / 출처: 인용된 판결과 법령; 한국어 본문은 학습용 초역입니다. / Nguồn: các bản án và điều luật đã dẫn; bản tiếng Việt là bản dịch sơ bộ phục vụ học tập. / स्रोत: उद्धृत निर्णय और धाराएँ; हिन्दी पाठ एक प्रारंभिक अध्ययन अनुवाद है।
+Sources: Eisner v. Macomber, 252 U.S. 189 (1920); Stratton's Independence, Ltd. v. Howbert, 231 U.S. 399 (1913); Revenue Act of 1916; Helvering v. Bruun, 309 U.S. 461 (1940); Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955); IRC §§ 301, 305(a), 305(b), 307.
+
+Fuentes: las sentencias y normas citadas en la parte principal en chino; el texto en español es una traducción de estudio.
+
+출처: 중국어 본문에 인용된 판결과 법령; 한국어 본문은 학습용 초역입니다.
+
+Nguồn: các bản án và điều luật đã dẫn trong phần chính tiếng Trung; bản tiếng Việt là bản dịch sơ bộ phục vụ học tập.
+
+स्रोत: चीनी मुख्य पाठ में उद्धृत निर्णय और धाराएँ; हिन्दी पाठ एक प्रारंभिक अध्ययन अनुवाद है।
 
 本篇为个人学习笔记，不构成税务、财务或法律建议。具体事务请咨询持牌 CPA 或税务律师。
 
-This article is a personal study note and does not constitute tax, financial, or legal advice. / Este artículo es una nota personal de estudio y no constituye asesoría fiscal, financiera ni legal. / 본 글은 개인 학습 노트이며 세무·재무·법률 자문이 아닙니다. / Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn thuế, tài chính hay pháp lý. / यह लेख एक व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या कानूनी सलाह नहीं है।
+*This article is a personal study note and does not constitute tax, financial, or legal advice. For a specific matter, consult a licensed CPA or tax attorney.*
+
+*Este artículo es una nota personal de estudio y no constituye asesoría fiscal, financiera ni legal. Para un asunto concreto, consulte a un CPA con licencia o a un abogado fiscal.*
+
+*이 글은 개인 학습 노트이며 세무·재무·법률 자문이 아닙니다. 구체적인 사안은 면허 있는 CPA나 세무 변호사에게 상담하십시오. (초역)*
+
+*Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn thuế, tài chính hay pháp lý. Với vụ việc cụ thể, hãy tham vấn CPA có giấy phép hoặc luật sư thuế. (bản dịch sơ bộ)*
+
+*यह लेख एक व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंसधारी CPA या कर वकील से परामर्श करें। (प्रारंभिक अनुवाद)*
