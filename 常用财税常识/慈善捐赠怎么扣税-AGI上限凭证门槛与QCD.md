@@ -42,11 +42,17 @@ La documentación tiene tres niveles. Primero, toda donación individual de 250 
 ### 한국어 (초역 · 初译待校)
 서류 요건은 세 단계로 강화됩니다. 첫째, 1회 250달러 이상의 기부는 § 170(f)(8)에 따라 단체가 발급한 동시기 서면 확인서(contemporaneous written acknowledgment)가 필요합니다. 금액, 날짜, 대가 제공 여부가 적혀 있어야 하며, 이 확인서가 없으면 은행 기록이 깨끗해도 조세법원이 공제 전액을 부인하는 경우가 많습니다. 둘째, 비현금 기부가 500달러를 넘으면 Form 8283 A부분, 5,000달러를 넘으면 B부분과 § 170(f)(11)의 자격 평가사 감정서가 필요합니다. 차량, 미술품, 암호화폐에는 추가 규칙이 있습니다. 셋째, 75달러를 넘는 대가성 지급(자선 만찬, 경매)은 § 6115에 따라 단체가 서면으로, 받은 가치의 초과분만 공제 가능하다고 밝혀야 합니다. 중고 의류와 가구는 중고 시장 공정가치로 평가하고, 의류는 양호한 사용 상태 이상이어야 합니다(§ 170(f)(16)).
 
+증빙 시점도 놓치지 마세요. 동시기 확인서는 신고서 제출일과 연장 포함 신고 기한 중 더 이른 날까지 받아 두어야 하고(§ 170(f)(8)(C)), 자격 평가(qualified appraisal)는 기부일 기준 60일 전보다 앞서 작성된 것이어서는 안 됩니다. Form 8283 B부분에는 수령 단체의 서명란도 있습니다. 확인서와 영수증은 신고 후 최소 3년, 평가 관련 자료는 그보다 더 오래 보관하는 편이 안전합니다.
+
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 Giấy tờ có ba tầng. Thứ nhất, mỗi khoảnquyên góp từ 250 đô la trở lên phải có xác nhận bằng văn bản đồng thời của tổ chức theo § 170(f)(8), ghi số tiền, ngày và có nhận lại hàng hóa hay dịch vụ gì không; thiếu thư này, Tòa Thuế thường bác toàn bộ khoản trừ dù sao kê ngân hàng rõ ràng. Thứ hai,quyên góp phi tiền mặt trên 500 đô la phải khai Form 8283 Phần A; trên 5.000 đô la phải khai Phần B kèm thẩm định giá hợp lệ theo § 170(f)(11), và có quy tắc riêng cho xe, tác phẩm nghệ thuật, tiền mã hóa. Thứ ba, khoản trả trên 75 đô la có đối价 (vé gala, vật phẩm đấu giá) thì § 6115 yêu cầu tổ chức công bố bằng văn bản rằng chỉ phần vượt giá trị nhận lại mới được trừ. Quần áo và đồ gỗ cũ tính theo giá thị trường đồ cũ, và quần áo phải ở tình trạng sử dụng tốt trở lên (§ 170(f)(16)).
 
+Cũng cần nhớ thời điểm của giấy tờ: xác nhận đồng thời phải nhận được chậm nhất vào ngày sớm hơn trong hai mốc — ngày nộp tờ khai hoặc hạn nộp (kể cả gia hạn) (§ 170(f)(8)(C)); thẩm định giá hợp lệ không được lập sớm hơn 60 ngày trước ngày quyên góp, và Phần B của Form 8283 còn có mục chữ ký của tổ chức nhận. Hãy giữ xác nhận và biên lai ít nhất ba năm sau khi khai, riêng hồ sơ thẩm định nên giữ lâu hơn.
+
 ### हिन्दी (अनुवाद · 初译待校)
 दस्तावेज़ तीन स्तरों में बढ़ते हैं। पहला, $250 या अधिक के प्रत्येक एकल दान के लिए § 170(f)(8) के तहत संगठन का समसामयिक लिखित स्वीकृति-पत्र चाहिए, जिसमें राशि, तिथि और बदले में मिली वस्तु/सेवा का उल्लेख हो; इसके बिना बैंक रिकॉर्ड साफ़ होने पर भी Tax Court पूरी छूट अस्वीकार कर देता है। दूसरा, $500 से अधिक के गैर-नकद दान पर Form 8283 Section A; $5,000 से अधिक पर Section B और § 170(f)(11) के तहत योग्य मूल्यांकन (qualified appraisal) चाहिए, वाहनों, कला व क्रिप्टो के लिए अतिरिक्त नियम हैं। तीसरा, $75 से अधिक के प्रतिफल-युक्त भुगतान (गाला टिकट, नीलामी) पर § 6115 संगठन को लिखित में बताने को कहता है कि केवल प्राप्त मूल्य से अतिरिक्त हिस्सा ही कटौती योग्य है। पुराने कपड़े व फ़र्नीचर बाज़ार के उचित मूल्य पर गिने जाते हैं और कपड़े अच्छी उपयोग-स्थिति में होने चाहिए (§ 170(f)(16))।
+
+दस्तावेज़ों का समय भी याद रखें: समसामयिक स्वीकृति-पत्र विवरणी दाखिल करने की तिथि या (विस्तार सहित) नियत तिथि — जो भी पहले हो — तक प्राप्त कर लेना चाहिए (§ 170(f)(8)(C)); योग्य मूल्यांकन (qualified appraisal) दान की तिथि से 60 दिन से अधिक पहले का नहीं होना चाहिए, और Form 8283 Section B में प्राप्तकर्ता संगठन के हस्ताक्षर का स्थान भी होता है। स्वीकृति-पत्र व रसीदें दाखिल करने के बाद कम से कम तीन वर्ष रखें, मूल्यांकन सामग्री उससे अधिक समय तक रखें।
 
 ---
 
