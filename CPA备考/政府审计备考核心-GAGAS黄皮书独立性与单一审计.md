@@ -112,6 +112,8 @@ GAO의 옐로북은 재무감사, 인증업무(재무제표 검토 포함), 성�
 
 ---
 
+보충(한역 정렬): GAGAS 재무감사의 보고 증분도 시험에 자주 나옵니다. AU-C 보고서에 더해 감사인은 재무보고 내부통제와 준법성(법률·규정·계약·보조금 조건)에 대한 보고를 해야 하고, 보고서에 GAGAS를 따랐다는 취지를 명시합니다. 발견사항(finding)은 네 요소 — 기준(criteria)·상태(condition)·원인(cause)·효과(effect) — 로 제시하는 것이 표준이며, 부정(fraud), 비준법뿐 아니라 남용(abuse: 기준에 비추어 합리적이지 못한 행위)도 보고 대상 개념으로 구분합니다. 중요 왜곡이 없는 경우에도 내부통제 보고 문구와 GAGAS 특유의 책임 서술을 AU-C 문구로 대체할 수 없다는 점, 그리고 동료검토 결과의 공개·이용 가능 여부가 보고서 참조 문구에 영향을 준다는 점이 대표적 함정입니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 **Kiểm toán nhà nước — trọng tâm: Sách Vàng GAGAS, khung khái niệm về tính độc lập và kiểm toán đơn nhất.** Căn cứ: GAO, *Government Auditing Standards* (bản sửa đổi 2018 kèm cập nhật kỹ thuật tháng 4/2021 và bản sửa đổi 2024); AU-C của AICPA; Đạo luật Kiểm toán Đơn nhất (Single Audit Act, 31 U.S.C. §§ 7501–7507); Uniform Guidance, 2 CFR Part 200, Subpart F. Ngày hiệu lực và ngưỡng tiền theo công bố hiện hành của GAO và OMB.
