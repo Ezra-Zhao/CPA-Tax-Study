@@ -1,0 +1,64 @@
+# Woodward 案：为买下少数股东的股票打评估官司，费用为什么要资本化
+
+**案件**：Woodward v. Commissioner, 397 U.S. 572 (1970)，美国联邦最高法院判决（与同日判决的 United States v. Hilton Hotels Corp., 397 U.S. 580 (1970) 并读）。
+
+这篇讲什么：
+- 多数股东表决通过公司章程的永久展延后，按州法有义务按「真实价值」（real value）买下投反对票的少数股东的股票；谈不拢价格，就走法定评估程序（appraisal）由法院定价，为此花掉律师费、会计师费与评估费。这笔钱能不能当期扣除？最高法院说：不能——它就是买下这批股票的成本的一部分，属资本支出。
+- 判案的尺子是「请求起源」（origin of the claim）：一笔诉讼费用的性质，看产生这场诉讼的那项请求**源于什么**，不看诉讼结果对纳税人收入的影响。源于资本资产的取得、保有或处置，就资本化。
+- 与本仓 Heininger 案对照读最清楚：为保住**正在经营的生意**打官司，费用可扣；为定出**要买下的股票该付多少钱**打官司，费用资本化。两案的差别不在「打官司」这个动作，在起源。
+
+---
+
+## 中文主文
+
+### 一、案名与出处先钉住
+
+Woodward v. Commissioner, 397 U.S. 572 (1970)，美国联邦最高法院，Marshall 大法官执笔。本案与 Hilton Hotels 案同日判决、且被法院放在一起审理，两案共同确立了评估程序（appraisal proceedings）中费用资本化的规则：Woodward 一侧是多数股东为买下少数股东股份而在评估程序中花的钱，Hilton Hotels 一侧是公司为取得异议股东股份而花的评估费——两边同为收购一侧，结论也相同：都资本化。本节事实经判决原文（Justia 收录的官方文本）逐项核对：多数股东、爱荷华州公司、1963 年费用逾 25,000 美元、§ 212 主张、税务法院 49 T.C. 377 与第八巡回 410 F.2d 313 均维持税务局长。
+
+### 二、事实梗概：多数股东有义务买下少数股，价格要靠评估程序定
+
+事实如下（经判决原文核对）：纳税人是一家爱荷华州公司（出版公司 Telegraph-Herald）的多数股东。1960 年，他们以控制性股份表决通过公司章程的永久展延；按爱荷华州法，投反对票的少数股东有权要求多数股东按股票的「真实价值」（real value）买下其股份，多数股东因此负有买下义务。双方就真实价值谈不拢，纳税人于 1962 年提起法定评估程序，由法院定价；其后股份按法院确定的价值成交。纳税人在 1963 年为这场评估诉讼支付了逾 25,000 美元的律师费、会计师费与评估费，报税时按《国内税收法典》第 212 条主张为「为取得收入而持有财产的管理、保存与维护」费用予以扣除；税务局长以费用属取得公司资本股的资本支出为由不予扣除，税务法院（49 T.C. 377 (1968)）与第八巡回法院（410 F.2d 313）均维持。最高法院发调卷令，部分原因正是要解决本案与第七巡回 Hilton Hotels 一案之间的分歧。
+
+争点一句话：在法定评估程序中，为确定要买下的少数股的价格而支出的律师费、会计师费与评估费，是当期可扣除费用，还是取得股票这一资本资产的成本？
+
+### 三、判决：起源定性质——费用跟着「卖股票」这件事走
+
+最高法院认定费用属**资本支出**，不得当期扣除。推理骨架有三层：
+
+**第一层，先用起源标准定位这场诉讼。** 法院沿用 United States v. Gilmore, 372 U.S. 39 (1963) 确立的「请求起源」（origin of the claim）检验：一项诉讼支出的税务性质，取决于产生诉讼的请求或争议源于何种交易或事项，而不是取决于诉讼输赢对纳税人财产或收入的潜在后果。Gilmore 本人打离婚官司争的是会产出收入的财产，法院仍按起源把费用定性为个人费用，因为请求源于婚姻关系本身。本案同理：先问这场评估诉讼**从哪来**，不要先问它保住了多少钱。
+
+**第二层，本案的起源是资本性的。** 评估程序不是一场独立的「维权消费」：它只是州法为双方提供的、替代讨价还价来定出收购价格的机制。纳税人若是私下谈价买下这批股票，为谈判定价花的法律、会计与评估费用显然是收购成本的一部分；改走法院评估程序，性质不因形式而变——费用仍是**取得股票**这笔资本交易的成本，应当计入股票的成本（基数），而不是与当期收入相配比的费用。纳税人主张的判准是诉讼的「主要目的」（primary purpose）——说自己打官司主要是为了定价值、不是为了取得或保卫所有权；法院明确拒绝这一判准：看起源，不看自述目的。
+
+**第三层，与「经营费用」一线划清界限。** 法院并不否认有些诉讼费用可以当期扣：为保住正在经营的生意、抗辩经营中产生的索赔（本仓 Heininger 案即属此类），起源是经营活动，费用随经营走。但本案的诉讼不为任何一年的经营收入服务，只为一笔一次性的股票收购定价。起源不同，定性就不同——这也正是法院把本案与 Hilton Hotels 同日处理的原因：Hilton Hotels 里公司一方为取得异议股东股份花的评估费同样是取得资本资产的成本；收购一侧的定价费用，无论花钱的是股东个人还是公司，都不当期扣除，规则才一致。
+
+### 四、规则收束与现行衔接
+
+- **规则句**：诉讼与专业费用是否资本化，先按 origin of the claim 定起源：起源于资本资产的取得、保有、价值确定或处置的，资本化；起源于经营活动或收入取得过程的，才进入当期扣除的讨论（再分别过第 162 条、第 212 条等条文的具体要件）。
+- **与 § 263 的关系**：本案是资本化一般原则在诉讼费用上的具体化；现行法下同族问题还要看 § 263(a) 与 Reg. § 1.263(a)（含交易成本便利化 facilitative costs 的资本化规则），以及费用最终进入基数、抵减实现额还是随资产摊回，逐项按对应资产与交易类型处理。
+- **备考对照组**（四案一线）：Gilmore（起源标准立规，离婚费用个人化）→ Heininger（经营起源，抗辩费可扣）→ Woodward / Hilton Hotels（资本起源，评估费资本化）→ INDOPCO（起源于收购这一资本交易，费用资本化；但「有无未来利益」不是唯一尺子，起源仍是起点）。见到「打官司的钱能不能扣」，第一步永远不是看输赢、不是看金额，是看**这场官司从哪件交易里长出来的**。
+
+*声明：个人学习笔记，不构成税务建议。来源：Woodward v. Commissioner, 397 U.S. 572 (1970)；United States v. Hilton Hotels Corp., 397 U.S. 580 (1970)；United States v. Gilmore, 372 U.S. 39 (1963)。案件事实以判决书一般叙述为准，未经逐页核对的细节未作引文式复述。金额算例：本案无教学算例，资本化结论的数字后果请结合「处置对价减资本化成本得资本利得」的一般口径理解。*
+
+---
+
+## English
+
+Woodward v. Commissioner, 397 U.S. 572 (1970) (Marshall, J.), decided together with United States v. Hilton Hotels Corp., 397 U.S. 580 (1970), is the Supreme Court's appraisal-proceedings case. The taxpayers were the **majority** stockholders of an Iowa publishing corporation. In 1960 they voted their controlling shares for a perpetual extension of the corporate charter; under Iowa law a dissenting minority shareholder could then require them to purchase his stock at its "real value," so they were obliged to buy. Unable to agree on that value, the taxpayers brought a statutory appraisal action in 1962, and in July 1965 they purchased the minority interest at the court-fixed price. In 1963 they paid over $25,000 in attorneys', accountants', and appraisers' fees for the appraisal litigation and claimed them under § 212 as expenses for the management, conservation, or maintenance of income-producing property. The Commissioner disallowed the deduction as a capital expenditure incurred in acquiring corporate stock; the Tax Court (49 T.C. 377) and the Eighth Circuit (410 F.2d 313) sustained him, and the Supreme Court affirmed. The appraisal proceeding, the Court held, was merely the state-law substitute for negotiation to fix the price at which the stock was to be purchased, so the fees are part of the taxpayers' cost of acquiring the stock, not current deductions. The governing standard is the **origin of the claim** litigated — the test of United States v. Gilmore, 372 U.S. 39 (1963) — not the taxpayers' professed "primary purpose" in litigating. Hilton Hotels, decided the same day, is the parallel acquirer-side case: appraisal costs borne by the corporation to acquire dissenting shareholders' stock were likewise capital. The contrast case is Heininger (320 U.S. 467): fees to defend an operating business arise from the business itself and are deductible. Exam rule: for any litigation fee, ask first what transaction the claim grew out of — operating activity or a capital acquisition, holding, valuation, or disposition — before asking about outcome, amount, or motive. *Personal study notes only; not tax advice. Facts verified against the text of the opinion (Justia).*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+Woodward v. Commissioner, 397 U.S. 572 (1970) (ponente: Marshall), resuelto junto con United States v. Hilton Hotels Corp., 397 U.S. 580 (1970), es el caso de los procedimientos de tasación (appraisal). Los contribuyentes eran los accionistas **mayoritarios** de una sociedad editora de Iowa. En 1960 votaron con sus acciones de control la extensión perpetua de los estatutos; según la ley de Iowa, el accionista minoritario disidente podía exigirles que compraran sus acciones a su «valor real» (real value), de modo que quedaron obligados a comprar. Al no acordar ese valor, entablaron en 1962 el procedimiento legal de tasación y en julio de 1965 compraron la participación minoritaria al precio fijado por el tribunal. En 1963 pagaron más de 25.000 dólares en honorarios de abogados, contadores y tasadores por ese litigio y los reclamaron bajo la sección 212 como gastos de gestión y conservación de bienes productores de ingresos. El Comisionado los rechazó por ser gastos de capital incurridos al adquirir acciones; el Tribunal Fiscal (49 T.C. 377) y el Octavo Circuito (410 F.2d 313) le dieron la razón, y el Tribunal Supremo confirmó. El procedimiento de tasación, sostuvo el Tribunal, era solo el sustituto legal de la negociación para fijar el precio de compra, así que los honorarios forman parte del costo de adquisición de las acciones, no deducciones corrientes. El criterio rector es el **origen de la reclamación** (origin of the claim) de United States v. Gilmore, 372 U.S. 39 (1963), y no el «propósito principal» alegado por el contribuyente. Hilton Hotels, del mismo día, es el caso paralelo del lado adquirente: los costos de tasación de la sociedad para adquirir las acciones de los disidentes también fueron de capital. El contraste es Heininger (320 U.S. 467): defender un negocio en marcha nace del propio negocio y sí se deduce. Regla de examen: ante cualquier gasto de litigio, pregunte primero de qué transacción nació la reclamación. *Notas personales de estudio; no constituye asesoría fiscal. Hechos verificados contra el texto de la sentencia (Justia).*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+Woodward v. Commissioner, 397 U.S. 572 (1970)(Marshall 대법관 집필)는 United States v. Hilton Hotels Corp., 397 U.S. 580 (1970)와 같은 날 선고된 평가절차(appraisal) 사건입니다. 납세자들은 아이오와 출판법인의 **다수주주**였습니다. 1960년 그들은 지배지분으로 회사 정관의 영구 존속 연장에 찬성표를 던졌고, 아이오와 법에 따라 반대한 소수주주는 그들에게 자기 주식을 «실제 가치(real value)»로 사들일 것을 요구할 수 있어, 그들에게는 매수 의무가 생겼습니다. 가치에 합의하지 못하자 1962년 법정 평가절차를 제기했고, 1965년 7월 법원이 정한 가격으로 소수지분을 매수했습니다. 그들은 1963년 이 평가소송을 위해 변호사·회계사·감정평가사 비용으로 25,000달러 넘게 지출하고, § 212에 따라 소득 생산 재산의 관리·보존 비용으로 공제를 주장했습니다. 청장은 법인 주식 취득에 든 자본적 지출이라며 부인했고, 조세법원(49 T.C. 377)과 제8순회법원(410 F.2d 313)이 이를 유지했으며, 연방대법원이 확정했습니다. 대법원은 평가절차가 매수가격을 정하기 위한 협상을 주법이 대체한 것에 불과하므로, 이 비용은 주식 취득 원가의 일부이지 당기 공제가 아니라고 했습니다. 적용 기준은 United States v. Gilmore, 372 U.S. 39 (1963)가 세운 **청구의 기원(origin of the claim)** 이지, 납세자가 내세우는 «주된 목적»이 아닙니다. 같은 날의 Hilton Hotels는 취득자 측의 평행 사건으로, 회사가 반대주주의 주식을 취득하려고 쓴 평가비용도 자본적이었습니다. 대조 사건은 Heininger(320 U.S. 467)입니다. 운영 중인 사업을 지키는 비용은 사업 자체에서 비롯되므로 공제됩니다. 시험 규칙: 소송비용을 보면 결과·금액·동기보다 먼저, 그 청구가 어떤 거래에서 자라났는지 물으십시오. *개인 학습 노트이며 세무 자문이 아닙니다. 사실관계는 판결문 원문(Justia)으로 확인했습니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Woodward v. Commissioner, 397 U.S. 572 (1970) (Thẩm phán Marshall viết), được tuyên cùng ngày với United States v. Hilton Hotels Corp., 397 U.S. 580 (1970), là vụ án về thủ tục định giá (appraisal). Người nộp thuế là cổ đông **đa số** của một công ty xuất bản ở Iowa. Năm 1960, họ dùng cổ phần kiểm soát bỏ phiếu tán thành gia hạn vĩnh viễn điều lệ công ty; theo luật Iowa, cổ đông thiểu số bất đồng có thể yêu cầu họ mua lại cổ phần của mình theo «giá trị thực» (real value), nên họ có nghĩa vụ phải mua. Không thỏa thuận được giá trị đó, năm 1962 họ khởi xướng thủ tục định giá theo luật định, và tháng 7 năm 1965 họ mua phần vốn thiểu số theo giá tòa ấn định. Năm 1963, họ đã trả hơn 25.000 đô la phí luật sư, kế toán và giám định cho vụ kiện định giá này và khai khấu trừ theo mục 212 như chi phí quản lý, bảo toàn tài sản tạo thu nhập. Ủy viên Thuế vụ bác bỏ vì đó là chi phí vốn phát sinh khi mua cổ phiếu công ty; Tòa án Thuế (49 T.C. 377) và Tòa phúc thẩm khu vực 8 (410 F.2d 313) đều giữ nguyên, và Tòa án Tối cao xác nhận. Tòa cho rằng thủ tục định giá chỉ là cơ chế luật định thay thế thương lượng để ấn định giá mua, nên các khoản phí này là một phần chi phí mua cổ phiếu, không phải khấu trừ trong kỳ. Tiêu chuẩn áp dụng là **nguồn gốc của yêu cầu** (origin of the claim) trong United States v. Gilmore, 372 U.S. 39 (1963), chứ không phải «mục đích chính» mà người nộp thuế nêu ra. Hilton Hotels, tuyên cùng ngày, là vụ song song ở phía người mua: chi phí định giá do công ty gánh để mua cổ phần của cổ đông bất đồng cũng là chi phí vốn. Vụ đối chiếu là Heininger (320 U.S. 467): chi phí bảo vệ một doanh nghiệp đang hoạt động phát sinh từ chính hoạt động kinh doanh nên được khấu trừ. Quy tắc thi cử: gặp bất kỳ khoản phí tố tụng nào, hãy hỏi trước yêu cầu đó sinh ra từ giao dịch nào. *Ghi chú học tập cá nhân, không phải tư vấn thuế. Sự kiện đã kiểm chứng theo nguyên văn bản án (Justia).*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+Woodward v. Commissioner, 397 U.S. 572 (1970) (न्यायमूर्ति Marshall द्वारा लिखित), जिसका निर्णय United States v. Hilton Hotels Corp., 397 U.S. 580 (1970) के साथ उसी दिन हुआ, मूल्यांकन-प्रक्रिया (appraisal) का मामला है। करदाता Iowa की एक प्रकाशन कंपनी के **बहुमत** शेयरधारक थे। 1960 में उन्होंने अपने नियंत्रण शेयरों से कंपनी के चार्टर के स्थायी विस्तार के पक्ष में मतदान किया; Iowa कानून के तहत असहमत अल्पमत शेयरधारक उनसे अपने शेयर «वास्तविक मूल्य» (real value) पर ख़रीदने की माँग कर सकता था, इसलिए उन पर ख़रीदने का दायित्व आ गया। उस मूल्य पर सहमति न बनने पर उन्होंने 1962 में वैधानिक मूल्यांकन-प्रक्रिया शुरू की और जुलाई 1965 में अदालत द्वारा तय मूल्य पर अल्पमत हिस्सेदारी ख़रीद ली। 1963 में उन्होंने इस मूल्यांकन मुकदमे के लिए वकीलों, लेखाकारों और मूल्यांकनकर्ताओं की फ़ीस के रूप में 25,000 डॉलर से अधिक का भुगतान किया और धारा 212 के तहत आय-उत्पादक संपत्ति के प्रबंधन व संरक्षण के ख़र्च के रूप में कटौती का दावा किया। आयुक्त ने इसे कंपनी के शेयर अर्जित करने में किया गया पूँजीगत व्यय कहकर अस्वीकार किया; कर न्यायालय (49 T.C. 377) और आठवें सर्किट (410 F.2d 313) ने उसे बरक़रार रखा, और सर्वोच्च न्यायालय ने पुष्टि की। न्यायालय ने कहा कि मूल्यांकन-प्रक्रिया ख़रीद-मूल्य तय करने की बातचीत का केवल वैधानिक विकल्प थी, इसलिए ये फ़ीस शेयरों की अधिग्रहण लागत का हिस्सा हैं, चालू कटौती नहीं। लागू मानदंड United States v. Gilmore, 372 U.S. 39 (1963) का **दावे का उद्गम** (origin of the claim) है, करदाता का बताया «मुख्य उद्देश्य» नहीं। उसी दिन का Hilton Hotels अधिग्रहण-पक्ष का समानांतर मामला है: असहमत शेयरधारकों के शेयर अर्जित करने में कंपनी के मूल्यांकन ख़र्च भी पूँजीगत थे। विरोधाभासी मामला Heininger (320 U.S. 467) है: चल रहे व्यवसाय की रक्षा के ख़र्च व्यवसाय से ही उपजते हैं और कटौती योग्य हैं। परीक्षा-नियम: किसी भी मुकदमा-शुल्क में सबसे पहले पूछें कि दावा किस लेन-देन से उगा। *व्यक्तिगत अध्ययन नोट; कर सलाह नहीं। तथ्य निर्णय के मूल पाठ (Justia) से सत्यापित हैं।*
+
+**声明**：个人学习笔记，不构成法律、税务或医疗建议。具体事务请咨询持牌专业人士。
