@@ -54,17 +54,23 @@
 
 *개인 학습 노트이며 세무 자문이 아닙니다.*
 
+보충 세부사항: 이 원칙이 만드는 실무 효과가 바로 피라미딩(pyramiding), 즉 세금 위의 세금입니다. 고용주가 대신 내준 세금도 임금이라 그 금액에도 다시 세금이 붙기 때문에, 순액 보장 약속은 총액 공식으로 계산해야 합니다. 교육용 사례에서 순액 100,000달러, 단순화한 단일 세율 20%이면 총 임금은 100,000 ÷ (1 − 0.20) = 125,000달러이고, 그중 25,000달러가 세무당국에 직접 납부됩니다. 직원이 실제로 신고할 총소득은 100,000달러가 아니라 125,000달러입니다. 시험에서는 먼저 § 61의 넓은 소득 개념을 쓰고, 그다음에 제외 근거가 있는지를 찾으십시오. 제외 근거가 없으면 대납 금액 전액이 포함됩니다. (초역 보충, 원어민 감수 대기)
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 *Old Colony Trust Co. v. Commissioner*, 279 U.S. 716 (1929). Người sử dụng lao động thỏa thuận trả thêm, ngoài tiền lương, khoản thuế thu nhập liên bang tính trên tiền lương đó. Tòa án Tối cao phán quyết các khoản trả thuế này cũng là thu nhập của người lao động: bên thứ ba thanh toán nghĩa vụ của chính người nộp thuế mang lại cùng lợi ích kinh tế như trao tiền mặt. Hình thức thanh toán không quyết định; điều quan trọng là người lao động được giải phóng khỏi một khoản nợ cá nhân như một phần của thỏa thuận lao động, không phải quà tặng. Nguyên tắc này còn trong I.R.C. § 61(a)(1) và Treas. Reg. § 1.61-14(a), và giải thích cơ chế gross-up: hứa trả ròng 100.000 đô la với thuế suất giả định đơn giản 20 % thì tiền lương chịu thuế là 100.000 ÷ (1 − 0,20) = 125.000 đô la, dù 25.000 đô la được nộp thẳng cho ngân khố.
 
 *Ghi chép học tập cá nhân, không phải tư vấn thuế.*
 
+Chi tiết bổ sung: hệ quả thực tiễn của nguyên tắc này là hiệu ứng chồng lớp, tức thuế chồng thuế (pyramiding). Vì khoản thuế do người sử dụng lao động trả thay cũng là tiền lương, nên chính khoản đó cũng bị đánh thuế, và mọi cam kết trả lương ròng (net) phải được tính bằng công thức gross-up. Trong ví dụ giảng dạy, lương ròng 100.000 đô la với thuế suất giản lược 20% cho tổng lương 100.000 ÷ (1 − 0,20) = 125.000 đô la, trong đó 25.000 đô la được nộp thẳng cho cơ quan thuế. Tổng thu nhập mà nhân viên phải khai là 125.000 đô la, không phải 100.000 đô la. Khi làm bài, hãy bắt đầu với khái niệm thu nhập rộng của § 61 rồi mới tìm căn cứ loại trừ; không có căn cứ loại trừ thì toàn bộ khoản trả thay đều bị tính vào. (Bổ sung bản dịch sơ bộ, chờ hiệu đính)
+
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 *Old Colony Trust Co. v. Commissioner*, 279 U.S. 716 (1929). नियोक्ता ने वेतन के अलावा उस वेतन पर लगने वाला संघीय आयकर भी चुकाने का समझौता किया। सर्वोच्च न्यायालय ने माना कि वे कर भुगतान भी कर्मचारी की आय हैं: किसी तीसरे पक्ष द्वारा करदाता के अपने दायित्व का भुगतान नकद देने जैसा ही आर्थिक लाभ देता है। भुगतान का रूप मायने नहीं रखता; मायने यह रखता है कि कर्मचारी रोज़गार सौदे के हिस्से के रूप में व्यक्तिगत देनदारी से मुक्त हुआ, उपहार के रूप में नहीं। यह सिद्धांत I.R.C. § 61(a)(1) और Treas. Reg. § 1.61-14(a) में बना हुआ है और ग्रॉस-अप की व्याख्या करता है: 100,000 डॉलर शुद्ध वादे और सरलीकृत 20% दर पर करयोग्य वेतन 100,000 ÷ (1 − 0.20) = 125,000 डॉलर होगा, भले ही 25,000 डॉलर सीधे राजकोष को जाएँ।
 
 *व्यक्तिगत अध्ययन नोट्स; कर सलाह नहीं है।*
+
+पूरक विवरण: इस सिद्धांत का व्यावहारिक परिणाम pyramiding है, अर्थात कर पर कर। चूँकि नियोक्ता द्वारा चुकाया गया कर भी वेतन है, उस राशि पर भी फिर कर लगता है, इसलिए शुद्ध वेतन के वादे को gross-up सूत्र से गिनना पड़ता है। शिक्षण उदाहरण में शुद्ध 100,000 डॉलर और सरलीकृत एकल 20% दर पर सकल वेतन 100,000 ÷ (1 − 0.20) = 125,000 डॉलर होगा, जिसमें से 25,000 डॉलर सीधे कर प्राधिकरण को जाएगा। कर्मचारी की घोषित कुल आय 100,000 नहीं, 125,000 डॉलर होगी। परीक्षा में पहले § 61 की व्यापक आय अवधारणा लिखें, फिर कोई बहिष्करण आधार खोजें; आधार न हो तो प्रतिनिधि-भुगतान की पूरी राशि शामिल होगी। (प्रारंभिक अनुवाद पूरक, मूल-भाषी समीक्षा लंबित)
 
 ---
 
