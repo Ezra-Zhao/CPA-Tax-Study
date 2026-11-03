@@ -52,14 +52,18 @@ Horst 持有可转让债券（negotiable bonds）。他在利息到期前不久�
 
 *Helvering v. Horst*, 311 U.S. 112 (1940). Horst는 양도성 채권을 보유하고 있었고, 이자표 만기 직전에 이자표를 떼어 아들에게 증여했으며 아들이 같은 해에 현금으로 수령했습니다. 연방대법원은 이자가 증여자인 아버지의 소득이라고 판결했습니다. 소득은 수령한 손이 아니라 지배를 따라갑니다. 이미 채권이 벌어들인 이자에 대한 처분권을 행사한 것 자체가 소유의 향유이며, 본인이 받아서 건네는 것과 다르지 않습니다. *Lucas v. Earl*, 281 U.S. 111 (1930)의 열매와 나무 격언이 장래 임금 양도에서 재산소득의 사전 양도로 확장된 것입니다. 경계도 분명합니다: 채권 자체를 증여했다면 그 이후 이자는 아들의 소득이지만, 본건에서 넘긴 것은 이미 익은 열매인 이자표뿐이었습니다. 이 판결은 *Lucas*와 함께 소득양도 원칙을 이루고 I.R.C. §§ 671–677의 양도인 신탁 규칙을 예고합니다. 이자는 § 61(a)(4)로 총소득에 들어갑니다. 예시: 만기 1주일 전에 떼어 준 10,000달러 이자표는 여전히 아버지의 소득입니다.
 
-*개인 학습 노트이며 세무 자문이 아닙니다.*
 
+보충: 이자소득의 총소득 지위는 I.R.C. § 61(a)(4)에 근거하며, 본 판결의 법리는 뒤에 부여인신탁 규칙(§§ 671–677)으로 부분적으로 성문화됐습니다. 부여인이 통제나 이익을 과도하게 유보하면 신탁소득은 곧바로 부여인의 소득으로 계산됩니다. 교수용 산례로, 액면 채권의 연 이자표 10,000달러를 만기 일주일 전에 떼어 아들에게 주고 아들이 그해에 현금화했다면, 그 10,000달러는 아버지의 그해 총소득에 들어가고 아들의 수령은 아버지를 대신한 실현일 뿐입니다. 반대로 채권 원본 자체를 증여했다면 증여 이후에 도래하는 이자는 아들의 소득이 됩니다.
+
+*개인 학습 노트이며 세무 자문이 아닙니다.*
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 *Helvering v. Horst*, 311 U.S. 112 (1940). Horst sở hữu trái phiếu có thể chuyển nhượng và, ngay trước khi các phiếu lãi đến hạn, ông cắt các phiếu lãi tặng cho con trai; người con thu tiền mặt trong cùng năm tính thuế. Tòa án Tối cao phán quyết khoản lãi chịu thuế đối với người cha, tức người tặng: thu nhập đi theo quyền chi phối, không theo bàn tay thu tiền. Khi thực hiện quyền định đoạt khoản lãi mà trái phiếu của mình đã sinh ra, người tặng đã hưởng lợi ích kinh tế như thể tự thu tiền rồi trao lại. Châm ngôn quả và cây của *Lucas v. Earl*, 281 U.S. 111 (1930) do đó mở rộng từ việc chuyển nhượng tiền lương tương lai sang chuyển nhượng trước thu nhập từ tài sản. Ranh giới rất rõ: nếu tặng cả trái phiếu, lãi phát sinh sau đó mới là của người con; ở đây ông chỉ tặng phiếu lãi — quả đã chín. Vụ án cùng với *Lucas* tạo thành học thuyết chuyển nhượng thu nhập và báo trước quy tắc tín thác của người lập tại I.R.C. §§ 671–677; tiền lãi thuộc tổng thu nhập theo § 61(a)(4). Ví dụ: phiếu lãi 10.000 đô la cắt ra một tuần trước hạn vẫn là thu nhập của người cha.
 
-*Ghi chép học tập cá nhân, không phải tư vấn thuế.*
 
+Bổ sung: địa vị thu nhập gộp của tiền lãi dựa trên I.R.C. § 61(a)(4), và lý lẽ của phán quyết này về sau được luật hóa một phần trong quy tắc tín thác của người lập (grantor trust, §§ 671–677): khi người lập giữ lại quá nhiều quyền kiểm soát hoặc lợi ích, thu nhập của quỹ được tính thẳng cho người lập. Ví dụ giảng dạy: một phiếu lãi hằng năm 10.000 đô la của trái phiếu mệnh giá được cắt ra một tuần trước ngày đáo hạn và tặng cho con trai, người con đổi tiền ngay trong năm đó — 10.000 đô la lãi đó tính vào thu nhập gộp của người cha trong năm, việc con nhận tiền chỉ là thực hiện thay cho cha. Ngược lại, nếu tặng chính trái phiếu gốc thì tiền lãi đến hạn sau khi tặng mới là thu nhập của người con.
+
+*Ghi chép học tập cá nhân, không phải tư vấn thuế.*
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 *Helvering v. Horst*, 311 U.S. 112 (1940). Horst के पास परक्राम्य बॉन्ड थे; ब्याज कूपनों की परिपक्वता से ठीक पहले उन्होंने कूपन अलग करके अपने पुत्र को उपहार में दे दिए और पुत्र ने उसी कर वर्ष में नकद वसूल लिया। सर्वोच्च न्यायालय ने ब्याज को पिता अर्थात दाता के लिए करयोग्य ठहराया: आय वसूलने वाले हाथ के पीछे नहीं, प्रभुत्व के पीछे चलती है। अपने बॉन्ड द्वारा पहले से कमाए गए ब्याज पर निपटान-अधिकार का प्रयोग ही स्वामित्व का उपभोग है, जैसे स्वयं वसूलकर सौंप दिया हो। इस प्रकार *Lucas v. Earl*, 281 U.S. 111 (1930) की फल-और-वृक्ष कहावत भविष्य के वेतन के समनुदेशन से आगे बढ़कर संपत्ति-आय के अग्रिम समनुदेशन तक पहुँचती है। सीमा स्पष्ट है: यदि पूरा बॉन्ड उपहार में दिया होता तो उसके बाद का ब्याज पुत्र का होता; यहाँ केवल पके हुए फल यानी कूपन दिए गए थे। यह मामला *Lucas* के साथ मिलकर आय-समनुदेशन सिद्धांत बनाता है और I.R.C. §§ 671–677 के अनुदानकर्ता-न्यास नियमों की पूर्व-झलक देता है; ब्याज § 61(a)(4) के तहत सकल आय है। उदाहरण: परिपक्वता से एक सप्ताह पहले अलग किया गया 10,000 डॉलर का कूपन फिर भी पिता की आय रहेगा।
@@ -69,5 +73,8 @@ Horst 持有可转让债券（negotiable bonds）。他在利息到期前不久�
 ---
 
 **来源**：*Helvering v. Horst*, 311 U.S. 112 (1940)；*Lucas v. Earl*, 281 U.S. 111 (1930)；I.R.C. §§ 61(a)(4), 671–677。
+
+
+पूरक: ब्याज-आय की सकल-आय स्थिति I.R.C. § 61(a)(4) पर आधारित है, और इस निर्णय का तर्क बाद में अंशतः ग्रांटर-ट्रस्ट नियमों (§§ 671–677) में संहिताबद्ध हुआ — जब ग्रांटर अत्यधिक नियंत्रण या हित बनाए रखता है, तो ट्रस्ट की आय सीधे ग्रांटर की मानी जाती है। शिक्षण-उदाहरण: अंकित-मूल्य बॉन्ड का 10,000 डॉलर का वार्षिक ब्याज कूपन परिपक्वता से एक सप्ताह पहले काटकर बेटे को दिया जाए और बेटा उसी वर्ष उसे नकद कर ले, तो वह 10,000 डॉलर पिता की उस वर्ष की सकल आय में जाएगा; बेटे की प्राप्ति केवल पिता की ओर से वसूली है। इसके विपरीत, यदि बॉन्ड का मूल ही उपहार में दिया जाए, तो उपहार के बाद देय ब्याज बेटे की आय होगा।
 
 *个人学习笔记，不构成税务建议（Personal study notes only; not tax advice）。*
