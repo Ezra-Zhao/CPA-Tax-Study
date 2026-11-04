@@ -19,15 +19,15 @@ Las puertas de entrada son opuestas. La HSA exige un HDHP calificado según el I
 
 ### 한국어 (초역 · 初译待校)
 자격 문턱이 완전히 다릅니다. HSA는 IRC § 223의 적격 HDHP 가입이 필요합니다. 2026년 HDHP 기준은 최소 연간 공제액 본인 1,700달러·가족 3,400달러, 본인 부담 상한 본인 8,500달러·가족 17,000달러입니다(Rev. Proc. 2025-19). 다른 부적격 보장이 있거나, Medicare에 가입했거나, 타인의 부양가족이면 안 됩니다. 일반 용도 건강 FSA 자체가 부적격 보장이라, 배우자의 general-purpose FSA가 상대방의 HSA를 막는 경우가 많고, 치과·안과 전용 limited-purpose FSA는 양립합니다. 건강 FSA는 HDHP가 필요 없지만 고용주의 § 125 플랜으로만 만들 수 있어 자영업자는 열 수 없습니다. HDHP가 있으면 HSA를 먼저 보고, 일반 PPO/HMO에 예측 가능한 의료비가 있으면 FSA가 주역입니다.
-
+보충하면, 일반 용도 FSA(general-purpose FSA) 자체가 HSA 자격을 깨뜨리기 때문에 배우자 한쪽이 직장의 일반 용도 FSA를 갖고 있으면 다른 쪽도 대개 HSA에 납입할 수 없고, 치과·안과만 보장하는 제한 용도 FSA(limited-purpose FSA)로 바꾸어야 양립한다. FSA는 고용주의 §125 카페테리아 플랜으로만 세울 수 있어 스스로는 만들 수 없고, 자영업자는 고용주 플랜이 없으면 건강 FSA를 쓸 수 없다. 그래서 HDHP 가입자는 HSA를 먼저 보고, 일반 PPO/HMO에 예상 의료비가 있는 사람은 FSA가 주역이 된다.
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 Điều kiện tham gia hoàn toàn khác nhau. HSA yêu cầu tham gia HDHP đủ điều kiện theo IRC § 223. Năm 2026, HDHP phải có mức khấu trừ tối thiểu hằng năm 1.700 đô la (cá nhân) hoặc 3.400 đô la (gia đình), và mức tự trả tối đa 8.500 hoặc 17.000 đô la (Rev. Proc. 2025-19). Bạn cũng không được có bảo hiểm xung đột khác, không được tham gia Medicare và không bị khai là người phụ thuộc. FSA y tế đa dụng tự nó là bảo hiểm xung đột, nên FSA đa dụng của vợ/chồng thường chặn HSA của người còn lại; FSA mục đích giới hạn (chỉ nha khoa và thị lực) thì tương thích. FSA y tế không yêu cầu HDHP nhưng chỉ tồn tại qua chương trình § 125 của chủ lao động — người tự làm chủ không mở được. Nguyên tắc: có HDHP thì xét HSA trước; có PPO/HMO thông thường và chi phí y tế dự đoán được thì FSA là chính.
-
+Bổ sung: bản thân một FSA đa dụng (general-purpose FSA) đã làm mất tư cách HSA, nên khi một vợ/chồng có FSA đa dụng của nơi làm việc, người còn lại thường cũng không đóng được HSA — phải đổi sang FSA giới hạn mục đích (limited-purpose FSA, chỉ chi cho nha khoa và mắt) mới tương thích. FSA chỉ lập được qua chương trình § 125 cafeteria plan của chủ lao động, tự mình không lập được; người tự doanh không có chương trình của chủ lao động thì không dùng được FSA y tế. Vì vậy người có HDHP nên xem kỹ HSA trước, còn người ở PPO/HMO thường có chi phí y tế dự đoán được thì FSA mới là nhân vật chính.
 ### हिन्दी (अनुवाद · 初译待校)
 पात्रता के दरवाज़े बिल्कुल अलग हैं। HSA के लिए IRC § 223 के तहत योग्य HDHP में नामांकन ज़रूरी है। 2026 के लिए HDHP की न्यूनतम वार्षिक कटौती योग्य राशि स्वयं के लिए 1,700 डॉलर और परिवार के लिए 3,400 डॉलर है, और जेब-खर्च अधिकतम 8,500 या 17,000 डॉलर है (Rev. Proc. 2025-19)। आपके पास अन्य अयोग्य कवरेज नहीं होना चाहिए, Medicare में नामांकन नहीं होना चाहिए, और आप किसी के आश्रित नहीं होने चाहिए। सामान्य-उद्देश्य health FSA स्वयं अयोग्य कवरेज है, इसलिए जीवनसाथी का general-purpose FSA अक्सर दूसरे के HSA को रोक देता है; केवल दंत और नेत्र वाला limited-purpose FSA संगत है। Health FSA को HDHP नहीं चाहिए, पर यह केवल नियोक्ता के § 125 प्लान से बनता है — स्वरोज़गार वाला इसे नहीं खोल सकता। HDHP हो तो पहले HSA देखें; सामान्य PPO/HMO और अनुमानित चिकित्सा ख़र्च हो तो FSA मुख्य है।
 
 ---
-
+पूरक: सामान्य-उद्देश्य FSA (general-purpose FSA) स्वयं ही HSA पात्रता समाप्त कर देता है, इसलिए यदि एक जीवनसाथी के पास कार्यस्थल का general-purpose FSA है, तो दूसरा अक्सर HSA में योगदान नहीं कर सकता — केवल दंत व नेत्र तक सीमित limited-purpose FSA अपनाने पर ही दोनों संगत होते हैं। FSA केवल नियोक्ता के § 125 cafeteria plan से स्थापित हो सकता है, स्वयं नहीं खोला जा सकता; स्वरोज़गारी के पास नियोक्ता योजना न होने से स्वास्थ्य FSA उपलब्ध नहीं होता। इसीलिए HDHP वाला व्यक्ति पहले HSA को गंभीरता से देखे, और सामान्य PPO/HMO में अनुमानित चिकित्सा व्यय वाला व्यक्ति FSA को मुख्य माने।
 ## 二、2026 年限额与三重免税：HSA 为什么被叫作最强医疗账户
 
 ### 中文
