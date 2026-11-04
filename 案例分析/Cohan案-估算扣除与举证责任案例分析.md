@@ -46,3 +46,12 @@ Bổ sung (điểm thi): trích dẫn là Cohan v. Commissioner, 39 F.2d 540 (2d
 
 ---
 *个人学习笔记，不构成税务建议。*
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+한국어: Cohan 규칙은 '지출이 실제로 있었고 사업 관련이라는 점'은 납세자가 먼저 입증했을 때만 작동합니다. 금액이 완전히 추정 불가능하거나 기록 의무가 법으로 정해진 항목(예: § 274(d)의 여행·접대 substantiation)에는 적용되지 않습니다. 법원은 증거와 '어느 정도 씨름(bearing heavily against the taxpayer)'한 뒤 합리적 근사치를 정할 수 있지만, 근거 없는 숫자까지 만들어 주지는 않습니다.
+
+Tiếng Việt: Quy tắc Cohan chỉ hoạt động sau khi người nộp thuế chứng minh khoản chi thực sự tồn tại và liên quan đến kinh doanh. Nó không áp dụng khi số tiền hoàn toàn không thể ước tính, hoặc với các hạng mục luật định yêu cầu chứng từ chặt chẽ (ví dụ substantiation theo § 274(d) cho đi lại và tiếp khách). Tòa có thể đưa ra con số gần đúng hợp lý sau khi cân nhắc bằng chứng theo hướng bất lợi cho người nộp thuế, nhưng không bịa ra con số không có cơ sở.
+
+हिन्दी: Cohan नियम तभी काम करता है जब करदाता पहले यह सिद्ध कर दे कि खर्च वास्तव में हुआ था और व्यवसाय से जुड़ा था। यह पूरी तरह अनुमान-अयोग्य राशियों पर, या उन मदों पर लागू नहीं होता जहाँ कानून सख्त प्रमाण माँगता है (जैसे यात्रा व मनोरंजन के लिए § 274(d) substantiation)। न्यायालय साक्ष्य को करदाता के विरुद्ध भारी तौलकर उचित अनुमान दे सकता है, परंतु आधारहीन संख्या नहीं गढ़ सकता।

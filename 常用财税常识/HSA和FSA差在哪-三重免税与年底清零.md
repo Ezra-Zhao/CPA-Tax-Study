@@ -104,3 +104,12 @@ Danh sách quyết định. 1) Chương trình của bạn có phải HDHP đủ
 - 한국어 (초역·待校): 개인 학습 노트이며 세무·재무·보험 자문이 아닙니다. 구체적인 사안은 현행 공식 문언과 전문가 의견을 기준으로 합니다.
 - Tiếng Việt (bản dịch sơ bộ·待校): Ghi chú học tập cá nhân; không phải tư vấn thuế, tài chính hay bảo hiểm. Với trường hợp cụ thể, căn cứ vào văn bản chính thức hiện hành và ý kiến chuyên môn.
 - हिन्दी (प्रारंभिक अनुवाद·待校): व्यक्तिगत अध्ययन नोट; यह कर, वित्तीय या बीमा सलाह नहीं है। विशिष्ट मामलों में वर्तमान आधिकारिक पाठ और पेशेवर सलाह ही मान्य है।
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+한국어: 자주 헷갈리는 경계 하나를 보탭니다. HSA는 HDHP 가입이 자격의 전제이고 계좌가 본인 소유라 이직·은퇴 후에도 유지되며 이월 제한이 없습니다. 반면 일반 의료 FSA는 고용 관계에 묶이고, 고용주가 허용한 경우에만 제한적 이월(IRS가 매년 고시하는 상한) 또는 유예 기간 중 하나가 적용됩니다. 두 계좌 모두 적격 의료비 정의는 § 213(d)를 따르며, 같은 비용을 두 계좌에서 중복 상환할 수 없습니다.
+
+Tiếng Việt: Bổ sung một ranh giới hay nhầm: HSA đòi hỏi tham gia HDHP, thuộc sở hữu cá nhân nên giữ được khi đổi việc hay nghỉ hưu và không giới hạn chuyển sang năm sau. FSA y tế thông thường gắn với quan hệ lao động; chỉ khi chủ lao động cho phép mới có chuyển hạn mức giới hạn (mức trần IRS công bố hằng năm) hoặc thời gian ân hạn, chọn một trong hai. Cả hai đều dùng định nghĩa chi phí y tế đủ điều kiện theo § 213(d) và không được hoàn trùng cùng một khoản chi từ cả hai tài khoản.
+
+हिन्दी: एक अक्सर भ्रमित सीमा जोड़ते हैं: HSA के लिए HDHP में नामांकन पूर्व-शर्त है, खाता व्यक्ति का अपना होता है इसलिए नौकरी बदलने या सेवानिवृत्ति के बाद भी रहता है और rollover की सीमा नहीं है। सामान्य medical FSA रोज़गार से बँधा होता है; केवल नियोक्ता अनुमति दे तो सीमित rollover (IRS द्वारा वार्षिक घोषित सीमा) या grace period में से एक मिलता है। दोनों में योग्य चिकित्सा व्यय की परिभाषा § 213(d) से आती है, और एक ही खर्च दोनों खातों से दोबारा नहीं लिया जा सकता।
