@@ -40,6 +40,8 @@ La atribución sigue el enfoque de años de servicio (benefit-years-of-service):
 
 귀속은 급여근무연수 접근법(benefit-years-of-service approach)을 따릅니다. 귀속기간은 제도 참여 시작일(일반적으로 입사일과 제도 도입일 또는 참여 시작일 중 늦은 날)부터 완전 자격일(full eligibility date)까지입니다. 완전 자격일은 급여를 받을 권리를 얻는 데 필요한 근무를 모두 제공한 날입니다. 핵심은 귀속이 완전 자격일에서 멈춘다는 점입니다. 종업원이 계속 근무하고 아직 퇴직하지 않았더라도 마찬가지이며, 그 종업원의 APBO는 이미 EPBO와 같고 추가 근무원가는 생기지 않습니다. 연금은 보통 퇴직 시점까지 귀속되므로 두 끝점을 바꾸는 것이 이 주제의 대표 함정입니다. (初译待校)
 
+
+덧붙이는 세부 사항: 귀속은 원칙적으로 귀속기간에 고르게 펴지만, 제도 급여 공식 자체가 급여를 특정 근무 연도에 현저히 불균형하게 배분하는 경우에는 그 공식이 정한 대로 귀속합니다. 균등 배분은 공식이 침묵할 때의 기본값일 뿐입니다.
 ### Tiếng Việt（初译待校）
 
 Phúc lợi sau nghỉ hưu khác (OPEB) là các cam kết sau nghỉ hưu ngoài lương hưu: chăm sóc y tế cho người đã nghỉ hưu (phần lớn nhất), bảo hiểm nhân thọ cho người nghỉ hưu, nha khoa và thị lực, dịch vụ pháp lý và các khoản tương tự. Chuẩn mực là ASC 715-60, và việc đo lường theo chế độ thực chất (substantive plan), gồm cả cam kết ngầm hình thành từ thông lệ nhất quán.
@@ -48,6 +50,8 @@ Có hai số đo nghĩa vụ. Nghĩa vụ phúc lợi sau nghỉ hưu kỳ vọn
 
 Việc phân bổ theo phương pháp số năm phục vụ hưởng phúc lợi (benefit-years-of-service): giai đoạn phân bổ chạy từ ngày bắt đầu tham gia chế độ (thường là ngày muộn hơn giữa ngày tuyển dụng và ngày chế độ được ban hành hoặc ngày bắt đầu tham gia) đến ngày đủ điều kiện đầy đủ (full eligibility date) — ngày nhân viên đã hoàn thành toàn bộ thời gian làm việc cần thiết để có quyền hưởng phúc lợi. Điểm hay bị kiểm tra: việc phân bổ dừng ở ngày đủ điều kiện đầy đủ ngay cả khi nhân viên vẫn tiếp tục làm việc và chưa nghỉ hưu; với nhân viên đó, APBO đã bằng EPBO và không còn phát sinh chi phí dịch vụ. Với lương hưu, việc phân bổ thường kéo đến lúc nghỉ hưu — đừng hoán đổi hai đầu mút này. (初译待校)
 
+
+Chi tiết bổ sung: việc phân bổ về nguyên tắc trải đều trên giai đoạn phân bổ, nhưng nếu công thức phúc lợi của chế độ tự nó dồn phúc lợi một cách rõ rệt không cân xứng vào một số năm phục vụ nhất định thì việc phân bổ đi theo chính công thức đó; cách trải đều chỉ là mặc định khi công thức không nói gì.
 ### हिन्दी（初译待校）
 
 अन्य सेवानिवृत्ति-पश्चात लाभ (OPEB) पेंशन से अलग सेवानिवृत्ति-वादे हैं: सेवानिवृत्तों की स्वास्थ्य देखभाल (सबसे बड़ा भाग), सेवानिवृत्त जीवन बीमा, दंत व दृष्टि कवरेज, कानूनी सेवाएँ आदि। मार्गदर्शन ASC 715-60 में है और मापन मूलभूत योजना (substantive plan) के अनुसार होता है, जिसमें निरंतर व्यवहार से बने अंतर्निहित वादे भी शामिल हैं।
@@ -56,6 +60,8 @@ Việc phân bổ theo phương pháp số năm phục vụ hưởng phúc lợi
 
 आरोपण लाभ-सेवा-वर्ष विधि (benefit-years-of-service approach) से होता है। आरोपण अवधि योजना में भागीदारी शुरू होने की तिथि (सामान्यतः नियुक्ति तिथि तथा योजना अपनाए जाने या भागीदारी शुरू होने की तिथि में से बाद वाली) से पूर्ण पात्रता तिथि (full eligibility date) तक चलती है — वह तिथि जब तक कर्मचारी लाभ का अधिकार अर्जित करने के लिए आवश्यक सारी सेवा दे चुका होता है। मुख्य बिंदु: आरोपण पूर्ण पात्रता पर रुक जाता है, भले कर्मचारी काम करता रहे और अभी सेवानिवृत्त न हुआ हो; उस कर्मचारी की APBO उसकी EPBO के बराबर हो जाती है और आगे सेवा लागत नहीं बनती। पेंशन में आरोपण सामान्यतः सेवानिवृत्ति तक चलता है — दोनों छोर आपस में न बदलें। (初译待校)
 
+
+अतिरिक्त विवरण: आरोपण सिद्धांततः आरोपण अवधि में समान रूप से फैलता है, परंतु यदि योजना का लाभ-सूत्र स्वयं लाभों को कुछ विशेष सेवा-वर्षों में स्पष्ट रूप से असमान रूप से केंद्रित करता हो, तो आरोपण उसी सूत्र के अनुसार होता है; समान फैलाव केवल तब का डिफ़ॉल्ट है जब सूत्र मौन हो।
 ---
 
 ## 二、净周期退休后福利成本六成分与列报
@@ -112,6 +118,8 @@ Presentación (ASU 2017-07): solo el costo por servicio va dentro del resultado 
 
 표시(ASU 2017-07)는 연금과 같습니다. 영업이익 안에는 근무원가만 들어가고 나머지는 밖에 둡니다. 적립상태 = 연금자산 공정가치 − APBO입니다. (初译待校)
 
+
+덧붙이는 세부 사항: 이자원가는 현금 이자가 아니라 시간이 지나면서 의무가 불어나는 롤포워드(roll-forward) 성격의 금액입니다. 또 적립상태와 별도로, 아직 상각되지 않은 과거근무원가, 전이 항목, 보험수리적 손익은 먼저 AOCI에 머물러 있다가 위 상각 규칙에 따라 순주기원가로 들어옵니다. 재무상태표에 바로 잡히는 것은 APBO 기준 적립상태이며, AOCI 잔액은 그 조정 항목입니다.
 ### Tiếng Việt（初译待校）
 
 Chi phí phúc lợi sau nghỉ hưu thuần theo kỳ (net periodic postretirement benefit cost) gồm sáu thành phần, nhiều hơn lương hưu một thành phần chuyển đổi:
@@ -125,6 +133,8 @@ Chi phí phúc lợi sau nghỉ hưu thuần theo kỳ (net periodic postretirem
 
 Trình bày (ASU 2017-07) giống lương hưu: chỉ chi phí dịch vụ nằm trong lợi nhuận hoạt động, các thành phần còn lại nằm ngoài. Tình trạng cấp vốn = giá trị hợp lý của tài sản quỹ − APBO. (初译待校)
 
+
+Chi tiết bổ sung: chi phí lãi không phải lãi tiền mặt, mà là khoản tăng trưởng của nghĩa vụ theo thời gian (roll-forward). Ngoài ra, tách khỏi tình trạng cấp vốn, các khoản chưa phân bổ gồm chi phí dịch vụ quá khứ, khoản chuyển đổi và lãi lỗ bảo hiểm trước hết nằm tại AOCI, rồi mới vào chi phí thuần theo kỳ theo các quy tắc phân bổ ở trên; con số ghi thẳng lên bảng cân đối là tình trạng cấp vốn theo APBO, còn số dư AOCI là phần điều chỉnh của nó.
 ### हिन्दी（初译待校）
 
 शुद्ध आवधिक सेवानिवृत्ति-पश्चात लाभ लागत (net periodic postretirement benefit cost) के छह घटक हैं — पेंशन से एक अधिक, संक्रमण मद के कारण:
@@ -138,6 +148,8 @@ Trình bày (ASU 2017-07) giống lương hưu: chỉ chi phí dịch vụ nằm
 
 प्रस्तुति (ASU 2017-07) पेंशन जैसी ही है: परिचालन आय में केवल सेवा लागत; शेष घटक बाहर। वित्तपोषण स्थिति = परिसंपत्तियों का उचित मूल्य − APBO। (初译待校)
 
+
+अतिरिक्त विवरण: ब्याज लागत नकद ब्याज नहीं है, बल्कि समय के साथ दायित्व के बढ़ने (roll-forward) की राशि है। साथ ही, वित्तपोषण स्थिति से अलग, अपरिशोधित पूर्व-सेवा लागत, संक्रमण मदें और बीमांकिक लाभ-हानि पहले AOCI में रहते हैं और ऊपर के परिशोधन नियमों से शुद्ध आवधिक लागत में आते हैं; तुलनपत्र पर सीधे दर्ज संख्या APBO-आधारित वित्तपोषण स्थिति है, और AOCI शेष उसका समायोजन भाग है।
 ---
 
 ## 三、算例
@@ -202,6 +214,8 @@ Parte 3, revelación: el ASC 715-20 exige revelar el efecto de subir o bajar 1 p
 
 3부 공시: ASC 715-20은 의료비 추세율(healthcare cost trend rate)을 1%포인트 올리거나 내렸을 때 근무원가와 이자원가의 합계 및 APBO에 미치는 영향을 공시하도록 요구합니다. 보험수리인이 제공한 예시 수치로, 추세율 +1%포인트면 APBO가 $88,000 늘고 합계 원가가 $9,500 늘며, −1%포인트면 APBO가 $76,000 줄고 합계 원가가 $8,200 줍니다. 비대칭이 정상입니다. (初译待校)
 
+
+덧붙이는 세부 사항: 1부의 비례 귀속은 이해를 돕기 위한 교수용 단순화입니다. 실무의 근무원가는 당기에 귀속된 부분의 보험수리적 현재가치이며, 시험 문제는 보통 그 금액을 직접 줍니다(2부가 그 방식). 2부의 검산 순서는 30,000 + 48,000 = 78,000, 78,000 − 14,000 = 64,000, 64,000 + 10,000 = 74,000, 74,000 + 4,000 = 78,000, 78,000 + 3,000 = 81,000입니다. 3부의 민감도가 비대칭인 이유는 의료 급여가 추세율 변화에 선형으로 반응하지 않기 때문이며, 한쪽 수치로 다른 쪽을 추정해서는 안 됩니다. 또 2부에서 손익 상각에 쓰는 평균 잔여 귀속기간도 10년으로 주어졌습니다.
 ### Tiếng Việt（初译待校）
 
 Phần 1, phân bổ: EPBO của một nhân viên là $240.000 (giá trị hiện tại đã cho), giai đoạn phân bổ 20 năm, đã làm việc 12 năm. APBO = $240.000 × 12/20 = $144.000; phần phân bổ mỗi năm là $240.000 ÷ 20 = $12.000. Khi đạt ngày đủ điều kiện đầy đủ, APBO của nhân viên này sẽ bằng EPBO và chi phí dịch vụ về không (chi phí lãi vẫn tiếp tục).
@@ -217,6 +231,8 @@ Phần 2, toàn bộ chế độ: APBO đầu kỳ $800.000; tài sản quỹ th
 
 Phần 3, thuyết minh: ASC 715-20 yêu cầu trình bày tác động của việc tăng hoặc giảm 1 điểm phần trăm tỷ lệ xu hướng chi phí y tế (healthcare cost trend rate) lên tổng chi phí dịch vụ cộng chi phí lãi và lên APBO. Ví dụ bằng số liệu do chuyên gia bảo hiểm cung cấp: +1 điểm → APBO tăng $88.000, chi phí kết hợp tăng $9.500; −1 điểm → APBO giảm $76.000, chi phí kết hợp giảm $8.200. Sự không đối xứng này là bình thường. (初译待校)
 
+
+Chi tiết bổ sung: cách phân bổ theo tỷ lệ ở Phần 1 là đơn giản hóa phục vụ giảng dạy; trong thực tế, chi phí dịch vụ là giá trị hiện tại bảo hiểm của phần được phân bổ cho kỳ, và đề thi thường cho sẵn con số đó (Phần 2 đi theo cách này). Chuỗi kiểm tính của Phần 2 là: 30.000 + 48.000 = 78.000; 78.000 − 14.000 = 64.000; 64.000 + 10.000 = 74.000; 74.000 + 4.000 = 78.000; 78.000 + 3.000 = 81.000. Độ nhạy ở Phần 3 không đối xứng vì phúc lợi y tế không phản ứng tuyến tính với tỷ lệ xu hướng, nên không được lấy một phía để suy ra phía còn lại. Cũng lưu ý thời gian phân bổ còn lại bình quân dùng cho phân bổ lãi lỗ ở Phần 2 cũng được cho là 10 năm.
 ### हिन्दी（初译待校）
 
 भाग 1, आरोपण: एक कर्मचारी की EPBO $240,000 है (वर्तमान मूल्य दिया गया), आरोपण अवधि 20 वर्ष है और 12 वर्ष की सेवा पूरी हो चुकी है। APBO = $240,000 × 12/20 = $144,000; प्रतिवर्ष आरोपित भाग $240,000 ÷ 20 = $12,000 है। पूर्ण पात्रता तिथि पर उस कर्मचारी की APBO उसकी EPBO के बराबर हो जाएगी और सेवा लागत शून्य हो जाएगी (ब्याज लागत जारी रहेगी)।
@@ -232,6 +248,8 @@ Phần 3, thuyết minh: ASC 715-20 yêu cầu trình bày tác động của vi
 
 भाग 3, प्रकटीकरण: ASC 715-20 के अनुसार स्वास्थ्य-देखभाल लागत प्रवृत्ति दर (healthcare cost trend rate) में 1 प्रतिशत-बिंदु की वृद्धि या कमी का सेवा लागत व ब्याज लागत के योग तथा APBO पर प्रभाव बताना होता है। बीमांकिक द्वारा दिए गए उदाहरण आँकड़े: +1 बिंदु → APBO में $88,000 की वृद्धि और संयुक्त लागत में $9,500 की वृद्धि; −1 बिंदु → APBO में $76,000 की कमी और संयुक्त लागत में $8,200 की कमी। यह असममिति सामान्य है। (初译待校)
 
+
+अतिरिक्त विवरण: भाग 1 का अनुपात-आरोपण शिक्षण हेतु सरलीकरण है; व्यवहार में सेवा लागत अवधि पर आरोपित भाग का बीमांकिक वर्तमान मूल्य होती है और परीक्षा-प्रश्न सामान्यतः वह राशि सीधे देते हैं (भाग 2 इसी पद्धति पर है)। भाग 2 की जाँच-शृंखला है: 30,000 + 48,000 = 78,000; 78,000 − 14,000 = 64,000; 64,000 + 10,000 = 74,000; 74,000 + 4,000 = 78,000; 78,000 + 3,000 = 81,000। भाग 3 की असममिति का कारण यह है कि स्वास्थ्य-लाभ प्रवृत्ति दर के बदलाव पर रेखीय प्रतिक्रिया नहीं देते, इसलिए एक ओर के आँकड़े से दूसरी ओर का अनुमान न लगाएँ। यह भी नोट करें कि भाग 2 में लाभ-हानि परिशोधन के लिए औसत शेष आरोपण अवधि भी 10 वर्ष दी गई थी।
 ---
 
 ## 四、与养老金的区别、披露与考试陷阱
@@ -294,6 +312,8 @@ Trampas: alargar la atribución hasta la jubilación; llevar la EPBO al balance;
 
 함정: 귀속기간을 퇴직일까지 늘리기, EPBO를 재무상태표에 올리기, 완전 자격일 후에도 근무원가를 쌓기, 성분을 다섯 개만 세기, 자산이 없는데 기대수익을 계산하기, 의료비 추세율을 연금에 적용하거나 급여상승률을 퇴직자 의료에 적용하기, 복도를 기말 수치나 EPBO로 만들기, 민감도를 대칭으로 가정하기. (初译待校)
 
+
+덧붙이는 세부 사항: ASU 2018-14 이후 공시에서는 공정가치 서열과 중복되는 내용이 일부 빠지고 가중평균 할인율 설명 같은 항목이 더해졌습니다. 세부 항목은 해당 연도 재무보고를 따르되, 시험에서는 공시의 큰 줄기를 잡으면 됩니다. 또 캘리포니아의 세무 공제는 주세법 기준으로 따로 판단하는 것이며, 장부 원가와 같은 금액이라고 전제하지 마십시오.
 ### Tiếng Việt（初译待校）
 
 Gói các khác biệt vào một bảng: với lương hưu, nghĩa vụ là PBO, việc phân bổ thường kéo đến lúc nghỉ hưu, có năm thành phần và thường có tài sản tín thác; với OPEB, nghĩa vụ là APBO (phần đã phân bổ của EPBO), việc phân bổ dừng ở ngày đủ điều kiện đầy đủ, có sáu thành phần (thêm phân bổ nghĩa vụ chuyển đổi), thường không có tài sản, giả định đặc trưng là tỷ lệ xu hướng chi phí y tế, và hành lang được so với APBO đầu kỳ.
@@ -304,6 +324,8 @@ Chênh lệch sổ sách và thuế trong một câu: chi phí kế toán đư�
 
 Bẫy thường gặp: kéo dài phân bổ đến ngày nghỉ hưu; đưa EPBO lên bảng cân đối; tiếp tục ghi chi phí dịch vụ sau ngày đủ điều kiện đầy đủ; chỉ đếm năm thành phần; bịa lợi nhuận kỳ vọng cho chế độ không có tài sản; áp tỷ lệ xu hướng y tế cho lương hưu hoặc tỷ lệ tăng lương cho y tế hưu trí; lập hành lang bằng số cuối kỳ hoặc so với EPBO; và giả định độ nhạy đối xứng. (初译待校)
 
+
+Chi tiết bổ sung: sau ASU 2018-14, phần thuyết minh đã bỏ một số nội dung trùng với tài liệu về thứ bậc giá trị hợp lý và thêm các giải thích như lãi suất chiết khấu bình quân gia quyền; chi tiết theo báo cáo tài chính của năm liên quan, còn khi đi thi chỉ cần nắm khung chính của thuyết minh. Ngoài ra, khoản khấu trừ thuế ở California được xét riêng theo luật thuế bang, đừng mặc định nó bằng đúng số chi phí trên sổ sách.
 ### हिन्दी（初译待校）
 
 अंतर एक तालिका में समेटिए: पेंशन में दायित्व PBO है, आरोपण सामान्यतः सेवानिवृत्ति तक चलता है, घटक पाँच हैं और न्यास परिसंपत्तियाँ प्रायः होती हैं; OPEB में दायित्व APBO है (EPBO का आरोपित भाग), आरोपण पूर्ण पात्रता तिथि पर रुकता है, घटक छह हैं (संक्रमण दायित्व परिशोधन जुड़ता है), परिसंपत्तियाँ प्रायः नहीं होतीं, विशिष्ट धारणा स्वास्थ्य-देखभाल लागत प्रवृत्ति दर है और कॉरिडोर आरंभिक APBO से तुलना करता है।
@@ -314,6 +336,8 @@ Bẫy thường gặp: kéo dài phân bổ đến ngày nghỉ hưu; đưa EPBO
 
 जाल: आरोपण को सेवानिवृत्ति तिथि तक खींचना; EPBO को तुलनपत्र में रखना; पूर्ण पात्रता के बाद भी सेवा लागत जोड़ना; केवल पाँच घटक गिनना; बिना परिसंपत्ति के अपेक्षित प्रतिफल गिनना; पेंशन पर प्रवृत्ति दर या सेवानिवृत्त स्वास्थ्य पर वेतन-वृद्धि दर लगाना; कॉरिडोर अंतिम शेषों से या EPBO के सामने बनाना; और संवेदनशीलता को सममित मानना। (初译待校)
 
+
+अतिरिक्त विवरण: ASU 2018-14 के बाद प्रकटीकरण से उचित-मूल्य पदानुक्रम सामग्री से दोहराव वाले कुछ अंश हटे और भारित-औसत बट्टा दर जैसी व्याख्याएँ जुड़ीं; विवरण संबंधित वर्ष की वित्तीय रिपोर्टिंग के अनुसार होंगे, परीक्षा में प्रकटीकरण की मुख्य रीढ़ पकड़ना पर्याप्त है। साथ ही California की कर-कटौती राज्य कर कानून के तहत अलग से परखी जाती है; यह न मानें कि वह पुस्तक लागत के बराबर ही होगी।
 ---
 
 ## 参考依据
