@@ -75,3 +75,11 @@ Chi tiết bổ sung: hệ quả thực tiễn của nguyên tắc này là hi�
 ---
 
 **来源**：*Old Colony Trust Co. v. Commissioner*, 279 U.S. 716 (1929)；I.R.C. § 61(a)(1)；Treas. Reg. § 1.61-14(a)。
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+한국어: 세부 사항을 덧붙입니다. 이 원칙의 현행 규정상 자리는 Treas. Reg. § 1.61-14(a)(잡소득 항목 예시)와 총소득의 넓은 정의인 I.R.C. § 61(a)(1)입니다. 답안 순서도 고정해 둡니다. 고용주가 대신 내 주는 사실이 나오면(REG/TCP 공통) 먼저 § 61의 넓은 소득에 넣고, 그다음에야 제외 조항이 있는지 찾습니다. 또 하나, 이 지급은 무상의 증여 의사가 아니라 고용 계약의 일부, 즉 노동의 대가라는 점이 증여와의 구분선입니다. 고용주가 대신 낸 개인 지출이나 벌금성 지출도 같은 순서로 봅니다. 먼저 소득 쪽을 이 판례의 논리로 판단하고, 공제 쪽 제한(§ 162 등)은 그다음 단계에서 따로 봅니다.
+
+Tiếng Việt: Bổ sung chi tiết về chỗ đứng hiện hành của nguyên tắc: Treas. Reg. § 1.61-14(a) (ví dụ về các khoản thu nhập linh tinh) cùng định nghĩa rộng về tổng thu nhập tại I.R.C. § 61(a)(1). Thứ tự làm bài cũng cố định: khi gặp tình tiết chủ lao động trả thay (áp dụng chung cho REG/TCP), trước hết đưa vào thu nhập rộng theo § 61, sau đó mới tìm điều khoản loại trừ. Một ranh giới nữa: khoản trả này không xuất phát từ ý định tặng cho vô thường mà là một phần của hợp đồng lao động, tức đối giá của sức lao động — đó là điểm phân biệt với tặng cho. Các khoản chủ lao động trả thay như chi tiêu cá nhân hay khoản phạt cũng xét theo cùng thứ tự: phán đoán phía thu nhập bằng logic của án này trước, giới hạn phía khấu trừ (như § 162) xét riêng ở bước sau.
+
+हिन्दी: वर्तमान विनियमीय स्थान का विवरण जोड़ते हैं: इस सिद्धांत की जगह Treas. Reg. § 1.61-14(a) (विविध आय मदों के उदाहरण) और कुल आय की व्यापक परिभाषा I.R.C. § 61(a)(1) है। उत्तर-क्रम भी स्थिर रखें: नियोक्ता द्वारा भुगतान का तथ्य आते ही (REG/TCP दोनों में) पहले § 61 की व्यापक आय में रखें, उसके बाद ही अपवर्जन खोजें। एक और सीमा-रेखा: यह भुगतान निःस्वार्थ उपहार-भावना से नहीं, बल्कि रोज़गार अनुबंध का भाग अर्थात श्रम का प्रतिफल है — यही उपहार से अंतर है। नियोक्ता द्वारा चुकाए गए व्यक्तिगत ख़र्च या दंडात्मक ख़र्च भी इसी क्रम से देखें: पहले आय-पक्ष का निर्णय इस निर्णय के तर्क से, कटौती-पक्ष की सीमाएँ (§ 162 आदि) बाद के चरण में अलग से।
