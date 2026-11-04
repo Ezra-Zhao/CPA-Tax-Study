@@ -81,13 +81,19 @@ La Corte Suprema confirmó, con opinión del juez Murphy, el 31 de marzo de 1941
 
 연방대법원은 1941년 3월 31일 Murphy 대법관의 의견으로 원심을 유지했습니다. 추론은 세 단계입니다. 첫째, 전액이 총소득입니다. §22(a)는 임대에서 생기는 이익을 명시적으로 포함하고, 이 지급은 임대차에서 나왔으므로 전액 포함되며 상계할 것이 없습니다. 둘째, 이 지급은 자본의 반환이 아니라 임대료의 대체물입니다. 취소는 '장래 임대료를 받을 권리를 포기하고 그 대가로 현재의 대체 지급과 임대 부동산의 점유를 돌려받은 것일 뿐'입니다. 임대차 자체를 '재산(property)'으로 보더라도, 양도한 것은 장래의 경상소득 흐름뿐이므로 대가는 자본 반환이 아닙니다. 대체물은 대체되는 것의 성격을 이어받습니다. 자본자산의 매각이나 교환도 없었습니다. 임차인의 임대료 지급 의무가 소멸했을 뿐입니다. 셋째, 공제 가능한 손실은 없습니다. 취소로 Hort가 기대한 총소득이 줄었을 수는 있지만, 그만큼 그는 받지 못한 임대료에 대한 납세 의무에서도 벗어났습니다. 과세된 적 없는 소득을 손실로 공제할 수는 없습니다.
 
+Hort가 주장한 차액 손실의 구체적 금액은 21,494.75달러였습니다. 법원이 다툰 것은 이 금액의 산정이 아니라, 그런 손실이라는 범주 자체가 성립하지 않는다는 점이었습니다. 받지 못한 임대료는 애초에 과세된 적도 없으므로, 그 부재를 다시 손실로 바꿀 수는 없습니다.
+
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 
 Tòa Tối cao giữ nguyên phán quyết, với ý kiến của Thẩm phán Murphy, ngày 31 tháng 3 năm 1941. Lập luận gồm ba bước. Thứ nhất, toàn bộ số tiền là tổng thu nhập: § 22(a) liệt kê rõ lợi nhuận từ tiền thuê, và khoản thanh toán này phát sinh từ hợp đồng thuê, nên phải tính toàn bộ, không có gì để bù trừ. Thứ hai, khoản tiền là vật thay thế cho tiền thuê, không phải hoàn vốn: việc hủy hợp đồng «chỉ là từ bỏ quyền nhận tiền thuê trong tương lai để đổi lấy một khoản thanh toán thay thế ở hiện tại và quyền chiếm hữu lại mặt bằng cho thuê». Dù hợp đồng thuê có được coi là «tài sản», khoản đối giá cũng không phải hoàn vốn, vì thứ được từ bỏ chỉ là một dòng thu nhập thông thường trong tương lai; vật thay thế mang tính chất của thứ nó thay thế. Không có bán hay trao đổi tài sản vốn nào — nghĩa vụ trả tiền thuê của bên thuê đơn giản là chấm dứt. Thứ ba, không có khoản lỗ được khấu trừ: việc hủy có thể làm giảm thu nhập Hort kỳ vọng, nhưng tương ứng ông được miễn nghĩa vụ nộp thuế trên tiền thuê chưa bao giờ nhận; không thể khấu trừ như một khoản lỗ phần thu nhập chưa từng bị đánh thuế.
 
+Số tiền lỗ chênh lệch cụ thể mà Hort đưa ra là 21.494,75 đô la. Tòa không tranh cãi cách tính con số đó; tòa bác bỏ chính phạm trù 'khoản lỗ' ấy. Tiền thuê chưa bao giờ nhận, cũng chưa bao giờ bị đánh thuế, nên sự vắng mặt của nó không thể biến thành một khoản lỗ nữa.
+
 ### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 
 सर्वोच्च न्यायालय ने 31 मार्च 1941 को न्यायमूर्ति Murphy की राय से निर्णय बनाए रखा। तर्क तीन चरणों में चलता है। पहला, संपूर्ण राशि सकल आय है: § 22(a) किराए से प्राप्त लाभ को स्पष्ट रूप से शामिल करता है, और यह भुगतान पट्टे से उत्पन्न हुआ, इसलिए यह पूरी तरह शामिल होगा, समायोजन के लिए कुछ नहीं। दूसरा, भुगतान किराए का विकल्प (substitute) है, पूँजी की वापसी नहीं: रद्दीकरण «भावी किराया पाने के अधिकार का त्याग था, जिसके बदले वर्तमान वैकल्पिक भुगतान और पट्टे वाली संपत्ति का कब्ज़ा मिला»। पट्टे को «संपत्ति» मान भी लें, तो प्रतिफल पूँजी-वापसी नहीं है, क्योंकि जो छोड़ा गया वह केवल भविष्य की साधारण आय की धारा थी; विकल्प उसी का चरित्र लेता है जिसका वह स्थान लेता है। किसी पूँजीगत संपत्ति की बिक्री या विनिमय नहीं हुआ — किराएदार का किराया देने का दायित्व बस समाप्त हुआ। तीसरा, कोई कटौती योग्य हानि नहीं: रद्दीकरण से Hort की अपेक्षित आय घटी होगी, परंतु उतनी ही मात्रा में वह उस किराए पर कर देने के दायित्व से मुक्त हुआ जो कभी मिला ही नहीं; जिस आय पर कभी कर लगा ही नहीं, उसे हानि के रूप में नहीं काटा जा सकता।
+
+Hort ने जो अंतर-हानि रखी थी उसकी ठोस राशि $21,494.75 थी। न्यायालय ने उस राशि की गणना पर विवाद नहीं किया; उसने 'हानि' की उस श्रेणी को ही अस्वीकार किया। जो किराया कभी मिला ही नहीं और जिस पर कभी कर भी नहीं लगा, उसकी अनुपस्थिति को दोबारा हानि में नहीं बदला जा सकता।
 
 ## 四、方向别答反：§ 1241 只管「承租人收钱」的一侧
 
@@ -114,13 +120,19 @@ No confunda Hort con el § 1241 del IRC, creado por el Código de 1954, que regu
 
 Hort 사건을 1954년 법전에서 신설된 IRC §1241과 혼동하지 마십시오. §1241은 반대 방향을 다룹니다. **임차인(lessee)이 받은** 임대차 취소 금액, 예컨대 임대인이 임차인에게 조기 퇴거 대가로 지급하는 금액은 '임차인이 그 임대차와 교환하여 실현한 금액(amount realized in exchange for such lease)'으로 봅니다. 따라서 임차인의 수령액은 매각·교환 경로를 따라, 보유기간과 §1231 같은 관련 규정에 따라 자본이익 틀에 들어갈 수 있습니다. 그러나 §1241의 주어는 끝까지 임차인이 받는 금액뿐이며, 임대인이 받는 쪽에는 적용되지 않습니다. 임차인이 지급해 임대인이 받는 취소 금액은 Hort에 따라 여전히 경상소득이고, §61에 의해 수령 연도에 전액 포함됩니다. 방향표: 임차인이 내고 임대인이 받으면 경상소득(Hort, §61), 임대인이 내고 임차인이 받으면 교환 처리(§1241)입니다. 또 하나의 측면은 별개입니다. 나가기 위해 돈을 **내는** 임차인의 공제 문제는 §1241(받는 금액만 다룸) 밖에 있으며, 일반 비용·손실·자본화 규칙으로 판단합니다.
 
+법문 원문은 'amount received by a lessee for the cancellation of a lease shall be considered as an amount realized by such lessee in exchange for such lease'입니다. 임차인 손에 있는 임대차는 통상 사업용 자본적 지위이므로 자본이익 궤도에 들어갈 수 있습니다. 시험에서는 먼저 누가 돈을 받았는지, 그 사람이 임차인인지 임대인인지를 가른 뒤에 조문을 고르십시오.
+
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 
 Đừng nhầm Hort với IRC § 1241, điều luật được ban hành trong Bộ luật 1954, điều chỉnh chiều ngược lại. § 1241 quy định khoản tiền mà **bên thuê (lessee) nhận được** khi hủy hợp đồng thuê — ví dụ chủ nhà trả tiền để người thuê dọn đi sớm — được coi là khoản bên thuê thực hiện được qua việc trao đổi (exchange) hợp đồng thuê đó. Khoản nhận của bên thuê vì thế đi theo hướng bán hoặc trao đổi và có thể vào khuôn khổ lãi vốn, tùy thời gian nắm giữ và các quy định như § 1231. Nhưng § 1241 chỉ nói về khoản bên thuê nhận; nó không chạm đến phía chủ cho thuê. Khoản chủ cho thuê nhận từ người thuê vẫn là thu nhập thông thường theo Hort, tính toàn bộ theo § 61 vào năm nhận. Bảng chiều tiền: bên thuê trả, chủ cho thuê nhận — thu nhập thông thường (Hort; § 61); chủ cho thuê trả, bên thuê nhận — xử lý trao đổi (§ 1241). Một phía thứ ba tách riêng: việc khấu trừ của bên thuê *trả tiền* để ra đi nằm ngoài § 1241 (điều luật chỉ xử lý khoản nhận được) và được xét theo các quy tắc chung về chi phí, lỗ và vốn hóa.
 
+Nguyên văn điều luật là: 'amount received by a lessee for the cancellation of a lease shall be considered as an amount realized by such lessee in exchange for such lease'. Quyền thuê trong tay bên thuê thường là một quyền lợi vốn phục vụ kinh doanh, nên có thể vào quỹ đạo lãi vốn. Khi làm bài thi, hãy xác định trước ai là người nhận tiền và người đó là bên thuê hay chủ cho thuê, rồi mới chọn điều luật.
+
 ### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 
 Hort को IRC § 1241 से न उलझाएँ — यह 1954 के कोड में आया प्रावधान विपरीत दिशा को नियंत्रित करता है। § 1241 कहता है कि पट्टे के रद्दीकरण के लिए **पट्टेदार (lessee) द्वारा प्राप्त** राशि — जैसे भूस्वामी किरायेदार को जल्दी खाली करने के लिए दे — उस पट्टेदार द्वारा उस पट्टे के विनिमय (exchange) में प्राप्त राशि मानी जाएगी। अतः पट्टेदार की प्राप्ति बिक्री-या-विनिमय मार्ग पर चलती है और धारण अवधि व § 1231 जैसे प्रावधानों के अधीन पूँजीगत लाभ ढाँचे में आ सकती है। परंतु § 1241 केवल पट्टेदार द्वारा प्राप्त राशियों की बात करता है; भूस्वामी के पक्ष को नहीं छूता। किरायेदार से भूस्वामी को मिली राशि Hort के तहत साधारण आय ही रहती है, § 61 के अंतर्गत प्राप्ति के वर्ष में पूरी शामिल होती है। दिशा-सारणी: किरायेदार दे, भूस्वामी पाए — साधारण आय (Hort; § 61); भूस्वामी दे, पट्टेदार पाए — विनिमय उपचार (§ 1241)। तीसरा पक्ष अलग रहता है: बाहर निकलने के लिए **भुगतान करने वाले** पट्टेदार की कटौती § 1241 से बाहर है, क्योंकि वह केवल प्राप्त राशियों को देखता है; वह सामान्य व्यय, हानि व पूँजीकरण नियमों से तय होती है।
+
+विधि का मूल पाठ है: 'amount received by a lessee for the cancellation of a lease shall be considered as an amount realized by such lessee in exchange for such lease'। पट्टेदार के हाथ में पट्टा सामान्यतः व्यवसाय-उपयोग की पूँजीगत हित होता है, इसलिए वह पूँजीगत लाभ की राह पर जा सकता है। परीक्षा में पहले यह तय करें कि पैसा किसे मिला और वह पट्टेदार है या भूस्वामी, उसके बाद ही प्रावधान चुनें।
 
 ## 五、今日适用与后世回响
 
