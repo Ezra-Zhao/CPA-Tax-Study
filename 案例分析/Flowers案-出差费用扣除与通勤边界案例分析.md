@@ -15,12 +15,18 @@ El caso es Commissioner v. Flowers, 326 U.S. 465 (1946), resuelto por el Tribuna
 
 이 사건은 미국 연방 대법원의 Commissioner v. Flowers, 326 U.S. 465 (1946)입니다. 납세자 J. N. Flowers는 철도 회사 변호사로 잭슨(Jackson)에 살았지만 업무상 모빌(Mobile)에서 장기간 근무해야 했습니다. 그는 이사하지 않고 잭슨에 살기를 자발적으로 선택해 모빌의 식비·숙박비와 왕복 교통비를 출장비로 공제 신고했습니다. 국세청장(Commissioner)은 부인했고 대법원은 부인을 유지했습니다. 쟁점은 금액이 아니라 성격입니다. 금액은 크지 않았고 증빙도 갖춰져 있었습니다.
 
+보충하면, Flowers는 연방 소득세 신고에서 이 비용을 사업상 출장비로 공제하겠다고 신고했고, 국세청장이 이를 부인하자 소송으로 다투어 사건이 연방대법원까지 올라갔습니다. 대법원은 국세청장의 손을 들어 부인을 그대로 유지했습니다. 겉으로 보면 몇 건의 비용 항목을 둘러싼 다툼이지만, 그 밑에 깔린 질문은 하나뿐입니다. 납세자가 근무지에서 멀리 떨어진 곳에 집을 두기로 스스로 선택했을 때, 그로 인해 추가로 드는 생활비와 교통비를 사업 비용으로 바꿀 수 있는가 하는 것입니다.
+
 ### Tiếng Việt (bản dịch sơ bộ·待校)
 Vụ án là Commissioner v. Flowers, 326 U.S. 465 (1946), do Tòa án Tối cao Hoa Kỳ phán quyết. Người nộp thuế, J. N. Flowers, là luật sư của một công ty đường sắt và sống tại Jackson, Mississippi. Công việc đòi hỏi ông phải làm việc trong thời gian dài tại Mobile, Alabama. Flowers tự nguyện chọn tiếp tục sống ở Jackson thay vì chuyển đến Mobile, và ông khấu trừ, như chi phí công tác kinh doanh, tiền ăn ở tại Mobile cùng chi phí đi lại giữa Jackson và Mobile. Cục trưởng thuế (Commissioner) bác bỏ các khoản khấu trừ, Flowers khởi kiện, và vụ việc lên tới Tòa án Tối cao; Tòa đứng về phía Commissioner và giữ nguyên việc bác bỏ. Bề ngoài, tranh chấp xoay quanh vài khoản chi; bên dưới chỉ có một câu hỏi: một người tự nguyện giữ nhà ở xa nơi làm việc thì có thể biến chi phí ăn ở và đi lại phát sinh thêm thành chi phí kinh doanh hay không? Các khoản tiền không lớn và có chứng từ; tranh chấp nằm ở tính chất, không phải số tiền.
+
+Cần nhấn mạnh thêm một lớp: Flowers không chối rằng mình thực sự làm việc cho công ty đường sắt tại Mobile, và Cục trưởng cũng không chối rằng các khoản chi đó đã thực sự được chi ra. Hai bên chỉ tranh nhau một việc duy nhất — những đồng tiền đã chi thật đó, về mặt thuế, thuộc loại chi phí nào.
 
 ### हिन्दी (प्रारंभिक अनुवाद·待校)
 
 यह Commissioner v. Flowers, 326 U.S. 465 (1946) है, अमेरिका के सर्वोच्च न्यायालय का निर्णय। करदाता J. N. Flowers रेलरोड कंपनी के वकील थे, Jackson, Mississippi में रहते थे, परंतु काम के लिए उन्हें लंबे समय तक Mobile, Alabama में रहना पड़ता था। उन्होंने स्वेच्छा से Jackson में रहना चुना और Mobile के भोजन-आवास व यात्रा को व्यावसायिक यात्रा व्यय बताकर कटौती माँगी। आयुक्त ने अस्वीकार किया और सर्वोच्च न्यायालय ने अस्वीकृति बरकरार रखी। विवाद राशि पर नहीं, प्रकृति पर था: राशियाँ छोटी थीं और दस्तावेज़ मौजूद थे।
+
+थोड़ा और स्पष्ट करें तो: Flowers मिसिसिपी के Jackson के निवासी थे और रेलरोड कंपनी के वकील के रूप में उन्हें अलबामा के Mobile में लंबे समय तक तैनात रहकर रेलरोड के काम निपटाने पड़ते थे। Mobile चले जाने का विकल्प उनके पास था, किंतु उन्होंने स्वेच्छा से Jackson में ही रहना चुना। इसलिए प्रश्न राशि की सत्यता का कभी था ही नहीं; प्रश्न यह था कि स्वेच्छा से दूर रहने का चुनाव करने वाले व्यक्ति की अतिरिक्त जीवन-लागत को कर-कानून व्यवसाय की लागत मान सकता है या नहीं। सर्वोच्च न्यायालय ने आयुक्त के पक्ष में निर्णय देकर अस्वीकृति बरकरार रखी।
 
 ## 二、争点与裁决：§162(a)(2) 三要件
 
@@ -37,12 +43,18 @@ La cuestión era si los importes de comida, alojamiento y viaje eran deducibles 
 
 쟁점은 이 비용이 IRC §162(a)(2)의 '집을 떠나(away from home) 사업을 수행하며 발생한 출장비'인가였습니다. 대법원이 정리한 세 요건은 지금도 REG와 TCP의 표준 틀입니다. 첫째 합리적이고 필요한 출장 지출일 것, 둘째 납세자가 집을 떠나 있는 동안 발생한 비용일 것(업무상 숙박 필요), 셋째 개인적 사정이 아니라 사업 때문에 발생한 비용일 것. 세 요건은 동시에 충족돼야 합니다. Flowers는 통과하지 못해 공제가 전부 부인됐습니다. 이 1946년 판결이 지금도 교과서가 출장비 주제를 여는 첫 사례인 이유가 여기에 있고, 시험에도 그대로 나옵니다.
 
+세 요건을 다시 풀어 쓰면 이렇습니다. 첫째 요건은 금액의 크기가 아니라 지출의 성격과 비례를 봅니다. 출장 지출이 사업 목적에 비해 합리적이고 필요한 수준이어야 합니다. 둘째 요건의 '집을 떠난' 상태는 단순히 집 밖으로 나갔다는 뜻이 아니라, 업무 때문에 밤을 묵거나 쉬어야 할 만큼 머물러야 하는 상태를 말합니다. 셋째 요건은 비용 발생의 원인을 묻습니다. 같은 식사와 숙박이라도 업무의 요구가 만들었으면 출장비 쪽에 서고, 개인의 생활 설계가 만들었으면 개인 비용 쪽에 섭니다. Flowers 사건의 비용은 첫째 요건에서는 크게 문제되지 않았지만, 뒤의 분석에서 보듯 둘째와 셋째 요건의 문턱에서 걸렸습니다.
+
 ### Tiếng Việt (bản dịch sơ bộ·待校)
 Vấn đề là các khoản ăn, ở và đi lại này có được khấu trừ theo IRC §162(a)(2) như chi phí công tác — gồm cả ăn và ở — phát sinh khi xa nhà (away from home) để tiến hành hoạt động kinh doanh hay không. Trong vụ này, Tòa án Tối cao đã sắp xếp khoản khấu trừ của §162(a)(2) thành ba yêu cầu, đến nay vẫn là khung chuẩn của REG và TCP: một, khoản chi phải là chi phí công tác hợp lý và cần thiết, tương xứng với mục đích kinh doanh; hai, khoản chi phải phát sinh khi người nộp thuế đang xa nhà, nghĩa là công việc đòi hỏi nghỉ qua đêm hoặc dừng lại đủ lâu để cần nghỉ ngơi; ba, khoản chi phải phát sinh vì hoạt động kinh doanh — do yêu cầu của công việc tạo ra, không phải do sắp xếp cá nhân. Cả ba phải đồng thời thỏa mãn. Đối chiếu với chúng, Flowers không qua được, các khoản khấu trừ bị bác toàn bộ và quyết định bác bỏ của Commissioner được giữ nguyên. Mục tiếp theo chỉ ra ông trượt ở yêu cầu nào. Đó là lý do sách giáo khoa mở đầu chủ đề chi phí công tác bằng vụ án năm 1946 này.
+
+Nói cách khác, ba yêu cầu không phải là ba ô để tick tùy ý: thiếu một yêu cầu là toàn bộ khoản khấu trừ sụp đổ, và người nộp thuế phải cho thấy cả ba cùng lúc. Đây cũng là lý do các giám khảo đến nay vẫn đưa vụ án này vào đề thi — tình tiết ngắn, nhưng nó kiểm tra được cả ba yêu cầu trong một lần.
 
 ### हिन्दी (प्रारंभिक अनुवाद·待校)
 
 प्रश्न था कि ये राशियाँ IRC §162(a)(2) के तहत घर से दूर (away from home) व्यवसाय में किए गए यात्रा व्यय के रूप में कटौती-योग्य हैं या नहीं। सर्वोच्च न्यायालय ने तीन शर्तें रखीं, जो आज भी REG और TCP का मानक ढाँचा हैं: पहली, व्यय उचित और आवश्यक यात्रा व्यय हो; दूसरी, वह तब हो जब करदाता घर से दूर हो, अर्थात काम रात भर रुकना माँगे; तीसरी, व्यय व्यवसाय के कारण हो, व्यक्तिगत व्यवस्था से नहीं। तीनों एक साथ चाहिए। Flowers असफल रहा, कटौतियाँ अस्वीकार हुईं और आयुक्त की अस्वीकृति बरकरार रही। यही कारण है कि पाठ्यपुस्तकें आज भी यात्रा-व्यय का अध्याय इस 1946 के मामले से खोलती हैं — और परीक्षक भी इसे पूछते हैं।
+
+तीनों शर्तों को थोड़ा खोलकर समझें। पहली शर्त राशि के आकार को नहीं, व्यय के चरित्र और व्यावसायिक उद्देश्य से उसके अनुपात को देखती है। दूसरी शर्त में 'घर से दूर' होने का अर्थ केवल घर से बाहर निकलना नहीं है; काम के कारण रात रुकना, या इतनी देर ठहरना कि विश्राम आवश्यक हो जाए, यही कसौटी है। तीसरी शर्त कारण पूछती है: वही भोजन और आवास यदि काम की माँग से उत्पन्न हुआ हो तो यात्रा-व्यय की ओर खड़ा होता है, और यदि व्यक्तिगत जीवन-व्यवस्था से उत्पन्न हुआ हो तो व्यक्तिगत व्यय की ओर। Flowers पहले द्वार पर नहीं, आगे के विश्लेषण में दिखेगा कि वह दूसरे और तीसरे द्वार पर अटका।
 
 ## 三、推理：败在第二件——税务之家在莫比尔
 
