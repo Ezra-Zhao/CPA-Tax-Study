@@ -70,6 +70,8 @@ California es un estado de bienes gananciales (community property): lo acumulado
 
 캘리포니아는 부부공동재산(community property) 주로, 혼인 기간 중 쌓인 은퇴 권리는 원칙적으로 공동재산으로 판결에서 나뉘지만, 연방 플랜 집행에는 QDRO 단계가 여전히 필요하고 캘리포니아는 joinder 절차로 플랜을 사건에 끌어들입니다. 마무리 점검: QDRO가 승인되고 IRA 이전이 실제 입금되어야 분할이 끝난 것이고, 수익자 지정(beneficiary designation)은 유언보다 우선하므로 즉시 바꾸며, Form 1099-R은 QDRO 분배와 IRA 이전의 보고 방식이 다르므로 보관하십시오.
 
+보충하면, IRA를 잘못 인출해 개인 계좌를 거친 뒤 건네면 분배로 기록될 수 있고, 그렇게 되면 60일 간접 롤오버(indirect rollover)와 연 1회 제한에 걸릴 수 있으므로, 반드시 수탁자 간 직접 이전으로 처리해야 합니다. 또 판결이 정한 평가일과 실제 이전일 사이에 생긴 가치 변동의 귀속을 판결이나 합의서에 명시해 두어야 이전 금액을 두고 다투지 않습니다. 가까운 시일에 현금이 필요한 대체 수령인은 먼저 플랜 단계에서 QDRO 분배로 현금을 받고 나머지를 롤오버하는 순서가 유리할 수 있는데, 이는 §72(t)(2)(C) 예외가 플랜 단계에만 머물기 때문입니다. 확정급여형 연금의 shared payment 방식과 separate interest 방식은 수령 시작 시점, 사망 시 처리, 재혼이 미치는 영향이 서로 달라, 해당 플랜에 익숙한 변호사와 보험수리적 기준의 확인이 필요한 부분입니다.
+
 *주: 개인 학습 노트이며 세무·법률 자문이 아닙니다. 출처: IRC §§401(a)(13), 414(p), 408(d)(6), 72(t)(2)(C), 3405(c); ERISA §206(d); IRS 은퇴 주제(離婚·QDRO). 초역으로 원어민 감수 대기 중입니다.*
 
 ---
@@ -84,6 +86,8 @@ Thuế đi theo bước tiếp theo của người thụ hưởng thay thế. N�
 
 California là bang tài sản chung (community property): quyền lợi hưu trí tích lũy trong hôn nhân về nguyên tắc là tài sản chung được chia trong phán quyết — nhưng chương trình liên bang vẫn đòi bước QDRO, và thực hành California dùng thủ tục joinder để đưa chương trình vào vụ án. Danh sách chốt việc: việc chia chỉ xong khi QDRO được chấp nhận và khoản chuyển IRA đã ghi có; cập nhật ngay người thụ hưởng chỉ định (chỉ định này thắng di chúc); và giữ Form 1099-R vì phân phối theo QDRO và chuyển IRA khai báo khác nhau.
 
+Bổ sung thêm: nếu rút IRA ra tài khoản cá nhân rồi mới trao tay, khoản đó có thể bị ghi nhận là một khoản phân phối và sẽ vướng vào cơ chế rollover gián tiếp 60 ngày cùng giới hạn một lần mỗi năm, nên nhất thiết phải làm chuyển trực tiếp giữa các bên ủy thác. Phần tăng giảm giá trị giữa ngày định giá do phán quyết ấn định và ngày chuyển thực tế thuộc về ai cũng cần ghi rõ trong phán quyết hoặc thỏa thuận, nếu không số tiền chuyển sẽ tranh cãi kéo dài. Người thụ hưởng thay thế có nhu cầu tiền mặt gần hạn thường nên nhận phân phối QDRO bằng tiền mặt ở tầng chương trình trước rồi mới rollover phần còn lại, vì ngoại lệ §72(t)(2)(C) chỉ tồn tại ở tầng chương trình. Với lương hưu phúc lợi xác định, cấu trúc shared payment và separate interest khác nhau về thời điểm bắt đầu nhận, cách xử lý khi qua đời và ảnh hưởng của việc tái hôn, nên cần luật sư quen thuộc với chương trình đó cùng chuẩn tính toán bảo hiểm kiểm tra.
+
 *Ghi chú: ghi chép học tập cá nhân, không phải tư vấn thuế hay pháp lý. Nguồn: IRC §§401(a)(13), 414(p), 408(d)(6), 72(t)(2)(C), 3405(c); ERISA §206(d); chủ đề hưu trí của IRS về ly hôn và QDRO. Bản dịch sơ bộ, chờ hiệu đính.*
 
 ---
@@ -97,5 +101,7 @@ California là bang tài sản chung (community property): quyền lợi hưu tr
 कर alternate payee के अगले कदम पर निर्भर करता है। जीवनसाथी या पूर्व जीवनसाथी अपनी हिस्सेदारी सीधे अपने IRA या अन्य योजना में rollover करके कर टाल सकता है; नकद लेने पर सामान्य आय और पात्र rollover वितरणों पर 20% अनिवार्य withholding लगता है। QDRO की एक विशेष सुविधा: §72(t)(2)(C) QDRO वितरणों को 59½ वर्ष से पहले भी 10% शीघ्र-वितरण अतिरिक्त कर से मुक्त करता है — लेकिन यह अपवाद केवल योजना स्तर पर रहता है; पैसा IRA में जाने के बाद की निकासियों को अपना §72(t) अपवाद अलग से खोजना होगा। Defined-benefit पेंशन में खाता शेष नहीं होता, इसलिए QDRO में shared payment या separate interest जैसी कटौती संरचना लिखनी पड़ती है।
 
 कैलिफ़ोर्निया community property राज्य है: विवाह के दौरान अर्जित सेवानिवृत्ति अधिकार सामान्यतः सामुदायिक संपत्ति होकर फ़ैसले में बँटते हैं — फिर भी संघीय योजनाओं में QDRO चरण अनिवार्य रहता है, और कैलिफ़ोर्निया व्यवहार में योजना को मामले में लाने के लिए joinder प्रक्रिया चलती है। समापन सूची: बँटवारा तभी पूरा जब QDRO स्वीकार हो और IRA स्थानांतरण खाते में जमा हो जाए; beneficiary designation तुरंत बदलें (यह वसीयत पर भारी पड़ता है); और Form 1099-R सँभालकर रखें, क्योंकि QDRO वितरण और IRA स्थानांतरण अलग-अलग रिपोर्ट होते हैं।
+
+पूरक विवरण: यदि IRA की राशि पहले व्यक्तिगत खाते में निकालकर फिर सौंपी जाए तो वह वितरण के रूप में दर्ज हो सकती है और तब 60-दिन के indirect rollover तथा वर्ष में एक बार की सीमा लागू हो सकती है, इसलिए trustee-to-trustee सीधा स्थानांतरण ही करना चाहिए। फ़ैसले द्वारा तय मूल्यांकन तिथि और वास्तविक स्थानांतरण के बीच हुई मूल्य वृद्धि या कमी किसकी होगी, यह फ़ैसले या समझौते में स्पष्ट लिखना चाहिए, वरना स्थानांतरित राशि पर लंबे समय तक विवाद रहता है। जिस alternate payee को निकट भविष्य में नकदी चाहिए, उसके लिए अक्सर सही क्रम यह है कि पहले योजना स्तर पर QDRO वितरण से नकदी ले और शेष को बाद में rollover करे, क्योंकि §72(t)(2)(C) का अपवाद केवल योजना स्तर पर रहता है। Defined-benefit पेंशन में shared payment और separate interest संरचनाएँ शुरुआत का समय, मृत्यु पर व्यवहार और पुनर्विवाह के प्रभाव में अलग होती हैं, इसलिए उस योजना से परिचित वकील और actuarial मानकों से जाँच आवश्यक है।
 
 *टिप्पणी: व्यक्तिगत अध्ययन नोट्स, कर या कानूनी सलाह नहीं। स्रोत: IRC §§401(a)(13), 414(p), 408(d)(6), 72(t)(2)(C), 3405(c); ERISA §206(d); तलाक़ व QDRO पर IRS के सेवानिवृत्ति विषय। यह प्रारंभिक अनुवाद है, समीक्षा लंबित है।*
