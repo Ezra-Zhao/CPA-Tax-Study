@@ -118,6 +118,8 @@ Ejemplo verificable (cifras didácticas): A aporta $30,000 en efectivo y un terr
 
 ---
 
+보충 세부: § 704(c)의 배분 방법에는 전통적 방법, 조정 배분(curative)을 쓰는 전통적 방법, 보정(remedial) 방법의 세 가지가 있으며, 시험에서는 천장 규칙(ceiling rule)이 왜곡을 만드는 지점을 자주 묻습니다. § 737은 출자 후 7년 안에 다른 재산의 초과 분배가 있으면 출자 당시 이익을 인식하게 합니다. § 707(a)(2)(B)의 은폐 매매는 출자와 분배가 2년 안에 일어나면 매매로 추정합니다. 캘리포니아 LLC는 Form 565가 아니라 총소득 구간별 연회비가 별도로 있어, 세금과 수수료를 혼동하지 마십시오.
+
 ## Tiếng Việt (初译待校)
 
 **Thuế đối với partnership, Subchapter K: góp vốn, phân bổ, phân phối và cơ sở tính thuế (basis).** § 701: partnership không nộp thuế thu nhập liên bang ở cấp thực thể; mỗi thành viên chịu thuế trên phần phân bổ của mình (§ 702, Schedule K-1). § 721(a): góp tài sản đổi lấy quyền lợi partnership thì cả thành viên lẫn partnership đều không ghi nhận lãi/lỗ (ngoại lệ § 721(b) đối với partnership dạng công ty đầu tư). § 722: basis bên ngoài (outside basis) ban đầu của thành viên bằng tiền mặt đã góp cộng basis đã điều chỉnh của tài sản góp. § 723: basis bên trong (inside basis) của partnership đối với tài sản góp là basis chuyển tiếp của người góp. § 752: phần nợ của partnership tăng lên được coi như góp tiền mặt, làm tăng outside basis (§ 752(a)); giảm xuống được coi như phân phối tiền mặt (§ 752(b)); nợ có truy đòi theo rủi ro tổn thất kinh tế (Reg. § 1.752-2), nợ không truy đòi theo phương pháp ba tầng (Reg. § 1.752-3).
@@ -129,6 +131,8 @@ Ví dụ có thể tính lại (số liệu giảng dạy): A góp $30,000 tiề
 *Tuyên bố: Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế. Với việc cụ thể, hãy tham vấn CPA có giấy phép hoặc luật sư thuế. Bản dịch sơ bộ chờ hiệu đính (初译待校).*
 
 ---
+
+Chi tiết bổ sung: phương pháp phân bổ theo § 704(c) gồm ba cách — truyền thống, truyền thống có phân bổ điều chỉnh (curative), và khắc phục (remedial); đề thi hay hỏi điểm mà quy tắc trần (ceiling rule) gây méo mó. § 737 quy định nếu trong bảy năm sau khi góp vốn mà nhận phân phối tài sản khác vượt mức thì phải ghi nhận lãi tại thời điểm góp. Bán trá hình theo § 707(a)(2)(B) bị suy đoán khi góp vốn và phân phối xảy ra trong vòng hai năm. LLC tại California không theo Form 565 mà có phí hằng năm theo bậc tổng thu nhập, đừng nhầm thuế với phí.
 
 ## हिन्दी (初译待校)
 
@@ -148,3 +152,5 @@ Ví dụ có thể tính lại (số liệu giảng dạy): A góp $30,000 tiề
 *고지: 본 글은 개인 학습 노트이며 세무 자문이 아닙니다. 한국어 버전은 초역으로 교정 대기 중입니다 (初译待校).*
 *Tuyên bố: Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế. Phiên bản tiếng Việt là bản dịch sơ bộ chờ hiệu đính (初译待校).*
 *अस्वीकरण: यह लेख व्यक्तिगत अध्ययन नोट है और कर सलाह नहीं है। हिन्दी संस्करण प्रारंभिक अनुवाद है, समीक्षा लंबित (初译待校)。*
+पूरक विवरण: § 704(c) आवंटन की तीन विधियाँ हैं — पारंपरिक, curative आवंटन सहित पारंपरिक, और remedial विधि; परीक्षा में प्रायः पूछा जाता है कि ceiling rule कहाँ विकृति उत्पन्न करता है। § 737 के अनुसार योगदान के सात वर्षों के भीतर अन्य संपत्ति का अतिरिक्त वितरण मिलने पर योगदान-समय लाभ मानना पड़ता है। § 707(a)(2)(B) की छद्म बिक्री तब अनुमानित होती है जब योगदान व वितरण दो वर्षों के भीतर हों। कैलिफ़ोर्निया LLC पर Form 565 नहीं, बल्कि कुल आय स्तर अनुसार वार्षिक शुल्क अलग से लगता है; कर और शुल्क में भ्रम न करें।
+
