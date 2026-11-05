@@ -136,3 +136,19 @@ Nguồn: Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955); Internal Reven
 *고지: 이 글은 개인 학습 노트이며 세무·법률·재무 자문이 아닙니다.*
 *Tuyên bố: Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế, pháp lý hay tài chính.*
 *अस्वीकरण: यह लेख एक व्यक्तिगत अध्ययन नोट है; यह कर, कानूनी या वित्तीय सलाह नहीं है।*
+
+---
+
+## 补译增量（2026-11-04 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부: 병합 심리된 두 사건의 숫자를 붙여 둡니다. Glenshaw Glass 쪽에서는 오랜 특허·반독점 소송의 합의금 가운데 약 324,529달러가 사기·불공정 경쟁에 대한 징벌적 손해배상으로 명확히 구분돼 있었습니다. William Goldman Theatres 쪽에서는 이익 손실 125,000달러가 인정돼 반독점법상 3배 배상 375,000달러가 선고됐고, 납세자는 손실 보상분 125,000달러만 신고하고 징벌 성격의 초과분 250,000달러를 신고하지 않았습니다. 대법원이 §61 총소득의 세 요소 정의 — 부에 대한 명백한 증가(accessions to wealth), 명확히 실현됐을 것(clearly realized), 납세자가 완전히 지배할 것(complete dominion) — 를 세운 것은 바로 이 사실 구조 위에서입니다. 그래서 이 사건은 징벌적 손해배상 과세 판결인 동시에, 뒤에 오는 거의 모든 소득 해당성 문제의 출발점입니다. «벌어서 얻은 돈이 아니다»라는 항변 자체는 이 정의 앞에서 답이 되지 않습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung: gắn các con số của hai vụ được xét chung. Phía Glenshaw Glass, trong khoản hòa giải của vụ kiện dài hơi về bằng sáng chế và chống độc quyền, khoảng 324.529 đô la được xác định rõ là bồi thường trừng phạt (punitive damages) cho hành vi gian lận và cạnh tranh không lành mạnh. Phía William Goldman Theatres, thiệt hại lợi nhuận được công nhận là 125.000 đô la và được bồi thường gấp ba (treble damages) tổng cộng 375.000 đô la theo luật chống độc quyền; người nộp thuế chỉ khai phần bồi hoàn thiệt hại 125.000 đô la và không khai phần vượt 250.000 đô la mang tính trừng phạt. Định nghĩa ba yếu tố về tổng thu nhập theo §61 của Tòa Tối cao — gia tăng tài sản không thể chối cãi (accessions to wealth), được hiện thực hóa rõ ràng (clearly realized), và người nộp thuế có quyền chi phối hoàn toàn (complete dominion) — được dựng lên chính trên cấu trúc sự kiện này. Vì vậy vụ án vừa là phán quyết về thuế đối với bồi thường trừng phạt, vừa là điểm khởi đầu của hầu hết mọi câu hỏi “khoản này có phải thu nhập không” về sau; lập luận “đây không phải tiền kiếm được” tự nó không phải là đáp án trước định nghĩa này.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक विवरण: एक साथ सुने गए दो मामलों के आँकड़े जोड़ लें। Glenshaw Glass पक्ष में, लंबे पेटेंट व अविश्वास मुक़दमे के समझौते में लगभग 324,529 डॉलर स्पष्ट रूप से धोखाधड़ी व अनुचित प्रतिस्पर्धा के लिए दंडात्मक हर्जाने (punitive damages) के रूप में चिह्नित थे। William Goldman Theatres पक्ष में लाभ-हानि 125,000 डॉलर मानी गई और अविश्वास कानून के तहत तिहरा हर्जाना (treble damages) कुल 375,000 डॉलर मिला; करदाता ने केवल 125,000 डॉलर के हानि-पूर्ति भाग की घोषणा की और दंडात्मक अतिरिक्त 250,000 डॉलर घोषित नहीं किए। §61 की सकल आय की तीन-तत्त्व परिभाषा — संपत्ति में निर्विवाद वृद्धि (accessions to wealth), स्पष्ट रूप से प्राप्त होना (clearly realized), और करदाता का पूर्ण प्रभुत्व (complete dominion) — सर्वोच्च न्यायालय ने ठीक इसी तथ्य-ढाँचे पर खड़ी की। इसलिए यह मामला दंडात्मक हर्जाने पर कर का निर्णय होने के साथ-साथ बाद के लगभग हर “क्या यह आय है?” प्रश्न का प्रारंभ बिंदु है; “यह कमाया हुआ धन नहीं है” वाला तर्क अपने आप में इस परिभाषा के सामने उत्तर नहीं बनता।
