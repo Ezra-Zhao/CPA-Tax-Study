@@ -282,3 +282,5 @@ Guangyi Zhao
 ## 许可 / License / Licencia
 
 MIT License — 见 [LICENSE](LICENSE)。
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
