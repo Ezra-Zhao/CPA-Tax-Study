@@ -63,17 +63,23 @@ GASB 제34호(1999년 발표)는 이중 구조를 세웠다. 위층은 정부 �
 
 정부 전체 층의 주표는 둘이다: 순자산표(statement of net position, 정부판 재무상태표)와 활동표(statement of activities). 이 층은 경제적 자원 측정 초점과 완전 발생주의를 쓴다: 인프라를 포함한 자본자산은 자본화하고 감가상각하며, 장기채무와 순연금부채가 모두 장부에 오르고, 수익은 벌었을 때, 비용은 발생했을 때 인식한다. 경영진 논의·분석(MD&A)은 필수 보충정보로 제표 앞에 놓인다. 시험에서 「정부 전체, 장기 관점」은 정부 전체 층, 「올해 쓸 수 있는 자원」은 기금 층을 먼저 가르는 것이 순서다.
 
+보충하면, 활동표는 각 기능의 비용에서 프로그램 수익을 뺀 순비용과 일반수익을 이어 붙여 순자산의 변동에 이르는 흐름을 보여 주며, MD&A는 올해 정부의 재무 상태가 좋아졌는지 나빠졌는지를 쉬운 말로 설명하는 자리다.
+
 ### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
 
 Chuẩn mực GASB số 34 (ban hành 1999) lập mô hình hai lớp. Lớp trên là báo cáo tài chính toàn chính phủ, nhìn chính phủ như một thể thống nhất; lớp dưới là báo cáo theo từng quỹ. Giữa hai lớp bắt buộc có bảng đối chiếu (reconciliation), dẫn số dư quỹ từng bước đến vị thế ròng toàn chính phủ — và chính bảng này là điểm thi ưa thích, vì mỗi dòng kiểm tra một khác biệt giữa hai cơ sở đo lường.
 
 Lớp toàn chính phủ có hai báo cáo chính: báo cáo vị thế ròng (statement of net position, bảng cân đối của chính phủ) và báo cáo hoạt động (statement of activities). Lớp này dùng trọng tâm đo lường nguồn lực kinh tế và cơ sở dồn tích đầy đủ: tài sản vốn, kể cả hạ tầng, được vốn hóa và khấu hao; nợ dài hạn và nợ lương hưu ròng đều lên sổ; doanh thu ghi khi kiếm được, chi phí ghi khi phát sinh, không phụ thuộc tiền mặt. Phần thảo luận và phân tích của ban quản lý (MD&A) đứng trước báo cáo như thông tin bổ sung bắt buộc. Khi làm bài, «toàn chính phủ, tầm nhìn dài hạn» là lớp toàn chính phủ; «nguồn lực chi được trong năm» là lớp quỹ — phân lớp trước rồi mới trả lời.
 
+Bổ sung: báo cáo hoạt động trình bày chi phí theo chức năng, trừ doanh thu chương trình để ra chi phí ròng, rồi cộng doanh thu chung để đến thay đổi vị thế ròng; MD&A dùng ngôn ngữ dễ hiểu để nói rõ tình hình tài chính năm nay tốt lên hay xấu đi.
+
 ### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 GASB कथन सं. 34 (1999) दो-स्तरीय मॉडल स्थापित करता है। ऊपर का स्तर सरकार-व्यापी विवरण है, जो सरकार को एक इकाई के रूप में देखता है; नीचे का स्तर निधि विवरण है। दोनों स्तरों के बीच समाधान (reconciliation) अनिवार्य है, जो निधि शेषों को चरणबद्ध ढंग से सरकार-व्यापी शुद्ध स्थिति तक ले जाता है — और यही समाधान परीक्षा का प्रिय विषय है।
 
 सरकार-व्यापी स्तर के दो मुख्य विवरण हैं: शुद्ध स्थिति विवरण (statement of net position) और गतिविधि विवरण (statement of activities)। यह स्तर आर्थिक संसाधन मापन केंद्र और पूर्ण प्रोद्भवन आधार अपनाता है: अवसंरचना सहित पूँजी परिसंपत्तियाँ पूँजीकृत और मूल्यह्रासित होती हैं; दीर्घकालिक ऋण और शुद्ध पेंशन देयता पुस्तकों में आती है; आय अर्जित होने पर और व्यय होने पर मान्य होता है। प्रबंधन चर्चा व विश्लेषण (MD&A) आवश्यक पूरक सूचना के रूप में विवरणों से पहले आता है। परीक्षा में «समग्र सरकार, दीर्घकालिक दृष्टि» सरकार-व्यापी स्तर है और «वर्ष में खर्च योग्य संसाधन» निधि स्तर — पहले स्तर तय करें, फिर उत्तर दें।
+
+पूरक: गतिविधि विवरण प्रत्येक कार्य के व्यय से कार्यक्रम आय घटाकर शुद्ध व्यय दिखाता है, फिर सामान्य आय जोड़कर शुद्ध स्थिति में परिवर्तन तक पहुँचता है; MD&A सरल भाषा में बताता है कि इस वर्ष सरकार की वित्तीय स्थिति बेहतर हुई या बदतर।
 
 ---
 
@@ -108,17 +114,23 @@ En los fondos gubernamentales el residual se llama saldo de fondo y la GASB 54 l
 
 기금 층에서 정부기금의 잔여는 기금 잔액(fund balance)이라 부르고 GASB 54가 다섯으로 나눈다: 사용불가(nonspendable), 제한(restricted), 약정(committed, 최고 의사결정기구의 공식 조치), 지정(assigned, 경영진 의도), 미지정(unassigned). 전용기금과 신탁기금은 여전히 순자산을 쓰고 세 구성요소를 따른다. 먼저 보고 층을 가르고, 그다음 분류 체계를 적용하는 것이 순서다.
 
+세부로, 사용불가(nonspendable)에는 재고와 선급 항목 같은 형태 자체가 쓸 수 없는 것이 들어가고, 미지정(unassigned)은 일반기금의 잔여이며 적자도 여기에 떨어진다.
+
 ### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
 
 Phần còn lại ở lớp toàn chính phủ gọi là vị thế ròng (net position, thay tên «tài sản ròng» từ GASB 63), chia ba thành phần theo mức độ ràng buộc: (1) **Đầu tư ròng vào tài sản vốn**: tài sản vốn ròng trừ dư nợ phát hành để mua hoặc xây các tài sản đó; ví dụ: 50.000.000 − 30.000.000 = 20.000.000 đô la (tính lại tại chỗ); (2) **Vị thế ròng bị hạn chế**: nguồn lực bị ràng buộc bởi chủ nợ, bên tài trợ, luật hoặc quy định hiến pháp; (3) **Vị thế ròng không hạn chế**: phần còn lại, có thể âm mà không tự nó có nghĩa là ngân sách năm nay mất cân đối.
 
 Ở lớp quỹ, phần còn lại của quỹ chính phủ gọi là số dư quỹ (fund balance), GASB 54 chia năm loại từ ràng buộc mạnh nhất: không chi được (nonspendable), bị hạn chế (restricted), đã cam kết (committed, hành động chính thức của cấp quyết định cao nhất), đã chỉ định (assigned, ý định của ban quản lý), chưa chỉ định (unassigned). Quỹ doanh nghiệp (proprietary) và quỹ tín thác vẫn dùng vị thế ròng ba thành phần. Hãy nhận diện lớp báo cáo trước, rồi mới áp khung phân loại.
 
+Chi tiết hơn: loại không chi được (nonspendable) gồm những khoản như hàng tồn kho và khoản trả trước; loại chưa chỉ định (unassigned) là phần còn lại của quỹ chung, và thâm hụt cũng rơi vào loại này.
+
 ### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 सरकार-व्यापी स्तर का अवशेष शुद्ध स्थिति (net position; GASB 63 के बाद पुराना नाम net assets बदला) है और बाध्यता के स्तर से तीन घटकों में बँटा है: (1) **पूँजी परिसंपत्तियों में शुद्ध निवेश** — शुद्ध पूँजी परिसंपत्तियाँ минус उन्हें खरीदने या बनाने के लिए जारी ऋण का शेष; उदाहरण: 50,000,000 − 30,000,000 = 20,000,000 डॉलर (स्थानीय पुनर्गणना); (2) **प्रतिबंधित शुद्ध स्थिति** — लेनदारों, अनुदानदाताओं, कानूनों या संवैधानिक प्रावधानों से बँधे संसाधन; (3) **अप्रतिबंधित शुद्ध स्थिति** — शेष भाग, जो ऋणात्मक भी हो सकता है और अकेले इसका अर्थ चालू बजट का असंतुलन नहीं है।
 
 निधि स्तर पर सरकारी निधियों का अवशेष निधि शेष (fund balance) कहलाता है और GASB 54 उसे पाँच वर्गों में बाँटती है: अव्ययनीय (nonspendable), प्रतिबंधित (restricted), प्रतिबद्ध (committed, सर्वोच्च निर्णय-प्राधिकरण की औपचारिक कार्रवाई), निर्दिष्ट (assigned, प्रबंधन का आशय) और अनिर्दिष्ट (unassigned)। स्वामित्व (proprietary) और न्यासी (fiduciary) निधियाँ शुद्ध स्थिति के तीन घटक ही रखती हैं। पहले रिपोर्टिंग स्तर पहचानें, फिर वर्गीकरण प्रणाली लागू करें।
+
+विवरण: अव्ययनीय (nonspendable) में इन्वेंटरी और प्रीपेड जैसी मदें आती हैं; अनिर्दिष्ट (unassigned) सामान्य निधि का अवशेष है और घाटा भी इसी में पड़ता है।
 
 ---
 
@@ -249,13 +261,19 @@ Ejemplo calculado (cifras didácticas, verificadas localmente): los fondos guber
 
 계산 예시(교육용 숫자, 로컬 검산 완료): 한 도시의 정부기금 기금 잔액 합계는 12,000,000달러다. 정부 전체로 가는 다섯 단계: 자본자산 순액 48,000,000달러를 더하고(기금에서는 자본지출로 비용화, 정부 전체에서는 자산), 사채 30,000,000달러를 빼고, 미지급이자 300,000달러를 빼고, 내부서비스기금 순자산 1,300,000달러를 더하면 정부 활동 순자산은 12,000,000 + 48,000,000 − 30,000,000 − 300,000 + 1,300,000 = 31,000,000달러다. 검산: 60,000,000 − 30,000,000 = 30,000,000, − 300,000 = 29,700,000, + 1,300,000 = 31,000,000. 뼈대는 늘 같다: 기금이 기록하지 않은 장기 자산을 더하고, 장기 부채를 빼고, 기준 차이를 맞춘다.
 
+실제 제표에서는 여기에 연금과 환불 차액에 관한 유출·유입 이연, 사용 가능하지 않은 장기 채권 부분, 누적 휴가 부채 같은 항목이 더 붙는다. 또 제2절의 세 구성요소 검산처럼 순자산 총액에서 자본자산 순투자와 제한 순자산을 먼저 확정하고 나머지를 비제한으로 두며, 순서를 뒤집어 맞추지 않는다.
+
 ### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
 
 Ví dụ tính (số liệu giảng dạy, đã kiểm tra lại tại chỗ): các quỹ chính phủ của một thành phố có tổng số dư quỹ 12.000.000 đô la. Năm bước chuyển sang góc nhìn toàn chính phủ: cộng tài sản vốn ròng 48.000.000 đô la (trong quỹ đã chi thành chi vốn; ở cấp toàn chính phủ là tài sản); trừ trái phiếu phải trả 30.000.000; trừ lãi dồn tích 300.000; cộng vị thế ròng của quỹ dịch vụ nội bộ 1.300.000; kết quả: 12.000.000 + 48.000.000 − 30.000.000 − 300.000 + 1.300.000 = 31.000.000 đô la vị thế ròng của hoạt động chính phủ. Kiểm tra từng đoạn: 60.000.000 − 30.000.000 = 30.000.000; − 300.000 = 29.700.000; + 1.300.000 = 31.000.000. Khung xương luôn như vậy: cộng tài sản dài hạn mà quỹ không ghi, trừ nợ dài hạn, và bù các chênh lệch cơ sở.
 
+Trong báo cáo thực tế còn cộng thêm các khoản hoãn lại đầu ra và đầu vào liên quan đến lương hưu và chênh lệch hoàn trả nợ, phần phải thu dài hạn chưa sẵn có, và nợ nghỉ phép tích lũy. Cũng như phép kiểm tra ba thành phần ở Mục 2: trước hết xác định đầu tư ròng vào tài sản vốn và vị thế ròng bị hạn chế, phần còn lại mới là không hạn chế, không làm ngược lại để khớp số.
+
 ### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 परिकलित उदाहरण (शिक्षण आँकड़े, स्थानीय सत्यापन पूर्ण): एक नगर की सरकारी निधियों का कुल निधि शेष 12,000,000 डॉलर है। सरकार-व्यापी दृष्टि तक पाँच चरण: शुद्ध पूँजी परिसंपत्तियाँ 48,000,000 डॉलर जोड़ें (निधियों में यह पूँजीगत परिव्यय था; सरकार-व्यापी स्तर पर परिसंपत्ति है); देय बॉन्ड 30,000,000 घटाएँ; उपार्जित ब्याज 300,000 घटाएँ; आंतरिक सेवा निधि की शुद्ध स्थिति 1,300,000 जोड़ें; परिणाम: 12,000,000 + 48,000,000 − 30,000,000 − 300,000 + 1,300,000 = 31,000,000 डॉलर सरकारी गतिविधियों की शुद्ध स्थिति। जाँच: 60,000,000 − 30,000,000 = 30,000,000; − 300,000 = 29,700,000; + 1,300,000 = 31,000,000। ढाँचा हमेशा यही है: निधि ने जो दीर्घकालिक परिसंपत्तियाँ नहीं लिखीं, वे जोड़ें, दीर्घकालिक देनदारियाँ घटाएँ और आधार-अंतर समेटें।
+
+वास्तविक विवरणों में इनके ऊपर पेंशन और पुनर्वित्त अंतर से जुड़े आस्थगित बहिर्प्रवाह व अंतर्प्रवाह, उपलब्ध न होने वाली दीर्घकालिक प्राप्य राशि और संचित अवकाश देयता भी जुड़ती हैं। धारा 2 की तीन-घटक जाँच की तरह, पहले पूँजी परिसंपत्तियों में शुद्ध निवेश और प्रतिबंधित शुद्ध स्थिति तय करें, शेष ही अप्रतिबंधित होता है; क्रम उलटकर संख्या न मिलाएँ।
 
 ---
 
@@ -282,17 +300,23 @@ Ví dụ tính (số liệu giảng dạy, đã kiểm tra lại tại chỗ): c
 
 **GASB 87(리스)**는 단일 모델이다: 리스는 사용권 자산의 금융이다. 단기 리스(연장 선택권을 포함해 최장 가능 기간 12개월 이하)를 빼고 임차인은 리스부채와 무형의 사용권 리스자산을 인식하며, 부채는 리스 기간 예상 지급액의 현재가치다. 예: 연 100,000달러, 5년, 3%이면 100,000 × 4.5797 ≈ 457,971달러. 임대인은 리스채권과 유입 이연을 인식하고 기초자산은 제거하지 않는데, 정부는 토지·건물의 임대인인 경우가 많아 이쪽이 더 자주 출제된다. 2017년 발표, GASB 95의 연기 후 2021년 6월 15일 후 시작 회계연도부터 적용. ASC 842와의 핵심 차이: 842에는 임차인 이중 분류가 있고 87에는 분류 논쟁 없이 단기 예외만 있다.
 
+연금 쪽 시험 포인트를 보충하면, 할인율과 그 민감도 공시가 중요하고, 보험수리적 변동은 유출·유입 이연을 통해 여러 해의 연금비용으로 나누어 반영하지 한 해에 몰아 넣지 않는다. 리스자산은 리스부채의 최초 측정을 바탕으로 시작 지급액 등을 더해 정해진다.
+
 ### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
 
 **GASB 68 (lương hưu, chuẩn cho người sử dụng lao động; bản thân chương trình báo cáo theo GASB 67)** làm một việc cốt lõi: đưa phần thiếu hụt từng chỉ nằm trong thuyết minh lên mặt báo cáo. Nợ lương hưu ròng = tổng nợ lương hưu − vị thế ròng tín thác của chương trình; ví dụ: 120.000.000 − 95.000.000 = 25.000.000 đô la (tính lại tại chỗ). Khoản nợ này chỉ xuất hiện trong báo cáo dồn tích đầy đủ; ở chương trình nhiều chủ chia sẻ chi phí (cost-sharing), mỗi chủ ghi phần tỉ lệ của nợ ròng tập thể. Ban hành 2012, hiệu lực cho niên độ bắt đầu sau 15 tháng 6 năm 2014.
 
 **GASB 87 (thuê tài sản)** dùng một mô hình duy nhất: hợp đồng thuê là tài trợ cho quyền sử dụng tài sản. Trừ thuê ngắn hạn (thời hạn tối đa có thể từ 12 tháng trở xuống, kể cả quyền gia hạn), bên thuê ghi nợ thuê và tài sản vô hình quyền sử dụng; nợ thuê là giá trị hiện tại của các khoản thanh toán dự kiến. Ví dụ: 100.000 đô la mỗi năm, 5 năm, lãi suất 3% cho 100.000 × 4,5797 ≈ 457.971 đô la. Bên cho thuê ghi khoản phải thu thuê và dòng vào hoãn lại, không xóa tài sản gốc — và chính phủ thường là bên cho thuê đất và nhà. Ban hành 2017, sau hoãn bởi GASB 95, hiệu lực cho niên độ bắt đầu sau 15 tháng 6 năm 2021. Khác biệt chính với ASC 842: 842 còn phân loại kép cho bên thuê; 87 không có tranh luận phân loại, chỉ có ngoại lệ ngắn hạn.
 
+Bổ sung điểm thi về lương hưu: tỉ lệ chiết khấu và công bố độ nhạy của nó rất quan trọng, và các biến động phát sinh từ giả định và kinh nghiệm định phí được phân bổ qua các khoản hoãn lại vào chi phí lương hưu trong nhiều năm, thay vì dồn hết vào một năm. Tài sản quyền sử dụng được xác định trên cơ sở đo lường ban đầu của nợ thuê, cộng các khoản thanh toán ban đầu.
+
 ### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 **GASB 68 (पेंशन, नियोक्ता मानक; योजना स्वयं GASB 67 के अंतर्गत रिपोर्ट करती है)** एक ही मूल कार्य करता है: जो कमी पहले केवल टिप्पणियों में रहती थी, उसे विवरण के मुख्य पृष्ठ पर लाता है। शुद्ध पेंशन देयता = कुल पेंशन देयता − योजना की न्यासीय शुद्ध स्थिति; उदाहरण: 120,000,000 − 95,000,000 = 25,000,000 डॉलर (स्थानीय पुनर्गणना)। यह देयता केवल पूर्ण प्रोद्भवन विवरणों में आती है; cost-sharing बहु-नियोक्ता योजनाओं में प्रत्येक नियोक्ता सामूहिक शुद्ध देयता का अपना आनुपातिक हिस्सा मान्य करता है। 2012 में जारी, 15 जून 2014 के बाद शुरू होने वाले वित्तीय वर्षों से प्रभावी।
 
 **GASB 87 (पट्टे)** का एकल मॉडल है: पट्टा अंतर्निहित परिसंपत्ति के उपयोग-अधिकार का वित्तपोषण है। अल्पकालिक पट्टों (विस्तार विकल्पों सहित अधिकतम संभव अवधि 12 माह या कम) को छोड़कर, पट्टेदार पट्टा देयता और अमूर्त उपयोग-अधिकार पट्टा परिसंपत्ति मान्य करता है; देयता अपेक्षित भुगतानों का वर्तमान मूल्य है। उदाहरण: 5 वर्ष तक प्रति वर्ष 100,000 डॉलर, 3% पर, 100,000 × 4.5797 ≈ 457,971 डॉलर। पट्टादाता पट्टा प्राप्य और आस्थगित अंतर्प्रवाह मान्य करता है और अंतर्निहित परिसंपत्ति को हटाता नहीं — सरकारें प्रायः भूमि व भवनों की पट्टादाता होती हैं। 2017 में जारी, GASB 95 के स्थगन के बाद 15 जून 2021 के बाद शुरू होने वाले वित्तीय वर्षों से प्रभावी। ASC 842 से मुख्य अंतर: वहाँ पट्टेदार की दोहरी वर्गीकरण प्रणाली है; यहाँ वर्गीकरण विवाद नहीं, केवल अल्पकालिक अपवाद है।
+
+पेंशन पर पूरक परीक्षा बिंदु: छूट दर और उसकी संवेदनशीलता का खुलासा महत्वपूर्ण है, और बीमांकिक उतार-चढ़ाव आस्थगित बहिर्प्रवाह व अंतर्प्रवाह के ज़रिए कई वर्षों के पेंशन व्यय में बँटते हैं, एक ही वर्ष में नहीं डाले जाते। उपयोग-अधिकार परिसंपत्ति पट्टा देयता के प्रारंभिक मापन के आधार पर, प्रारंभिक भुगतानों आदि को जोड़कर तय होती है।
 
 ---
 
@@ -337,13 +361,19 @@ Comparación en síntesis: el GASB fija normas para gobiernos estatales y locale
 
 대조 요점: GASB는 주·지방정부(연방정부는 FASAB), FASB는 기업과 비영리를 담당한다. GASB의 구조는 정부 전체 제표 + 기금 제표 + 조정표의 이중 구조이고 FASB는 한 벌이다. 측정 초점과 기준도 GASB는 이중이다(정부 전체는 경제적 자원·완전 발생주의, 정부기금은 당기 재무자원·수정발생주의). 잔여는 순자산 세 구성요소(정부기금은 기금 잔액 다섯 분류) 대 주주지분 또는 기부자 제한 유무의 비영리 순자산 두 분류. 자본자산은 정부기금에서 자본화하지 않고 정부 전체에서 자본화·감가상각한다(인프라는 수정 접근법으로 감가상각을 대신할 수 있다). 장기채무는 기금에서 기타 재원으로, 정부 전체에서는 전액 부채다. 연금은 GASB 67/68의 순연금부채 상장과 ASC 715의 자금 상태 상장이 논리는 비슷하나 매개변수가 다르다. 리스는 GASB 87 단일 모델 대 ASC 842 이중 분류. GASB 쪽에 트랙이 하나 더 있는 이유는 기업에 없는 제약, 즉 예산 준수와 제한 자원에 대한 수탁 책임 때문이다.
 
+수익 쪽 쟁점을 보충하면, 세금·보조금 같은 비교환 거래는 GASB 33에 따라 자격 요건을 충족했을 때 인식하고, 기업 쪽 교환 거래는 ASC 606의 다섯 단계, 비영리 기부금은 ASC 958을 따른다. 장기채무는 기업 쪽에서 실효이자율로 상각한다는 점도 대조된다.
+
 ### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
 
 Điểm đối chiếu chính: GASB đặt chuẩn cho chính quyền bang và địa phương (chính phủ liên bang theo FASAB), FASB cho doanh nghiệp và tổ chức phi lợi nhuận. Kiến trúc GASB là hai lớp — báo cáo toàn chính phủ cộng báo cáo quỹ cộng bảng đối chiếu — còn FASB chỉ một bộ báo cáo. Trọng tâm và cơ sở của GASB cũng kép: nguồn lực kinh tế và dồn tích đầy đủ ở cấp toàn chính phủ; nguồn lực tài chính hiện hành và dồn tích sửa đổi ở quỹ chính phủ. Phần còn lại là vị thế ròng ba thành phần (và số dư quỹ năm loại ở quỹ chính phủ) đối lại vốn chủ sở hữu hoặc tài sản ròng hai lớp của phi lợi nhuận. Tài sản vốn không vốn hóa trong quỹ chính phủ nhưng được vốn hóa và khấu hao ở cấp toàn chính phủ; nợ dài hạn trong quỹ là nguồn tài trợ khác, ở cấp toàn chính phủ là nợ đầy đủ. Lương hưu: GASB 67/68 đưa nợ ròng lên báo cáo, gần giống funded status của ASC 715 về logic nhưng khác thông số. Thuê: GASB 87 mô hình đơn nhất đối lại ASC 842 phân loại kép. Mỗi đường ray thêm ở phía GASB đều vì một ràng buộc mà doanh nghiệp không có: tuân thủ ngân sách và trách nhiệm quản lý nguồn lực bị hạn chế.
 
+Bổ sung điểm nóng về doanh thu: giao dịch phi trao đổi như thuế và trợ cấp theo GASB 33, chỉ ghi khi đáp ứng điều kiện đủ tư cách; phía doanh nghiệp, giao dịch trao đổi theo năm bước của ASC 606 và đóng góp phi lợi nhuận theo ASC 958. Hạ tầng ở cấp toàn chính phủ cũng có thể dùng phương pháp sửa đổi (modified approach) thay cho khấu hao.
+
 ### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 मुख्य तुलना बिंदु: GASB राज्य व स्थानीय सरकारों के लिए मानक बनाता है (संघीय सरकार FASAB का पालन करती है) और FASB व्यवसायों व ग़ैर-लाभकारी संस्थाओं के लिए। GASB की संरचना दोहरी है — सरकार-व्यापी विवरण + निधि विवरण + समाधान — जबकि FASB में विवरणों का एक ही सेट है। GASB में मापन केंद्र और आधार भी दोहरे हैं (सरकार-व्यापी स्तर पर आर्थिक संसाधन व पूर्ण प्रोद्भवन; सरकारी निधियों में चालू वित्तीय संसाधन व संशोधित प्रोद्भवन)। अवशेष शुद्ध स्थिति के तीन घटक (और सरकारी निधियों में निधि शेष के पाँच वर्ग) बनाम इक्विटी या ग़ैर-लाभकारी शुद्ध परिसंपत्तियों के दो वर्ग हैं। पूँजी परिसंपत्तियाँ सरकारी निधियों में पूँजीकृत नहीं होतीं, सरकार-व्यापी स्तर पर होती हैं; दीर्घकालिक ऋण निधि में अन्य वित्तपोषण स्रोत है और सरकार-व्यापी स्तर पर पूर्ण देयता। पेंशन में GASB 67/68 शुद्ध देयता को विवरण पर लाता है, तर्क ASC 715 के funded status जैसा पर मापदंड अलग। पट्टों में GASB 87 एकल मॉडल है और ASC 842 में दोहरी वर्गीकरण प्रणाली। GASB पक्ष की हर अतिरिक्त पटरी उस बाध्यता के कारण है जो व्यवसायों पर नहीं है: बजटीय अनुपालन और प्रतिबंधित संसाधनों की अभिरक्षा।
+
+आय पर पूरक बिंदु: कर और अनुदान जैसे गैर-विनिमय लेनदेन GASB 33 के तहत पात्रता शर्तें पूरी होने पर मान्य होते हैं; व्यवसाय पक्ष में विनिमय लेनदेन ASC 606 के पाँच चरणों से और गैर-लाभकारी योगदान ASC 958 से चलते हैं। सरकार-व्यापी स्तर पर अवसंरचना के लिए मूल्यह्रास के स्थान पर संशोधित पद्धति (modified approach) भी संभव है, और FASB पक्ष में दीर्घकालिक ऋण प्रभावी ब्याज दर से परिशोधित होता है।
 
 ---
 
