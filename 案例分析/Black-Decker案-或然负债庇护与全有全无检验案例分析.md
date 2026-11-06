@@ -200,5 +200,24 @@ Coltec से तुलना: Black & Decker, 436 F.3d 431 (4th Cir., 2 फ़�
 3. **实质层用对检验**：在第四巡回，主观无目的与客观无利润可能须**同时**成立才构成虚假，且客观要件盯的是交易本身而非子公司整体经营；引用时注明巡回差异——其他巡回与 2010 年成文的第 7701(o) 条口径（双要件合取＋第 6662 条严格责任罚款）并不完全同构。
 4. **时点意识**：1998 年的交易靠普通法打；2000 年第 358(h) 条之后同类结构条文层直接关闭；2001 年 Notice 2001-17 后再做即属 listed transaction，披露与罚款风险另计。本案与 Coltec 都只适用于规则关闭之前的存量交易。
 
+
+### 한국어 (초역, 원어민 감수 대기)
+
+**조문 적용 순서와 §357(b)의 사정거리.** 우발부채가 들어간 §351 거래 문제는 순서가 생명입니다. 먼저 §357(a)의 비인식 통로를 확인하고, 다음에 §357(c)(3)가 그 부채를 「받은 금전」에서 빼 주는지를 보고, 마지막에 §358(d)(2)의 원가 무감액으로 떨어뜨리십시오. 순서를 뒤집으면 답 전체가 뒤집힙니다. 그리고 제4순회 기준 §357(b)(1)의 사업목적 결여 효과는 §351의 인식 층에서 멈추며 §358의 원가 조정으로 자동 전파되지 않습니다. 전파를 주장하려면 §357(b) 말고 별도 근거가 필요합니다.
+
+**실질 층의 검사와 시점 감각.** 제4순회에서는 주관적 비세목적과 객관적 이익 가능성 부재가 동시에 성립해야 허위가 되며, 객관 요건이 보는 것은 자회사 전체의 영업이 아니라 바로 그 거래 자체입니다. 다른 순회와 2010년에 성문화된 §7701(o)(합치식 두 요건 + §6662의 엄격책임 가산세)는 구성이 완전히 같지 않으니 인용할 때 순회 차이를 밝혀야 합니다. 시점도 중요합니다. 1998년 거래는 보통법으로 다퉜지만, 2000년 §358(h) 이후 같은 구조는 조문 층에서 바로 닫혔고, 2001년 Notice 2001-17 이후에 하면 listed transaction이라 공시와 가산세 위험이 별도로 붙습니다. 본안과 Coltec 모두 규칙이 닫히기 전의 잔존 거래에만 적용됩니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ người bản ngữ hiệu đính)
+
+**Thứ tự áp dụng văn bản và tầm bắn của Điều 357(b).** Với bài toán giao dịch Điều 351 có nợ dự phòng, thứ tự là sinh mệnh: trước hết đi qua hành lang không ghi nhận của Điều 357(a), rồi kiểm tra Điều 357(c)(3) có loại khoản nợ khỏi «tiền nhận được» hay không, cuối cùng mới rơi xuống quy tắc không giảm cơ sở của Điều 358(d)(2) — đảo thứ tự là đảo cả đáp án. Và ít nhất ở Vòng 4, hậu quả của việc thiếu mục đích kinh doanh theo Điều 357(b)(1) dừng ở tầng ghi nhận của Điều 351, không tự động truyền sang phép điều chỉnh cơ sở của Điều 358; muốn khẳng định sự truyền dẫn thì phải có căn cứ khác ngoài Điều 357(b).
+
+**Phép thử ở tầng thực chất và ý thức thời điểm.** Ở Vòng 4, phải đồng thời có cả không mục đích ngoài thuế về chủ quan và không khả năng lợi nhuận về khách quan mới thành giao dịch giả tạo, và yếu tố khách quan nhìn vào chính giao dịch đó chứ không nhìn hoạt động chung của công ty con. Các vòng khác và Điều 7701(o) được luật hóa năm 2010 (hai yếu tố đồng thời cộng tiền phạt trách nhiệm nghiêm ngặt của Điều 6662) không hoàn toàn đồng cấu, nên khi trích dẫn phải nêu rõ khác biệt giữa các vòng. Thời điểm cũng quan trọng: giao dịch năm 1998 được xử bằng thông luật, nhưng sau Điều 358(h) năm 2000 cấu trúc tương tự bị đóng ngay ở tầng văn bản, và sau Notice 2001-17 năm 2001 nếu còn làm sẽ là listed transaction với rủi ro công bố và phạt riêng. Cả vụ này lẫn Coltec đều chỉ áp dụng cho các giao dịch tồn đọng trước khi quy tắc bị đóng.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+**पाठ लागू करने का क्रम और §357(b) की पहुँच।** आकस्मिक देनदारी वाली §351 लेन-देन की समस्या में क्रम ही जान है: पहले §357(a) के गैर-मान्यता गलियारे से जाएँ, फिर जाँचें कि §357(c)(3) उस देनदारी को «प्राप्त धन» से बाहर करता है या नहीं, और अंत में §358(d)(2) के आधार-अपरिवर्तन पर आएँ — क्रम उलटते ही पूरा उत्तर उलट जाता है। और कम से कम चौथे सर्किट में, §357(b)(1) के तहत व्यावसायिक उद्देश्य की कमी का परिणाम §351 की मान्यता-परत पर रुकता है और §358 के आधार-समायोजन में स्वतः नहीं फैलता; फैलाव का दावा करना हो तो §357(b) से अलग आधार चाहिए।
+
+**सार-परत की परीक्षा और समय-बोध।** चौथे सर्किट में छद्म तभी बनता है जब व्यक्तिनिष्ठ ग़ैर-कर उद्देश्य का अभाव और वस्तुनिष्ठ लाभ-संभावना का अभाव दोनों एक साथ मिलें, और वस्तुनिष्ठ शर्त सहायक कंपनी के समग्र कारोबार को नहीं, उसी विशिष्ट लेन-देन को देखती है। अन्य सर्किट और 2010 में संहिताबद्ध §7701(o) (संयुक्त दो-शर्तें व §6662 का strict-liability दंड) पूरी तरह एकरूप नहीं हैं, इसलिए उद्धरण में सर्किट-अंतर स्पष्ट करें। समय-बोध भी ज़रूरी है: 1998 के लेन-देन common law से लड़े गए, किंतु 2000 के §358(h) के बाद वही संरचना पाठ-स्तर पर ही बंद हो गई, और 2001 के Notice 2001-17 के बाद उसे करना listed transaction होगा, जिसके प्रकटीकरण व दंड जोखिम अलग गिने जाएँगे। यह मामला और Coltec दोनों नियम बंद होने से पहले के बचे हुए लेन-देनों पर ही लागू होते हैं।
+
 > 声明：个人学习笔记，不构成税务或法律建议。来源：The Black & Decker Corporation v. United States, 436 F.3d 431 (4th Cir. 2006)（判决原文，含下级审 340 F. Supp. 2d 621 (D. Md. 2004)）；Rice's Toyota World, Inc. v. Commissioner, 752 F.2d 89 (4th Cir. 1985)；Moline Properties, Inc. v. Commissioner, 319 U.S. 436 (1943)；IRC §§ 351、357(a)、357(b)、357(c)(3)、358(a)、358(d)、358(h)；Reg. § 1.357-1(c)；Notice 2001-17；Coltec Industries, Inc. v. United States, 454 F.3d 1340 (Fed. Cir. 2006)（对照）。金额均为判决原文约数者已在正文标明以原文为准。
 
