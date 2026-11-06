@@ -69,6 +69,12 @@ W-2 到手发现 Social Security 税框里有数字，先别直接找 IRS。IRS 
 **잘못 낸 FICA 돌려받기.** 먼저 **고용주**에게 환급과 정정 W-2c를 요청하십시오. 고용주가 거부하거나 답이 없을 때만 W-2·비자 사본과 고용주 요청 실패 증빙을 붙여 **Form 843**과 **Form 8316**을 제출합니다. 거주자 연도에 정당하게 낸 FICA는 이 절차로 돌려받을 수 없습니다.
 
 *개인 학습 노트이며 세무 자문이 아닙니다. 초역으로 교정 대기 중입니다. 출처: IRC §3121(b)(19), §7701(b)(5); IRS Publication 519; Form 8843·1040-NR·843·8316 안내; 미·중 조세조약 제20조.*
+- 보충(중국어 본문과 대조): 세법상 신분은 먼저 § 7701(b)의 두 테스트, 즉 영주권 테스트와 실질거주 테스트로 가립니다. 이민법상의 비이민 신분이 곧바로 세법상의 비거주 외국인과 같지는 않습니다.
+- 보충: 학생 exempt individual 지위는 비자 요건을 지키는 것이 전제이며, 학생 신분으로 주장할 수 있는 연수에는 평생 기준의 제한 등 세부 조건이 붙습니다. 해당 연도의 Publication 519로 반드시 확인하십시오.
+- 보충: Form 8843은 세금 신고서가 아니라 신분 설명서입니다. 소득이 없으면 단독으로 보내고, 소득이 있으면 1040-NR에 붙여 냅니다. 내지 않아도 당장 세금이 생기지는 않지만, 나중에 신분을 설명할 때 빈틈이 됩니다.
+- 보충: 조약 제20조에는 생활·교육·훈련을 위한 장학금 성격의 금액에 대한 면세 부분도 들어 있습니다. 또 비거주 외국인의 표준공제 부재에는 인도 학생 조약 특례 같은 예외가 있으니, 일률적으로 없다고 단정하지 마십시오.
+- 보충: Form 843 환급 청구는 일반적으로 세금이 납부된 것으로 간주되는 시점부터 3년 이내가 기준이며, Form 8316 안내가 지정하는 처리 센터로 보냅니다. 첫 단계인 고용주 요청 때는 I-20/DS-2019 등 신분 서류를 함께 내는 것이 좋습니다.
+- 보충: 연초 점검 네 가지 — ① 아직 exempt individual인가(사용한 역년 계산), ② 8843을 냈는가, ③ W-2의 FICA 두 칸이 비어 있는가(아니면 환급 순서 즉시 시작), ④ 조약 5,000달러를 주장했고 공시가 맞는가. 또 위 FICA 예시의 세율과 사회보장 임금 상한은 매년 조정되므로, 예시는 구조만 보여 줍니다. (초역 보충, 원어민 감수 대기)
 
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính / 初译待校)
 
@@ -81,6 +87,12 @@ W-2 到手发现 Social Security 税框里有数字，先别直接找 IRS。IRS 
 **Lấy lại FICA bị khấu trừ nhầm.** Trước hết yêu cầu **người sử dụng lao động** hoàn tiền và cấp W-2c đính chính. Chỉ khi họ từ chối hoặc không phản hồi mới nộp **Form 843** kèm **Form 8316**, bản sao W-2 và visa, cùng bằng chứng đã yêu cầu chủ lao động, trong thời hạn hoàn thuế chung. FICA đã khấu trừ đúng cho các năm resident alien thì không lấy lại được bằng cách này.
 
 *Ghi chú học tập cá nhân, không phải tư vấn thuế. Bản dịch sơ bộ, chờ hiệu đính. Nguồn: IRC §3121(b)(19), §7701(b)(5); IRS Publication 519; hướng dẫn Form 8843, 1040-NR, 843, 8316; Hiệp định thuế Mỹ–Trung, Điều 20.*
+- Bổ sung (đối chiếu văn bản tiếng Trung): tình trạng thuế trước hết được xét bằng hai phép thử tại § 7701(b) — green card test và substantial presence test; thân phận nonimmigrant theo luật di trú không tự động đồng nghĩa nonresident alien theo luật thuế.
+- Bổ sung: tư cách exempt individual diện sinh viên có tiền đề là tuân thủ điều kiện visa, và số năm được viện dẫn diện sinh viên còn có các giới hạn chi tiết theo cả đời người — phải đối chiếu Publication 519 của năm khai thuế.
+- Bổ sung: Form 8843 không phải tờ khai thuế mà là bản giải trình tình trạng; không có thu nhập thì gửi riêng, có thu nhập thì nộp kèm 1040-NR. Không nộp không phát sinh thuế ngay, nhưng để lại khoảng trống khi phải giải trình tình trạng về sau.
+- Bổ sung: Điều 20 của hiệp định còn có phần miễn thuế cho các khoản kiểu học bổng phục vụ sinh hoạt, giáo dục hoặc đào tạo. Ngoài ra, việc nonresident alien không có standard deduction vẫn có ngoại lệ như đặc lệ hiệp định cho sinh viên Ấn Độ, không nên khẳng định tuyệt đối.
+- Bổ sung: yêu cầu hoàn thuế bằng Form 843 thường theo mốc 3 năm kể từ khi thuế được coi là đã nộp, và gửi tới trung tâm xử lý do hướng dẫn Form 8316 chỉ định. Ở bước yêu cầu người sử dụng lao động trước, nên kèm theo giấy tờ tình trạng như I-20/DS-2019.
+- Bổ sung: bốn câu hỏi tự kiểm mỗi đầu năm — ① còn là exempt individual không (đếm số năm dương lịch đã dùng), ② đã nộp 8843 chưa, ③ hai ô FICA trên W-2 có trống không (nếu không, bắt đầu ngay trình tự đòi lại), ④ đã viện dẫn 5.000 đô la theo hiệp định và công bố đúng chưa. Thuế suất và trần lương an sinh trong ví dụ FICA ở trên thay đổi theo năm; ví dụ chỉ minh họa cấu trúc. (Bổ sung bản dịch sơ bộ, chờ hiệu đính)
 
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित / 初译待校)
 
@@ -97,3 +109,9 @@ W-2 到手发现 Social Security 税框里有数字，先别直接找 IRS。IRS 
 ---
 
 *声明（六语）：个人学习笔记，不构成税务建议。 / Personal study notes only; not tax advice. / Notas personales de estudio; no constituye asesoría fiscal. / 개인 학습 노트이며 세무 자문이 아닙니다. / Ghi chú học tập cá nhân, không phải tư vấn thuế. / व्यक्तिगत अध्ययन नोट्स; कर सलाह नहीं।*
+- पूरक (चीनी मूल पाठ से मिलान): कर-स्थिति पहले § 7701(b) की दो कसौटियों — green card test और substantial presence test — से तय होती है; आप्रवासन कानून का nonimmigrant दर्जा अपने आप कर-कानून का nonresident alien नहीं होता।
+- पूरक: छात्र exempt individual का दर्जा वीज़ा शर्तों के पालन पर निर्भर है, और छात्र के रूप में दावा किए जा सकने वाले वर्षों पर आजीवन-आधारित सीमा जैसी विस्तृत शर्तें हैं — दाखिल वर्ष के Publication 519 से अवश्य जाँचें।
+- पूरक: Form 8843 कर रिटर्न नहीं, स्थिति-विवरण है; आय न हो तो अलग से भेजें, आय हो तो 1040-NR के साथ लगाएँ। न भेजने से तुरंत कर नहीं बनता, किंतु बाद में स्थिति समझाने में कमी रह जाती है।
+- पूरक: संधि के अनुच्छेद 20 में जीवन-यापन, शिक्षा या प्रशिक्षण हेतु छात्रवृत्ति-स्वरूप राशियों की छूट का भाग भी है। साथ ही, nonresident alien को standard deduction न मिलने के अपवाद भी हैं, जैसे भारतीय छात्रों के लिए संधि-विशेष व्यवस्था — इसे निरपेक्ष नियम न कहें।
+- पूरक: Form 843 से refund का दावा सामान्यतः उस समय से 3 वर्षों के भीतर होता है जब कर चुकाया माना जाता है, और इसे Form 8316 निर्देशों में बताए गए प्रोसेसिंग केंद्र को भेजा जाता है। पहले चरण में नियोक्ता से अनुरोध करते समय I-20/DS-2019 जैसे स्थिति दस्तावेज़ साथ रखना उपयोगी है।
+- पूरक: हर वर्ष की शुरुआत में चार आत्म-प्रश्न — ① क्या मैं अब भी exempt individual हूँ (प्रयुक्त कैलेंडर वर्ष गिनें), ② 8843 दाखिल किया क्या, ③ W-2 के दोनों FICA बॉक्स खाली हैं क्या (न हों तो वापसी की प्रक्रिया तुरंत शुरू करें), ④ संधि की $5,000 छूट का दावा और प्रकटीकरण सही है क्या। ऊपर के FICA उदाहरण की दरें और सामाजिक सुरक्षा वेतन सीमा हर वर्ष बदलती हैं; उदाहरण केवल संरचना दिखाता है। (पूरक प्रारंभिक अनुवाद, समीक्षा लंबित)
