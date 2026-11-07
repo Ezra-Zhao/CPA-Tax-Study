@@ -177,6 +177,10 @@ Gregory v. Helvering, 293 U.S. 465 (1935)는 법문에는 맞았지만 사업 �
 
 임대료가 원리금 상환액과 같다는 사실이나 임차인의 재매입 옵션만으로 임대가 곧바로 금융 거래가 되지는 않는다. 비과세 동기를 문서로 남기고, 독립 당사자 간 협상 과정을 보관하며, 명의상 소유자의 자본과 위험 부담을 실제로 검증 가능하게 유지해야 한다.
 
+보충 1 — 자금 조달은 두 단계였다. 공사 기간에는 건설 대출로 충당하고, 완공 후에는 장기 모기지 금융으로 전환했으며, 장기 대출자는 New York Life Insurance Company였다. 즉 은행, Lyon, 보험회사 대출자 등 최소 세 당사자가 각자의 조건으로 협상한 구조였다.
+
+보충 2 — §7701(o)의 성문화 내용. 2010년에 경제 실질 원칙이 IRC §7701(o)에 들어갔는데, 관련 거래가 경제 실질을 갖추려면 거래가 납세자의 경제 상황을 의미 있는 방식으로 바꾸고 납세자에게 실질적인 비조세 목적이 있어야 하며, 두 요건을 모두 충족해야 한다. 충족하지 못하면 §6662에 따른 엄격책임 성격의 가산세가 따른다. 다만 §7701(o)가 다루는 것은 성문법상 발동 요건이고, 누가 진정한 소유자인지를 가리는 Frank Lyon식 분석은 오늘날에도 매각 후 재임대와 리스 성격 판단에 직접 쓰인다.
+
 주: 개인 학습 노트이며 세무 자문이 아니다.
 
 ---
@@ -209,6 +213,10 @@ Gregory v. Helvering, 293 U.S. 465 (1935), bác bỏ một giao dịch đúng m�
 
 Tiền thuê bằng đúng khoản trả nợ, hay quyền chọn mua lại của bên thuê, tự nó không biến hợp đồng thuê thành một khoản tài trợ. Cần ghi lại các lý do phi thuế bằng văn bản, lưu bằng chứng đàm phán độc lập, và bảo đảm vốn cùng rủi ro của chủ sở hữu danh nghĩa là có thật và kiểm chứng được.
 
+Bổ sung 1 — nguồn vốn đi qua hai giai đoạn: trong thời gian xây dựng là khoản vay xây dựng, sau khi hoàn thành chuyển thành khoản vay thế chấp dài hạn, và bên cho vay dài hạn là New York Life Insurance Company. Nói cách khác, ít nhất ba bên — ngân hàng, Lyon và công ty bảo hiểm cho vay — đã đàm phán, mỗi bên theo điều kiện riêng của mình.
+
+Bổ sung 2 — nội dung được luật hóa tại §7701(o): năm 2010 học thuyết thực chất kinh tế được đưa vào IRC §7701(o), theo đó một giao dịch liên quan chỉ có thực chất kinh tế khi đồng thời thỏa mãn hai điều kiện — giao dịch thay đổi vị thế kinh tế của người nộp thuế theo cách có ý nghĩa, và người nộp thuế có mục đích phi thuế thực chất; nếu không thỏa mãn sẽ chịu chế tài theo §6662 mang tính trách nhiệm nghiêm ngặt. Tuy vậy, §7701(o) chỉ xử lý điều kiện kích hoạt theo luật định, còn phân tích kiểu Frank Lyon về ai là chủ sở hữu thực sự đến nay vẫn trực tiếp áp dụng cho bán rồi thuê lại và việc định tính hợp đồng thuê.
+
 Lưu ý: Đây là ghi chú học tập cá nhân, không phải tư vấn thuế.
 
 ---
@@ -240,5 +248,9 @@ Gregory v. Helvering, 293 U.S. 465 (1935) ने उस लेन-देन क�
 ### व्यावहारिक टिप्पणी
 
 किराया ऋण सेवा के बराबर होना, या पट्टेदार के पास पुनः खरीद विकल्प होना, अपने आप में पट्टे को वित्तपोषण नहीं बना देता। गैर-कर कारणों को दस्तावेज़ों में दर्ज करें, स्वतंत्र बातचीत के प्रमाण रखें, और नाममात्र स्वामी की पूंजी व जोखिम को वास्तविक और सत्यापन योग्य बनाए रखें।
+
+पूरक 1 — वित्तपोषण दो चरणों में हुआ: निर्माण अवधि में निर्माण ऋण, और पूर्णता के बाद दीर्घकालिक बंधक वित्त में परिवर्तन, जिसमें दीर्घकालिक ऋणदाता New York Life Insurance Company था। अर्थात कम से कम तीन पक्षों — बैंक, Lyon और बीमा कंपनी ऋणदाता — ने अपनी-अपनी शर्तों पर बातचीत की थी।
+
+पूरक 2 — §7701(o) में संहिताबद्ध सामग्री: 2010 में आर्थिक सार सिद्धांत IRC §7701(o) में आया, जिसके तहत किसी संबंधित लेन-देन को आर्थिक सार तभी माना जाता है जब वह करदाता की आर्थिक स्थिति को सार्थक रूप से बदले और करदाता का कोई वास्तविक ग़ैर-कर उद्देश्य हो — दोनों शर्तें एक साथ पूरी होनी चाहिए; न होने पर §6662 के तहत कठोर दायित्व वाला दंड लगता है। फिर भी §7701(o) वैधानिक ट्रिगर शर्तों तक सीमित है, जबकि वास्तविक स्वामी कौन है, यह Frank Lyon-शैली का विश्लेषण आज भी sale-and-leaseback और पट्टे के चरित्र-निर्धारण में सीधे लागू होता है।
 
 टिप्पणी: यह व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं है।
