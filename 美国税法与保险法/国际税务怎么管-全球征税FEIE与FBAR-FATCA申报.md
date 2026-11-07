@@ -25,13 +25,19 @@ Primero, la condición fiscal. La sección 61 define ampliamente el ingreso brut
 
 먼저 신분부터입니다. 제61조는 총소득을 넓게 정의하고 제1조는 시민과 거주자에게 과세하므로, 합치면 전 세계 소득 과세가 됩니다. 임금, 이자, 배당, 임대료, 사업소득은 어느 나라에서 벌었든 원칙적으로 미국 세금보고에 들어갑니다. 제7701(b)조의 세법상 거주자는 그린카드 테스트를 통과한 영주권자와, 체류 일수를 공식으로 세는 실질 체류 테스트를 충족한 외국인입니다. 시민은 해외에 오래 살아도 신고 의무가 남습니다. 국적 포기도 단순하지 않습니다. 제877A조의 출국세는 순자산 2,000,000달러에 이르거나 최근 5년 평균 순소득세 부담이 문턱(2025년 206,000달러)에 닿은 covered expatriate에게 적용되며, 자산은 포기 전날 판 것으로 봅니다.
 
+한 줄을 덧붙입니다. 신분이 세금 기반을 정하고, 어디에 사는지는 어떤 감면을 쓸 수 있는지에만 영향을 줄 뿐, 전 세계 소득 신고라는 바닥 자체는 바꾸지 못합니다.
+
 ### Tiếng Việt (bản dịch sơ khởi)
 
 Trước hết là thân phận. Điều 61 định nghĩa tổng thu nhập rất rộng và Điều 1 đánh thuế công dân cùng cư dân, kết hợp lại thành đánh thuế toàn cầu: lương, lãi, cổ tức, tiền thuê và thu nhập kinh doanh phải khai tại Hoa Kỳ dù kiếm được ở đâu. Cư dân thuế theo § 7701(b) gồm thường trú nhân theo kiểm tra thẻ xanh và người nước ngoài đạt kiểm tra hiện diện thực chất, tính ngày ở Mỹ theo công thức. Công dân vẫn phải khai dù sống ở nước ngoài nhiều năm. Bỏ quốc tịch cũng không đơn giản: § 877A áp thuế xuất cảnh với covered expatriate khi tài sản ròng đạt 2.000.000 đô la hoặc thuế thu nhập ròng trung bình năm năm trước đạt ngưỡng (206.000 đô la cho năm 2025); tài sản được coi như đã bán vào ngày trước khi bỏ quốc tịch.
 
+Bổ sung một ý: thân phận quyết định cơ sở thuế; nơi cư trú chỉ ảnh hưởng tới việc được dùng hình thức giảm nhẹ nào, chứ không thay đổi được cái nền là phải khai báo toàn cầu.
+
 ### हिन्दी (प्रारंभिक अनुवाद)
 
 पहले दर्जा तय करें। धारा 61 सकल आय को व्यापक रूप से परिभाषित करती है और धारा 1 नागरिकों व निवासियों पर कर लगाती है; दोनों मिलकर विश्वव्यापी कराधान बनाते हैं — मज़दूरी, ब्याज, लाभांश, किराया और व्यवसाय आय, चाहे किसी भी देश में कमाई गई हो, अमेरिका में रिपोर्ट होती है। § 7701(b) के तहत कर निवासी वे हैं जो ग्रीन कार्ड परीक्षण से स्थायी निवासी हैं या सारभूत उपस्थिति परीक्षण, जो उपस्थिति के दिनों को सूत्र से गिनता है, पूरा करते हैं। नागरिक वर्षों विदेश रहने पर भी दाखिल करने के दायी रहते हैं। नागरिकता छोड़ना भी आसान निकास नहीं: § 877A covered expatriate पर निकास कर लगाती है, जो 2,000,000 डॉलर की निवल संपत्ति या पिछले पाँच वर्षों के औसत वार्षिक निवल आयकर के सीमा तक पहुँचने (2025 में 206,000 डॉलर) से सक्रिय होता है; संपत्तियाँ त्याग से एक दिन पहले बेची गई मानी जाती हैं।
+
+एक बात और जोड़ें: दर्जा ही कर-आधार तय करता है; आप कहाँ रहते हैं, यह केवल यह प्रभावित करता है कि कौन-सी राहत मिल सकती है, विश्वव्यापी रिपोर्टिंग की बुनियाद नहीं बदलता।
 
 ## 二、少交美国税的两条正路：FEIE 与 FTC 怎么选
 
@@ -51,13 +57,19 @@ Para trabajar fuera, mire primero la exclusión por ingresos ganados en el extra
 
 해외에서 일하면 먼저 제911조의 해외 근로소득 공제(FEIE)를 보세요. 2025년 상한은 130,000달러(Rev. Proc. 2024-40)이고 매년 물가 조정을 받습니다. 자격은 둘 중 하나입니다. 진정한 거주지 테스트는 외국에 실제 거소가 있고 과세연도 내내 거주할 것, 실제 체류 테스트는 연속 12개월 중 외국에 만 330일을 있을 것을 요구합니다. 신고는 Form 2555입니다. 경계가 중요합니다. FEIE는 소득세 차원에서만 근로소득을 빼주고, 자영업 소득에는 여전히 자영업세가 붙습니다. FEIE는 SECA 세금을 면제하지 않으며, 임대료와 배당은 대상이 아닙니다. 두 번째 길은 제901조부터 제909조까지의 외국 세액공제(FTC)로 Form 1116을 씁니다. 한도는 외국 원천 과세소득이 전 세계 과세소득에서 차지하는 비율에 미국 세금을 곱한 금액입니다. 외국 세율이 높으면 FTC가, 낮고 임금 위주면 FEIE가 유리할 때가 많습니다. 같은 소득에 두 길을 겹칠 수는 없습니다.
 
+선택에서 덧붙일 점이 하나 더 있습니다. FTC 길을 고르면, 은퇴계좌 납입 자격처럼 근로소득을 전제로 하는 자격을 지킬 수 있다는 점도 함께 셉니다.
+
 ### Tiếng Việt (bản dịch sơ khởi)
 
 Làm việc ở nước ngoài, trước hết xem loại trừ thu nhập kiếm được ở nước ngoài (FEIE) theo § 911. Hạn mức năm 2025 là 130.000 đô la (Rev. Proc. 2024-40), điều chỉnh hằng năm. Điều kiện qua một trong hai kiểm tra: cư trú thực sự, có nơi ở thật ở nước ngoài suốt năm thuế, hoặc hiện diện thực tế, đủ 330 ngày trọn ở nước ngoài trong 12 tháng liên tục. Khai bằng Form 2555. Ranh giới cần rõ: FEIE chỉ che thu nhập lao động nước ngoài ở tầng thuế thu nhập; thu nhập tự làm vẫn chịu thuế tự làm, FEIE không miễn thuế SECA, và tiền thuê hay cổ tức không được loại trừ. Con đường thứ hai là tín dụng thuế nước ngoài (FTC) theo §§ 901–909, khai trên Form 1116, với trần bằng tỷ lệ thu nhập chịu thuế nguồn nước ngoài trên thu nhập toàn cầu nhân với thuế Mỹ. Thuế nước ngoài cao thì FTC thường lợi hơn; thuế thấp và chủ yếu là lương thì FEIE có thể lợi hơn. Cùng một khoản thu nhập không dùng cả hai.
 
+Bổ sung một điểm khi lựa chọn: đi đường FTC còn giữ được các tư cách lấy thu nhập lao động làm tiền đề, chẳng hạn tư cách đóng góp vào tài khoản hưu trí — điểm này cũng phải tính vào phép so sánh với FEIE.
+
 ### हिन्दी (प्रारंभिक अनुवाद)
 
 विदेश में काम करने पर पहले § 911 की विदेश में अर्जित आय बहिष्करण (FEIE) देखें। 2025 की सीमा 130,000 डॉलर है (Rev. Proc. 2024-40), हर वर्ष समायोजित। पात्रता दो परीक्षणों में से एक से मिलती है: bona fide residence, जिसमें पूरे कर वर्ष विदेश में वास्तविक निवास चाहिए, या physical presence, जिसमें लगातार 12 महीनों में विदेश में पूरे 330 दिन चाहिए। Form 2555 उपयोग होता है। सीमा स्पष्ट है: FEIE केवल आयकर स्तर पर विदेशी अर्जित आय को बचाती है; स्व-रोज़गार आय पर स्व-रोज़गार कर फिर भी लगता है, FEIE SECA कर माफ़ नहीं करती, और किराया या लाभांश इसमें नहीं आता। दूसरा रास्ता §§ 901–909 का विदेशी कर क्रेडिट (FTC) है, Form 1116 पर, जिसकी सीमा विदेशी स्रोत कर-योग्य आय के विश्वव्यापी आय में अनुपात को अमेरिकी कर से गुणा करके मिलती है। विदेशी दर ऊँची हो तो FTC, कम हो और आय मुख्यतः वेतन हो तो FEIE अक्सर बेहतर रहता है। एक ही आय पर दोनों लाभ नहीं मिलते।
+
+चुनाव में एक बिंदु और जोड़ें: FTC का रास्ता अपनाने से सेवानिवृत्ति खाता योगदान जैसी वे पात्रताएँ भी बची रहती हैं जो अर्जित आय को आधार मानती हैं, इसलिए तुलना में यह बिंदु भी गिनना चाहिए।
 
 ## 三、两套报告：FBAR 与 FATCA 对照表
 
