@@ -225,3 +225,15 @@ Coltec से तुलना: Black & Decker, 436 F.3d 431 (4th Cir., 2 फ़�
 
 > 声明：个人学习笔记，不构成税务或法律建议。来源：The Black & Decker Corporation v. United States, 436 F.3d 431 (4th Cir. 2006)（判决原文，含下级审 340 F. Supp. 2d 621 (D. Md. 2004)）；Rice's Toyota World, Inc. v. Commissioner, 752 F.2d 89 (4th Cir. 1985)；Moline Properties, Inc. v. Commissioner, 319 U.S. 436 (1943)；IRC §§ 351、357(a)、357(b)、357(c)(3)、358(a)、358(d)、358(h)；Reg. § 1.357-1(c)；Notice 2001-17；Coltec Industries, Inc. v. United States, 454 F.3d 1340 (Fed. Cir. 2006)（对照）。金额均为判决原文约数者已在正文标明以原文为准。
 
+
+---
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+（2026-11-07 本轮追加：补齐中文主文已写明、韩／越／印三语此前未覆盖的两项细节，正文原有段落未改动。）
+
+한국어: 보충 세부 두 가지. 첫째, 주관 요건에 관한 B&D의 자인입니다. B&D는 약식판결 단계에서 조세 회피가 BDHMI 설립의 유일한 동기였음을 스스로 인정했고, 주관 요건은 그 신청의 범위에서만 충족된 것으로 취급됐습니다. 이 자인이 사건 전체의 본안 판단을 미리 정한 것은 아닙니다. 둘째, 객관 요건을 둘러싼 증거의 형태입니다. IRS는 경제학·복지 컨설팅 분야 전문가 네 명의 보고서를 제출해 이 거래가 B&D에게 가진 유일한 실질 가치는 절세뿐이라고 주장했고, B&D도 자체 전문가로 맞섰습니다. 제4순회법원은 전문가들의 신뢰성 다툼은 약식판결에서 재단할 수 없고, 사실심에서 심리해 무게를 달아야 한다고 봤습니다. (초역, 원어민 감수 대기)
+
+Tiếng Việt: Hai chi tiết bổ sung. Thứ nhất, sự thừa nhận của B&D về yếu tố chủ quan: ở giai đoạn phán quyết tóm tắt, B&D từng tự nhận tránh thuế là động cơ duy nhất của việc lập BDHMI, và yếu tố chủ quan chỉ được coi là thỏa mãn trong giới hạn của đơn xin đó — sự thừa nhận này không định trước phán quyết về nội dung của toàn vụ. Thứ hai, hình thái bằng chứng quanh yếu tố khách quan: IRS nộp báo cáo của bốn chuyên gia (kinh tế học và tư vấn phúc lợi) khẳng định giá trị thực chất duy nhất của giao dịch đối với B&D là tiết kiệm thuế, và B&D cũng có chuyên gia riêng phản bác; Tòa Vòng 4 cho rằng tranh chấp về độ tin cậy của các chuyên gia không thể quyết trong thủ tục tóm tắt, mà phải đưa ra xét xử để bên xét xử sự thật cân nhắc. (bản dịch sơ bộ, chờ hiệu đính)
+
+हिन्दी: दो पूरक विवरण। पहला, व्यक्तिनिष्ठ शर्त पर B&D की स्वीकृति: संक्षिप्त-निर्णय चरण में B&D ने स्वयं माना था कि कर से बचना ही BDHMI बनाने का एकमात्र उद्देश्य था, और व्यक्तिनिष्ठ शर्त केवल उसी प्रस्ताव के दायरे में पूरी मानी गई — इस स्वीकृति ने पूरे मामले के गुणात्मक निर्णय को पहले से तय नहीं किया। दूसरा, वस्तुनिष्ठ शर्त के इर्द-गिर्द प्रमाण का स्वरूप: IRS ने चार विशेषज्ञों (अर्थशास्त्र व लाभ-परामर्श) की रिपोर्टें पेश कीं, जिनका कहना था कि इस लेन-देन का B&D के लिए एकमात्र वास्तविक मूल्य कर-बचत ही था, और B&D ने भी अपने विशेषज्ञों से जवाब दिया; चौथे सर्किट ने माना कि विशेषज्ञों की विश्वसनीयता का विवाद संक्षिप्त निर्णय में नहीं निपटाया जा सकता, उसे मुक़दमे में तथ्य-निर्णायक द्वारा तौला जाना चाहिए। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
