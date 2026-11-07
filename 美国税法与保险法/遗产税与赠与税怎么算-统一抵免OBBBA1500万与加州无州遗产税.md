@@ -26,10 +26,22 @@ El impuesto federal sobre sucesiones (IRC §§ 2001–2210) y el de donaciones (
 
 연방 상속세(IRC §§ 2001–2210)와 증여세(§§ 2501–2624)는 하나의 세율표(§ 2001(c))와 통합공제(§§ 2010, 2505)를 공유합니다. OBBBA § 70106은 기본 제외액을 2026년부터 1,500만 달러로 정하고 2027년부터 물가연동합니다(2025년은 1,399만 달러, Rev. Proc. 2024-40). 최고 한계세율은 40%입니다. 연간 수증자별 제외액(§ 2503(b))은 2025년 19,000달러였고, 배우자 사망 시 미사용 제외액의 이월(DSUE)은 Form 706 적시 선택이 필요합니다. 캘리포니아에는 주 상속·증여세가 없습니다. 개인 학습 노트입니다.
 
+보충 1: 연간 제외의 세부 규칙도 함께 봐야 합니다. §2503(e)에 따라 교육기관에 직접 지급하는 학비와 의료기관에 직접 지급하는 의료비는 증여로 보지 않아 연간 제외액을 소진하지 않으며, 부부는 §2513의 증여 분할(gift splitting)을 선택하면 한쪽 배우자가 한 증여를 부부가 절반씩 한 것으로 취급할 수 있습니다.
+
+보충 2: 신고 기한은 두 표가 다릅니다. 증여세 Form 709는 Form 1040과 같은 기한에 제출하고, 상속세 Form 706은 사망 후 9개월 이내가 원칙으로 제출 기한은 6개월 연장할 수 있지만 세금 납부 기한은 연장되지 않습니다. 캘리포니아주 상속세는 1982년 Proposition 6으로 폐지된 것으로, 연방세 적용과는 별개의 문제입니다.
+
 ## Tiếng Việt（初译待校）
 
 Thuế di sản liên bang (IRC §§ 2001–2210) và thuế quà tặng (§§ 2501–2624) dùng chung biểu thuế (§ 2001(c)) và khoản tín dụng hợp nhất (§§ 2010, 2505). OBBBA § 70106 ấn định mức miễn trừ cơ bản 15 triệu đô la từ năm 2026, điều chỉnh theo lạm phát từ 2027; năm 2025 là 13,99 triệu đô la (Rev. Proc. 2024-40). Thuế suất biên cao nhất 40%. Miễn trừ quà tặng hằng năm (§ 2503(b)) năm 2025 là 19.000 đô la mỗi người nhận. Tính chuyển nhượng DSUE cần nộp Form 706 đúng hạn. California không có thuế di sản, quà tặng hay thừa kế cấp bang. Ghi chú học tập, không phải tư vấn thuế.
 
+Bổ sung 1: Cần xem cùng các quy tắc chi tiết của miễn trừ hằng năm: theo § 2503(e), học phí trả trực tiếp cho cơ sở giáo dục và chi phí y tế trả trực tiếp cho cơ sở y tế không bị coi là quà tặng nên không làm tiêu hao hạn mức miễn trừ hằng năm; vợ chồng có thể chọn chia quà tặng (gift splitting) theo § 2513 để khoản quà do một người cho được coi như mỗi người cho một nửa.
+
+Bổ sung 2: Thời hạn nộp hai mẫu khác nhau: Mẫu 709 (thuế quà tặng) nộp cùng thời hạn với Mẫu 1040; Mẫu 706 (thuế di sản) về nguyên tắc phải nộp trong vòng 9 tháng sau khi qua đời, thời hạn nộp tờ khai có thể gia hạn thêm 6 tháng nhưng thời hạn nộp tiền thuế thì không được gia hạn. Thuế thừa kế cấp bang của California đã bị bãi bỏ bởi Proposition 6 năm 1982, tách biệt với việc áp dụng thuế liên bang.
+
 ## हिन्दी（初译待校）
 
 संघीय संपदा कर (IRC §§ 2001–2210) और उपहार कर (§§ 2501–2624) एक ही दर-सारणी (§ 2001(c)) और एकीकृत क्रेडिट (§§ 2010, 2505) साझा करते हैं। OBBBA § 70106 ने मूल बहिष्करण 2026 से 15 मिलियन डॉलर तय किया, 2027 से मुद्रास्फीति-समायोजित; 2025 में यह 13.99 मिलियन डॉलर था (Rev. Proc. 2024-40)। शीर्ष सीमांत दर 40% है। वार्षिक प्रति-प्राप्तकर्ता बहिष्करण (§ 2503(b)) 2025 में 19,000 डॉलर था। DSUE पोर्टेबिलिटी के लिए समय पर Form 706 चुनाव आवश्यक है। कैलिफ़ोर्निया में राज्य संपदा, उपहार या उत्तराधिकार कर नहीं है। यह अध्ययन नोट है, कर सलाह नहीं।
+
+पूरक 1: वार्षिक बहिष्करण के विस्तृत नियम भी साथ देखने चाहिए: § 2503(e) के तहत शिक्षा संस्थान को सीधे चुकाया गया शिक्षण शुल्क और चिकित्सा संस्थान को सीधे चुकाया गया चिकित्सा खर्च उपहार नहीं माना जाता, इसलिए वार्षिक बहिष्करण सीमा खपत नहीं होती; पति-पत्नी § 2513 के तहत उपहार-विभाजन (gift splitting) चुन सकते हैं, जिससे एक के दिए उपहार को दोनों के आधे-आधे दिए हुए माना जाता है।
+
+पूरक 2: दोनों फ़ॉर्मों की समय-सीमाएँ अलग हैं: उपहार कर का Form 709, Form 1040 के साथ उसी समय-सीमा में दाख़िल होता है; संपदा कर का Form 706 सिद्धांततः मृत्यु के बाद 9 महीनों के भीतर दाख़िल करना होता है, दाख़िले की समय-सीमा 6 महीने बढ़ाई जा सकती है परंतु कर के भुगतान की समय-सीमा नहीं बढ़ती। California का राज्य उत्तराधिकार कर 1982 के Proposition 6 से समाप्त हुआ था, जो संघीय कर के लागू होने से अलग विषय है।
