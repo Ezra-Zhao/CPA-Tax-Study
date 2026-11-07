@@ -138,13 +138,25 @@ Coda imprescindible: el resultado concreto de Bruun ya no rige. El Congreso rech
 
 꼭 필요한 맺음말: Bruun의 구체적 결론은 오늘날 적용되지 않습니다. 의회는 회수 연도에 과세하는 결과를 받아들이지 않았고(현금도 없이 세금부터 내는 것은 유동성 면에서 성립하지 않았습니다), 1942년 세입법으로 규칙을 고쳤습니다. 현행법은 두 조문에 있습니다. IRC § 109: 임차인이 만든 개량이 임대차 종료 시 임대인에게 귀속되어도 임대인은 그 가치를 총소득에서 제외합니다(개량이 실질적으로 약정된 임대료인 경우 등 예외 있음). IRC § 1019는 짝 조문입니다. § 109로 제외된 개량은 임대인의 기준가액을 늘리지 않습니다. 기준가액은 0이며, 그 가치는 나중에 부동산을 팔 때 매각 이득 속에 다시 나타납니다. 즉 현행법은 Bruun의 '종료 시 과세'를 '제외＋0 기준가액＋매각 시 정산'으로 바꿨습니다. 세금이 면제된 것이 아니라 현금이 실제로 들어오는 시점까지 미뤄진 것입니다. 시험에서의 올바른 용법: REG가 임대차 종료 시 임차인 개량에 대한 임대인 과세를 물으면 답은 § 109 제외와 § 1019의 0 기준가액이며, Bruun의 종료 연도 포함이라고 답하면 안 됩니다. Bruun 자체가 시험하는 것은 그 법리 유산(실현은 분리도 현금도 요구하지 않는다)과, 판례 결론이 성문법에 대체된 대표 사례라는 점입니다. 한 줄 암기: Bruun은 법리에서 이기고 입법에 졌다. 오늘의 임대인은 §§ 109·1019로 산다.
 
+세부 보충: 현행 규칙으로의 개정은 1942년 세입법 § 115가 담당했으며, Bruun이 몰수 연도에 과세될 때의 근거는 1932년 세입법 § 22(a), 즉 오늘날 § 61(a)의 전신이었습니다.
+
+세부 보충: 본안의 금액은 새 건물 가치 64,245.68달러에서 낡은 건물의 조정 후 기준가액 12,811.43달러를 뺀 51,434.25달러이며, 이 이득은 1933년 몰수 연도에 과세되었습니다.
+
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 Đoạn kết bắt buộc: kết luận cụ thể của Bruun ngày nay không còn áp dụng. Quốc hội bác bỏ việc đánh thuế bên cho thuê ngay trong năm thu hồi — thuế mà chưa có tiền mặt thì không đứng vững về thanh khoản — và viết lại quy tắc trong Revenue Act 1942; ngày nay nó nằm ở hai điều. IRC § 109: khi phần cải tạo của bên thuê trở về bên cho thuê lúc hợp đồng kết thúc, bên cho thuê loại trừ giá trị đó khỏi thu nhập gộp (có ngoại lệ, đáng chú ý là khi phần cải tạo về thực chất là tiền thuê đã thỏa thuận). IRC § 1019 đi kèm: phần cải tạo được loại trừ theo § 109 không cộng gì vào cơ sở của bên cho thuê — cơ sở bằng không — nên giá trị đó sẽ hiện lại trong khoản lãi khi bất động sản được bán. Luật hiện hành biến «đánh thuế khi kết thúc» của Bruun thành «loại trừ, cơ sở bằng không, quyết toán khi bán»: thuế được hoãn đến lúc tiền thật sự về, chứ không được tha. Đó là cách dùng đúng khi thi: nếu REG hỏi bên cho thuê bị đánh thuế thế nào với phần cải tạo của bên thuê khi hợp đồng kết thúc, đáp án là loại trừ theo § 109 với cơ sở bằng không theo § 1019 — tuyệt đối không đáp là tính vào năm kết thúc như Bruun. Điều Bruun còn kiểm tra là di sản pháp lý của nó — thực hiện không cần tách rời, không cần tiền mặt — và vị thế ví dụ kinh điển về phán quyết bị luật thành văn thay thế. Nhớ một câu: Bruun thắng về pháp lý, thua trước nhà lập pháp; bên cho thuê ngày nay sống theo §§ 109 và 1019.
 
+Chi tiết bổ sung: Việc viết lại thành quy tắc hiện hành do § 115 của Revenue Act 1942 thực hiện, và căn cứ đánh thuế Bruun trong năm tịch thu là § 22(a) của Revenue Act 1932, tiền thân của § 61(a) ngày nay.
+
+Chi tiết bổ sung: Số tiền của vụ án là giá trị tòa nhà mới 64.245,68 đô la trừ cơ sở đã điều chỉnh của tòa nhà cũ 12.811,43 đô la, bằng 51.434,25 đô la, và khoản lãi này bị đánh thuế trong năm tịch thu 1933.
+
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 अनिवार्य उपसंहार: Bruun का ठोस परिणाम आज लागू नहीं है। कांग्रेस ने वापसी वाले वर्ष में कर लगाने को अस्वीकार किया — हाथ में नकदी के बिना कर, तरलता के आधार पर नहीं टिकता — और Revenue Act of 1942 में नियम दोबारा लिखा; आज यह दो धाराओं में है। IRC § 109: जब किरायेदार की improvements lease समाप्ति पर मकान-मालिक को लौटती हैं, तो मालिक उनका मूल्य gross income से बाहर रखता है (अपवाद सहित, विशेषकर जब improvement वास्तव में तय किया गया किराया हो)। IRC § 1019 इसकी जोड़ी है: § 109 से बाहर रखी improvement मालिक के basis में कुछ नहीं जोड़ती — basis शून्य है — इसलिए वह मूल्य अंततः संपत्ति बिकने पर लाभ के भीतर फिर प्रकट होता है। वर्तमान कानून इस प्रकार Bruun के 'समाप्ति पर कर' को 'बहिष्करण, शून्य basis, बिक्री पर निपटान' में बदल देता है: कर माफ़ नहीं हुआ, नकदी सचमुच आने तक स्थगित हुआ। परीक्षा में सही उपयोग यही है: यदि REG पूछे कि lease समाप्ति पर किरायेदार की improvement पर मालिक कैसे कर देता है, तो उत्तर § 109 बहिष्करण और § 1019 शून्य basis है — Bruun वाली समाप्ति-वर्ष समावेश कभी नहीं। Bruun स्वयं जो परखता है वह उसका सैद्धांतिक उत्तराधिकार है — realization के लिए न severance चाहिए, न नकदी — और यह कि वह किसी निर्णय के statute द्वारा विस्थापित होने का पाठ्यपुस्तक उदाहरण है। एक पंक्ति की स्मृति: Bruun सिद्धांत में जीता, विधायिका से हारा; आज का मकान-मालिक §§ 109 और 1019 के तहत जीता है।
+
+विवरण-वृद्धि: वर्तमान नियम के रूप में पुनर्लेखन Revenue Act of 1942 की § 115 द्वारा हुआ, और Bruun पर forfeiture वर्ष में कर लगाने का आधार Revenue Act of 1932 की § 22(a) थी, जो आज की § 61(a) की पूर्ववर्ती है।
+
+विवरण-वृद्धि: मामले की राशि नई इमारत के मूल्य $64,245.68 में से पुरानी इमारत का adjusted basis $12,811.43 घटाकर $51,434.25 थी, और यह लाभ 1933 — forfeiture वाले वर्ष — में कर लगाया गया था।
 
 ---
 
