@@ -121,3 +121,24 @@ This article is a personal study note only and does not constitute tax advice. /
 Bài viết này chỉ là ghi chú học tập cá nhân, không cấu thành tư vấn thuế. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और कर सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+
+## 补译增量（2026-11-08 追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+보충 1 (거래 건수 문턱의 퇴장 일정과 마지막 시행 주): 200건 거래 문턱은 일방향으로 사라지고 있습니다. 사우스다코타가 자기 법의 200건을 2023년 7월 1일 스스로 삭제해 100,000달러만 남겼고, 인디애나는 2024년 1월 1일, 노스캐롤라이나는 2024년 7월 1일 뒤를 이었습니다. 이유는 200건의 소액 거래가 소규모 판매자를 다치게 하기 때문입니다. 또 미주리는 경제 연결법을 2023년 1월 1일 시행한 마지막 주입니다. 주 전체 판매세가 없는 다섯 주(NH, OR, MT, AK, DE, 속칭 NOMAD)는 이 흐름 밖에 있지만, 알래스카에는 지방 판매세가 있고 원격 판매자 위원회의 100,000달러 기준이 따로 있으므로 '주세 없음'을 '의무 없음'으로 읽으면 안 됩니다.
+
+보충 2 (캘리포니아 이중 트랙과 후행 연결): 캘리포니아는 두 트랙을 나눠야 합니다. 판매세 쪽 § 6203의 문턱은 전년도 또는 당해연도에 캘리포니아로 판매한 유형 동산 매출이 500,000달러를 초과하는 것이고, 관계인 매출은 합산합니다. 마켓플레이스 플랫폼이 징수를 대신해도 그 매출은 판매자 자신의 문턱 계산에 여전히 들어갑니다. 소득세 쪽 § 23101의 doing business 개념은 넓고, 능동적 영업·조직 등록·요소 밝은선 중 하나라도 걸리면 연결이 설 수 있습니다. 연결이 선 뒤에 오는 § 25128.7 단일 판매 요소 안분과 § 25136 시장 원천은 안분 문제이지 연결 문제가 아니므로 섞지 마십시오. 마지막으로 후행 연결(trailing nexus)도 단골입니다. 연결이 사라진 뒤에도 주는 귀속 기간이나 신고 관행으로 한동안 계속 주시하므로, 당해연도에 활동이 없다는 이유만으로 의무가 없다고 단언하면 안 됩니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 (lịch trình rút lui của ngưỡng số giao dịch và bang thi hành cuối cùng): Ngưỡng 200 giao dịch đang biến mất theo một chiều. South Dakota đã tự xóa mốc 200 giao dịch của luật mình từ 1/7/2023, chỉ còn 100.000 đô la; Indiana theo sau từ 1/1/2024 và North Carolina từ 1/7/2024. Lý do là 200 giao dịch nhỏ lẻ làm tổn thương người bán nhỏ. Ngoài ra Missouri là bang cuối cùng đưa luật liên kết kinh tế vào hiệu lực, từ 1/1/2023. Năm bang không có thuế bán hàng cấp bang (NH, OR, MT, AK, DE, gọi tắt NOMAD) nằm ngoài dòng này, nhưng Alaska có thuế bán hàng địa phương và ủy ban người bán từ xa của bang có chuẩn 100.000 đô la riêng, nên đừng đọc «không có thuế bang» thành «không có nghĩa vụ».
+
+Bổ sung 2 (hai đường ray California và liên kết kéo dài): California phải tách hai đường. Phía thuế bán hàng, ngưỡng của Mục 6203 là doanh số hàng hóa hữu hình bán vào California trong năm trước hoặc năm hiện tại vượt 500.000 đô la, và doanh số của bên liên quan được cộng gộp. Dù nền tảng marketplace thu thay, doanh số đó vẫn tính vào phép đo ngưỡng của chính người bán. Phía thuế thu nhập, khái niệm doing business của Mục 23101 rất rộng: kinh doanh chủ động, đăng ký tổ chức, hay một vạch sáng yếu tố bất kỳ trúng cũng có thể lập liên kết. Sau khi có liên kết, Mục 25128.7 phân bổ theo yếu tố doanh số đơn nhất và Mục 25136 nguồn thị trường là bài toán phân bổ, không phải bài toán liên kết — đừng trộn. Cuối cùng, liên kết kéo dài (trailing nexus) cũng hay bị thi: sau khi liên kết biến mất, bang thường vẫn theo dõi thêm một thời gian theo giai đoạn quy thuộc hoặc thông lệ kê khai, nên không được chỉ vì năm hiện tại không có hoạt động mà khẳng định không còn nghĩa vụ.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 (लेन-देन संख्या सीमा की विदाई-समयसारणी और अंतिम लागू राज्य): 200 लेन-देन की सीमा एक ही दिशा में ग़ायब हो रही है। South Dakota ने अपने कानून की 200-लेन-देन वाली शर्त 1 जुलाई 2023 से स्वयं हटा दी और केवल 100,000 डॉलर रह गया; Indiana 1 जनवरी 2024 और North Carolina 1 जुलाई 2024 से पीछे आए। कारण यह है कि 200 छोटी लेन-देन छोटी विक्रेताओं को चोट पहुँचाती हैं। साथ ही Missouri आर्थिक संबंध कानून को 1 जनवरी 2023 से लागू करने वाला अंतिम राज्य है। जिन पाँच राज्यों में राज्य-स्तरीय बिक्री कर नहीं है (NH, OR, MT, AK, DE, संक्षेप में NOMAD), वे इस धारा से बाहर हैं, किंतु Alaska में स्थानीय बिक्री कर है और उसके दूरस्थ विक्रेता आयोग का अलग 100,000 डॉलर का मानक है, इसलिए «राज्य कर नहीं» को «कोई दायित्व नहीं» न पढ़ें।
+
+पूरक 2 (कैलिफ़ोर्निया की दोहरी पटरी और अनुगामी संबंध): कैलिफ़ोर्निया को दो पटरियों में बाँटिए। बिक्री कर पक्ष में § 6203 की सीमा यह है कि पिछले या चालू वर्ष में California में बेची गई मूर्त चल संपत्ति की बिक्री 500,000 डॉलर से अधिक हो, और संबंधित व्यक्तियों की बिक्री मिलाकर गिनी जाती है। Marketplace प्लेटफ़ॉर्म संग्रह कर भी दे, तब भी वह बिक्री विक्रेता की अपनी सीमा-माप में गिनी जाती है। आयकर पक्ष में § 23101 की doing business अवधारणा विस्तृत है: सक्रिय व्यवसाय, संगठन पंजीकरण, या कोई भी कारक उज्ज्वल-रेखा — किसी एक के हिट होने से संबंध बन सकता है। संबंध बनने के बाद आने वाला § 25128.7 का एकल बिक्री-कारक विभाजन और § 25136 का बाज़ार स्रोत विभाजन का प्रश्न है, संबंध का नहीं — इन्हें न मिलाएँ। अंत में अनुगामी संबंध (trailing nexus) भी अक्सर पूछा जाता है: संबंध समाप्त होने के बाद भी राज्य आरोपण-अवधि या विवरणी प्रथा के कारण कुछ समय तक नज़र रखता है, इसलिए केवल चालू वर्ष में गतिविधि न होने से दायित्व समाप्त घोषित न करें।
