@@ -115,3 +115,26 @@ Form 8854（Initial and Annual Expatriation Statement）是这条线的总开关
 ---
 
 *声明：个人学习笔记，不构成税务建议（Personal study notes only; not tax advice）。具体事务请咨询持牌 CPA 或税务律师。西班牙语为学习译稿，韩语、越南语、印地语为初译待校。*
+
+---
+
+## 补译增量（2026-11-07 追加：韩／越／印三语各补 2 项中文主文已有细节至对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+**1. 세 가지 특수 항목은 간주 매각을 그대로 따르지 않는다.** §877A(d)는 이연 보상 항목(deferred compensation item)을 다룹니다. 요건을 갖춘 적격 플랜 권익은 실제 수령 시 원천징수 방식으로 처리할 수 있지만, 부적격 항목은 포기 전날 전액 수령한 것으로 봅니다. §877A(e)는 IRA 같은 지정 이연세 계좌를 다뤄 포기 전날 전액 분배된 것으로 봅니다. §877A(f)는 비위탁자 신탁(non-grantor trust) 지분을 다뤄, 포기 후 신탁이 분배할 때 원천징수 방식으로 처리합니다. 세 범주는 서로 크게 다르므로, 일반 재산의 간주 매각 공식을 그대로 적용하지 말고 조문과 Form 8854 설명을 항목별로 대조해야 합니다.
+
+**2. 같은 사실이라도 포기 연도가 다르면 답이 20,000달러 달라진다.** 본문 예시에서 2025년에 포기했다면 제외액은 890,000달러가 되어 과세 순차익은 2,300,000 − 890,000 ＝ 1,410,000달러가 됩니다. 2026년의 1,390,000달러와 비교하면 차이는 정확히 20,000달러이며, 전액 제외액 차이에서 옵니다. 포기 시점 자체가 하나의 세무 변수입니다. 또 Form 8854는 포기 연도의 dual-status 신고와 함께 제출되며, 이연 선택자는 이연 세금을 다 낼 때까지 매년 계속 제출하고, §877A 관련 지분 보유자는 분배 등 사건이 있는 해에 제출합니다. 누락이나 허위 기재에는 정액 벌금이 있고, 준수 증명이 무너지면 covered 지위가 곧바로 성립합니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+**1. Ba loại tài sản đặc biệt không đi theo nguyên vẹn cơ chế bán giả định.** §877A(d) xử lý khoản bồi thường hoãn (deferred compensation item): quyền lợi kế hoạch đủ điều kiện có thể được xử lý theo khấu trừ khi thực nhận, còn khoản không đủ điều kiện bị coi như đã nhận toàn bộ vào ngày trước khi từ bỏ. §877A(e) xử lý tài khoản hoãn thuế chỉ định như IRA, coi như đã phân phối toàn bộ vào ngày trước khi từ bỏ. §877A(f) xử lý quyền lợi trong quỹ tín thác không phải của người lập (nongrantor trust), áp dụng khấu trừ khi quỹ phân phối sau này. Ba loại rất khác nhau, phải đối chiếu từng loại với điều luật và hướng dẫn Mẫu 8854, không áp dụng công thức bán giả định của tài sản thông thường.
+
+**2. Cùng một dữ kiện, đổi năm từ bỏ là đáp án lệch 20.000 đô la.** Trong ví dụ của bài, nếu từ bỏ vào năm 2025, mức loại trừ là 890.000 đô la và lãi ròng chịu thuế là 2.300.000 − 890.000 ＝ 1.410.000 đô la. So với 1.390.000 đô la của năm 2026, chênh lệch đúng 20.000 đô la và toàn bộ nằm ở mức loại trừ; thời điểm từ bỏ tự nó là một biến số thuế. Ngoài ra, Mẫu 8854 được nộp cùng tờ khai dual-status của năm từ bỏ; người chọn hoãn nộp tiếp hằng năm cho đến khi nộp hết thuế hoãn, và người nắm giữ quyền lợi liên quan §877A nộp trong năm có phân phối hay sự kiện liên quan. Thiếu nộp hoặc khai sai có mức phạt cố định, và chứng nhận tuân thủ sụp đổ thì tư cách covered lập tức hình thành.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+**1. तीन विशेष श्रेणियाँ माने गए विक्रय का पूरा पालन नहीं करतीं.** §877A(d) आस्थगित मुआवज़ा मदों (deferred compensation items) को देखता है: योग्य योजना हितों को वास्तविक प्राप्ति पर withholding के ढंग से संभाला जा सकता है, जबकि अयोग्य मदें परित्याग से एक दिन पहले पूरी प्राप्त मानी जाती हैं। §877A(e) IRA जैसी निर्दिष्ट कर-आस्थगित खातियों को परित्याग से एक दिन पहले पूर्ण वितरित मानता है। §877A(f) गैर-प्रदाता ट्रस्ट (nongrantor trust) हितों को देखता है, जहाँ बाद के वितरणों पर withholding लागू होता है। तीनों श्रेणियाँ बहुत भिन्न हैं; सामान्य संपत्ति के माने-गए-विक्रय सूत्र को इन पर न लगाएँ, प्रत्येक को प्रावधान और Form 8854 निर्देशों से अलग जाँचें।
+
+**2. वही तथ्य, परित्याग का वर्ष बदले तो उत्तर $20,000 बदल जाता है.** लेख के उदाहरण में, यदि परित्याग 2025 में होता तो अपवर्जन $890,000 होता और करयोग्य शुद्ध लाभ 2,300,000 − 890,000 = $1,410,000 होता। 2026 के $1,390,000 से अंतर ठीक $20,000 है और पूरी तरह अपवर्जन राशि से आता है; परित्याग का समय स्वयं एक कर-चर है। साथ ही, Form 8854 परित्याग वर्ष के dual-status रिटर्न के साथ दाखिल होता है; स्थगन चुनने वाले स्थगित कर चुकाए जाने तक हर वर्ष दाखिल करते रहते हैं, और §877A से जुड़े हितों के धारक वितरण या संबंधित घटना वाले वर्षों में दाखिल करते हैं। दाखिला छूटने या गलत होने पर निश्चित जुर्माना है, और अनुपालन प्रमाणन टूटते ही covered दर्जा तुरंत बन जाता है।
+
