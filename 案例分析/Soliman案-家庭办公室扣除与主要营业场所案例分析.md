@@ -76,6 +76,8 @@ Aviso: Notas personales de estudio; no constituyen asesoramiento fiscal.
 
 면책: 개인 학습 노트이며 세무 조언이 아닙니다.
 
+보충 (2026-11-08 보충 번역): 대법원의 비교 분석은 두 가지입니다. 각 장소에서 수행한 활동의 상대적 중요성과 각 장소에서 보낸 시간인데, 중요성이 시간보다 우선합니다. 핵심 서비스가 전달되는 곳이 주요 사업장이며, 청구서 발행 같은 행정 업무는 아무리 오래 해도 보조 업무에 머뭅니다. 또 1997년 Taxpayer Relief Act가 § 280A(c)(1)을 고쳐 1999년부터는 납세자가 행정·관리 활동을 할 다른 고정 장소가 없을 경우 그 행정·관리용 재택 사무실도 주요 사업장이 될 수 있게 되었고, § 162를 통과해도 주거에는 § 280A의 더 엄격한 문턱을 또 넘어야 한다는 층위도 그대로입니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính · 初译待校)
 
 **Sự kiện.** Nader Soliman là bác sĩ gây mê. Không bệnh viện nào cấp cho ông văn phòng cố định, ông cũng không có phòng khám riêng; ông đi lại giữa các bệnh viện và gây mê cho bệnh nhân trong phòng mổ của họ. Phần việc cốt lõi nằm ở bệnh viện. Ở nhà, ông dành riêng một phòng làm văn phòng để lập hóa đơn, gọi điện cho bệnh nhân và hãng bảo hiểm, sắp xếp hồ sơ và lịch làm việc, mỗi tuần tốn khá nhiều thời gian. Ông khấu trừ văn phòng tại nhà theo Điều 280A IRC với lý do đó là nơi kinh doanh chính (principal place of business). IRS từ chối, vụ việc lên tới Tòa án Tối cao.
@@ -94,6 +96,8 @@ Ghi nhớ: so sánh các địa điểm, tầm quan trọng trước, thời gia
 
 Tuyên bố: Ghi chú học tập cá nhân, không phải tư vấn thuế.
 
+Bổ sung (bản dịch bổ sung 2026-11-08): phép so sánh của Tòa Tối cao có hai điểm — tầm quan trọng tương đối của hoạt động tại mỗi địa điểm và thời gian bỏ ra tại mỗi nơi — và tầm quan trọng thắng thời gian: nơi dịch vụ cốt lõi được giao mới là nơi kinh doanh chính, còn việc lập hóa đơn hay sổ sách, làm bao lâu cũng chỉ là hỗ trợ. Ngoài ra, Taxpayer Relief Act 1997 đã sửa § 280A(c)(1) để từ năm 1999, văn phòng tại nhà dùng cho công việc hành chính, quản lý có thể được tính là nơi kinh doanh chính nếu người nộp thuế không có địa điểm cố định nào khác cho các hoạt động hành chính, quản lý đáng kể đó; và tầng kiểm tra vẫn nguyên: qua § 162 rồi vẫn phải qua tiếp cửa hẹp hơn của § 280A đối với nhà ở.
+
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित · 初译待校)
 
 **तथ्य।** Nader Soliman एनेस्थीसियोलॉजिस्ट थे। किसी अस्पताल ने उन्हें स्थायी कार्यालय नहीं दिया था और उनका अपना क्लिनिक भी नहीं था; वे अलग-अलग अस्पतालों में जाकर ऑपरेशन कक्षों में रोगियों को एनेस्थीसिया देते थे। उनके काम का केंद्र अस्पताल ही था। घर पर वे एक कमरे का उपयोग केवल कार्यालय के रूप में करते थे — बिल बनाना, रोगियों और बीमा कंपनियों से बात करना, रिकॉर्ड और समय-सारणी संभालना — और हर सप्ताह वहाँ काफी समय बिताते थे। उन्होंने IRC धारा 280A के तहत यह कहकर गृह-कार्यालय कटौती माँगी कि वही उनका प्रमुख व्यवसाय स्थल (principal place of business) है। IRS ने मना कर दिया और मामला सुप्रीम कोर्ट पहुँचा।
@@ -111,3 +115,5 @@ Tuyên bố: Ghi chú học tập cá nhân, không phải tư vấn thuế.
 सार: स्थानों की तुलना करें, पहले महत्त्व, फिर समय; 1999 के बाद केवल प्रशासनिक गृह-कार्यालय, जिसके कार्यों के लिए कोई अन्य स्थायी स्थान न हो, पात्र हो सकता है।
 
 अस्वीकरण: यह व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं है।
+
+पूरक (2026-11-08 पूरक अनुवाद): सर्वोच्च न्यायालय की तुलना के दो बिंदु हैं — प्रत्येक स्थान पर की गई गतिविधियों का सापेक्ष महत्व और प्रत्येक स्थान पर बिताया गया समय — और महत्व समय पर भारी पड़ता है: जहाँ मूल सेवा दी जाती है वही मुख्य व्यवसाय-स्थल है, जबकि बिल बनाना या बही-खाता कितना भी लंबा चले, सहायक ही रहता है। साथ ही, 1997 के Taxpayer Relief Act ने § 280A(c)(1) में संशोधन किया, जिससे 1999 से प्रशासनिक या प्रबंधन कार्यों हेतु प्रयुक्त गृह-कार्यालय भी मुख्य व्यवसाय-स्थल माना जा सकता है, यदि करदाता के पास ऐसे पर्याप्त प्रशासनिक या प्रबंधन कार्यों हेतु कोई अन्य निश्चित स्थान न हो; और परत अपरिवर्तित है — § 162 पार करने के बाद भी आवास पर § 280A की सख्त कसौटी अलग से पार करनी होती है।
