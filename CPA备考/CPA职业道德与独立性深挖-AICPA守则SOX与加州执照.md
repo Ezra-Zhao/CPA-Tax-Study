@@ -127,3 +127,16 @@ Hành nghề thuế chịu sự điều chỉnh của IRS Circular 230 (31 C.F.R
 - 本篇为个人学习笔记，不构成税务、财务或法律建议。罚则金额等时效性数字请以当年 IRS/CBA 官方文本为准。西班牙语、韩语、越南语、印地语为学习译稿（初译待校）。
 
 *Disclaimer: Personal study notes only; not tax, financial, or legal advice. / Notas personales de estudio; no constituyen asesoría fiscal. / 개인 학습 노트이며 세무 자문이 아닙니다. / Ghi chép học tập cá nhân, không phải tư vấn thuế. / व्यक्तिगत अध्ययन नोट्स, कर सलाह नहीं।*
+
+
+---
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+（2026-11-08 本轮追加：补齐中文主文已写明、韩／越／印三语此前未覆盖的两项细节，正文原有段落未改动。）
+
+한국어: 보충 세부 두 가지. 첫째, 수수료에 관한 독립성 레드라인입니다. 1년 이상 연체된 감사보수가 사실상 대출로 취급되어 독립성을 훼손하고, 감사 고객에 대한 성공보수(contingent fee)와 수수료(commission)는 원칙적으로 금지됩니다. 직접 금융이해관계는 금액과 무관하게 독립성을 해치지만, 공동펀드를 통한 간접 이해관계는 중요성(materiality)으로 판단한다는 대조도 함께 기억하십시오. 둘째, 캘리포니아 면허의 숫자 묶음과 SOX 로테이션입니다. 캘리포니아 CPA 신청은 총 150학기 학점에 회계 24, 경영 관련 24, 윤리 10학기가 포함되고, 지도 CPA 아래 12개월의 일반 경력, 그리고 attest 권한에는 별도로 500시간의 attest 경력이 필요합니다. 발행인(issuer) 고객에서는 SOX § 203에 따라 리드 파트너와 리뷰 파트너가 5년마다 교체되고, § 206에 따라 감사팀 구성원이 고객의 재무 임원으로 옮길 때 1년의 냉각 기간(cooling-off)이 적용됩니다. (초역, 원어민 감수 대기)
+
+Tiếng Việt: Hai chi tiết bổ sung. Thứ nhất, vạch đỏ về phí liên quan tới tính độc lập: phí kiểm toán quá hạn trên một năm bị coi như một khoản cho vay trá hình và phá vỡ tính độc lập; phí theo kết quả (contingent fee) và hoa hồng đối với khách hàng chứng thực về nguyên tắc bị cấm. Cần nhớ kèm tương phản sau: lợi ích tài chính trực tiếp phá vỡ tính độc lập bất kể số tiền, còn lợi ích gián tiếp qua quỹ tương hỗ được xét theo tính trọng yếu (materiality). Thứ hai, bộ số giấy phép California và luân chuyển theo SOX: hồ sơ CPA California gồm tổng 150 tín chỉ học kỳ, trong đó kế toán 24, liên quan kinh doanh 24, đạo đức 10; kèm 12 tháng kinh nghiệm chung dưới sự giám sát của CPA có giấy phép, và riêng 500 giờ kinh nghiệm chứng thực (attest) nếu muốn quyền ký chứng thực. Với khách hàng là tổ chức phát hành (issuer), § 203 của SOX buộc đối tác phụ trách chính và đối tác rà soát luân chuyển sau mỗi 5 năm, và § 206 áp thời gian chờ (cooling-off) 1 năm khi thành viên nhóm kiểm toán chuyển sang làm lãnh đạo tài chính của khách hàng. (bản dịch sơ bộ, chờ hiệu đính)
+
+हिन्दी: दो पूरक विवरण। पहला, शुल्क से जुड़ी स्वतंत्रता की लाल रेखा: एक वर्ष से अधिक समय से बकाया audit शुल्क प्रभावी रूप से ऋण माना जाता है और स्वतंत्रता नष्ट करता है; attest client के लिए contingent fee और commission सिद्धांततः निषिद्ध हैं। यह विरोधाभास भी साथ रखें: प्रत्यक्ष वित्तीय हित राशि चाहे कितनी भी हो स्वतंत्रता नष्ट करता है, जबकि mutual fund के माध्यम से अप्रत्यक्ष हित materiality से परखा जाता है। दूसरा, California लाइसेंस की संख्या-शृंखला और SOX rotation: California CPA आवेदन में कुल 150 semester units चाहिए, जिनमें accounting 24, business-related 24 और ethics 10 units शामिल हैं; साथ में लाइसेंसधारी CPA की निगरानी में 12 माह का सामान्य अनुभव, और attest अधिकार के लिए अलग से 500 घंटे का attest अनुभव चाहिए। issuer clients के मामले में SOX § 203 के तहत lead व review partner हर 5 वर्ष में rotate होते हैं, और § 206 के तहत audit team के सदस्य के client के वित्तीय अधिकारी बनने पर 1 वर्ष का cooling-off लागू होता है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
