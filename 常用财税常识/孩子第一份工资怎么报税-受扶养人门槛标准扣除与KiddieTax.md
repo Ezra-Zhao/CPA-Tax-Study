@@ -20,13 +20,17 @@ Cifras del año fiscal 2025, según IRS Rev. Proc. 2024-40 y las Publicaciones 9
 
 금액 기준은 2025 과세연도이며 출처는 IRS Rev. Proc. 2024-40과 Publication 929, 501입니다. 자녀가 부모의 피부양자(dependent)일 때 연방 신고 의무는 세 숫자로 판단합니다. 1. 불로소득(이자·배당·자본이득)이 1,350달러를 넘으면 신고. 2. 근로소득(임금)이 15,750달러를 넘으면 신고. 이는 2025년 싱글 표준공제액이자 피부양자의 근로소득 신고 기준액입니다. 3. 총소득이 1,350달러와 '근로소득+450달러' 중 큰 쪽을 넘으면 신고. 별도 트리거도 있습니다. 자영업 순소득이 400달러 이상이면 총소득이 낮아도 신고하고 자영업세(Schedule SE)를 내야 합니다. 기준에 못 미쳐도 W-2에 연방 원천징수가 있으면 신고만으로 환급받을 수 있어, 대부분의 아이에게 첫 신고의 유일하고 충분한 이유가 됩니다.
 
+보충하면, 자영업 트리거를 한 번 더 분명히 합니다. 배달·대리 산책·자영 미디어 같은 자영업 순소득이 400달러에 이르면 총소득이 낮아도 신고서와 Schedule SE의 자영업세가 따라오므로, 1099가 오기 전에 소득과 비용 기록부터 남겨 두는 것이 순서입니다.
 ### Tiếng Việt (bản dịch sơ bộ·待校)
 
 Các con số áp dụng cho năm thuế 2025, theo IRS Rev. Proc. 2024-40 và Publication 929, 501. Khi con là người phụ thuộc của cha mẹ, ba con số quyết định có phải khai thuế liên bang hay không. (1) Thu nhập không từ lao động (lãi, cổ tức, lãi vốn) trên $1,350 — phải khai. (2) Thu nhập từ lao động (tiền lương) trên $15,750 — phải khai; đây là mức khấu trừ tiêu chuẩn độc thân năm 2025 và cũng là ngưỡng khai thuế theo thu nhập lao động của người phụ thuộc. (3) Tổng thu nhập vượt quá giá trị lớn hơn giữa $1,350 và thu nhập lao động cộng $450 — phải khai. Một ngưỡng riêng: thu nhập ròng từ tự doanh đạt $400 trở lên thì phải khai và đóng thuế tự doanh (Schedule SE) dù tổng thu nhập thấp. Dưới các ngưỡng, nếu W-2 có khoản khấu lưu liên bang, chỉ cần khai một tờ khai đơn giản là được hoàn lại — với hầu hết trẻ em, đó là lý do duy nhất và đủ cho tờ khai đầu tiên.
 
+Bổ sung thêm, cần ghim lại ngưỡng tự doanh một lần nữa: thu nhập ròng từ tự doanh như giao hàng, dắt chó thuê hay làm truyền thông tự do đạt $400 thì dù tổng thu nhập thấp vẫn phải nộp tờ khai và thuế tự doanh trên Schedule SE, vì vậy hãy ghi lại thu nhập và chi phí ngay từ đầu thay vì đợi mẫu 1099 đến.
 ### हिन्दी (प्रारंभिक अनुवाद·待校)
 
 आँकड़े कर वर्ष 2025 के हैं, स्रोत IRS Rev. Proc. 2024-40 और Publication 929 व 501। जब बच्चा माता-पिता का आश्रित (dependent) हो, तो तीन संख्याएँ तय करती हैं कि संघीय रिटर्न आवश्यक है या नहीं। (1) अनर्जित आय (ब्याज, लाभांश, पूंजीगत लाभ) $1,350 से अधिक — रिटर्न दाखिल करें। (2) अर्जित आय (वेतन) $15,750 से अधिक — रिटर्न दाखिल करें; यह 2025 की एकल मानक कटौती है और आश्रितों के लिए अर्जित-आय दाखिल सीमा भी यही है। (3) सकल आय $1,350 और अर्जित आय + $450 में से जो बड़ा हो, उससे अधिक — रिटर्न दाखिल करें। एक अलग ट्रिगर: स्वरोज़गार की शुद्ध आय $400 या अधिक हो तो कुल आय कम होने पर भी रिटर्न और स्वरोज़गार कर (Schedule SE) आवश्यक है। सीमाओं से नीचे भी, यदि W-2 पर संघीय withholding है, तो साधारण रिटर्न दाखिल करने से वह वापस मिल जाता है — अधिकांश बच्चों के पहले रिटर्न का यही एकमात्र और पर्याप्त कारण है।
+
+पूरक रूप से, स्वरोज़गार ट्रिगर को फिर से पिन करें: डिलीवरी, कुत्ते घुमाने या स्वतंत्र मीडिया जैसी स्वरोज़गार शुद्ध आय $400 तक पहुँचे तो कुल आय कम होने पर भी रिटर्न और Schedule SE पर स्वरोज़गार कर अनिवार्य है, इसलिए 1099 की प्रतीक्षा किए बिना आय व लागत के अभिलेख पहले से रखें।
 
 ## 二、受扶养人的标准扣除怎么算
 
@@ -124,10 +128,14 @@ Lista de cierre. (1) Cuando llegue el primer W-2, revise la casilla 1 (salarios)
 
 마무리 체크리스트입니다. 1. 첫 W-2를 받으면 1번 칸 임금과 2번 칸 연방 원천징수를 급여 기록과 대조하십시오. 2. 1·2절의 기준과 공제로 계산해 보고, 신고 의무가 있으면 신고하십시오(대부분 청소년의 신고는 간단하고 저소득이면 IRS Free File이 무료입니다). 환급받을 원천징수가 있으면 반드시 신고하십시오. 3. 자영업 긱 소득이 400달러를 넘으면 수입·비용 기록을 남기고 Schedule C와 SE로 신고하십시오. 1099가 올 때까지 기다리지 마십시오. 4. 자녀 투자 계좌의 이자·배당은 1,350달러(신고 기준)와 2,700달러(키디 택스) 두 선을 따로 보십시오. 5. 주세는 FTB의 해당 연도 기준을 따로 확인하십시오. 고지: 2025 과세연도 숫자를 쓴 개인 학습 노트이며 세무 자문이 아닙니다. 구체적인 신고는 IRS Publication 929를 확인하거나 세무 전문가에게 상담하십시오.
 
+보충하면, Roth IRA 납입 한도를 다시 적습니다. 한도는 근로소득과 그해 법정 한도(2025년 50세 미만 7,000달러) 중 작은 쪽이며, 부모가 증여의 틀 안에서 대신 넣어 주는 것도 가능하되 자녀의 근로소득 상한을 넘는 부분은 넣을 수 없습니다.
 ### Tiếng Việt (bản dịch sơ bộ·待校)
 
 Danh sách kiểm tra kết thúc. (1) Khi nhận W-2 đầu tiên, đối chiếu ô 1 (tiền lương) và ô 2 (khấu lưu liên bang) với hồ sơ trả lương. (2) Áp dụng các ngưỡng và mức khấu trừ ở mục một và hai: khai khi bắt buộc (với hầu hết thanh thiếu niên tờ khai rất đơn giản, và IRS Free File miễn phí cho thu nhập thấp), và luôn khai khi có khấu lưu được hoàn. (3) Thu nhập tự doanh dạng gig trên $400: lưu hồ sơ thu nhập và chi phí, khai trên Schedule C và SE — đừng chờ mẫu 1099 mới nhớ ra. (4) Theo dõi riêng hai mốc $1,350 và $2,700 đối với lãi và cổ tức trong tài khoản đầu tư của con (ngưỡng khai thuế và kiddie tax). (5) Kiểm tra riêng ngưỡng của FTB California cho khai thuế bang. Tuyên bố: ghi chép học tập cá nhân với số liệu năm thuế 2025, không phải tư vấn thuế; với trường hợp cụ thể, hãy xem IRS Publication 929 hoặc hỏi chuyên gia thuế.
 
+Bổ sung thêm, cần ghi lại giới hạn đóng góp Roth IRA: mức tối đa là giá trị nhỏ hơn giữa thu nhập lao động và giới hạn luật định của năm đó ($7,000 cho người dưới 50 tuổi năm 2025); cha mẹ có thể tặng tiền để con đóng góp trong khuôn khổ tặng cho, nhưng phần vượt quá thu nhập lao động của con thì không được đóng.
 ### हिन्दी (प्रारंभिक अनुवाद·待校)
 
 समापन जाँच-सूची। (1) पहला W-2 आने पर बॉक्स 1 वेतन और बॉक्स 2 संघीय withholding का वेतन अभिलेखों से मिलान करें। (2) खंड एक और दो की सीमाओं और कटौती से गणना करें: आवश्यक हो तो दाखिल करें (अधिकांश किशोरों के लिए रिटर्न सरल होता है और निम्न आय पर IRS Free File निःशुल्क है), और withholding की वापसी संभव हो तो हमेशा दाखिल करें। (3) $400 से अधिक gig स्वरोज़गार आय के लिए आय-व्यय के रिकॉर्ड रखें और Schedule C व SE पर रिपोर्ट करें — 1099 आने तक प्रतीक्षा न करें। (4) बच्चे के निवेश खाते के ब्याज और लाभांश के लिए $1,350 और $2,700 की रेखाओं पर अलग-अलग नज़र रखें (दाखिल सीमा और kiddie tax)। (5) राज्य दाखिल के लिए कैलिफ़ोर्निया FTB की सीमाएँ अलग से जाँचें। अस्वीकरण: कर-वर्ष 2025 के आँकड़ों वाले व्यक्तिगत अध्ययन नोट्स; यह कर सलाह नहीं है। विशिष्ट दाखिल के लिए IRS Publication 929 देखें या कर विशेषज्ञ से परामर्श करें।
+
+पूरक रूप से, Roth IRA योगदान सीमा फिर से लिखें: अधिकतम राशि अर्जित आय और उस वर्ष की वैधानिक सीमा (2025 में 50 वर्ष से कम के लिए $7,000) में से छोटी राशि है; माता-पिता उपहार के ढाँचे में राशि दे सकते हैं, परंतु बच्चे की अर्जित आय सीमा से अधिक योगदान नहीं हो सकता।
