@@ -126,3 +126,18 @@ ASC 830-10-55-5 给六组指标，互相矛盾时靠管理层判断哪组更能�
 ---
 
 **声明**：个人学习笔记，不构成法律、税务或医疗建议。具体事务请咨询持牌专业人士。
+
+
+## 补译增量（2026-11-08 追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+보충 두 가지. 첫째, 시간법(remeasurement)에서 손익 항목의 환율 적용을 나누어 기억하십시오. 감가상각비나 매출원가처럼 비화폐성 항목과 관련된 수익·비용은 역사적 환율을 쓰고, 그 밖의 수익·비용은 평균환율을 씁니다. 화폐성은 현재환율, 비화폐성은 역사적 환율이라는 자산·부채 쪽 구분만으로 끝나는 문제가 아닙니다. 둘째, 기능통화는 한 번 정하면 임의로 바꿀 수 없습니다. 경제적 사실에 중대한 변화가 있을 때만 변경할 수 있고, 변경은 미래 적용(prospective)으로 처리합니다. 지표가 엇갈릴 때의 판단으로 정한 통화가 다음 해에 편의대로 뒤집히는 일은 없습니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung hai điểm. Thứ nhất, trong phương pháp đo lường lại theo thời gian (temporal method), hãy tách cách áp tỷ giá cho các khoản doanh thu và chi phí: doanh thu và chi phí gắn với khoản mục phi tiền tệ — như khấu hao và giá vốn hàng bán — dùng tỷ giá lịch sử, còn các khoản doanh thu và chi phí khác dùng tỷ giá bình quân. Vấn đề không dừng ở phía tài sản và nợ với quy tắc khoản tiền tệ theo tỷ giá hiện hành, khoản phi tiền tệ theo tỷ giá lịch sử. Thứ hai, tiền tệ chức năng một khi đã xác định thì không được tùy tiện thay đổi: chỉ khi sự kiện kinh tế thay đổi trọng yếu mới được đổi, và việc đổi được xử lý theo hướng áp dụng cho tương lai (prospective). Đồng tiền đã chọn bằng xét đoán khi các chỉ dấu mâu thuẫn nhau không thể bị lật ngược vào năm sau chỉ vì tiện lợi.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+दो पूरक बिंदु। पहला, सामयिक विधि (remeasurement) में आय और व्यय मदों पर दर का प्रयोग बाँटकर याद रखें: गैर-मौद्रिक मदों से जुड़े आय-व्यय — जैसे मूल्यह्रास और बिक्री की लागत — ऐतिहासिक दर पर, और शेष आय-व्यय औसत दर पर लिए जाते हैं। प्रश्न केवल संपत्ति-देयता पक्ष के «मौद्रिक वर्तमान दर पर, गैर-मौद्रिक ऐतिहासिक दर पर» वाले भेद पर समाप्त नहीं होता। दूसरा, कार्यात्मक मुद्रा एक बार तय हो जाने पर मनमाने ढंग से बदली नहीं जा सकती: केवल आर्थिक तथ्यों में सारभूत परिवर्तन होने पर ही बदलाव संभव है, और वह बदलाव भविष्य-प्रभावी (prospective) ढंग से लागू होता है। संकेतक टकराने पर निर्णय से चुनी गई मुद्रा अगले वर्ष सुविधा के लिए पलटी नहीं जा सकती।
