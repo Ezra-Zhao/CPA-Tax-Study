@@ -57,3 +57,19 @@ Burnet v. Harmel, 287 U.S. 103 (1932), न्यायमूर्ति Stone �
 ---
 
 *声明：个人学习笔记，不构成法律、税务或医疗建议（personal study notes only; not legal, tax, or medical advice）。*
+
+---
+
+## 补译增量（2026-11-09 本轮）
+
+### 한국어 보충 (초역)
+
+고갈 계산의 시범 숫자를 마저 적으면 이렇습니다. 일반소득으로 확정된 합계 250,000달러에 석유·가스 퍼센트 고갈률 15%를 적용한 시범액은 250,000 × 15% = 37,500달러입니다. 다만 이 숫자는 정성 확정 뒤 계산 순서를 보여 주는 교수용 시범일 뿐이며, 실제 신고에서는 § 613의 과세소득 한도와 § 613A의 제한을 통과해야 합니다. 또 다른 경계도 있습니다. 지연 임대료(delay rentals, 채굴 전 리스를 유지하려고 내는 돈)는 보너스와 마찬가지로 임대료 성격의 일반소득입니다. 반면 로열티 지분 자체를 경제적 이익째로 완전히 넘기는 진짜 양도라면 자본이득이나 § 1231 논의에 들어갈 수 있으며, 갈림길은 경제적 이익이 남았는가에 달려 있습니다.
+
+### Tiếng Việt bổ sung (bản dịch sơ bộ)
+
+Bổ sung con số minh họa cho phần cạn kiệt: trên tổng 250.000 đô la đã xác định là thu nhập thông thường, mức depletion theo tỷ lệ phần trăm 15% của dầu khí cho ra con số minh họa 250.000 × 15% = 37.500 đô la. Tuy vậy, đây chỉ là phép tính giảng dạy để cho thấy thứ tự tính sau khi đã định tính, không phải con số kê khai; khi áp dụng thật phải qua giới hạn thu nhập chịu thuế của § 613 và các giới hạn của § 613A. Còn một ranh giới nữa: tiền thuê chậm (delay rentals, trả để duy trì hợp đồng thuê trong thời gian chưa khai thác) cũng là thu nhập thông thường mang tính tiền thuê như bonus; ngược lại, việc chuyển nhượng thực sự chính quyền lợi royalties kèm toàn bộ lợi ích kinh tế thì có thể bước vào thảo luận lãi vốn hoặc § 1231 — điểm phân chia là lợi ích kinh tế còn giữ lại hay không.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद)
+
+निःशेषण की प्रदर्शन-गणना पूरी करें तो: सामान्य आय के रूप में तय कुल 250,000 डॉलर पर तेल व गैस का 15% प्रतिशत-निःशेषण लगाने से प्रदर्शन राशि 250,000 × 15% = 37,500 डॉलर बनती है। किंतु यह केवल शिक्षण-प्रदर्शन है जो चरित्र-निर्धारण के बाद का गणना-क्रम दिखाता है, घोषणा का आँकड़ा नहीं; वास्तविक प्रयोग में § 613 की करयोग्य-आय सीमा और § 613A की सीमाएँ पार करनी होंगी। एक और सीमा-रेखा भी है: विलंब किराया (delay rentals — दोहन शुरू होने से पहले पट्टा बनाए रखने के लिए दिया गया धन) बोनस की तरह किराए-स्वभाव की सामान्य आय है; इसके विपरीत, यदि रॉयल्टी-हित स्वयं आर्थिक हित समेत सचमुच हस्तांतरित कर दिया जाए तो वह पूंजी-लाभ या § 1231 की चर्चा में जा सकता है — विभाजन-बिंदु यही है कि आर्थिक हित बचा रहा या नहीं।
