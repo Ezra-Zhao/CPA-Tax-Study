@@ -118,3 +118,22 @@ CPA के REG खंड में Roth रूपांतरण व्यक्
 西班牙语为学习译稿，待母语校对。韩语、越南语、印地语为初译待校。El texto en español es una traducción de estudio, pendiente de revisión por un hablante nativo. 한국어·베트남어·힌디어 본문은 초역으로, 원어민 감수를 기다리고 있습니다. Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch sơ khởi, đang chờ người bản ngữ hiệu đính. कोरियाई, वियतनामी और हिंदी पाठ प्रारंभिक अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।
 
 声明：本篇为个人学习笔记，不构成税务、财务或法律建议。This article is a personal study note only and does not constitute tax, financial, or legal advice. Este artículo es una nota personal de estudio y no constituye asesoría fiscal, financiera ni legal.
+
+---
+
+## 补译增量（2026-11-09 07:55 轮，韩／越／印三语各补 2 项细节至与中文主文对齐）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+- 비례 규칙(pro-rata rule)의 계산 결과를 끝까지 적습니다. 전통 IRA가 과세된 돈과 수익 9,400달러에 비공제 불입금 600달러가 더해져 연말 잔액이 10,000달러인 경우, Roth로 600달러를 전환하면 비과세 부분은 600 × (600 ÷ 10,000) = 36달러뿐이고 나머지 564달러가 과세됩니다. 먼저 세전 부분을 현 고용주의 401(k)로 굴려 넣는 역롤오버(reverse rollover)는 고용주 플랜이 Form 8606의 분모에 들어가지 않기 때문에 작동합니다.
+- 인출 순서는 § 408A(d)(4)가 고정합니다. 불입 원금이 먼저 나오고, 그다음에 전환분이 연도 순으로 나오며(전환분 안에서는 과세된 부분이 먼저), 수익은 맨 마지막에 나옵니다. 자격 5년 시계는 첫 Roth IRA에 처음 불입한 과세연도 1월 1일부터 평생 한 번만 돌며, 계좌를 새로 열어도 다시 시작되지 않습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Ghi trọn kết quả tính của quy tắc tỷ lệ (pro-rata rule): khi IRA truyền thống gồm 9.400 đô la tiền đã khấu trừ và lãi cộng 600 đô la tiền nộp không được khấu trừ, số dư cuối năm là 10.000 đô la, thì chuyển 600 đô la sang Roth chỉ có 600 × (600 ÷ 10.000) = 36 đô la được miễn thuế, còn 564 đô la phải chịu thuế. Việc lăn ngược (reverse rollover) phần trước thuế vào 401(k) của người sử dụng lao động hiện tại có tác dụng vì chương trình của người sử dụng lao động không nằm trong mẫu số của Mẫu 8606.
+- Thứ tự rút tiền do § 408A(d)(4) cố định: tiền nộp gốc ra trước, tiếp đến phần chuyển đổi theo thứ tự năm (trong phần chuyển đổi, phần đã chịu thuế ra trước), và lãi ra cuối cùng. Đồng hồ năm năm đủ điều kiện chỉ chạy một lần trong đời, tính từ ngày 1 tháng 1 của năm thuế đầu tiên nộp vào bất kỳ Roth IRA nào, và không khởi động lại khi mở thêm tài khoản.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+- आनुपातिक नियम (pro-rata rule) की गणना का परिणाम पूरा लिखें: यदि पारंपरिक IRA में 9,400 डॉलर पहले कटौती पाया धन और आय तथा 600 डॉलर अकटौतीयोग्य योगदान मिलकर वर्षांत शेष 10,000 डॉलर है, तो Roth में 600 डॉलर रूपांतरित करने पर केवल 600 × (600 ÷ 10,000) = 36 डॉलर कर-मुक्त होगा और शेष 564 डॉलर करयोग्य होगा। कर-पूर्व भाग को पहले वर्तमान नियोक्ता के 401(k) में ले जाने वाला reverse rollover इसलिए काम करता है क्योंकि नियोक्ता प्लान Form 8606 के हर (denominator) में नहीं आता।
+- निकासी क्रम § 408A(d)(4) द्वारा स्थिर है: पहले योगदान मूलधन निकलता है, फिर रूपांतरण वर्ष-क्रम से (रूपांतरण के भीतर पहले कर-लगाया गया भाग), और आय सबसे अंत में। योग्यता पाँच-वर्ष घड़ी जीवन में केवल एक बार चलती है — पहले Roth IRA में पहली बार योगदान वाले कर-वर्ष की 1 जनवरी से — और नया खाता खोलने से वह फिर शुरू नहीं होती।

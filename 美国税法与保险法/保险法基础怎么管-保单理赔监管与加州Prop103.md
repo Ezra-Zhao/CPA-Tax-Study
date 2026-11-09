@@ -149,3 +149,22 @@ CPA के लिए बीमा लेखांकन ASC 944 में रह
 西班牙语为学习译稿，待母语校对。韩语、越南语、印地语为初译待校。El texto en español es una traducción de estudio, pendiente de revisión por un hablante nativo. 한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다. Bản tiếng Việt và tiếng Hindi là bản dịch sơ khởi, đang chờ người bản ngữ hiệu đính. कोरियाई, वियतनामी और हिंदी पाठ प्रारंभिक अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।
 
 声明：本篇为个人学习笔记，不构成税务、财务、法律或保险建议。This article is a personal study note only and does not constitute tax, financial, legal, or insurance advice. Este artículo es una nota personal de estudio y no constituye asesoría fiscal, financiera, legal ni de seguros.
+
+---
+
+## 补译增量（2026-11-09 07:55 轮，韩／越／印三语各补 2 项细节至与中文主文对齐）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+- 캘리포니아 Insurance Code § 790.03이 열거하는 불공정 청구 처리에는 사실이나 법률에 대한 허위 진술, 청구 관련 연락에 대한 신속하지 않은 응답, 합리적 기간 안에 조사하지 않은 채 지연하거나 거절하는 행위, 명백히 낮은 지급액을 합리적 설명 없이 제시하는 행위가 포함됩니다. 합리적 근거 없이 거절·지연·과소 지급하는 bad faith는 단순한 계약 위반을 넘어 계약 외의 불법행위 책임으로 이어질 수 있고, 확대된 손해와 경우에 따라 징벌적 손해배상까지 문제 됩니다.
+- ASC 944에서는 보험료가 돈을 받은 날 전액 수익이 되지 않습니다. 아직 벌지 못한 부분은 미경과보험료(unearned premiums) 부채로 잡아 보장 기간에 걸쳐 수익으로 옮기고, 연기취득비용(DAC)은 보험료를 버는 속도에 맞춰 상각합니다. 이미 발생했지만 아직 보고되지 않은 IBNR도 보고된 미결 손실과 함께 추정해야 하며, 규제용 법정회계(SAP)와 투자자용 GAAP는 같은 보험회사라도 서로 다른 두 벌의 숫자를 만듭니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Điều § 790.03 của Bộ luật Bảo hiểm California liệt kê các hành vi xử lý bồi thường không công bằng, gồm trình bày sai sự thật hoặc luật, không phản hồi kịp thời các liên lạc liên quan đến bồi thường, trì hoãn hoặc từ chối mà không điều tra trong thời gian hợp lý, và đưa ra mức chi trả thấp rõ rệt mà không giải thích hợp lý. Hành vi thiếu thiện chí (bad faith) — từ chối, trì hoãn hoặc trả thấp mà không có căn cứ hợp lý — có thể vượt ra ngoài vi phạm hợp đồng thành trách nhiệm bồi thường ngoài hợp đồng, gồm thiệt hại mở rộng phát sinh và trong trường hợp nghiêm trọng là bồi thường trừng phạt.
+- Theo ASC 944, phí bảo hiểm không trở thành doanh thu toàn bộ vào ngày thu tiền: phần chưa kiếm được được ghi là nợ phí bảo hiểm chưa hưởng (unearned premiums) và chuyển dần thành doanh thu theo thời gian bảo hiểm, còn chi phí khai thác hoãn lại (DAC) được phân bổ theo nhịp kiếm được của phí bảo hiểm. Phần tổn thất đã xảy ra nhưng chưa báo cáo (IBNR) cũng phải ước tính cùng với tổn thất đã báo cáo chưa giải quyết, và kế toán luật định cho cơ quan quản lý (SAP) với GAAP cho nhà đầu tư tạo ra hai bộ số khác nhau cho cùng một công ty bảo hiểm.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+- California Insurance Code § 790.03 द्वारा गिनाए गए अनुचित दावा-व्यवहारों में तथ्यों या कानून का मिथ्या कथन, दावे से जुड़े संचार का समय पर उत्तर न देना, उचित समय में जाँच किए बिना विलंब या अस्वीकृति, और स्पष्ट रूप से कम भुगतान का उचित स्पष्टीकरण दिए बिना प्रस्ताव शामिल हैं। बिना उचित आधार के अस्वीकार, विलंब या कम भुगतान करने वाला bad faith केवल अनुबंध-भंग नहीं रहता; वह अनुबंध से बाहर के अपकृत्य दायित्व तक जा सकता है, जिसमें उससे बढ़ा हुआ नुक़सान और गंभीर मामलों में दंडात्मक हर्जाना भी शामिल है।
+- ASC 944 के तहत प्रीमियम प्राप्ति वाले दिन पूरा आय नहीं बनता: अनर्जित भाग unearned premiums देयता के रूप में रहता है और सुरक्षा अवधि के साथ आय में जाता है, तथा स्थगित अर्जन लागत (DAC) प्रीमियम अर्जन की गति के साथ अपलिखित होती है। घटित परंतु अप्रतिवेदित हानि (IBNR) का भी प्रतिवेदित अनिर्णीत हानियों के साथ अनुमान लगाना होता है, और नियामक वैधानिक लेखांकन (SAP) तथा निवेशकों के लिए GAAP एक ही बीमा कंपनी के दो अलग अंक-समूह बनाते हैं।
