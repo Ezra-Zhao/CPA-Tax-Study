@@ -136,3 +136,19 @@ Bài viết này là ghi chép học tập cá nhân và không cấu thành tư
 
 ### हिन्दी (प्रारंभिक अनुवाद)
 यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी या कर सलाह नहीं है। किसी विशिष्ट कर-व्यवस्था के लिए लाइसेंसधारी CPA या कर वकील से परामर्श करें और वर्तमान कानून व IRS के आधिकारिक मार्गदर्शन पर भरोसा करें।
+
+---
+
+## 补译增量（2026-11-09 04:55轮）
+
+### 한국어 (初译待校)
+보충 세부 1 — 하급 절차의 사슬: 조세항소위원회(45 B.T.A. 647)는 처음에 법인 편을 들어 법인을 '허구의 대리인에 불과한 존재(mere figmentary agent)'로 보아 과세에서 무시해야 한다고 했고, 제5순회법원은 이를 뒤집어(131 F.2d 388) Thompson이 자신에게 충분한 이유로 선택한 법인 실체는 인정되어야 한다고 했으며, 연방대법원이 최종적으로 제5순회법원을 유지했다. 다툼은 세율이 아니라 세법이 먼저 누구를 과세 주체로 인정하는가였다.
+보충 세부 2 — 캘리포니아의 두 번째 층위: 캘리포니아는 법인에 franchise tax를 부과하고(최저 800달러 기준은 재세 상식 글을 참조), 캘리포니아 LLC는 일반적으로 연방 분류를 따르지만 연 세금과 총수입을 기준으로 하는 LLC fee를 별도로 부담하므로, 실체 선택은 연방 한 층만 계산해서는 안 되고 연방과 캘리포니아 두 층을 모두 계산해야 한다.
+
+### Tiếng Việt (初译待校)
+Chi tiết bổ sung 1 — Chuỗi tố tụng cấp dưới: Hội đồng Kháng cáo Thuế (45 B.T.A. 647) ban đầu đứng về phía công ty, coi nó là «đại lý hư cấu thuần túy» (mere figmentary agent) phải bị bỏ qua khi đánh thuế; Tòa Khu vực thứ Năm lật lại (131 F.2d 388), phán rằng thực thể công ty do Thompson chọn vì những lý do đủ thuyết phục với ông phải được công nhận; và Tòa án Tối cao cuối cùng giữ nguyên Tòa thứ Năm. Điều tranh chấp không phải thuế suất, mà là luật thuế công nhận ai là chủ thể chịu thuế trước.
+Chi tiết bổ sung 2 — Tầng thứ hai của California: California đánh franchise tax lên công ty (mức tối thiểu 800 đô la xem ở các bài kiến thức thuế), và một LLC ở California nhìn chung theo phân loại liên bang nhưng còn phải nộp thuế hằng năm và phí LLC tính theo tổng thu nhập, nên việc chọn thực thể phải tính ở cả hai cấp liên bang và California, không chỉ ở cấp liên bang.
+
+### हिन्दी (初译待校)
+पूरक विवरण 1 — निचली प्रक्रिया की शृंखला: Board of Tax Appeals (45 B.T.A. 647) ने पहले कंपनी का पक्ष लिया और उसे "मात्र काल्पनिक एजेंट" (mere figmentary agent) मानकर कर निर्धारण में अनदेखा करने को कहा; पाँचवें सर्किट ने इसे उलट दिया (131 F.2d 388) और कहा कि Thompson द्वारा अपने लिए पर्याप्त कारणों से चुनी गई कंपनी-इकाई को मान्यता मिलनी चाहिए; और सर्वोच्च न्यायालय ने अंततः पाँचवें सर्किट को बरकरार रखा। विवाद दर पर नहीं था, बल्कि इस पर था कि कर कानून पहले किसे कर-विषय मानता है।
+पूरक विवरण 2 — कैलिफ़ोर्निया की दूसरी परत: कैलिफ़ोर्निया कंपनियों पर franchise tax लगाता है (न्यूनतम $800 की जानकारी कर-सामान्य-ज्ञान लेखों में देखें), और कैलिफ़ोर्निया LLC सामान्यतः अपने संघीय वर्गीकरण का पालन करती है लेकिन उसे वार्षिक कर और सकल आय पर आधारित LLC शुल्क अलग से देना होता है, इसलिए इकाई-चयन की गणना केवल संघीय स्तर पर नहीं, संघीय और कैलिफ़ोर्निया दोनों स्तरों पर करनी चाहिए।
