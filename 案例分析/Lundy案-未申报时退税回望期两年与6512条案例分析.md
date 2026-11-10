@@ -115,3 +115,24 @@ Bài học thực tiễn cô đọng trong một câu: quyền hoàn thuế ch�
 - 本篇为个人学习笔记，不构成税务建议。西班牙语、韩语、越南语、印地语为学习译稿（初译待校）。
 
 *Disclaimer: Personal study notes only; not tax advice. / Notas personales de estudio; no constituyen asesoría fiscal. / 개인 학습 노트이며 세무 자문이 아닙니다. / Ghi chép học tập cá nhân, không phải tư vấn thuế. / व्यक्तिगत अध्ययन नोट्स; कर सलाह नहीं।*
+
+
+## 补译增量（2026-11-10 追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+보충 1 (부족세액 통지의 구성과 순서): IRS가 보낸 1990년 9월 26일 부족세액 통지는 별도 세액과 이자를 합한 7,672달러를 주장하고, § 6651(a)(1)의 신고 지연 가산세와 § 6653의 과소신고 관련 가산세 주장까지 함께 담고 있었습니다. Lundy 부부가 1987년 공동 신고서를 우송한 것은 그 뒤인 1990년 12월 22일이었고, 그 신고서에서 3,537달러의 초과납부를 주장했습니다. 통지가 먼저 가고 신고가 뒤에 온 이 순서 자체가 이 사건의 급소입니다.
+
+보충 2 (§ 6511(a)의 이중 구조와 가공 청구일): § 6511(a)의 청구 기한은 신고서 제출 후 3년 이내 또는 세금 납부 후 2년 이내 중 늦은 쪽인데, 신고를 하지 않은 사람에게는 3년의 축이 아예 돌지 않습니다. § 6512(b)(3)(B)는 통지 발송일에 아직 신고가 없으면 그 발송일을 가공의 청구일로 놓고 § 6511(b)(2)를 적용하므로, 가공 청구는 '신고 후 3년 이내'에 들어갈 수 없어 자동으로 2년 회고로 떨어집니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 (cấu thành của thông báo thiếu thuế và thứ tự trước sau): Thông báo thiếu thuế IRS gửi ngày 26 tháng 9 năm 1990 khẳng định khoản thiếu thêm cùng lãi tổng cộng 7.672 đô la, đồng thời nêu cả tiền phạt nộp muộn theo § 6651(a)(1) và tiền phạt liên quan tới khai thiếu theo § 6653. Vợ chồng Lundy tới ngày 22 tháng 12 năm 1990 mới gửi tờ khai chung năm 1987 và trong tờ khai đó yêu cầu khoản nộp thừa 3.537 đô la. Chính thứ tự thông báo đi trước, tờ khai theo sau này là điểm sinh tử của vụ án.
+
+Bổ sung 2 (cấu trúc hai đầu của § 6511(a) và ngày yêu cầu giả định): Hạn yêu cầu của § 6511(a) là mốc muộn hơn giữa trong vòng 3 năm sau khi nộp tờ khai hoặc trong vòng 2 năm sau khi nộp thuế; người chưa nộp khai thì trục 3 năm không hề chạy. § 6512(b)(3)(B) lấy chính ngày gửi thông báo làm ngày yêu cầu giả định khi lúc đó chưa có tờ khai, rồi áp dụng § 6511(b)(2): yêu cầu giả định không thể rơi vào khoảng «trong vòng 3 năm sau khi nộp khai», nên nó tự động rơi xuống kỳ nhìn lại 2 năm.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 (कमी नोटिस की संरचना और क्रम): 26 सितंबर 1990 को IRS का भेजा कमी नोटिस अलग से कर व ब्याज मिलाकर 7,672 डॉलर का दावा करता था और साथ में § 6651(a)(1) की देर से दाख़िल करने की शास्ति व § 6653 की कम-भुगतान शास्ति भी माँगता था। Lundy दंपति ने 1987 का संयुक्त return उसके बाद 22 दिसंबर 1990 को भेजा और उसमें 3,537 डॉलर की अधिक-अदायगी का दावा किया। नोटिस पहले और return बाद में — यही क्रम इस मामले का मर्म है।
+
+पूरक 2 (§ 6511(a) की दोहरी संरचना और काल्पनिक दावा-तिथि): § 6511(a) की दावा-समयसीमा return दाख़िल करने के 3 वर्षों के भीतर या कर चुकाने के 2 वर्षों के भीतर, जो भी बाद में हो, है; जिसने return ही नहीं दिया, उसके लिए 3-वर्षीय धुरी चलती ही नहीं। § 6512(b)(3)(B) नोटिस-तिथि पर return न होने पर उसी तिथि को काल्पनिक दावा-तिथि मानकर § 6511(b)(2) लगाता है, इसलिए काल्पनिक दावा «return के 3 वर्षों के भीतर» में आ ही नहीं सकता और स्वतः 2-वर्षीय look-back में गिरता है।
