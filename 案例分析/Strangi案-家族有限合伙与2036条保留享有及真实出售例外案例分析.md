@@ -135,3 +135,23 @@ Số liệu kiểm chứng (đều lấy nguyên từ bản án và thông báo,
 *来源口径：Estate of Strangi v. Commissioner, 417 F.3d 468 (5th Cir. 2005) 判决原文（law.resource.org 所载 F.3d 文本）与 115 T.C. 478 (2000)、293 F.3d 279 (5th Cir. 2002)、T.C. Memo. 2003-145 程序链；IRC § 2036(a)、Treas. Reg. § 20.2036-1(a)；United States v. Byrum, 408 U.S. 125 (1972)；Estate of Kimbell v. United States, 371 F.3d 249 (5th Cir. 2004)；Estate of Bongard v. Commissioner, 125 T.C. 95 (2005)。金额与日期以判决原文为准。*
 
 声明：个人学习笔记，不构成税务建议。
+
+## 补译增量（2026-11-10 追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+보충 1 (대납 증거 사슬): SFLP는 Strangi 생전에 1994년 9월 8,000달러, 10월 6,000달러를 분배했고, Stranco가 받은 80.81달러와 60.61달러는 99 대 1의 비율과 정확히 맞아떨어집니다. 사후에도 약 40,000달러가 장례와 재산 관리 비용으로, 1995–1996년에 약 65,000달러가 재산 비용과 특정 유증으로, 1995년에는 3,187,800달러가 재산의 연방·주 상속세 납부로 분배됐습니다. 법원이 본 것은 비례의 형식이 아니라 돈이 실제로 누구의 계산서를 갚았는가였습니다.
+
+보충 2 (체외 잔류 부족과 늦게 낸 임대료): 이전을 마친 뒤 Strangi가 실제로 쓸 수 있는 돈은 두 계좌를 합쳐 762달러뿐이었고, 설립 뒤 두 달간 월평균 지출은 17,000달러에 가까웠으며, 월 연금 1,438달러와 사회보장 1,559달러로는 어림없었습니다. 이미 이전된 집의 임대료는 장부에 두 달치만 적혀 있었고 실제로는 1997년 1월, 사후 2년이 넘어서야 지급됐는데, 그 지연 지급 자체가 경제적 이익이었습니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 (chuỗi bằng chứng trả thay): Khi Strangi còn sống, SFLP đã phân phối 8.000 đô la vào tháng 9 năm 1994 và 6.000 đô la vào tháng 10, và số 80,81 cùng 60,61 đô la mà Stranco nhận được khớp chính xác với tỉ lệ 99 trên 1. Sau khi ông mất, khoảng 40.000 đô la được phân phối để trả chi phí tang lễ và quản lý di sản, khoảng 65.000 đô la trong các năm 1995–1996 cho chi phí di sản và các khoản di tặng cụ thể, và 3.187.800 đô la vào năm 1995 để nộp thuế di sản liên bang và bang thay cho khối di sản. Điều tòa nhìn vào không phải hình thức tỉ lệ, mà là tiền thực sự đã trả hóa đơn của ai.
+
+Bổ sung 2 (phần giữ ngoài quá mỏng và tiền thuê trả chậm): Sau khi chuyển nhượng, số tiền Strangi thực sự có thể động vào chỉ còn hai tài khoản cộng lại 762 đô la, trong khi chi tiêu bình quân tháng trong hai tháng sau khi lập công ty gần 17.000 đô la, còn lương hưu 1.438 đô la và an sinh xã hội 1.559 đô la mỗi tháng thì không thấm vào đâu. Tiền thuê căn nhà đã chuyển nhượng chỉ được ghi sổ hai tháng và mãi đến tháng 1 năm 1997, hơn hai năm sau khi ông mất, mới thực sự được trả — chính việc trả chậm đó là một lợi ích kinh tế.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 (दूसरों के बिल चुकाने की साक्ष्य-शृंखला): Strangi के जीवनकाल में SFLP ने सितंबर 1994 में 8,000 डॉलर और अक्टूबर में 6,000 डॉलर वितरित किए, और Stranco को मिले 80.81 व 60.61 डॉलर 99-से-1 के अनुपात से ठीक मेल खाते हैं। उनकी मृत्यु के बाद भी लगभग 40,000 डॉलर अंतिम संस्कार व संपदा-प्रबंधन खर्चों में, 1995–1996 में लगभग 65,000 डॉलर संपदा खर्चों व विशिष्ट वसीयतों में, और 1995 में 3,187,800 डॉलर संपदा के संघीय व राज्य संपदा कर चुकाने में वितरित हुए। अदालत ने अनुपात का रूप नहीं देखा, यह देखा कि धन ने वास्तव में किसके बिल चुकाए।
+
+पूरक 2 (बाहर बची राशि की कमी और देर से दिया किराया): हस्तांतरण के बाद Strangi के हाथ में वास्तव में चलने लायक धन केवल दो खातों में कुल 762 डॉलर रह गया था, जबकि गठन के बाद के दो महीनों में उनका औसत मासिक खर्च लगभग 17,000 डॉलर था, और मासिक पेंशन 1,438 डॉलर व सामाजिक सुरक्षा 1,559 डॉलर उससे कहीं कम थे। पहले ही हस्तांतरित घर का किराया खातों में केवल दो माह दर्ज था और वास्तव में जनवरी 1997 में, मृत्यु के दो वर्ष से अधिक बाद, चुकाया गया — वह देरी स्वयं एक आर्थिक लाभ थी।
