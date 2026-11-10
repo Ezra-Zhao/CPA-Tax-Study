@@ -128,3 +128,24 @@ Khi nghỉ việc, số phận của các tài khoản này tách rõ theo loạ
 **California।** California संघीय HSA व्यवस्था का अनुसरण नहीं करता: योगदान राज्य-स्तर पर न कटौती योग्य है न अपवर्जित, और खाते की कमाई पर हर वर्ष California कर लगता है, जिसके लिए राज्य समायोजन चाहिए — नौकरी छोड़ने के बाद भी। § 125 health व dependent care FSA के लिए California मोटे तौर पर संघीय ढाँचे का पालन करता है (वर्तमान FTB मार्गदर्शन से जाँचें); छोटे नियोक्ता plans के लिए राज्य-स्तरीय निरंतरता Cal-COBRA से चलती है, जो संघीय COBRA से अलग व्यवस्था है।
 
 *व्यक्तिगत अध्ययन नोट; कर सलाह नहीं है। Plan दस्तावेज़, COBRA चुनाव सूचना और वर्तमान IRS व FTB मार्गदर्शन ही मान्य हैं। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+---
+## 补译增量（2026-11-10 07:55轮追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+보충 1 (캘리포니아의 HSA 비협조): 캘리포니아는 HSA의 연방 세제 혜택을 인정하지 않습니다. HSA 납입액은 주 소득세에서 공제되지도, 세전 임금 제외도 되지 않고, 계좌 안의 이자·배당·투자 수익은 캘리포니아에서 그해 과세되며 주 신고 시 Schedule CA 등 조정표에서 가산과 수익 신고를 해야 합니다. 이 조정은 퇴사로 달라지지 않습니다. 퇴사 후에도 HSA를 계속 보유하고 사용하는 한 매년 해야 합니다. 반면 § 125의 건강 FSA와 부양가족 돌봄 FSA의 세전 처리는 캘리포니아가 대체로 연방 틀을 따르며, 세부 사항은 FTB 현행 설명이 기준입니다.
+
+보충 2 (퇴사 주간의 행동 목록): 먼저 인사나 계획 관리자에게 날짜 세 개를 받아 두십시오. 보장 종료일, run-out 제출 마감일, 계획 연도 종료일입니다. 보장 기간 안에 발생한 의료비는 run-out 마감 전에 청구를 마치고 영수증과 EOB를 보관하십시오. COBRA 선거 통지를 받으면 먼저 underspent 계산을 해 보고 건강 FSA를 이어갈지 정하십시오. COBRA는 일반적으로 60일의 선거 기간이 있고 선택하면 소급 적용됩니다. HSA는 손댈 필요가 없지만, 수탁자를 바꾸고 싶으면 60일 롤오버의 기한과 횟수 제한을 피할 수 있는 trustee-to-trustee 직접 이전을 우선하십시오.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 (California không theo chế độ HSA liên bang): California không công nhận ưu đãi thuế liên bang của HSA: khoản đóng HSA không được khấu trừ và không được loại trừ khỏi lương chịu thuế ở cấp bang, còn lãi, cổ tức và lợi nhuận đầu tư trong tài khoản bị đánh thuế California trong năm phát sinh, phải cộng lại và khai trên bảng điều chỉnh của bang (Schedule CA) khi khai thuế bang. Việc nghỉ việc không thay đổi điều này: chừng nào còn giữ và dùng HSA sau khi nghỉ, điều chỉnh bang phải làm hằng năm. Ngược lại, xử lý trước thuế của health FSA và dependent care FSA theo § 125 thì California nhìn chung theo khung liên bang, chi tiết theo hướng dẫn FTB hiện hành.
+
+Bổ sung 2 (việc cần làm trong tuần nghỉ việc): Trước hết hãy lấy ba mốc ngày từ phòng nhân sự hoặc bên quản lý chương trình: ngày chấm dứt bảo hiểm, hạn cuối nộp hồ sơ run-out, và ngày kết thúc năm chương trình. Các chi phí y tế phát sinh trong thời gian còn bảo hiểm phải nộp xong trước hạn run-out, giữ lại biên lai và EOB. Khi nhận thông báo lựa chọn COBRA, hãy làm phép tính underspent trước rồi mới quyết định có tiếp tục health FSA hay không; COBRA thường có thời hạn lựa chọn 60 ngày và có hiệu lực hồi tố sau khi chọn. HSA không cần động vào; nếu muốn đổi bên ủy thác, hãy ưu tiên chuyển trực tiếp trustee-to-trustee để tránh giới hạn thời hạn và số lần của rollover 60 ngày.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 (California का HSA-अनुसरण न करना): California HSA की संघीय कर-व्यवस्था को नहीं मानता: HSA योगदान राज्य स्तर पर न कटौती योग्य है न वेतन से अपवर्जित, और खाते के भीतर का ब्याज, लाभांश व निवेश लाभ California में उसी वर्ष करयोग्य है, राज्य रिटर्न में Schedule CA जैसे समायोजन पत्रक पर जोड़कर घोषित करना होता है। नौकरी छोड़ने से यह नहीं बदलता: जब तक HSA रखा व इस्तेमाल किया जाता है, राज्य समायोजन हर वर्ष करना होगा। इसके विपरीत § 125 के health FSA व dependent care FSA की पूर्व-कर व्यवस्था में California मोटे तौर पर संघीय ढाँचे का पालन करता है, विवरण वर्तमान FTB मार्गदर्शन से लें।
+
+पूरक 2 (छोड़ने वाले सप्ताह की कार्य-सूची): पहले मानव संसाधन या plan प्रशासक से तीन तिथियाँ लें: कवरेज समाप्ति तिथि, run-out जमा की अंतिम तिथि, और plan वर्ष की समाप्ति तिथि। कवरेज के भीतर हुए चिकित्सा ख़र्च run-out अंतिम तिथि से पहले जमा कर दें और रसीदें व EOB संभालकर रखें। COBRA चुनाव सूचना मिलने पर पहले underspent गणना करें, फिर तय करें कि health FSA जारी रखना है या नहीं; COBRA में सामान्यतः 60 दिन की चुनाव अवधि होती है और चुनने पर यह पूर्वव्यापी होती है। HSA को छूने की ज़रूरत नहीं; custodian बदलना हो तो 60-दिन rollover की समय-सीमा व संख्या-सीमा से बचने के लिए trustee-to-trustee सीधा स्थानांतरण प्राथमिकता दें।
