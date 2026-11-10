@@ -128,3 +128,24 @@ Este artículo es solo una nota de estudio personal y no constituye asesoría fi
 Bài viết này chỉ là ghi chú học tập cá nhân, không cấu thành tư vấn thuế hay pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और कर या कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+
+## 补译增量（2026-11-10 追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+
+보충 1 (성공보수 조항은 성격을 바꾸지 못한다): 보수 구조에 성공 색채가 있어도 결론은 달라지지 않습니다. 같은 용역 약정 아래에서는 Tate & Lyle이나 제3자가 SCI 지분 50% 이상을 인수해도, SCI가 자본 재구성을 마쳐도 거래 가치의 0.40%를 지급하고, 어느 쪽도 일어나지 않으면 분기마다 고정 보수를 계속 지급합니다. 보는 것은 서비스의 실질이지 보수 산식의 형식이 아닙니다.
+
+보충 2 (오늘의 적용 순서는 법규 먼저, 판례 나중): 오늘의 출발점은 Reg. § 1.263(a)-5입니다. 먼저 해당 비용이 열거된 자본 거래를 촉진(facilitate)했는지 묻고, 촉진한 부분은 자본화합니다. 성공을 조건으로 하는 보수는 원칙적으로 촉진 보수로 추정되며, Rev. Proc. 2011-29의 70/30 선택 안전항으로 처리할 수 있습니다. 촉진하지 않은 나머지에 대해서만 Staley의 틀로 돌아가 방어 비용은 § 162, 포기된 대안은 § 165로 나눕니다. 순서를 뒤집으면 안 됩니다. 법규가 먼저, 판례의 기능 구분은 그다음입니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+Bổ sung 1 (điều khoản phí thành công không đổi được tính chất): Cơ cấu phí có màu sắc thành công cũng không làm đổi kết luận. Trong cùng một thỏa thuận dịch vụ, nếu Tate & Lyle hoặc bên khác mua ít nhất 50% cổ phần của SCI, hoặc SCI hoàn tất tái cấu trúc vốn, khoản phí 0,40% trên giá trị giao dịch vẫn phải trả; nếu cả hai đều không xảy ra thì phí cố định tiếp tục trả theo quý. Điều được xem xét là bản chất của dịch vụ, không phải hình thức của công thức tính phí.
+
+Bổ sung 2 (thứ tự áp dụng ngày nay là quy định trước, án lệ sau): Điểm xuất phát ngày nay là Reg. § 1.263(a)-5: trước hết hỏi chi phí có tạo thuận lợi (facilitate) cho một giao dịch vốn được liệt kê hay không, phần tạo thuận lợi thì vốn hóa. Phí chỉ trả khi thành công về nguyên tắc bị coi là phí tạo thuận lợi, và có thể xử lý bằng lựa chọn cảng an toàn 70/30 của Rev. Proc. 2011-29. Chỉ phần còn lại không tạo thuận lợi mới quay về khung Staley: chi phí phòng thủ vào § 162, các phương án bị bỏ vào § 165. Thứ tự không được đảo ngược: quy định trước, cách chia theo chức năng của án lệ sau.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 (सफलता-शुल्क खंड स्वरूप नहीं बदलता): शुल्क-व्यवस्था में सफलता का रंग होने से निष्कर्ष नहीं बदलता। उसी सेवा-करार के तहत, Tate & Lyle या कोई अन्य SCI के कम-से-कम 50% शेयर खरीदे, या SCI पूँजी पुनर्गठन पूरा करे — दोनों दशाओं में लेन-देन मूल्य का 0.40% देय होता है; और यदि दोनों में से कुछ न हो, तो त्रैमासिक निश्चित शुल्क चलता रहता है। देखा सेवा का सार जाता है, शुल्क-सूत्र का रूप नहीं।
+
+पूरक 2 (आज का क्रम: पहले विनियम, फिर नज़ीर): आज का प्रारंभ बिंदु Reg. § 1.263(a)-5 है: पहले पूछें कि लागत ने किसी सूचीबद्ध पूँजी लेन-देन को सुगम (facilitate) किया या नहीं; सुगम करने वाला भाग पूँजीकृत होता है। सफलता पर ही देय शुल्क सिद्धांततः सुगमकारी माना जाता है, और उसे Rev. Proc. 2011-29 के 70/30 चुनाव सुरक्षित-बंदरगाह से निपटाया जा सकता है। केवल शेष असुगमकारी भाग Staley के ढाँचे में लौटता है — रक्षा लागत § 162 में, त्यागे गए विकल्प § 165 में। क्रम उलटना नहीं है: पहले विनियम, फिर नज़ीर का कार्य-आधारित विभाजन।
