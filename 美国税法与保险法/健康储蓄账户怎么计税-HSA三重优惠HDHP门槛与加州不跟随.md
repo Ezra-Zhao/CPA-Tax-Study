@@ -110,3 +110,24 @@ Bài viết này là ghi chú học tập cá nhân, không cấu thành tư v�
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 यह लेख केवल व्यक्तिगत अध्ययन नोट है और कर सलाह नहीं है। पात्रता, योगदान सीमाओं और राज्य व्यवहार के लिए वर्तमान IRS मार्गदर्शन, प्रकाशन 969 और California नियमों पर भरोसा करें, और महत्वपूर्ण मामलों में योग्य कर पेशेवर से सलाह लें।
+
+
+## 补译增量（2026-11-10 21:55轮追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역·初译待校)
+
+보충 1 (자격선과 초과 납입의 대가): 자격의 선이 가장 먼저 지켜야 할 선입니다. HDHP에 가입해 있어야 하고, 일반적인 저공제 플랜이나 배우자의 비 HDHP 플랜처럼 자격을 깨는 다른 보장이 있으면 안 됩니다. Medicare에 등록하는 순간 자격이 끝나고 그 뒤로는 납입할 수 없습니다. 한도를 넘겨 넣은 초과 납입에는 제4973조에 따라 해마다 6%의 소비세가 붙고, 제때 빼내지 않으면 그 세금이 해마다 계속 붙습니다.
+
+보충 2 (캘리포니아 비연계와 휴대성): 캘리포니아는 연방의 HSA 규칙을 따르지 않습니다. 납입액은 주세에서 공제되지 않고 계좌 안의 수익에도 캘리포니아 세금이 붙으므로, 주세 신고 때마다 별도 조정을 해야 합니다. 계좌는 개인 소유라 직장을 옮기거나 은퇴해도 그대로 따라가며, 연말에 쓰지 않으면 사라지는 다수의 FSA와 달리 잔액이 해를 넘겨 계속 쌓입니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Bổ sung 1 (tuyến tư cách và cái giá của đóng vượt): Tuyến tư cách là tuyến phải giữ đầu tiên: phải tham gia HDHP và không được có bảo hiểm khác làm mất tư cách, chẳng hạn chương trình có mức khấu trừ thấp thông thường hoặc chương trình không phải HDHP của vợ hoặc chồng; ngay khi ghi danh vào Medicare, tư cách chấm dứt và không thể đóng góp thêm nữa. Phần đóng vượt hạn mức chịu thuế tiêu thụ 6% mỗi năm theo mục 4973, và nếu không rút ra kịp thời thì khoản thuế đó cứ lặp lại hằng năm.
+
+Bổ sung 2 (California không đi theo và tính mang theo được): California không đi theo quy tắc HSA của liên bang: khoản đóng góp không được khấu trừ trong thuế bang và phần sinh lời trong tài khoản cũng bị California đánh thuế, nên mỗi năm khi khai thuế bang đều phải điều chỉnh riêng. Tài khoản thuộc sở hữu cá nhân, mang theo được khi đổi việc hay nghỉ hưu, và khác với phần lớn FSA vốn không dùng hết thì mất, số dư của HSA cứ chuyển tiếp qua từng năm.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद·初译待校)
+
+पूरक 1 (पात्रता रेखा और अधिक योगदान की कीमत): पात्रता की रेखा सबसे पहले बचानी होती है: HDHP से जुड़ा होना चाहिए और कोई अयोग्य बनाने वाला अन्य कवरेज नहीं होना चाहिए, जैसे सामान्य कम कटौती योजना या जीवनसाथी की ग़ैर-HDHP योजना; Medicare में नामांकन होते ही पात्रता समाप्त हो जाती है और उसके बाद योगदान नहीं हो सकता। सीमा से अधिक डाले गए योगदान पर धारा 4973 के तहत हर साल 6 प्रतिशत excise tax लगता है, और समय पर न निकाला जाए तो यह कर हर साल लगता रहता है।
+
+पूरक 2 (California की अग़ैर-अनुरूपता और पोर्टेबिलिटी): California संघीय HSA नियमों का पालन नहीं करता: योगदान राज्य कर में कटौती योग्य नहीं है और खाते के भीतर की आय पर भी California कर लगाता है, इसलिए राज्य विवरणी में हर साल अलग समायोजन करना पड़ता है। खाता व्यक्तिगत स्वामित्व का होता है, नौकरी बदलने या सेवानिवृत्ति पर भी साथ चलता है, और अधिकांश FSA के विपरीत — जिनमें न उपयोग हुई राशि समाप्त हो जाती है — HSA की शेष राशि साल-दर-साल आगे बढ़ती रहती है।

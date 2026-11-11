@@ -120,3 +120,24 @@ California में संघीय कार्यक्रम के सम�
 *个人学习笔记，不构成税务建议。来源：Federal Crop Insurance Act, 7 U.S.C. §1501 et seq.（§1508(e) 补贴结构）；USDA RMA 产品与费率口径（CAT、buy-up、单元划分，以当期 RMA 公布为准）；IRC §61、§162、§451 作物保险赔款递延选举与 IRS Publication 225 (Farmer's Tax Guide)；§447、§464 仅作指针。个案请咨询持牌 CPA 或税务律师。*
 
 *Personal study notes only; not tax advice. Sources: Federal Crop Insurance Act, 7 U.S.C. §1501 et seq. (§1508(e) subsidy structure); USDA RMA product and rate guidance (CAT, buy-up, unit structure; follow current RMA publications); IRC §§61, 162 and the section 451 crop-insurance-proceeds deferral election with IRS Publication 225 (Farmer's Tax Guide); §§447 and 464 as pointers only. For a specific matter, consult a licensed CPA or tax attorney.*
+
+
+## 补译增量（2026-11-10 21:55轮追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역·初译待校)
+
+보충 1 (CAT 층과 buy-up의 맞바꿈): 최하층인 CAT(거대재해 보장)는 농민의 실제 생산 이력 수량(APH)의 절반을 보장하고 배상 가격은 RMA 공표 가격의 55%로 정해지며, 농민은 보험료를 거의 내지 않고 행정 수수료 한 건만 냅니다. 이 층은 수확 전무 수준의 재난만 막을 뿐 소득의 잔잔한 흐름까지는 지키지 않습니다. 그 위의 buy-up에서는 보장 수준이 높을수록 농민 본인이 내는 보험료가 늘고 연방 보조 비율이 낮아지는데, 이 체감 구조는 제1508조 (e)항의 보조표에 들어 있습니다. 단위 나누기에서는 기업 단위가 같은 작물의 전 카운티 필지를 한 묶음으로 묶어 보험료 할인이 가장 크지만, 한 필지가 전멸해도 배상을 촉발하기 가장 어렵다는 맞바꿈이 단위 선택의 진짜 관건입니다.
+
+보충 2 (보조 몫의 세무 처리와 제451조 연기 선거): 농민이 스스로 낸 보험료 몫은 제162조의 일반 사업비로서 낸 해 또는 발생한 해에 공제되고, 연방 보조 몫은 농민의 손을 거치지 않으므로 소득도 생기지 않고 공제도 생기지 않습니다. 배상금은 사업 소득의 일부로서 제61조 총소득에 들어가 Schedule F에서 농산물 판매 소득과 나란히 보고됩니다. 배상금이 재해 다음 해에 도착하는 경우, 피해를 입은 작물의 소득을 다음 해 판매로 미루는 것이 확립된 관행임을 보일 수 있는 현금법 농민은 제451조에 딸린 작물보험 수익 연기 선거로 그 금액을 다음 해에 포함할 수 있습니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Bổ sung 1 (lớp CAT và đánh đổi của buy-up): Lớp thấp nhất, bảo hiểm rủi ro thảm họa (CAT), bảo đảm một nửa sản lượng lịch sử thực tế (APH) của nông dân, giá bồi thường lấy 55% giá do RMA công bố, và nông dân hầu như không trả phí bảo hiểm mà chỉ trả một khoản phí hành chính; lớp này chỉ chống được thảm họa ở mức mất trắng, chứ không giữ được dòng thu nhập nhỏ giọt. Ở tầng buy-up phía trên, mức bảo đảm càng cao thì phần phí bảo hiểm nông dân tự trả càng nhiều và tỷ lệ trợ cấp của liên bang càng thấp, cấu trúc giảm dần này nằm trong bảng trợ cấp tại khoản (e) của mục 1508. Về cách chia đơn vị, đơn vị doanh nghiệp gộp mọi thửa ruộng của cùng một cây trồng trong toàn huyện thành một khối chung, được giảm phí nhiều nhất, nhưng khi một thửa mất trắng thì lại khó kích hoạt bồi thường nhất — đó là đánh đổi thật sự khi chọn đơn vị.
+
+Bổ sung 2 (xử lý thuế của phần trợ cấp và lựa chọn hoãn theo mục 451): Phần phí bảo hiểm do nông dân tự trả là chi phí kinh doanh thông thường theo mục 162, được khấu trừ vào năm trả hoặc năm dồn tích; phần do liên bang trợ cấp không đi qua tay nông dân, nên không tạo ra thu nhập và cũng không tạo ra khấu trừ. Tiền bồi thường là một phần của thu nhập hoạt động, tính vào tổng thu nhập theo mục 61 và báo cáo trên Schedule F cùng hàng với thu nhập bán nông sản. Khi tiền bồi thường đến vào năm sau năm xảy ra thiên tai, nông dân theo phương pháp tiền mặt, nếu chứng minh được rằng theo thông lệ đã thành nếp của mình thu nhập của cây trồng bị thiệt hại vốn sẽ được hoãn sang năm sau để bán, có thể dùng lựa chọn hoãn tiền bồi thường bảo hiểm cây trồng gắn với mục 451 để tính khoản tiền đó vào năm sau.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद·初译待校)
+
+पूरक 1 (CAT परत और buy-up का सौदा): सबसे निचली परत, आपदा जोखिम संरक्षण (CAT), किसान के वास्तविक उत्पादन इतिहास उपज (APH) के आधे की गारंटी देती है, मुआवज़ा मूल्य RMA द्वारा घोषित मूल्य का 55 प्रतिशत लिया जाता है, किसान लगभग कोई प्रीमियम नहीं देता, केवल एक प्रशासनिक शुल्क देता है, और यह परत केवल पूरी फ़सल नष्ट होने जैसी आपदा से बचाती है, आय के महीन प्रवाह को नहीं। उसके ऊपर buy-up में, गारंटी स्तर जितना ऊँचा होता है, किसान का स्वयं चुकाया प्रीमियम उतना अधिक और संघीय अनुदान का अनुपात उतना कम होता है — यह घटती संरचना धारा 1508 के खंड (e) की अनुदान तालिका में है। इकाई-विभाजन में उद्यम इकाई एक ही फ़सल के पूरे काउंटी के खेतों को एक साथ बाँधती है, जिससे प्रीमियम छूट सबसे बड़ी मिलती है, किंतु एक खेत पूरी तरह नष्ट होने पर मुआवज़ा चालू करना सबसे कठिन हो जाता है — इकाई चुनते समय असली सौदा यही है।
+
+पूरक 2 (अनुदान हिस्से का कर-व्यवहार और धारा 451 का स्थगन चुनाव): किसान द्वारा चुकाया गया प्रीमियम हिस्सा धारा 162 के तहत सामान्य व्यावसायिक व्यय है, भुगतान या उपार्जन के वर्ष में कटौती योग्य; संघीय अनुदान वाला हिस्सा किसान के हाथ से गुज़रता ही नहीं, इसलिए न आय बनती है न कटौती। मुआवज़ा परिचालन आय का हिस्सा है, धारा 61 के तहत सकल आय में शामिल होकर Schedule F पर फ़सल बिक्री आय के साथ रिपोर्ट होता है। यदि मुआवज़ा आपदा के अगले वर्ष पहुँचे, तो नकदी-विधि वाला किसान, जो यह दिखा सके कि क्षतिग्रस्त फ़सल की आय अगले वर्ष तक टालना उसकी स्थापित प्रथा है, धारा 451 से जुड़े फ़सल बीमा आय स्थगन चुनाव के तहत उस राशि को अगले वर्ष में शामिल कर सकता है।
