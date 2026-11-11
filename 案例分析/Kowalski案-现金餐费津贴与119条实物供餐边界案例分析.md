@@ -108,3 +108,23 @@ Este artículo es solo una nota personal de estudio y no constituye asesoría fi
 Bài này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn thuế hay pháp lý. Việc một phúc lợi lao động có chịu thuế hay không phụ thuộc vào hình thức chi trả và điều khoản cụ thể của chương trình; hãy theo văn bản IRC hiện hành và tài liệu chương trình, đồng thời tham vấn chuyên gia thuế có giấy phép cho trường hợp cụ thể. (Bản dịch sơ bộ, chờ hiệu đính.)
 
 यह लेख केवल व्यक्तिगत अध्ययन नोट है और कर या विधिक परामर्श नहीं है। किसी कर्मचारी लाभ पर कर लगेगा या नहीं, यह भुगतान के रूप और योजना की विशिष्ट शर्तों पर निर्भर करता है; वर्तमान IRC पाठ और योजना दस्तावेज़ों का पालन करें और विशिष्ट मामले के लिए लाइसेंसधारी कर पेशेवर से परामर्श करें। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
+
+## 补译增量（2026-11-10 18:55轮追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역·初译待校)
+
+보충 1 (제119조(a)의 두 요건과 1954년 입법의 목적): 제119조(a)의 제외에는 단단한 조건이 두 개 붙습니다. 식사가 고용주 또는 고용주를 대신한 자에 의해 고용주의 사업장(business premises)에서 제공될 것, 그리고 고용주의 편의(for the convenience of the employer)를 위해 제공될 것입니다. 의회가 1954년에 이 조문을 만든 목적은 그 전부터 이어지던 현물 급부의 과세 논란을 명확한 규칙 하나로 끝내는 데 있었고, 제외의 대상은 현물 급부로 한정됩니다. 현금 수당까지 제외가 미치면 어떤 급여든 수당이라는 이름으로 바꿔 달아 제61조의 총소득 정의를 비울 수 있다는 점이, 현금을 식사 자체와 동일시할 수 없는 또 하나의 이유입니다.
+
+보충 2 (군인 수당과의 대비와 다섯 가지 점검): 군인의 주택수당(BAH)과 급식수당(BAS)이 현금인데도 비과세인 이유는 제119조가 아니라 별도의 명문 조항에 있습니다. 제134조가 적격 군사 급부(qualified military benefit)를 통째로 제외하고, 그 급부의 근거는 37 U.S.C. 제403조로, 의회가 전용 조문으로 비과세를 명문화한 경우입니다. 변형 문제를 풀 때는 다섯 가지를 순서대로 묻습니다. 급부가 현금인가 현물인가, 고용주의 사업장에서 제공되는가, 근로자가 아닌 고용주의 편의를 위한 것인가, 제119조 밖에 전용 제외 법원이 있는가, 고용주가 구내식당을 운영하거나 식사를 직접 제공하면 결론이 뒤집히는가입니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Bổ sung 1 (hai điều kiện của Điều 119(a) và mục đích lập pháp năm 1954): Việc loại trừ của Điều 119(a) gắn với hai điều kiện cứng: bữa ăn phải do chủ lao động hoặc người thay mặt chủ lao động cung cấp tại cơ sở kinh doanh của chủ lao động (business premises), và phải vì sự thuận tiện của chủ lao động (for the convenience of the employer). Mục đích của Quốc hội khi ban hành điều khoản này năm 1954 là chấm dứt bằng một quy tắc rõ ràng duy nhất các tranh chấp về đánh thuế phúc lợi bằng hiện vật vốn kéo dài trước đó, và đối tượng loại trừ chỉ giới hạn ở hiện vật. Nếu việc loại trừ vươn tới cả trợ cấp tiền mặt, mọi khoản lương đều có thể đổi tên thành trợ cấp và định nghĩa thu nhập gộp tại Điều 61 sẽ bị rỗng ruột — đó là thêm một lý do nữa khiến tiền mặt không thể được coi ngang hàng với chính bữa ăn.
+
+Bổ sung 2 (đối chiếu với trợ cấp quân nhân và năm câu hỏi kiểm tra): Lý do trợ cấp nhà ở (BAH) và trợ cấp ăn uống (BAS) của quân nhân tuy bằng tiền mặt vẫn được miễn thuế không nằm ở Điều 119 mà ở một điều khoản minh thị riêng: Điều 134 loại trừ toàn bộ nhóm phúc lợi quân sự đủ điều kiện (qualified military benefit), và nguồn ủy quyền của các khoản trợ cấp đó là 37 U.S.C. Điều 403, tức Quốc hội đã minh thị lập pháp miễn thuế bằng một điều khoản chuyên dụng. Khi giải các biến thể, hãy hỏi năm câu theo thứ tự: phúc lợi là tiền mặt hay hiện vật, có được cung cấp tại cơ sở của chủ lao động không, vì thuận tiện của chủ lao động chứ không phải của người lao động, có điều khoản loại trừ chuyên dụng nào ngoài Điều 119 không, và kết luận có đổi chiều không nếu chủ lao động tự mở nhà ăn hoặc cung cấp bữa ăn trực tiếp.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद·初译待校)
+
+पूरक 1 (धारा 119(a) की दो शर्तें और 1954 के विधान का उद्देश्य): धारा 119(a) के बहिष्करण से दो कठोर शर्तें जुड़ी हैं: भोजन नियोक्ता द्वारा या उसकी ओर से नियोक्ता के व्यावसायिक परिसर (business premises) में दिया जाए, और वह नियोक्ता की सुविधा (for the convenience of the employer) के लिए दिया जाए। कांग्रेस ने यह प्रावधान 1954 में इस उद्देश्य से बनाया था कि वस्तु-रूप लाभों पर पहले से चले आ रहे कर-विवादों को एक स्पष्ट नियम से समाप्त किया जाए, और बहिष्करण का क्षेत्र वस्तु-रूप तक ही सीमित है। यदि बहिष्करण नकद भत्तों तक भी पहुँच जाए, तो हर वेतन को भत्ता नाम देकर धारा 61 की सकल आय परिभाषा खोखली की जा सकती है — यही एक और कारण है कि नकद को स्वयं भोजन के बराबर नहीं माना जा सकता।
+
+पूरक 2 (सैन्य भत्तों से तुलना और पाँच-प्रश्न जाँच): सैन्य आवास भत्ता (BAH) और निर्वाह भत्ता (BAS) नकद होते हुए भी कर-मुक्त क्यों हैं, इसका कारण धारा 119 में नहीं, एक अलग स्पष्ट प्रावधान में है: धारा 134 योग्य सैन्य लाभों (qualified military benefit) को समूह के रूप में बाहर रखती है, और उन भत्तों का अधिकार-स्रोत 37 U.S.C. धारा 403 है, अर्थात कांग्रेस ने समर्पित प्रावधान से कर-मुक्ति स्पष्ट लिखी है। रूपांतर प्रश्नों को हल करते समय पाँच प्रश्न क्रम से पूछें: लाभ नकद है या वस्तु-रूप, क्या वह नियोक्ता के परिसर में दिया जाता है, क्या वह कर्मचारी की नहीं नियोक्ता की सुविधा के लिए है, क्या धारा 119 के बाहर कोई समर्पित बहिष्करण है, और यदि नियोक्ता कैंटीन चलाए या भोजन सीधे दे तो क्या निष्कर्ष पलटेगा।
