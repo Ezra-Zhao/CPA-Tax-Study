@@ -116,3 +116,20 @@ Notas personales de estudio; no constituye asesoramiento fiscal. (初译待校)
 개인 학습 노트이며 세무 자문이 아닙니다. (初译待校)
 Ghi chú học tập cá nhân, không cấu thành tư vấn thuế. (初译待校)
 व्यक्तिगत अध्ययन नोट; कर सलाह नहीं है। (初译待校)
+
+## 补译增量（2026-11-11 09:55轮）
+
+### 한국어 (초역·初译待校)
+
+- (보충) 하급심의 분열 경위를 다시 적습니다. Badaracco 사건에서 조세법원은 Klemp v. Commissioner, 77 T.C. 201 (1981)을 따라 수정신고서가 제출되면 3년 시계가 돌기 시작한다고 보아 납세자 승소로 판결했고, Deleet 사건에서 지방법원도 같은 방향으로 납세자 승소 판결을 했습니다. 제3순회법원은 두 항소를 병합해 2대 1로 두 판결을 모두 뒤집었고(693 F.2d 298 (1982)), 연방대법원은 순회법원 사이의 분열을 해소하기 위해 상고허가를 냈습니다(461 U.S. 925 (1983)).
+- (보충) 다수 의견의 경계와 현행 율을 다시 적습니다. 판결은 1984년 1월 17일, Blackmun 대법관의 의견으로 8대 1이었으며 Stevens 대법관만이 반대했습니다. 기간이 무제한이라도 정부는 원 신고서가 탈세 의도를 가진 허위·사기 신고였음을 여전히 증명해야 합니다. Badaracco 측은 그 성격을 인정했고, Deleet는 약식판결 심사 기준상 사기 신고를 한 것으로 간주됐습니다. 율도 구분하십시오. 사건 당시 제6653(b)조는 50%로 200,000 × 50% = 100,000달러였지만, 현행 민사 사기 과징금은 제6663조의 75%로 200,000 × 75% = 150,000달러입니다.
+
+### Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+- (Bổ sung) Ghi lại diễn biến chia rẽ ở cấp dưới: trong vụ Badaracco, Tòa Thuế đi theo Klemp v. Commissioner, 77 T.C. 201 (1981), cho rằng khi tờ khai sửa đổi đã nộp thì đồng hồ ba năm bắt đầu chạy, và xử cho người nộp thuế thắng; trong vụ Deleet, Tòa Quận cũng xử cho người nộp thuế thắng theo cùng hướng. Tòa Phúc thẩm Khu vực 3 xét gộp hai kháng cáo và đảo ngược cả hai với tỷ lệ 2 trên 1 (693 F.2d 298 (1982)), và Tòa Tối cao cấp lệnh xem xét để giải quyết xung đột giữa các khu vực (461 U.S. 925 (1983)).
+- (Bổ sung) Ghi lại ranh giới của ý kiến đa số và tỷ lệ hiện hành: phán quyết ra ngày 17 tháng 1 năm 1984, do Thẩm phán Blackmun viết, với tỷ lệ 8 trên 1, chỉ Thẩm phán Stevens bất đồng. Dù thời hạn là vô hạn, chính phủ vẫn phải chứng minh tờ khai gốc thực sự là tờ khai sai hoặc gian lận với ý định trốn thuế; phía Badaracco đã thừa nhận tính chất đó, còn Deleet được coi như đã nộp tờ khai gian lận theo chuẩn xét xử rút gọn. Cũng cần tách tỷ lệ phạt: điều 6653(b) khi đó là 50%, tức 200.000 × 50% = 100.000 đô la, còn khoản phạt gian lận dân sự hiện hành ở điều 6663 là 75%, tức 200.000 × 75% = 150.000 đô la.
+
+### हिन्दी (प्रारंभिक अनुवाद·初译待校)
+
+- (पूरक) निचली अदालतों में मतभेद की शृंखला फिर से दर्ज करें: Badaracco में Tax Court ने Klemp v. Commissioner, 77 T.C. 201 (1981) का अनुसरण करते हुए माना कि संशोधित return दाख़िल होते ही तीन-वर्षीय घड़ी चल पड़ती है, और करदाता के पक्ष में निर्णय दिया; Deleet में जिला न्यायालय ने भी उसी दिशा में करदाता के पक्ष में निर्णय दिया। तीसरे सर्किट ने दोनों अपीलों को साथ सुनकर 2-1 मत से दोनों को उलट दिया (693 F.2d 298 (1982)), और सर्वोच्च न्यायालय ने सर्किटों के मतभेद को सुलझाने के लिए certiorari स्वीकार किया (461 U.S. 925 (1983))।
+- (पूरक) बहुमत की सीमा और वर्तमान दर फिर से दर्ज करें: निर्णय 17 जनवरी 1984 को न्यायमूर्ति Blackmun की राय से 8-1 मत से आया; केवल न्यायमूर्ति Stevens असहमत थे। असीमित अवधि होते हुए भी सरकार को अब भी सिद्ध करना होगा कि मूल return वास्तव में कर-चोरी के आशय वाली झूठी या धोखाधड़ीपूर्ण return थी; Badaracco पक्ष ने वह चरित्र स्वीकार किया था, और Deleet को summary judgment की समीक्षा में धोखाधड़ीपूर्ण return दाख़िल करने वाला माना गया था। जुर्माने की दर भी अलग रखें: तत्कालीन धारा 6653(b) 50 प्रतिशत थी, अर्थात् 200,000 × 50% = 100,000 डॉलर, जबकि वर्तमान civil धोखाधड़ी जुर्माना धारा 6663 में 75 प्रतिशत है, अर्थात् 200,000 × 75% = 150,000 डॉलर।
