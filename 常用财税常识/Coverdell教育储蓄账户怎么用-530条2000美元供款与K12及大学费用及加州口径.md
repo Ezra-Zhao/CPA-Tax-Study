@@ -81,3 +81,18 @@ IRC § 530 के तहत Coverdell शिक्षा बचत खाता 
 **声明**：本篇为个人学习笔记，不构成税务建议。具体事务请咨询持牌 CPA 或税务律师；文中 § 530 相位区间、供款上限与合格费用清单以 IRS Publication 970 当期版本为准，加州口径以 FTB 当期指引为准。
 
 *Disclaimer: Personal study notes only, not tax advice. / Nota: notas personales de estudio, no asesoría fiscal. / 개인 학습 노트이며 세무 조언이 아닙니다. / Ghi chú học tập cá nhân, không phải tư vấn thuế. / व्यक्तिगत अध्ययन नोट, कर सलाह नहीं।*
+
+
+## 补译增量（2026-11-11 本轮）
+
+### 한국어 (초역 · 初译待校)
+
+Coverdell ESA의 연간 상한은 계좌 수가 아니라 수혜자 한 사람 기준으로 합산된다. 누가, 몇 개 계좌에 넣든 수혜자 1인당 연간 총 2,000달러가 천장이다. 출자자 쪽 소득 문턱도 함께 봐야 한다. §530 기준 수정 AGI가 독신 95,000–110,000달러, 부부 합산 190,000–220,000달러 구간에 들면 넣을 수 있는 금액이 비례해 줄고, 이 구간 숫자는 법문에 고정되어 물가 연동이 없다. 여러 친족이 따로 넣다가 합산이 2,000달러를 넘으면 초과분이 생기는데, 기한 안에 수익째로 빼내지 않으면 출자자 쪽에 §4973의 6% 소비세가 붙는 구조는 다른 초과 납입 규정과 같다. 넣기 전에 가족끼리 합산표부터 맞추는 것이 실무 순서다.
+
+### Tiếng Việt (Bản dịch sơ bộ · 初译待校)
+
+Hạn mức hằng năm của Coverdell ESA tính theo từng người thụ hưởng chứ không theo số tài khoản: dù ai góp và góp vào bao nhiêu tài khoản, tổng số tiền góp cho một người thụ hưởng mỗi năm tối đa là 2.000 đô la. Cũng phải xem ngưỡng thu nhập phía người góp: MAGI theo §530 nằm trong khoảng 95.000–110.000 đô la với người độc thân, hoặc 190.000–220.000 đô la với vợ chồng khai chung, thì số tiền được góp giảm theo tỷ lệ, và các con số này ghi cố định trong luật, không điều chỉnh theo lạm phát. Nếu nhiều người thân cùng góp mà tổng vượt 2.000 đô la thì phát sinh phần vượt; phần vượt không được rút ra kèm lợi nhuận trong thời hạn sẽ khiến phía người góp chịu thuế tiêu thụ 6% theo §4973, cùng logic với các quy định vượt mức góp khác. Thứ tự thực tế là đối chiếu bảng tổng hợp của cả gia đình trước khi góp.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+Coverdell ESA की वार्षिक सीमा खातों की संख्या से नहीं, प्रति लाभार्थी से गिनी जाती है: कोई भी डाले और कितने भी खातों में डाले, एक लाभार्थी के लिए कुल योगदान प्रति वर्ष अधिकतम 2,000 डॉलर है। योगदानकर्ता की आय-सीमा भी देखनी होती है: §530 के अनुसार संशोधित AGI एकल के लिए 95,000–110,000 डॉलर और संयुक्त दाखिल करने वालों के लिए 190,000–220,000 डॉलर के चरण-समाप्ति दायरे में हो तो योगदान अनुपात में घटता है, और ये अंक कानून में स्थिर हैं, मुद्रास्फीति से समायोजित नहीं होते। कई संबंधी अलग-अलग डालकर कुल 2,000 डॉलर से अधिक कर दें तो अतिरिक्त योगदान बनता है; यदि वह समय-सीमा के भीतर आय सहित न निकाला जाए तो योगदानकर्ता पर §4973 का 6% उत्पाद शुल्क लगता है, जो अन्य अतिरिक्त-योगदान नियमों जैसा ही तर्क है। व्यवहारिक क्रम है: डालने से पहले परिवार का संयुक्त हिसाब मिलाना।
