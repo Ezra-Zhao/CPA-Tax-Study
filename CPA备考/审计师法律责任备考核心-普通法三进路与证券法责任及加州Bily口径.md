@@ -109,3 +109,23 @@ California Bily v. Arthur Young & Co., 3 Cal.4th 370 (1992) (California Supreme 
 ## 来源与声明
 
 来源：Ultramares Corp. v. Touche, 255 N.Y. 170, 174 N.E. 441 (1931)；Credit Alliance Corp. v. Arthur Andersen & Co., 65 N.Y.2d 536 (1985)；Restatement (Second) of Torts § 552；Rusch Factors, Inc. v. Levin, 284 F. Supp. 22 (D.R.I. 1968)；Rosenblum, Inc. v. Adler, 93 N.J. 324 (1983)；Securities Act of 1933 § 11；Securities Exchange Act of 1934 § 10(b) 与 Rule 10b-5；Ernst & Ernst v. Hochfelder, 425 U.S. 185 (1976)；Private Securities Litigation Reform Act of 1995 的 proportionate liability 规则；Bily v. Arthur Young & Co., 3 Cal.4th 370 (1992)；AICPA CPA Exam Blueprints（AUD／REG 法律责任专题）。文中算例为自编教学示例，数字已本地两遍复算。个人学习笔记，不构成法律/税务/医疗建议。
+
+## 补译增量（2026-11-10 23:55轮追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역·初译待校)
+
+보충 1 (Credit Alliance 근접 계약관계 3요건): 뉴욕의 Credit Alliance Corp. v. Arthur Andersen & Co., 65 N.Y.2d 536 (1985)는 근접 계약관계 접근을 세 가지 요건으로 고정했습니다. (1) 감사인은 재무제표가 특정 목적에 사용될 것을 알아야 하고, (2) 그 제표를 신뢰할 특정한 알려진 상대방이 있음을 알아야 하며, (3) 감사인과 그 상대방을 연결하는 행위가 있어야 합니다. 세 가지가 모두 갖춰질 때만 감사인은 계약관계가 없는 제3자에게 통상 과실 책임을 집니다.
+
+보충 2 (비례 책임 산례의 대조): 본문의 교수용 산례를 다시 대조합니다. 손실 1,000,000달러에 감사인의 과실 비율 30%를 적용하면 비례 책임은 1,000,000 × 30% ＝ 300,000달러입니다. 연대 책임이고 공동 피고가 지급 능력이 없으면 감사인의 노출은 전액 1,000,000달러까지 커질 수 있고, 두 방식의 차이는 1,000,000 － 300,000 ＝ 700,000달러입니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Bổ sung 1 (ba điều kiện của hướng tiếp cận gần-hợp-đồng trong vụ Credit Alliance): Vụ Credit Alliance Corp. v. Arthur Andersen & Co., 65 N.Y.2d 536 (1985) của New York cố định hướng tiếp cận quan hệ gần với hợp đồng thành ba điều kiện: (1) kiểm toán viên phải biết báo cáo tài chính sẽ được dùng cho một mục đích cụ thể; (2) phải biết có một bên cụ thể đã biết danh tính sẽ tin cậy vào báo cáo đó; và (3) phải có hành vi liên kết kiểm toán viên với bên đó. Chỉ khi cả ba điều kiện cùng có mặt, kiểm toán viên mới chịu trách nhiệm sơ suất thông thường đối với bên thứ ba không có quan hệ hợp đồng.
+
+Bổ sung 2 (đối chiếu ví dụ trách nhiệm theo tỷ lệ): Đối chiếu lại ví dụ giảng dạy trong bài: thiệt hại 1.000.000 đô la nhân với tỷ lệ lỗi 30% của kiểm toán viên cho trách nhiệm theo tỷ lệ là 300.000 đô la; nếu là trách nhiệm liên đới và đồng bị đơn không có khả năng thanh toán, mức phơi nhiễm của kiểm toán viên có thể lên tới toàn bộ 1.000.000 đô la, và chênh lệch giữa hai cách là 1.000.000 trừ 300.000 bằng 700.000 đô la.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद·初译待校)
+
+पूरक 1 (Credit Alliance के निकट-अनुबंध दृष्टिकोण की तीन शर्तें): न्यूयॉर्क के Credit Alliance Corp. v. Arthur Andersen & Co., 65 N.Y.2d 536 (1985) ने निकट-अनुबंध दृष्टिकोण को तीन शर्तों में बाँधा: (1) लेखापरीक्षक को ज्ञात हो कि वित्तीय विवरण किसी विशिष्ट उद्देश्य के लिए उपयोग होंगे; (2) उसे ज्ञात हो कि कोई विशिष्ट ज्ञात पक्ष उन विवरणों पर भरोसा करेगा; और (3) कोई आचरण लेखापरीक्षक को उस पक्ष से जोड़ता हो। केवल जब तीनों शर्तें एक साथ पूरी हों, तभी लेखापरीक्षक अनुबंध-संबंध रहित तीसरे पक्ष के प्रति साधारण लापरवाही के लिए उत्तरदायी होता है।
+
+पूरक 2 (आनुपातिक दायित्व के उदाहरण का मिलान): लेख के शिक्षण उदाहरण को फिर से मिलाएँ: हानि 1,000,000 डॉलर पर लेखापरीक्षक की दोष-दर 30% लगाने से आनुपातिक दायित्व 1,000,000 × 30% = 300,000 डॉलर होता है; यदि दायित्व संयुक्त हो और सह-प्रतिवादी भुगतान में असमर्थ हो, तो लेखापरीक्षक का जोखिम पूरे 1,000,000 डॉलर तक जा सकता है, और दोनों के बीच का अंतर 1,000,000 − 300,000 = 700,000 डॉलर है।
