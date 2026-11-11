@@ -135,3 +135,23 @@ Ba đường nối phải tách bạch. Thứ nhất, chuẩn mực 101 (nghỉ 
 *来源口径：GASB Statement No. 102, Certain Risk Disclosures（2023 年 12 月），第 5–10 段（定义、三项披露条件、披露内容与生效及过渡）；AICPA CPA Exam Blueprint 之 BAR 政府财务报告范围；加州主计长办公室 GASB 更新指引。具体适用以准则原文与当期官方指引为准。*
 
 声明：个人学习笔记，不构成税务建议。
+
+## 补译增量（2026-11-10 19:55轮追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역·初译待校)
+
+보충 1 (비교기간 비소급과 보고단위별 평가): 비교 재무제표에서는 이 공시가 당기에만 적용되고 비교기간을 소급해 다시 쓰지 않습니다. 또 평가 단위는 보고단위(reporting unit)입니다. 기본 정부와 그 구성단위를 각각 봐야 하며, 시 전체의 평균으로 특정 기금의 취약성을 지워서는 안 됩니다. 같은 시 안에서도 한 기금만 한쪽으로 쏠려 있을 수 있기 때문에, 「전체로 보면 괜찮다」는 답은 이 기준에서 통하지 않습니다.
+
+보충 2 (이미 취한 행동만 쓰고, 닿지 않는 두 경계): 공시 세 번째 구성요소인 완화 행동은 재무제표 발행 전에 이미 취한 행동만 씁니다. 발행 뒤의 계획은 후속사건의 다른 입구로 들어갑니다. 경계는 두 가지입니다. 집중도가 있다는 것만 알고 닥쳐오는 계기 사건이 없으면 공시하지 않고, 사건이 아무리 무서워도 알려진 집중도나 제약과 무관하면 제102호의 일이 아니며 위험 관리나 후속사건의 다른 기준으로 갈 수 있습니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Bổ sung 1 (không hồi tố kỳ so sánh và đánh giá theo từng đơn vị báo cáo): Trong báo cáo tài chính so sánh, bộ thuyết minh này chỉ áp dụng cho kỳ hiện tại và không viết lại kỳ so sánh theo cách hồi tố. Đơn vị đánh giá là đơn vị báo cáo (reporting unit): chính quyền chính và các đơn vị cấu thành của nó phải được nhìn riêng, và không được lấy số bình quân của toàn thành phố để xóa nhòa tính dễ tổn thương của một quỹ cụ thể. Ngay trong cùng một thành phố, một quỹ vẫn có thể lệch hẳn về một phía, nên câu trả lời «nhìn tổng thể thì ổn» không đứng vững dưới chuẩn mực này.
+
+Bổ sung 2 (chỉ viết hành động đã thực hiện, và hai đường biên không chạm tới): Món thứ ba của bộ thuyết minh, các hành động giảm thiểu, chỉ gồm những hành động đã thực hiện trước ngày phát hành báo cáo tài chính; các kế hoạch sau ngày phát hành thuộc lối vào khác của sự kiện sau ngày khóa sổ. Có hai đường biên: chỉ biết có sự tập trung mà không có sự kiện kích hoạt nào đang trên đường tới thì không thuyết minh; và sự kiện dù đáng sợ đến đâu, nếu không liên quan đến sự tập trung hay ràng buộc đã biết, cũng không thuộc Chuẩn mực 102, mà có thể rơi vào các chuẩn mực khác về quản lý rủi ro hoặc sự kiện sau ngày khóa sổ.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद·初译待校)
+
+पूरक 1 (तुलनात्मक अवधि का अपश्चलेखन और रिपोर्टिंग-इकाई अनुसार आकलन): तुलनात्मक वित्तीय विवरणों में यह प्रकटीकरण केवल चालू अवधि पर लागू होता है और तुलनात्मक अवधि को पूर्वव्यापी रूप से दोबारा नहीं लिखा जाता। आकलन की इकाई रिपोर्टिंग इकाई (reporting unit) है: प्राथमिक सरकार और उसकी घटक इकाइयों को अलग-अलग देखना होगा, और पूरे शहर के औसत से किसी विशिष्ट निधि की भेद्यता को मिटाया नहीं जा सकता। एक ही शहर के भीतर भी कोई एक निधि एक ओर झुकी हो सकती है, इसलिए «कुल मिलाकर ठीक है» वाला उत्तर इस कथन के तहत नहीं चलता।
+
+पूरक 2 (केवल पहले से की गई कार्रवाई लिखें, और दो अछूती सीमाएँ): प्रकटीकरण की तीसरी वस्तु, शमन कार्रवाई, में केवल वे कार्रवाइयाँ आती हैं जो वित्तीय विवरण जारी होने से पहले की जा चुकी हों; जारी होने के बाद की योजनाएँ उत्तरवर्ती घटनाओं के दूसरे प्रवेश से जाती हैं। दो सीमाएँ हैं: केवल संकेंद्रण ज्ञात हो पर कोई प्रेरक घटना रास्ते में न हो, तो प्रकटीकरण नहीं होता; और कोई घटना कितनी भी भयावह हो, यदि वह ज्ञात संकेंद्रण या बाधा से असंबंधित है, तो वह कथन 102 का विषय नहीं है और जोखिम प्रबंधन या उत्तरवर्ती घटनाओं के अन्य मार्गों में जा सकती है।

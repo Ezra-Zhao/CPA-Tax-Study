@@ -279,3 +279,23 @@ Bài viết này chỉ là ghi chú học tập cá nhân, không cấu thành t
 यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और कर सलाह नहीं है।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-10 19:55轮追加：韩／越／印三语各补 2 项细节增量，与中文主文细节对齐，正文原有段落未改动）
+
+### 한국어 보충 (초역·初译待校)
+
+보충 1 (측정일 하한과 롤포워드): 측정일(measurement date)은 고용주의 직전 회계연도 말보다 앞당길 수 없습니다. 보험계리 평가일은 측정일보다 더 앞설 수 있지만, 그럴 때는 업데이트 절차(roll forward)로 총연금부채를 측정일까지 굴려야 하며, 그 방식은 해마다 일관되게 써야 합니다. 날짜를 이리저리 옮겨 숫자를 고르는 것은 허용되지 않습니다.
+
+보충 2 (보고 층위와 CalSTRS 특수자금지원의 대칭 구조): 전액 순연금부채는 정부 전체 재무제표와 기업형 기금에만 나타나고, 정부형 기금(수정발생주의)에는 당기에 만기가 된 납부액만 기록됩니다. 보고서를 펼치면 먼저 층위를 확인하고 그다음에 숫자를 찾으십시오. 캘리포니아 교사연금(CalSTRS)이 전형적인 특수자금지원(special funding situation) 구조입니다. 주가 비고용주 납부자로서 법에 따라 학군 교직원을 위해 직접 납부하므로, 학군 쪽에서는 연금비용과 동액의 수익을 인식하고 주 쪽에서는 상응하는 부채와 비용 몫을 인식합니다. 같은 납부가 두 재무제표에 한 번씩, 정반대 역할로 나타납니다.
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Bổ sung 1 (giới hạn dưới của ngày đo lường và kỹ thuật roll forward): Ngày đo lường (measurement date) không được sớm hơn ngày kết thúc niên độ trước của chủ lao động. Ngày định giá tính toán bảo hiểm có thể sớm hơn ngày đo lường, nhưng khi đó phải dùng thủ tục cập nhật (roll forward) để cuộn tổng nợ lương hưu tới ngày đo lường, và cách làm đó phải được dùng nhất quán qua các năm. Không được phép dời ngày qua lại để chọn con số.
+
+Bổ sung 2 (tầng báo cáo và cấu trúc đối xứng của tài trợ đặc biệt CalSTRS): Toàn bộ khoản nợ lương hưu ròng chỉ xuất hiện trong báo cáo cấp chính quyền và các quỹ loại doanh nghiệp; các quỹ loại chính quyền (cơ sở dồn tích sửa đổi) chỉ ghi khoản đóng góp đến hạn trả trong kỳ. Khi mở một báo cáo, hãy nhận diện tầng trước rồi mới tìm con số. Hệ thống hưu trí giáo viên California (CalSTRS) là cấu trúc tài trợ đặc biệt (special funding situation) điển hình: bang, với tư cách bên đóng góp không phải chủ lao động, theo luật đóng trực tiếp cho nhân viên của các học khu, nên phía học khu ghi chi phí lương hưu cùng một khoản doanh thu bằng đúng số đó, còn phía bang ghi phần nợ và chi phí tương ứng. Cùng một khoản đóng góp xuất hiện một lần trong mỗi bộ báo cáo, với vai trò hoàn toàn ngược nhau.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद·初译待校)
+
+पूरक 1 (मापन-तिथि की निचली सीमा और roll forward): मापन-तिथि (measurement date) नियोक्ता के पिछले वित्तीय वर्ष के अंत से पहले नहीं हो सकती। बीमांकिक मूल्यांकन-तिथि मापन-तिथि से पहले हो सकती है, किंतु तब अद्यतन प्रक्रिया (roll forward) से कुल पेंशन देयता को मापन-तिथि तक आगे बढ़ाना होगा, और वह पद्धति हर वर्ष लगातार एक जैसी रखनी होगी। तिथियाँ इधर-उधर खिसकाकर संख्याएँ चुनना अनुमत नहीं है।
+
+पूरक 2 (रिपोर्टिंग स्तर और CalSTRS विशेष-वित्तपोषण की सममित बनावट): पूरी शुद्ध पेंशन देयता केवल सरकार-व्यापी विवरणों और उद्यम-प्रकार निधियों में दिखती है; सरकारी-प्रकार निधियाँ (संशोधित उपार्जन आधार) केवल अवधि में देय योगदान दर्ज करती हैं। रिपोर्ट खोलते समय पहले स्तर पहचानें, फिर संख्या खोजें। कैलिफ़ोर्निया शिक्षक सेवानिवृत्ति प्रणाली (CalSTRS) विशेष-वित्तपोषण (special funding situation) बनावट का प्रारूपिक उदाहरण है: राज्य, ग़ैर-नियोक्ता योगदानकर्ता के रूप में, कानूनन ज़िला कर्मचारियों के लिए सीधे योगदान करता है, इसलिए ज़िले की ओर पेंशन-व्यय और उतनी ही आय दर्ज होती है, और राज्य की ओर संगत देयता व व्यय-अंश दर्ज होता है। एक ही योगदान दोनों रिपोर्टों में एक-एक बार, बिल्कुल उलटी भूमिकाओं में, प्रकट होता है।
