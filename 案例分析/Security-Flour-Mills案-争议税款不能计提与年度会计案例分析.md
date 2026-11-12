@@ -100,3 +100,21 @@ Ngày nay học thuyết này nằm trong Điều 461: các nghĩa vụ loại t
 *고지: 개인 학습 노트이며 세무 자문이 아닙니다.（初译待校）*
 *Tuyên bố: Ghi chú học tập cá nhân, không phải tư vấn thuế.（初译待校）*
 *अस्वीकरण: व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं है।（初译待校）*
+
+## 补译增量（2026-11-12 13:55轮：韩／越／印三语各补 2 项中文主文已有细节）
+
+### 한국어 (初译待校)
+
+1. 절차 경위 보충: 이 사건은 먼저 조세상소위원회가 납세자 편을 들었고(45 B.T.A. 671), 제10순회항소법원이 이를 뒤집었으며(135 F.2d 165), 연방대법원이 상고를 허가해(320 U.S. 724) 제10순회의 판단을 유지했습니다. 판결은 Security Flour Mills Co. v. Commissioner, 321 U.S. 281 (1944), 사건번호 No. 276, 1944년 2월 10일 변론, 2월 28일 선고, Roberts 대법관이 집필했고, 같은 취지의 Dixie Pine Products Co. v. Commissioner, 320 U.S. 516 (1944)도 함께 인용됐습니다.
+2. 계산 경로 보충: 쟁송 중인 주세 120,000달러는 2025년에 공제가 0달러입니다. 2027년에 90,000달러로 화해하면 2027년에 90,000달러를 공제하고, 차이 120,000 − 90,000 = 30,000달러는 끝내 공제되지 않습니다. 처음부터 제461조(f)에 따라 120,000달러를 에스크로 전용계좌로 옮겼다면 2025년에 120,000달러를 공제하고, 2027년에 돌려받은 30,000달러를 그해 소득에 넣으므로, 두 경로의 순공제는 모두 90,000달러로 같고 차이는 연도뿐입니다. 사건 자체의 숫자도 93,000 + 9,000 초과 = 102,000 초과 달러 전액이 부인됐습니다.
+
+### Tiếng Việt (初译待校)
+
+1. Bổ sung diễn biến tố tụng: vụ việc ban đầu được Hội đồng Khiếu nại Thuế xử cho người nộp thuế thắng (45 B.T.A. 671), Tòa Phúc thẩm Vòng 10 lật lại (135 F.2d 165), và Tòa Tối cao nhận đơn certiorari (320 U.S. 724) rồi giữ nguyên phán quyết của Vòng 10. Phán quyết là Security Flour Mills Co. v. Commissioner, 321 U.S. 281 (1944), số vụ No. 276, tranh luận ngày 10 tháng 2 và tuyên ngày 28 tháng 2 năm 1944, do Thẩm phán Roberts chấp bút, và vụ Dixie Pine Products Co. v. Commissioner, 320 U.S. 516 (1944) cùng chiều được viện dẫn kèm theo.
+2. Bổ sung hai đường tính: khoản thuế bang 120.000 đô la đang tranh chấp thì năm 2025 được khấu trừ 0 đô la. Nếu năm 2027 hòa giải ở mức thanh toán 90.000 đô la thì khấu trừ 90.000 đô la vào năm 2027, và phần chênh 120.000 − 90.000 = 30.000 đô la không bao giờ được khấu trừ. Nếu ngay từ đầu chuyển 120.000 đô la vào tài khoản ký quỹ chuyên dụng theo § 461(f) thì khấu trừ 120.000 đô la vào năm 2025, và 30.000 đô la được hoàn lại năm 2027 phải tính vào thu nhập năm đó, nên khấu trừ ròng của cả hai đường đều là 90.000 đô la, chỉ khác năm. Con số của chính vụ việc cũng bị bác toàn bộ: 93.000 + hơn 9.000 = hơn 102.000 đô la.
+
+### हिन्दी (初译待校)
+
+1. प्रक्रिया-शृंखला पूरक: मामले में पहले Board of Tax Appeals ने करदाता के पक्ष में निर्णय दिया (45 B.T.A. 671), Tenth Circuit ने उसे पलट दिया (135 F.2d 165), और Supreme Court ने certiorari स्वीकार कर (320 U.S. 724) Tenth Circuit को बरकरार रखा। निर्णय है Security Flour Mills Co. v. Commissioner, 321 U.S. 281 (1944), No. 276, 10 फ़रवरी 1944 को बहस और 28 फ़रवरी को घोषणा, Roberts न्यायाधीश द्वारा लिखित, और उसी दिशा का Dixie Pine Products Co. v. Commissioner, 320 U.S. 516 (1944) भी साथ उद्धृत हुआ।
+2. गणना के दो मार्ग पूरक: विवादाधीन राज्य-कर $120,000 पर 2025 में कटौती $0 है। यदि 2027 में $90,000 पर समझौता हो तो 2027 में $90,000 की कटौती होगी और अंतर 120,000 − 90,000 = $30,000 कभी कटेगा ही नहीं। यदि शुरू से ही § 461(f) के तहत $120,000 escrow विशेष खाते में डाल दिए गए होते, तो 2025 में $120,000 कटते और 2027 में लौटे $30,000 उस वर्ष की आय में जुड़ते, इसलिए दोनों मार्गों की शुद्ध कटौती $90,000 ही रहती है, अंतर केवल वर्ष का है। मामले के अपने अंक भी पूरे अस्वीकार हुए: 93,000 + 9,000 से अधिक = $102,000 से अधिक।
+
