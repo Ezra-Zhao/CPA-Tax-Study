@@ -107,3 +107,23 @@ This repository is a personal study notebook and does not constitute tax advice.
 Este repositorio es un cuaderno personal de estudio y no constituye asesoramiento fiscal.
 
 （西班牙语为学习译稿，待母语校对；韩语、越南语、印地语为初译待校。）
+
+
+## 补译增量（2026-11-11 21:55 轮）
+
+本节为韩／越／印三语补译增量，只取上文中文主文已有事实，不引入新事实；原正文未删改。
+
+### 한국어（초역·初译待校）
+
+- 예납의 강행 규칙: 어느 하루라도 미납 세액이 누적 100,000달러에 이르면 다음 영업일 안에 납부해야 하며, 정해진 월별·반주별 일정을 기다릴 수 없다. 늦으면 § 6656의 기한 내 예납 불이행 벌칙이 지연 정도에 따라 2%에서 15%까지 단계적으로 붙고, 벌칙은 일수가 아니라 전체 납세액(liability)을 기준으로 계산되므로 작은 금액이 아니다.
+- 캘리포니아 SDI의 변경: SB 951에 따라 2024년부터 주 장애보험(SDI)의 임금 상한이 폐지되어 직원의 임금 전액이 SDI 계산에 들어가며, 사회보장세처럼 상한에서 멈추지 않는다. SDI는 직원이 부담하고 세율은 EDD가 매년 정하므로 고정 숫자를 외우지 말고 해당 연도 EDD 공표를 확인해야 한다.
+
+### Tiếng Việt（初译待校）
+
+- Quy tắc cứng về nộp tiền giữ lại: bất kỳ ngày nào số thuế chưa nộp lũy kế chạm 100.000 đô la thì phải nộp xong trong ngày làm việc tiếp theo, không được chờ kỳ hạn tháng hay nửa tuần đã định. Nộp chậm bị phạt theo § 6656 về không nộp đúng hạn, theo thang từ 2% đến 15% tùy mức chậm, và tiền phạt tính trên toàn bộ nghĩa vụ (liability) chứ không phải khoản nhỏ tính theo ngày.
+- Thay đổi SDI của California: theo SB 951, từ năm 2024 trần lương của bảo hiểm khuyết tật bang (SDI) bị bãi bỏ, toàn bộ lương của người lao động vào căn cứ tính SDI, không dừng ở trần như thuế an sinh xã hội. SDI do người lao động trả, thuế suất do EDD ấn định hằng năm nên phải tra công bố của EDD năm đó, không thuộc một con số cố định.
+
+### हिन्दी（初译待校）
+
+- जमा का कठोर नियम: किसी भी दिन अजमा कर की संचयी राशि 100,000 डॉलर तक पहुँचे तो अगले कार्यदिवस के भीतर जमा करना होगा, तय मासिक या अर्ध-साप्ताहिक कार्यक्रम की प्रतीक्षा नहीं चलती। देरी पर § 6656 की समय पर जमा न करने की शास्ति देरी की मात्रा के अनुसार 2% से 15% तक की श्रेणियों में लगती है, और शास्ति का आधार दिनों के हिसाब की छोटी राशि नहीं, पूरी देयता (liability) है।
+- California SDI का बदलाव: SB 951 के तहत 2024 से राज्य विकलांगता बीमा (SDI) की वेतन-सीमा समाप्त हो गई, कर्मचारी का पूरा वेतन SDI की गणना में आता है, सामाजिक सुरक्षा कर की तरह सीमा पर नहीं रुकता। SDI कर्मचारी देता है और इसकी दर EDD हर साल तय करती है, इसलिए कोई स्थिर संख्या न रटें, उस वर्ष की EDD घोषणा देखें।
