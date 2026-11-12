@@ -166,3 +166,24 @@ United States v. Boyle, 469 U.S. 241 (1985); IRC §6651(a)(1); Reg. §1.6651-1(c
 ### अस्वीकरण
 
 व्यक्तिगत अध्ययन नोट्स हैं, कर सलाह नहीं।
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+### 한국어 (초역·初译待校)
+
+벌칙의 눈금을 보탭니다. §6651(a)(1)은 미납 세액 순액의 월 5%(한 달 미만도 한 달로 계산)씩, 상한 25%까지 가산합니다. 본 사건의 벌칙은 약 19,000달러 규모였고, Reg. §1.6651-1(c)(1)의 출구는 지연이 고의적 태만(willful neglect)이 아니라 합리적 사유(reasonable cause)에서 비롯됐음을 납세자가 증명하는 것입니다. 본 판결로 납세자 편에 서 있던 제7순회 판례 전통은 끝났습니다.
+
+판결의 여지도 보탭니다. 고문이 "이 유산은 신고할 필요가 없다"는 식으로 잘못된 법률 조언을 해 납세자가 신고 자체를 오판한 경우는 Boyle의 사정에 들어가지 않으며, 그런 의존은 여전히 합리적 사유가 될 수 있습니다. IRS의 최초 1회 감면(First Time Abate)은 행정상 관용 정책이라 법률 논증에 섞으면 안 됩니다. 전자 신고 시대의 변형인 접수 거부(e-file rejection)를 제때 따라잡지 못한 경우도 법원 다수는 Boyle의 논리로 처리합니다. 상태를 확인하는 일은 본인의 몫이라는 뜻입니다.
+
+### Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Bổ sung thang phạt: mục 6651(a)(1) cộng 5% mỗi tháng trên số thuế ròng phải nộp (chưa đầy tháng tính tròn một tháng), trần 25%. Khoản phạt trong vụ này ở mức khoảng 19.000 đô la, và lối ra ở Reg. §1.6651-1(c)(1) là người nộp thuế chứng minh việc trễ hạn xuất phát từ lý do hợp lý (reasonable cause) chứ không phải cố ý lơ là (willful neglect). Phán quyết này đã chấm dứt truyền thống án lệ của Vòng phúc thẩm thứ bảy từng đứng về phía người nộp thuế.
+
+Bổ sung thêm phần dư địa của phán quyết: trường hợp cố vấn cho lời khuyên pháp lý sai kiểu "di sản này không cần khai", khiến người nộp thuế phán đoán sai về chính nghĩa vụ khai báo, nằm ngoài tầm của Boyle và sự tin cậy đó vẫn có thể là lý do hợp lý. Chương trình miễn phạt lần đầu (First Time Abate) của IRS là chính sách khoan dung hành chính, không được trộn vào lập luận pháp lý. Biến thể thời khai điện tử là thông báo từ chối tiếp nhận (e-file rejection) không được theo dõi sửa kịp; đa số tòa vẫn xử lý theo logic của Boyle — việc theo dõi trạng thái là việc của chính người nộp thuế.
+
+### हिन्दी (प्रारंभिक अनुवाद·初译待校)
+
+दंड का पैमाना जोड़ते हैं: §6651(a)(1) शुद्ध देय कर पर प्रति माह 5% (एक माह से कम को पूरा माह गिनकर) जोड़ता है, सीमा 25% है। इस मामले का दंड लगभग 19,000 डॉलर के स्तर का था, और Reg. §1.6651-1(c)(1) का निकास यह है कि करदाता सिद्ध करे कि देरी जानबूझकर की लापरवाही (willful neglect) से नहीं, उचित कारण (reasonable cause) से हुई। इस निर्णय से करदाता के पक्ष में खड़ी सातवें सर्किट की पुरानी परंपरा समाप्त हो गई।
+
+निर्णय की छूट भी जोड़ते हैं: यदि सलाहकार ने ग़लत कानूनी सलाह दी हो कि "इस एस्टेट को रिटर्न दाख़िल करना ही नहीं है" और करदाता ने दाख़िले के बारे में ही ग़लत निर्णय लिया हो, तो वह स्थिति Boyle के दायरे में नहीं आती और ऐसी निर्भरता अब भी उचित कारण बन सकती है। IRS की प्रथम-बार छूट (First Time Abate) प्रशासनिक उदारता नीति है, उसे कानूनी तर्क में न मिलाएँ। इलेक्ट्रॉनिक दाख़िले के युग का रूपांतर है अस्वीकृति सूचना (e-file rejection) का समय पर अनुगमन न करना; अधिकांश न्यायालय इसे भी Boyle के तर्क से निपटाते हैं — स्थिति पर नज़र रखना स्वयं करदाता का काम है।
