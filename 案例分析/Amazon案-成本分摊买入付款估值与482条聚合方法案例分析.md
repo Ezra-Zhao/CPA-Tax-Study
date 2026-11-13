@@ -141,3 +141,23 @@ Conciliación de cifras (todas verificadas contra las sentencias y la prensa pú
 ## 免责声明 / Disclaimer
 
 个人学习笔记，不构成税务建议，亦不构成会计、审计或法律建议；案情与法条以法院判决原文为准，具体事务请咨询持牌专业人士。 / Personal study notes only; not tax, accounting, auditing, or legal advice.
+
+## 补译增量（2026-11-13 10:55 轮）
+
+### 한국어 (초역·初译待校)
+
+CUT 경로의 작동 방식을 따로 풀어 두십시오. Amazon은 기존 무형자산을 기술, 상표와 관련 마케팅 무형자산, 고객 기반 무형자산의 세 통으로 나누고, 통마다 비교 가능한 비통제 거래를 찾았는데 내부 계약과 외부 라이선스를 함께 썼습니다. 사용료는 시간이 갈수록 줄어드는 구조였습니다. 기존 무형자산은 낡고 후속 연구개발에 대체되므로 값이 유한한 수명 안에서만 유지되고, 그 수명을 7년 안팎으로 잡아 그 기간 동안만 대가를 받는다는 논리입니다. IRS의 할인현금흐름 집계 평가와 갈리는 지점이 바로 여기입니다. 집계법은 유럽 사업 전체의 미래 현금흐름을 할인해 기업 전체를 판 것처럼 값을 매겼고, CUT는 항목별로 따로 팔 수 있는 것만을 골라 가격을 매겼습니다.
+
+곁가지 다툼인 비용 중심 문제도 결론까지 적어 두십시오. IRS는 기술·콘텐츠 비용 중심의 비용 100%가 무형자산 개발비라고 주장해 전부 분담 풀에 넣으려 했고, Amazon은 그 일부만 개발비로 인정했습니다. 조세법원은 100% 인정이 재량 남용이라고 판단했고, Amazon의 비용 배분 방식이 몇 가지 조정을 거쳐 합리적인 분담 근거를 제공한다고 봤습니다. 즉 본전인 매입가 방법에서 진 IRS는 곁가지 비용 배분에서도 졌고, 두 패소 모두 같은 뿌리에서 나왔습니다. 법에 근거 없이 범위를 넓히면 방법 선택이든 비용 귀속이든 법원이 받아주지 않는다는 점입니다.
+
+### Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Hãy mở riêng cơ chế vận hành của đường CUT: Amazon chia tài sản vô hình có sẵn thành ba nhóm — công nghệ, nhãn hiệu và vô hình marketing liên quan, và vô hình dựa trên khách hàng — rồi tìm giao dịch không kiểm soát có thể so sánh cho từng nhóm, dùng cả thỏa thuận nội bộ lẫn giấy phép bên ngoài. Phí bản quyền được đặt giảm dần theo thời gian, vì tài sản vô hình có sẵn sẽ cũ đi và bị nghiên cứu phát triển về sau thay thế, nên giá trị của chúng chỉ giữ được trong một vòng đời hữu hạn, được ấn khoảng bảy năm, và đối giá chỉ được thu trong khoảng đó. Đây chính là điểm tách khỏi định giá tổng hợp theo dòng tiền chiết khấu của IRS: phương pháp tổng hợp chiết khấu dòng tiền tương lai của toàn bộ hoạt động châu Âu như thể bán cả doanh nghiệp, còn CUT chỉ định giá từng hạng mục bán riêng được.
+
+Cũng ghi đến kết luận tranh chấp phụ về trung tâm chi phí: IRS cho rằng 100 % trung tâm chi phí Technology and Content là chi phí phát triển vô hình và muốn đưa toàn bộ vào bể chia sẻ, trong khi Amazon chỉ thừa nhận một phần. Tòa án Thuế phán rằng việc công nhận 100 % là lạm dụng quyền tùy quyết, và phương pháp phân bổ chi phí của Amazon, sau một số điều chỉnh, tạo cơ sở chia sẻ hợp lý. Tức là IRS thua cả ở phương pháp định giá buy-in lẫn ở mặt trận phụ về phân bổ chi phí, và hai thất bại cùng một gốc: mở rộng phạm vi không có căn cứ trong quy định thì dù là chọn phương pháp hay quy thuộc chi phí, tòa cũng không chấp nhận.
+
+### हिन्दी (प्रारंभिक अनुवाद·初译待校)
+
+CUT मार्ग की कार्यप्रणाली अलग से खोलकर रखें: Amazon ने मौजूदा अमूर्त संपत्तियों को तीन बाल्टियों में बाँटा — प्रौद्योगिकी, ट्रेडमार्क और संबंधित विपणन अमूर्त, और ग्राहक-आधारित अमूर्त — और हर बाल्टी के लिए तुलनीय अनियंत्रित लेन-देन खोजे, आंतरिक समझौतों और बाहरी लाइसेंसों दोनों का उपयोग करके। रॉयल्टी समय के साथ घटती हुई रखी गई, क्योंकि मौजूदा अमूर्त संपत्तियाँ पुरानी होती हैं और बाद के अनुसंधान-विकास से बदल जाती हैं, इसलिए उनका मूल्य एक सीमित आयु में ही टिकता है, वह आयु लगभग सात वर्ष मानी गई और प्रतिफल उसी अवधि में वसूला गया। IRS के बट्टागत नकदी-प्रवाह समग्र मूल्यांकन से अलगाव ठीक यहीं है: समग्र विधि ने पूरे यूरोपीय व्यवसाय के भावी नकदी-प्रवाह को बट्टागत करके ऐसा मूल्य लगाया मानो पूरा उद्यम बेचा गया हो, जबकि CUT ने केवल वही मूल्य लगाया जो मद-दर-मद अलग बिक सकता था।
+
+लागत-केंद्र वाले गौण विवाद का निष्कर्ष भी लिख लें: IRS ने दावा किया कि Technology and Content लागत केंद्र की 100% लागत अमूर्त विकास लागत है और पूरा हिस्सा साझा पूल में जाना चाहिए, जबकि Amazon ने उसका केवल एक हिस्सा स्वीकार किया। कर न्यायालय ने 100% मान्यता को विवेकाधिकार का दुरुपयोग ठहराया और कहा कि Amazon की लागत-आवंटन विधि, कुछ समायोजनों के साथ, साझेदारी का उचित आधार देती है। अर्थात IRS मुख्य buy-in विधि में भी हारा और लागत-आवंटन के गौण मोर्चे पर भी, और दोनों हारों की जड़ एक है: नियमों में आधार के बिना दायरा बढ़ाएँ तो चाहे विधि-चयन हो या लागत-अभिलेखन, न्यायालय उसे स्वीकार नहीं करता।
