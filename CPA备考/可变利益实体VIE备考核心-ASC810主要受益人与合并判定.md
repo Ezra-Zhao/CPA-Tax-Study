@@ -96,3 +96,20 @@ Có hai điểm «đừng phán đoán sai» hay ra trong đề thi. Thứ nhấ
 ---
 
 > 个人学习笔记，不构成税务、会计或法律建议。依据：FASB ASC 810-10（Consolidation—Overall），含 VIE 三特征 § 810-10-15-14、主要受益人判定 § 810-10-25-38 起、披露 § 810-10-50；ASU 2009-17（定性模型）、ASU 2015-02（费用安排与投资公司相关修订）。考试范围以 AICPA CPA Exam Blueprint（FAR）现行版为准。后四语（西／韩／越／印）为初译待校。
+
+## 补译增量（2026-11-12 18:55 轮）
+
+本节为 2026-11-12 18:55 轮存量补译增量：韩／越／印三语各补 2 项中文主文已有细节，纯增量追加，不删改原文。两项细节为：①VIE 判定不是一次性的——发生重估事件（如治理文件变更、资本结构变化、活动性质改变）时，要重新判断实体是否仍为 VIE；②披露分工——主要受益人并表并披露 VIE 资产负债的分类与限制，非主要受益人但持有重大可变利益者，要披露参与性质、目的、规模与最大损失敞口（maximum exposure to loss）。
+
+### 한국어 (初译待校)
+
+① VIE 판정은 일회성이 아니다. 지배 문서의 변경, 자본 구조의 변화, 활동 성격의 변경 같은 재평가 사건(reconsideration events)이 발생하면 실체가 여전히 VIE인지 다시 판단해야 한다. ② 공시 분담: 주요 수익자는 연결하면서 VIE 자산과 부채의 분류와 제한을 공시하고, 주요 수익자는 아니지만 중대한 가변지분을 보유한 자는 참여의 성격, 목적, 규모와 최대 손실 노출(maximum exposure to loss)을 공시한다. (初译待校)
+
+### Tiếng Việt (初译待校)
+
+① Việc xác định VIE không phải làm một lần là xong: khi xảy ra sự kiện xem xét lại (reconsideration events) như thay đổi văn kiện quản trị, thay đổi cấu trúc vốn hay thay đổi tính chất hoạt động, phải đánh giá lại xem thực thể còn là VIE hay không. ② Phân công thuyết minh: bên thụ hưởng chính hợp nhất và thuyết minh phân loại cùng các hạn chế đối với tài sản và nợ của VIE; bên không phải thụ hưởng chính nhưng nắm lợi ích biến đổi trọng yếu phải thuyết minh tính chất tham gia, mục đích, quy mô và mức phơi nhiễm tổn thất tối đa (maximum exposure to loss). (初译待校)
+
+### हिन्दी (初译待校)
+
+① VIE का निर्धारण एक बार का काम नहीं है: जब पुनर्विचार घटनाएँ (reconsideration events) घटती हैं — जैसे शासन दस्तावेज़ों में बदलाव, पूंजी संरचना में बदलाव या गतिविधियों के स्वरूप में बदलाव — तो फिर से परखना होता है कि इकाई अब भी VIE है या नहीं। ② प्रकटीकरण का विभाजन: प्राथमिक लाभार्थी समेकन करता है और VIE की संपत्तियों व दायित्वों का वर्गीकरण व प्रतिबंध बताता है; जो प्राथमिक लाभार्थी नहीं है किंतु महत्वपूर्ण परिवर्तनशील हित रखता है, वह अपनी भागीदारी का स्वरूप, उद्देश्य, आकार और अधिकतम हानि एक्सपोज़र (maximum exposure to loss) प्रकट करता है। (初译待校)
+
