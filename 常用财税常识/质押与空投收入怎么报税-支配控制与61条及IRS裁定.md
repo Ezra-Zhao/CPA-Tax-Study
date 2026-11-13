@@ -157,3 +157,23 @@ Khai theo thứ tự này. Một, trả lời trung thực câu hỏi về tài 
 - Jarrett v. United States（M.D. Tenn.）：IRS 全额退还 2019 年税款后，案件以 moot 驳回，无实体判决、无先例效力。
 - IRS Form 1040 数字资产问题、Schedule 1「其他收入」、Form 8949 与 Schedule D：两层申报的落点。
 - 加州 FTB 口径：加密资产大体跟随联邦财产处理；加州对资本利得无优惠税率、按普通累进税率征税。
+
+## 补译增量（2026-11-12 23:55轮）
+
+### 한국어 (初译待校)
+
+두 층 과세와 에어드롭 계산예를 보탭니다. 새 코인을 받는 일은 두 층으로 과세됩니다. 받을 때는 공정시가만큼이 일반소득이 되고, 소득에 넣은 금액이 그대로 그 코인의 취득원가(basis)가 됩니다. 나중에 팔 때는 재산을 팔 때처럼 자본손익을 계산합니다. 두 층을 하나로 뭉개는 것이 이 분야에서 가장 흔한 실수입니다. 재정의 숫자로 계산하면, 지배와 통제를 얻은 시점에 에어드롭 코인의 공정시가가 합계 25달러라면 일반소득은 25달러, 원가도 25달러입니다. 나중에 40달러에 팔면 자본이득은 40 빼기 25로 15달러입니다.
+
+신고 순서와 기록 항목을 보탭니다. 첫째, Form 1040 첫 면의 디지털 자산 질문에 사실대로 답하고, 그해 에어드롭이나 스테이킹 보상을 받았다면 '예'에 표시합니다. 둘째, 일반소득 층의 금액은 Schedule 1(Form 1040)의 기타소득 줄에 staking rewards, airdrop처럼 출처를 적어 넣습니다. 셋째, 소득에 넣은 금액이 원가가 되고 취득일은 지배와 통제를 얻은 날이며, 이후의 매도·교환·소비는 Form 8949에 올리고 Schedule D로 합산합니다. 넷째, 기록은 받은 날부터 남깁니다. 날짜와 시점, 수량, 당시 달러 공정시가와 그 출처, 플랫폼이나 지갑 주소, 거래 번호가 필요합니다. 나중에 가격이 폭락해도 그해의 소득 확인은 바뀌지 않고, 팔 때 자본손실로만 나타납니다.
+
+### Tiếng Việt (初译待校)
+
+Bổ sung cách đánh thuế hai lớp và ví dụ tính airdrop. Nhận coin mới bị đánh thuế theo hai lớp: khi nhận, giá trị thị trường hợp lý là thu nhập thường, và số tiền đã tính vào thu nhập trở thành cơ sở chi phí (basis) của số coin đó; khi bán sau này, tính lãi hoặc lỗ vốn như bán mọi tài sản khác. Gộp hai lớp thành một là lỗi phổ biến nhất trong mảng này. Tính theo con số của phán quyết: nếu số coin airdrop trị giá tổng cộng 25 đô la khi có quyền chi phối và kiểm soát, thu nhập thường là 25 đô la và cơ sở cũng là 25 đô la; bán sau này với giá 40 đô la cho lãi vốn 40 trừ 25 bằng 15 đô la.
+
+Bổ sung thứ tự khai và các mục hồ sơ. Một, trả lời trung thực câu hỏi về tài sản số ở trang đầu Form 1040: nếu trong năm bạn nhận airdrop hoặc phần thưởng staking, hãy chọn Có. Hai, số tiền ở lớp thu nhập thường vào Schedule 1 (Form 1040) ở dòng thu nhập khác, ghi rõ nguồn như staking rewards hay airdrop. Ba, số tiền đã tính vào thu nhập là cơ sở của số coin đó, ngày mua là ngày có quyền chi phối và kiểm soát, và việc bán, đổi hay tiêu sau này vào Form 8949, tổng hợp sang Schedule D. Bốn, giữ hồ sơ từ ngày nhận: ngày và giờ, số lượng, giá trị thị trường bằng đô la và nguồn của nó, nền tảng hoặc địa chỉ ví, và mã giao dịch. Giá sụt mạnh sau này không viết lại thu nhập của năm đó — nó chỉ thể hiện thành lỗ vốn khi bán coin.
+
+### हिन्दी (初译待校)
+
+दो-परत कराधान और एयरड्रॉप का गणना-उदाहरण जोड़ते हैं। नए कॉइन मिलना दो परतों में कर लगता है: प्राप्ति पर उचित बाज़ार मूल्य सामान्य आय होता है, और आय में शामिल राशि ही उन कॉइनों का लागत आधार (basis) बन जाती है; बाद में बेचने पर किसी भी संपत्ति की तरह पूँजी लाभ या हानि गिनी जाती है। दो परतों को एक में मिला देना इस क्षेत्र की सबसे आम ग़लती है। रूलिंग के अंकों से गिनें: यदि प्रभुत्व व नियंत्रण मिलने पर एयरड्रॉप इकाइयों का कुल मूल्य $25 है, तो सामान्य आय $25 और आधार भी $25 है; बाद में $40 में बिक्री पर पूँजी लाभ 40 घटा 25 अर्थात $15 है।
+
+दाखिले का क्रम और अभिलेख की मदें जोड़ते हैं। पहला, Form 1040 के पहले पृष्ठ के डिजिटल-संपत्ति प्रश्न का उत्तर सच दें: यदि वर्ष में एयरड्रॉप या स्टेकिंग इनाम मिला हो, तो Yes चुनें। दूसरा, सामान्य-आय परत की राशि Schedule 1 (Form 1040) में अन्य आय के रूप में जाती है, स्रोत लिखकर — जैसे staking rewards या airdrop। तीसरा, आय में शामिल राशि ही उन इकाइयों का आधार है, अधिग्रहण तिथि वही है जब प्रभुत्व व नियंत्रण मिला, और बाद की बिक्री, अदला-बदली या खर्च Form 8949 पर आकर Schedule D में सारांशित होता है। चौथा, प्राप्ति के दिन से रिकॉर्ड रखें: तिथि व समय, मात्रा, उस समय का डॉलर उचित मूल्य और उसका स्रोत, प्लेटफ़ॉर्म या वॉलेट पता, और लेन-देन आईडी। बाद में कीमत गिरना उस वर्ष की आय को नहीं बदलता — वह केवल बिक्री पर पूँजी हानि के रूप में दिखता है।
