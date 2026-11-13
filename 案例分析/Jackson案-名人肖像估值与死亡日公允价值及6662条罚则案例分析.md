@@ -97,3 +97,24 @@ Jackson का निधन 25 जून 2009 को कैलिफ़ोर्
 टिप्पणी: यह व्यक्तिगत अध्ययन नोट है; कर, कानूनी या चिकित्सा सलाह नहीं है। (初译待校)
 
 स्रोत: Estate of Michael J. Jackson v. Commissioner, T.C. Memo. 2021-48 (3 मई 2021); 26 U.S.C. धारा 2031, 2033, 6662; Cal. Civ. Code धारा 3344.1।
+
+
+## 补译增量（2026-11-12 20:55轮）
+
+### 한국어（初译待校）
+
+NHT III 항목의 차액 계산을 보탭니다. Mijac Music을 보유한 New Horizon Trust III에 대해 법원 인정액은 107,313,561달러로, IRS의 재판상 주장 114,263,615달러보다 114,263,615 − 107,313,561 = 6,950,054달러 낮습니다. 세 항목 가운데 이 항목이 IRS가 기본적으로 지켜 낸 유일한 진지인 이유는, Mijac 카탈로그의 현금흐름이 실재했기 때문입니다. 반대로 초상 항목에서는 법원액이 IRS 주장보다 157,153,133달러 낮아, 같은 사건 안에서도 실재하는 현금흐름이 있는 자산과 생전 수익이 거의 없던 권리가 정반대로 갈렸습니다.
+
+시험 대비 정리 문장과 캘리포니아 실무를 보탭니다. 제2031조의 평가는 언제나 방법보다 먼저 세 가지를 묻습니다. 어느 날인가, 누구의 손에 있는가, 그 권리의 경계가 어디까지인가 — 그다음에야 방법을 고릅니다. 사망 후의 가치 상승이 아무리 놀라워도 사망일의 숫자를 뒷받침하는 데 쓸 수는 없습니다. 캘리포니아에서는 베이 지역과 로스앤젤레스의 연예인·운동선수 유산 설계에서 초상권의 귀속, 양도 가능성과 평가 할인부터 주법으로 경계를 정하고 나서야 연방세 평가로 넘어갑니다.
+
+### Tiếng Việt（初译待校）
+
+Bổ sung phép tính chênh lệch của khoản NHT III. Với New Horizon Trust III, nơi nắm giữ Mijac Music, số tiền tòa công nhận là 107.313.561 đô la, thấp hơn lập trường tại tòa của IRS là 114.263.615 đô la đúng 114.263.615 − 107.313.561 = 6.950.054 đô la. Trong ba khoản, đây là trận địa duy nhất IRS về cơ bản giữ được, vì dòng tiền của danh mục Mijac là có thật. Ngược lại, ở khoản hình ảnh, số của tòa thấp hơn lập trường của IRS tới 157.153.133 đô la — trong cùng một vụ, tài sản có dòng tiền thật và quyền mà thu nhập lúc sinh thời gần như bằng không đã đi về hai hướng trái ngược.
+
+Bổ sung câu chốt cho việc ôn thi và phía thực hành California. Định giá theo Điều 2031 bao giờ cũng hỏi ba điều trước phương pháp: ngày nào, trong tay ai, và ranh giới của quyền đó tới đâu — rồi mới chọn phương pháp. Giá trị tăng sau ngày qua đời dù kinh ngạc đến đâu cũng không thể đem ra chống lưng cho con số của ngày mất. Tại California, trong hoạch định di sản cho nghệ sĩ và vận động viên ở Vùng Vịnh và Los Angeles, quyền sở hữu, tính có thể chuyển nhượng và các khoản chiết khấu định giá của quyền công khai phải được cố định ranh giới theo luật bang trước, rồi mới bàn đến định giá thuế liên bang.
+
+### हिन्दी（初译待校）
+
+NHT III मद का अंतर-गणित जोड़ते हैं। Mijac Music को धारण करने वाले New Horizon Trust III के लिए न्यायालय की स्वीकृत राशि $107,313,561 है, जो IRS की सुनवाई-स्थिति $114,263,615 से 114,263,615 − 107,313,561 = $6,950,054 कम है। तीनों मदों में यह एकमात्र मोर्चा है जिसे IRS ने मूलतः बचा लिया, क्योंकि Mijac कैटलॉग का नकदी-प्रवाह वास्तविक था। इसके विपरीत छवि मद में न्यायालय की संख्या IRS की स्थिति से $157,153,133 कम रही — एक ही मामले में वास्तविक नकदी-प्रवाह वाली संपत्ति और जीवनकाल में लगभग शून्य आय वाला अधिकार विपरीत दिशाओं में गए।
+
+परीक्षा-उपयोगी सूत्र-वाक्य और California की व्यवहार-पक्ष जोड़ते हैं। धारा 2031 का मूल्यांकन हमेशा विधि से पहले तीन बातें पूछता है: किस दिन, किसके हाथों में, और उस अधिकार की सीमाएँ कहाँ तक — उसके बाद ही विधि चुनी जाती है। मृत्यु के बाद की वृद्धि कितनी भी आश्चर्यजनक हो, मृत्यु-तिथि की संख्या का समर्थन करने में उसका उपयोग नहीं हो सकता। California में, Bay Area और Los Angeles के मनोरंजनकर्ताओं व खिलाड़ियों की संपदा-योजना में, प्रचार-अधिकार के स्वामित्व, हस्तांतरणीयता और मूल्यांकन-छूट की सीमाएँ पहले राज्य-विधि से तय की जाती हैं, तभी संघीय कर मूल्यांकन की बात आती है।
