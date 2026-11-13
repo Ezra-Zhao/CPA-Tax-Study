@@ -167,3 +167,23 @@ Ví dụ dùng số minh họa tự soạn (ghi rõ là minh họa; đã tính l
 ## 免责声明 / Disclaimer
 
 个人学习笔记，不构成税务建议，亦不构成会计、审计或法律建议；规则以 SEC 公布的现行原文为准，具体事务请咨询持牌专业人士。 / Personal study notes only; not tax, accounting, auditing, or legal advice.
+
+## 补译增量（2026-11-13 04:55 轮）
+
+### 한국어 (初译待校)
+
+Rule 406T의 과도 보호를 보탭니다. 임시 규칙 Rule 406T(Regulation S-T)는 과도기 동안 인터랙티브 데이터 파일에 수정된 책임 대우를 줬습니다. 사기 방지 조항을 빼면 통상의 신고 완료 기준으로는 책임을 묻지 않는 보호였고, 기간은 각 신고인이 처음 제출을 요구받은 때부터 최대 24개월, 전체 보호는 늦어도 2014년 10월 31일에 끝났습니다. 이 임시 규칙은 만료된 지 10년이 넘었으므로, 오늘 태그를 첨부 수준으로 보고 틀려도 괜찮다고 하면 오답입니다. 기한이 지난 뒤 인터랙티브 데이터는 신고서의 나머지 부분과 같은 책임 높이에 서 있고, 과목을 잘못 붙이거나 부호를 뒤집거나 자릿수를 잘못 배율하는 것은 본문에 숫자를 잘못 인쇄한 것과 성격이 같습니다.
+
+감사인의 위치를 보탭니다. 현행 SEC 규칙은 감사인에게 XBRL 인터랙티브 데이터만 따로 떼어 감사 의견을 내라고 요구하지 않고, 태그에 대한 별도의 강제 인증도 두지 않았습니다. 감사 의견의 대상은 어디까지나 재무제표 자체입니다. 연결 지점은 셋입니다. 태그 데이터는 감사받은 재무제표와 일치해야 하고, 태그와 본문이 어긋나면 경영진에게 수정을 요구할 신고 흠결이지 넘길 형식 문제가 아닙니다. 태그의 생성·검토·제출 절차는 재무보고 내부통제의 바깥 테두리에 있어, 절차가 무너지면 통합 감사에서 통제 결함의 신호로 평가될 수 있습니다. 회사나 감사인이 합의된 절차 같은 별도 대조를 자발적으로 할 수는 있지만, 그것은 자발적 보강일 뿐 단독 의견이 없다는 기본값은 바뀌지 않습니다. 시험용 한 줄은 이것입니다. 재무제표는 감사하고, 태그는 제표와 일치시키되, XBRL 데이터만으로는 별도 감사 의견을 내지 않습니다.
+
+### Tiếng Việt (初译待校)
+
+Bổ sung lớp bảo vệ chuyển tiếp của Rule 406T. Quy tắc tạm thời Rule 406T (Regulation S-T) từng cho các tệp dữ liệu tương tác một chế độ trách nhiệm được sửa đổi trong giai đoạn chuyển tiếp: ngoài các điều khoản chống gian lận, chúng không bị xét theo chuẩn đã nộp thông thường, và lớp bảo vệ kéo dài tối đa 24 tháng kể từ lần đầu mỗi bên nộp bị yêu cầu nộp, với toàn bộ bảo vệ kết thúc chậm nhất vào ngày 31 tháng 10 năm 2014. Quy tắc tạm thời đó đã hết hạn hơn mười năm, nên ngày nay coi thẻ gắn chỉ là phụ lục và sai cũng không sao là đáp án sai: kể từ khi hết hạn, dữ liệu tương tác đứng cùng mức trách nhiệm với phần còn lại của hồ sơ, và gắn sai tài khoản, lật ngược dấu hay sai hệ số tỷ lệ cũng cùng tính chất như in sai một con số trong phần chính.
+
+Bổ sung vị trí của kiểm toán viên. Quy tắc SEC hiện hành không yêu cầu kiểm toán viên ra ý kiến kiểm toán riêng cho dữ liệu tương tác XBRL, và cũng không đặt một lớp bảo đảm bắt buộc riêng cho các thẻ gắn. Đối tượng của ý kiến kiểm toán luôn là báo cáo tài chính tự nó. Điểm nối có ba: dữ liệu thẻ gắn phải nhất quán với báo cáo tài chính đã kiểm toán, và khi thẻ gắn lệch khỏi phần chính thì đó là khiếm khuyết khai báo phải nêu với ban quản lý để sửa, không phải chuyện hình thức bỏ qua được; quy trình tạo, rà soát và nộp thẻ gắn thuộc vành ngoài của kiểm soát nội bộ báo cáo tài chính, nên quy trình mất kiểm soát có thể bị đánh giá là tín hiệu khiếm khuyết kiểm soát trong kiểm toán tích hợp; và công ty hay kiểm toán viên có thể tự nguyện làm thêm đối chiếu dạng thủ tục đã thỏa thuận, nhưng đó là bổ sung tự nguyện và không đổi mặc định là không có ý kiến riêng. Một câu chốt cho kỳ thi: báo cáo tài chính thì kiểm toán, thẻ gắn thì phải khớp với báo cáo, nhưng không có ý kiến kiểm toán riêng cho dữ liệu XBRL.
+
+### हिन्दी (初译待校)
+
+Rule 406T के संक्रमणकालीन संरक्षण को जोड़ते हैं। अस्थायी नियम Rule 406T (Regulation S-T) ने संक्रमण अवधि में interactive data फ़ाइलों को संशोधित दायित्व-व्यवहार दिया था: धोखाधड़ी-विरोधी प्रावधानों को छोड़कर वे सामान्य filed मानक से नहीं बँधे थे, और संरक्षण प्रत्येक filer के लिए पहली बार जमा अपेक्षित होने से अधिकतम 24 महीने चला, पूरी सुरक्षा अधिकतम 31 अक्टूबर 2014 को समाप्त हुई। वह अस्थायी नियम एक दशक से अधिक पहले समाप्त हो चुका है, इसलिए आज tags को केवल अनुलग्नक समझकर ग़लती को हल्का लेना ग़लत उत्तर है: समाप्ति के बाद interactive data रिटर्न के बाक़ी हिस्से के समान दायित्व-स्तर पर खड़ा है, और ग़लत खाता लगाना, चिह्न उलटना या scaling की मात्रा बिगाड़ना मूल पाठ में ग़लत संख्या छापने जैसा ही है।
+
+ऑडिटर की स्थिति जोड़ते हैं। वर्तमान SEC नियम ऑडिटर से XBRL interactive data पर अलग ऑडिट राय नहीं माँगते, और tags के लिए कोई अलग अनिवार्य आश्वासन-परत भी नहीं रखते। ऑडिट राय का विषय हमेशा वित्तीय विवरण स्वयं रहते हैं। जुड़ाव के तीन बिंदु हैं: tag data ऑडिट किए गए विवरणों से सुसंगत होना चाहिए, और tag व मूल पाठ में अंतर मिले तो वह प्रबंधन से सुधार माँगने योग्य filing-दोष है, अनदेखा करने योग्य प्रारूप-त्रुटि नहीं; tags के निर्माण, समीक्षा व जमा की प्रक्रिया वित्तीय-रिपोर्टिंग आंतरिक नियंत्रण की बाहरी परिधि में आती है, इसलिए प्रक्रिया का नियंत्रण खोना एकीकृत ऑडिट में नियंत्रण-दोष का संकेत बन सकता है; और कंपनी या ऑडिटर स्वेच्छा से agreed-upon procedures जैसा अलग सत्यापन कर सकते हैं, पर वह स्वैच्छिक पूरक है और अलग राय न होने का डिफ़ॉल्ट नहीं बदलता। परीक्षा के लिए एक पंक्ति: विवरणों का ऑडिट होता है, tags उनसे मेल खाने चाहिए, किंतु XBRL data पर अलग ऑडिट राय नहीं निकलती।
