@@ -124,3 +124,21 @@ HRA (health reimbursement arrangement) HSA और FSA से एक संरच
 **California।** California नियोक्ता स्वास्थ्य योजना प्रतिपूर्तियों के लिए संघीय §§ 105/106 बहिष्करण ढाँचे का मोटे तौर पर पालन करता है (वर्तमान FTB मार्गदर्शन से जाँचें)। राज्य की दो परतें मायने रखती हैं: राज्य individual mandate और Covered California का subsidy तंत्र, जिनका ICHRA व QSEHRA से संबंध राज्य नियमों से चलता है — किसी भी तुलना में राज्य subsidy भी गिनें। California का HSA से असंगत होना HRA विश्लेषण नहीं बदलता; HRA नियोक्ता योजना है, व्यक्तिगत खाता नहीं।
 
 *व्यक्तिगत अध्ययन नोट; कर सलाह नहीं है। स्रोत: IRC §§ 105(b), 106, 213(d), 9831(d), 4980H, 36B, 125; 84 Fed. Reg. 28888 (2019); Notice 2017-67; Rev. Proc. 2024-40। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+## 补译增量（2026-11-12 15:55轮：韩／越／印三语各补 2 项中文主文已有细节）
+
+### 한국어 (初译待校)
+
+1. ICHRA 부담 가능성 산정의 보충: 부담 가능성은 그 직원 근무지의 개인시장으로 잽니다(적용되는 안전항에 따라 거주지로 잴 수도 있음). 그곳 최저가 실버 플랜 보험료에서 ICHRA 금액을 뺀 잔액이 출발점입니다. IRS는 지역 안전항과 함께 회고월(look-back month) 안전항을 둬서, 어느 달의 개인시장 보험료를 기준으로 삼을지를 단순화합니다. 이 잔액을 § 4980H(b)의 부담 가능성 비율과 견주어 그 ICHRA가 부담 가능한지를 판정합니다.
+2. QSEHRA의 동일 조건과 무보장월 보충: QSEHRA는 법정 제외(근속 기간, 연령 등)를 뺀 모든 적격 직원에게 같은 조건으로 제공해야 합니다. 그리고 직원은 최소 필수 보장(minimum essential coverage)을 갖춘 달에만 비과세 상환을 받습니다. 보장이 없는 달의 상환액은 소득에 포함되므로, QSEHRA는 연 단위가 아니라 월 단위로 보장 유무를 따져야 하는 제도입니다.
+
+### Tiếng Việt (初译待校)
+
+1. Bổ sung cách lấy số đo khả năng chi trả của ICHRA: khả năng chi trả được đo bằng thị trường cá nhân tại nơi làm việc của nhân viên (hoặc, theo safe harbor áp dụng, nơi cư trú) — lấy phí của gói bạc rẻ nhất ở đó trừ đi khoản ICHRA để ra phần còn lại làm điểm khởi đầu. IRS cho safe harbor theo địa điểm và cả safe harbor tháng nhìn lại (look-back month) để đơn giản hóa việc chọn phí bảo hiểm của tháng nào làm chuẩn. Phần còn lại này được đối chiếu với tỷ lệ affordability của § 4980H(b) để kết luận ICHRA đó có affordable hay không.
+2. Bổ sung điều kiện đồng nhất của QSEHRA và tháng không có bảo hiểm: QSEHRA phải được chào với cùng điều kiện cho mọi nhân viên đủ điều kiện, ngoài các loại trừ theo luật định (như thời gian làm việc, tuổi). Nhân viên chỉ được hoàn miễn thuế vào những tháng có bảo hiểm tối thiểu thiết yếu (minimum essential coverage); khoản hoàn của tháng không có bảo hiểm sẽ tính vào thu nhập, nên QSEHRA là chế độ phải xét theo từng tháng chứ không theo năm.
+
+### हिन्दी (初译待校)
+
+1. ICHRA की affordability के आँकड़े लेने पर पूरक: affordability उस कर्मचारी के कार्य-स्थान के individual market से मापी जाती है (लागू safe harbor के अनुसार निवास-स्थान से भी मापी जा सकती है) — वहाँ के सबसे सस्ते silver plan के प्रीमियम में से ICHRA राशि घटाकर बचा शेष ही प्रारंभ बिंदु है। IRS स्थान safe harbor के साथ look-back month safe harbor भी देता है, जिससे यह सरल हो जाता है कि किस माह का individual-market प्रीमियम मानक बने। इस शेष की तुलना § 4980H(b) के affordability अनुपात से करके तय होता है कि वह ICHRA affordable है या नहीं।
+2. QSEHRA की समान-शर्त और बिना-कवरेज माह पर पूरक: QSEHRA वैधानिक अपवर्जनों (सेवा-अवधि, आयु आदि) को छोड़कर सभी पात्र कर्मचारियों को समान शर्तों पर देना होता है। और कर्मचारी केवल उन्हीं महीनों में कर-मुक्त प्रतिपूर्ति पाता है जिनमें उसके पास minimum essential coverage हो; बिना कवरेज वाले माह की प्रतिपूर्ति आय में शामिल होती है, इसलिए QSEHRA वर्ष-वार नहीं, माह-वार कवरेज से परखी जाने वाली व्यवस्था है।
+
