@@ -93,3 +93,28 @@ Aviso: Notas personales de estudio; no constituyen asesoría fiscal. Para su cas
 Lưu ý: Ghi chú học tập cá nhân, không phải tư vấn thuế. Với trường hợp của bạn, hãy hỏi CPA hoặc luật sư thuế có giấy phép.
 
 अस्वीकरण: ये व्यक्तिगत अध्ययन नोट हैं, कर सलाह नहीं। अपने मामले में लाइसेंसधारी CPA या कर वकील से परामर्श करें।
+
+
+---
+
+## 补译增量（2026-11-13 22:55 轮）
+
+本节为韩／越／印三语补译增量，只取上文中文主文已有事实，各语补案件事实组、归属谱系组 2 项，不新增数字与法条。
+
+### 한국어 (초역·初译待校)
+
+사건의 사실관계를 다시 정리하면 이렇습니다. First Security Bank of Utah는 전국은행으로, 한 보험회사와 같은 지주 체제 아래 있는 관계기업이었습니다. 은행 대출 고객이 보험이 필요하면 은행이 고객을 관계 보험회사에 소개했고, 보험은 보험회사가 인수했으며 수수료도 보험회사가 받아 자기 소득으로 신고했습니다. 핵심은 법적 자격입니다. 당시 유효한 연방 은행법 기준으로는 큰 도시에 있는 전국은행이 직접 보험 대리인이 되어 수수료를 받을 수 없었고, 은행이 있는 도시의 인구 규모가 금지 구간에 들어가 은행이 직접 받으면 위법이었습니다. 그래서 그룹은 보험 업무를 자격 있는 관계 보험회사 안에 둔 것입니다. (초역, 원어민 감수 대기)
+
+귀속의 계보로 보면 경계가 분명해집니다. Lucas v. Earl, 281 U.S. 111 (1930)의 과일나무 원칙(fruit and tree metaphor)은 소득은 열매를 맺는 그 나무에 과세해야 하며, 사전 약정으로 열매를 남에게 넘겨 세금을 피할 수 없다는 뜻입니다. 그러나 그 원칙이 다루는 것은 납세자가 본래 받을 권리가 있는데 계약으로 돌려버린 소득입니다. 이 사건의 은행은 애초에 열매를 맺을 수 있는 나무가 아니었습니다. 법이 열매 맺는 것 자체를 금지했으므로 넘길 열매도 없었고, 두 사건은 동전의 양면입니다. Altera 사건과의 대조도 유익합니다. Altera는 § 482 관련 규정이 유효하게 만들어질 수 있는지를 다퉜고, 이 사건은 § 482의 권한이 어디까지 미치는지, 그 손이 여기까지 닿을 수 있는지를 다퉜습니다. 이후 기준은 이렇습니다. 귀속 분석에서는 먼저 '납세자가 법적으로 그 소득을 받을 권리가 있는가'라는 선행 관문을 통과해야 하며, 금지 법규 아래의 소득 귀속 주장은 사실상 봉인됐습니다. 반대로 납세자도 법률이 강제하지 않은 자기 설계 구조로는 § 482를 막을 수 없습니다. 귀속을 막는 것은 법의 금지이지 자기가 세운 구조가 아닙니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+Tóm lại sự kiện của vụ án như sau. First Security Bank of Utah là một ngân hàng quốc gia, cùng nằm trong một hệ thống công ty mẹ với một công ty bảo hiểm, là doanh nghiệp liên kết. Khi khách vay của ngân hàng cần bảo hiểm, ngân hàng giới thiệu khách sang công ty bảo hiểm liên kết; hợp đồng do công ty bảo hiểm phát hành, và hoa hồng cũng do công ty bảo hiểm thu và khai thuế. Điểm cốt yếu nằm ở tư cách pháp lý: theo quy định pháp luật ngân hàng liên bang hiệu lực khi đó, ngân hàng quốc gia đặt tại thành phố lớn hơn không được tự mình làm đại lý bảo hiểm để thu hoa hồng — quy mô dân số của thành phố nơi ngân hàng đặt trụ sở rơi vào vùng cấm, nên ngân hàng tự thu khoản hoa hồng đó là vi phạm pháp luật. Chính vì vậy tập đoàn mới đặt nghiệp vụ bảo hiểm trong công ty liên kết có tư cách. (Bản dịch sơ bộ, chờ hiệu đính)
+
+Đặt vụ án vào phổ hệ quy thuộc thu nhập, ranh giới trở nên rõ ràng. Nguyên tắc cây và quả (fruit and tree metaphor) trong Lucas v. Earl, 281 U.S. 111 (1930) nói rằng thu nhập phải bị đánh thuế ở cái cây ra quả, không thể dùng sắp xếp trước để chuyển quả cho người khác tránh thuế. Nhưng nguyên tắc đó xử lý loại thu nhập mà người nộp thuế vốn có quyền nhận, rồi dùng hợp đồng chuyển đi. Ngân hàng trong vụ này chưa bao giờ là cái cây có thể ra quả: pháp luật không cho nó ra quả, nên không tồn tại chuyện chuyển quả đi, và hai vụ án là hai mặt của một đồng xu. Đối chiếu với vụ Altera cũng bổ ích: Altera tranh về hiệu lực của quy định dưới § 482, tức quy tắc có được ban hành như vậy không; vụ này tranh về biên giới quyền lực của § 482, tức bàn tay đó có vươn tới đây được không. Chuẩn mực về sau là: trong phân tích quy thuộc, trước hết phải qua cổng tiên quyết "người nộp thuế có quyền hợp pháp nhận khoản thu nhập đó không";việc đòi quy thuộc thu nhập nằm dưới luật cấm về cơ bản đã bị bịt kín, nhưng ngược lại người nộp thuế cũng không thể dùng cấu trúc tự dựng, không do luật ép buộc, để chặn § 482 — thứ chặn được quy thuộc là lệnh cấm của luật, không phải cấu trúc tự dựng. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद·初译待校)
+
+मामले के तथ्य इस प्रकार हैं। First Security Bank of Utah एक राष्ट्रीय बैंक था, जो एक बीमा कंपनी के साथ एक ही होल्डिंग व्यवस्था के अंतर्गत संबद्ध उद्यम था। जब बैंक के ऋण-ग्राहकों को बीमा चाहिए होता, तो बैंक उन्हें संबद्ध बीमा कंपनी के पास भेजता; बीमा कंपनी ही पॉलिसी देती, और कमीशन भी कंपनी ही लेकर उस पर कर देती। निर्णायक बात क़ानूनी पात्रता की है: उस समय प्रभावी संघीय बैंकिंग नियमों के तहत, बड़े शहर में स्थित राष्ट्रीय बैंक स्वयं बीमा एजेंट बनकर कमीशन नहीं ले सकता था — बैंक के शहर का जनसंख्या आकार निषिद्ध क्षेत्र में पड़ता था, इसलिए बैंक का स्वयं यह कमीशन लेना अवैध होता। इसी कारण समूह ने बीमा व्यवसाय योग्य संबद्ध बीमा कंपनी के भीतर रखा था। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+आय-आरोपण की परंपरा में रखने से सीमा स्पष्ट होती है। Lucas v. Earl, 281 U.S. 111 (1930) का फल-और-वृक्ष सिद्धांत (fruit and tree metaphor) कहता है कि आय पर कर उसी पेड़ पर लगेगा जिस पर फल लगता है; पूर्व-व्यवस्था द्वारा फल किसी और को देकर कर से नहीं बचा जा सकता। किंतु वह सिद्धांत उस आय को संभालता है जिसे करदाता को पाने का अधिकार था, परंतु उसने अनुबंध से हटा दिया। इस मामले का बैंक कभी वह पेड़ था ही नहीं जो फल दे सके: क़ानून उसे फल देने से रोकता था, इसलिए हटाने के लिए फल था ही नहीं — दोनों मामले एक ही सिक्के के दो पहलू हैं। Altera मामले से तुलना भी उपयोगी है: Altera में § 482 के विनियमों की वैधता विवाद में थी, कि नियम ऐसे बनाए जा सकते हैं या नहीं; इस मामले में § 482 की शक्ति की सीमा विवाद में थी, कि वह हाथ यहाँ तक पहुँच सकता है या नहीं। आगे का मानक यह है: आरोपण विश्लेषण में पहले यह द्वार पार करना होगा कि "क्या करदाता को वह आय पाने का क़ानूनी अधिकार था"; निषेधात्मक क़ानून के अंतर्गत आय के आरोपण के दावे व्यावहारिक रूप से बंद हो गए हैं, परंतु इसके विपरीत करदाता भी अपनी बनाई हुई, क़ानून द्वारा न थोपी गई संरचना से § 482 को नहीं रोक सकता — आरोपण को रोकने वाली चीज़ क़ानून का निषेध है, अपनी बनाई संरचना नहीं। (प्रारंभिक अनुवाद, समीक्षा लंबित)
