@@ -335,3 +335,18 @@ Gregory मामला आज के कार्य में कम से �
 Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính hay pháp lý. Sắp xếp giao dịch cụ thể hãy tham vấn CPA có giấy phép hoặc luật sư thuế.
 
 यह लेख एक व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या कानूनी सलाह नहीं है। विशिष्ट लेन-देन व्यवस्था के लिए लाइसेंसधारी CPA या कर वकील से परामर्श करें।
+
+---
+## 补译增量（2026-11-14 00:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 두 가지. 첫째, 사흘간의 거래 일정: 1928년 9월 18일 Averill Corporation이 새로 설립됐고, 사흘 뒤 United가 Monitor Securities 주식 1,000주를 Averill에 넘기고 Averill은 자기 주식 전부를 Gregory 본인에게 발행했으며, 9월 24일 Averill이 해산해 주식이 Gregory 손에 들어갔고 그는 그날 133,333.33달러에 팔았습니다. 그의 신고 주장은 기초가액 57,325.45달러, 과세 대상 자본순이익 76,007.88달러(133,333.33 빼기 57,325.45)라는 것이었습니다. 둘째, 소송 경과: 세무항소위원회는 먼저 Gregory의 손을 들어줬고(Gregory v. Commissioner, 27 B.T.A. 223 (1932)), 제2순회법원이 Learned Hand 판사의 의견으로 이를 뒤집어 국장이 승소했으며(Helvering v. Gregory, 69 F.2d 809 (2d Cir. 1934)), 연방대법원은 1935년 1월 7일 Sutherland 대법관이 쓴 만장일치 의견으로 제2순회의 결론을 유지했습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Hai chi tiết bổ sung. Thứ nhất, lịch trình ba ngày của giao dịch: ngày 18 tháng 9 năm 1928, Averill Corporation được thành lập mới; ba ngày sau, United chuyển 1.000 cổ phiếu Monitor Securities cho Averill và Averill phát hành toàn bộ cổ phiếu của mình cho chính Gregory; ngày 24 tháng 9, Averill giải thể, cổ phiếu về tay Gregory và bà bán ngay hôm đó với giá 133.333,33 đô la. Lập luận trên tờ khai của bà là cơ sở chi phí 57.325,45 đô la và lãi vốn ròng chịu thuế 76.007,88 đô la (133.333,33 trừ 57.325,45). Thứ hai, diễn biến tố tụng: Ủy ban Kháng cáo Thuế (Board of Tax Appeals) đầu tiên xử Gregory thắng (Gregory v. Commissioner, 27 B.T.A. 223 (1932)); Tòa phúc thẩm Khu vực 2, với ý kiến do thẩm phán Learned Hand viết, đã lật lại cho Cục trưởng thắng (Helvering v. Gregory, 69 F.2d 809 (2d Cir. 1934)); và Tòa Tối cao ngày 7 tháng 1 năm 1935, trong ý kiến nhất trí do thẩm phán Sutherland viết, đã giữ nguyên kết luận của Khu vực 2.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+दो पूरक विवरण। पहला, तीन दिनों की कार्यवाही का क्रम: 18 सितंबर 1928 को Averill Corporation नई बनाई गई; तीन दिन बाद United ने Monitor Securities के 1,000 शेयर Averill को दिए और Averill ने अपने सारे शेयर स्वयं Gregory को जारी किए; 24 सितंबर को Averill भंग हो गई, शेयर Gregory के हाथ आए और उसने उसी दिन उन्हें 133,333.33 डॉलर में बेच दिया। उसकी रिटर्न-स्थिति यह थी कि लागत आधार 57,325.45 डॉलर और करयोग्य शुद्ध पूँजी लाभ 76,007.88 डॉलर (133,333.33 ऋण 57,325.45) था। दूसरा, मुकदमे का मार्ग: Board of Tax Appeals ने पहले Gregory के पक्ष में निर्णय दिया (Gregory v. Commissioner, 27 B.T.A. 223 (1932)); Second Circuit ने न्यायाधीश Learned Hand की राय से उसे पलटकर Commissioner को जिताया (Helvering v. Gregory, 69 F.2d 809 (2d Cir. 1934)); और सर्वोच्च न्यायालय ने 7 जनवरी 1935 को न्यायमूर्ति Sutherland द्वारा लिखित सर्वसम्मत राय से Second Circuit के निष्कर्ष को बरकरार रखा।
