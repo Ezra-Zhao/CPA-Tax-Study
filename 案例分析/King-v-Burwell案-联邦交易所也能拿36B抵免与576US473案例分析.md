@@ -65,3 +65,20 @@ Este artículo es una nota de estudio personal y no constituye asesoría fiscal.
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn thuế. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-15 03:55 轮）
+
+### 한국어
+
+1. 거래소의 법적 구조를 보탭니다. ACA 제1311조는 각 주에 거래소 설립을 요구하고, 제1321조는 주가 기한까지 설립하지 않거나 설립할 수 없으면 연방 보건복지부 장관이 「그러한 거래소」(such Exchange)를 설립·운영하도록 정합니다. 즉 연방 플랫폼은 법 밖에 따로 만든 장치가 아니라 법안 자체가 마련한 대체 통로이며, 이 점이 다수 의견이 해당 문구를 법 전체 안에서 읽는 핵심 지점 중 하나였습니다. (초역 · 初译待校)
+2. 소송 경로를 보탭니다. 본안은 버지니아주 소재 연방 법원에서 올라왔고, 제4순회 상소법원은 IRS 규정을 유지했습니다. 같은 시기에 컬럼비아 특별구 순회법원은 Halbig 사건에서 반대 결론에 도달해 순회법원 사이의 견해가 갈렸고, 이 분열이 연방대법원이 사건을 받아들인 직접적인 배경이 됐습니다. (초역 · 初译待校)
+
+### Tiếng Việt
+
+1. Bổ sung cấu trúc pháp lý của sàn giao dịch: Điều 1311 của ACA yêu cầu mỗi bang thành lập một sàn giao dịch, và Điều 1321 tiếp đó quy định nếu bang không lập hoặc không lập được trước thời hạn, Bộ trưởng Bộ Y tế và Dịch vụ Nhân sinh liên bang sẽ «thành lập và vận hành một sàn giao dịch như vậy» (such Exchange). Nói cách khác, nền tảng liên bang không phải là một bộ máy dựng thêm ngoài luật, mà là kênh dự phòng do chính đạo luật chuẩn bị sẵn, và đây là một trong những điểm tựa then chốt để đa số đọc thông cụm từ trong toàn bộ đạo luật. (dịch sơ bộ · 初译待校)
+2. Bổ sung tiến trình kiện tụng: vụ án đi lên từ tòa liên bang tại bang Virginia, và Tòa Phúc thẩm Vòng 4 giữ nguyên quy định của IRS. Cùng thời kỳ, Tòa Phúc thẩm Vòng Đặc khu Columbia trong vụ Halbig từng đi đến kết luận ngược lại, khiến các tòa vòng mâu thuẫn nhau, và chính sự chia rẽ đó là bối cảnh trực tiếp khiến Tòa án Tối cao nhận vụ án để xét xử. (dịch sơ bộ · 初译待校)
+
+### हिन्दी
+
+1. एक्सचेंज की वैधानिक बनावट जोड़ी जाती है: ACA की धारा 1311 प्रत्येक राज्य से एक्सचेंज स्थापित करने की अपेक्षा करती है, और धारा 1321 आगे कहती है कि यदि राज्य समय-सीमा तक एक्सचेंज न बनाए या न बना पाए, तो संघीय स्वास्थ्य और मानव सेवा मंत्री «ऐसा ही एक एक्सचेंज» (such Exchange) स्थापित और संचालित करेगा। अर्थात संघीय मंच कानून के बाहर खड़ा किया गया अलग ढाँचा नहीं है, बल्कि अधिनियम द्वारा स्वयं तैयार किया गया वैकल्पिक मार्ग है, और यही बहुमत द्वारा वाक्यांश को पूरे अधिनियम में पढ़ने के मुख्य आधारों में से एक था। (प्रारंभिक अनुवाद · 初译待校)
+2. मुकदमे का मार्ग जोड़ा जाता है: यह मामला वर्जीनिया स्थित संघीय न्यायालय से ऊपर आया, और चौथे सर्किट अपील न्यायालय ने IRS विनियम को बरकरार रखा। उसी दौरान डिस्ट्रिक्ट ऑफ़ कोलंबिया सर्किट ने Halbig मामले में विपरीत निष्कर्ष दिया, जिससे सर्किट न्यायालयों में मतभेद पैदा हुआ, और यही मतभेद सर्वोच्च न्यायालय द्वारा मामला स्वीकार करने की प्रत्यक्ष पृष्ठभूमि था। (प्रारंभिक अनुवाद · 初译待校)
