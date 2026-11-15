@@ -47,3 +47,24 @@ Commissioner v. Jacobson, 336 U.S. 28 (1949)। Chicago के वकील Lewi
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成税务建议。｜ English: Personal study notes, not tax advice. ｜ Español (初译待校): Notas personales de estudio, no constituyen asesoría fiscal. ｜ 한국어 (初译待校): 개인 학습 노트이며 세무 자문이 아닙니다. ｜ Tiếng Việt (初译待校): Ghi chú học tập cá nhân, không phải tư vấn thuế. ｜ हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट, कर सलाह नहीं है।
+
+## 补译增量（2026-11-14 20:55轮）
+
+### 한국어 (초역·待校)
+
+① 하급심 반대 구성과 대법원 보충·반대 의견 보충. 조세법원(6 T.C. 1048)에서는 16명의 법관 중 6명이 반대했고, 그중 5명은 전액 과세해야 하며 어떤 매입도 무상이 아니라는 입장이었습니다. 연방대법원에서는 Rutledge 대법관이 동조하면서도 본건 결과가 American Dental, 318 U.S. 322 (1943)와 실질적으로 충돌한다고 지적했고, Reed 대법관과 Douglas 대법관은 반대하여 제7순회의 판단을 유지해야 한다고 봤습니다.
+
+② 실현 시점과 세 가지 배제 보충. 이득은 되산 해에 실현됩니다. 채권을 손에 넣어 그 소멸을 지배하게 된 시점에 실현되며, 실제로 채권을 소각할 때까지 기다릴 필요가 없습니다. 이 채권들은 매입가격 채권이 아니었으므로 할인은 매입가격의 사후 조정으로 처리되지 않고, 차입금은 공제 가능한 식별 가능한 손실로 추적되지도 않았습니다. 그는 또 되산 채권들에 대해 앞으로 반년마다 붙을 5퍼센트 이자도 절약했습니다. (초역·待校)
+
+### Tiếng Việt (bản dịch sơ bộ·待校)
+
+① Bổ sung cấu thành ý kiến phản đối ở cấp dưới và ý kiến đồng tình, phản đối ở Tòa Tối cao. Tại Tòa Thuế (6 T.C. 1048), 6 trong số 16 thẩm phán phản đối, và 5 người trong số đó cho rằng phải đánh thuế toàn bộ, không khoản mua lại nào là quà tặng miễn phí. Tại Tòa Tối cao, thẩm phán Rutledge đồng tình nhưng ghi nhận kết quả của vụ này về thực chất có xung đột với American Dental, 318 U.S. 322 (1943); các thẩm phán Reed và Douglas phản đối, chủ trương giữ nguyên phán quyết của Khu vực 7.
+
+② Bổ sung thời điểm ghi nhận và ba điểm loại trừ. Khoản lãi được ghi nhận ngay trong năm mua lại: khi trái phiếu về tay và quyền kiểm soát việc hủy bỏ chúng hình thành thì lãi đã thực hiện, không cần chờ đến khi trái phiếu thực sự bị hủy. Các trái phiếu này không phải trái phiếu tiền mua hàng, nên phần chiết khấu không được xử lý như điều chỉnh giá mua, và tiền vay cũng không bị truy vết vào khoản lỗ có thể khấu trừ nào xác định được. Ông còn tiết kiệm được khoản lãi 5 phần trăm mỗi nửa năm mà các trái phiếu đã mua lại lẽ ra tiếp tục sinh ra. (bản dịch sơ bộ·待校)
+
+### हिन्दी (प्रारंभिक अनुवाद·待校)
+
+① निचली असहमतियों की संरचना और सर्वोच्च न्यायालय की सहमति व असहमति की पूर्ति। कर न्यायालय (6 T.C. 1048) में 16 न्यायाधीशों में से 6 ने असहमति दी, और उनमें से 5 का मत था कि पूरी राशि पर कर लगना चाहिए और कोई भी पुनर्ख़रीद निःशुल्क नहीं थी। सर्वोच्च न्यायालय में न्यायमूर्ति Rutledge ने सहमति देते हुए भी नोट किया कि इस मामले का परिणाम American Dental, 318 U.S. 322 (1943) से सारतः टकराता है; न्यायमूर्ति Reed और Douglas ने असहमति दी और सातवें सर्किट को बनाए रखने के पक्ष में रहे।
+
+② प्राप्ति के समय और तीन बहिष्करणों की पूर्ति। लाभ पुनर्ख़रीद वाले वर्ष में ही प्राप्त हो जाता है: बॉन्ड हाथ में आते ही और उनके उन्मोचन पर नियंत्रण मिलते ही लाभ सिद्ध हो जाता है, वास्तविक निरस्तीकरण तक प्रतीक्षा आवश्यक नहीं। ये बॉन्ड क्रय-मूल्य बॉन्ड नहीं थे, इसलिए छूट को क्रय-मूल्य का पश्चात् समायोजन नहीं माना गया, और उधार ली राशि किसी पहचान योग्य कटौती-योग्य हानि में भी अनुरेखित नहीं हुई थी। उन्होंने पुनर्ख़रीदे बॉन्डों पर आगे हर छह महीने लगने वाला 5 प्रतिशत ब्याज भी बचाया। (प्रारंभिक अनुवाद·待校)
+
