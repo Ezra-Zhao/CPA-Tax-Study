@@ -59,3 +59,25 @@ Este artículo es una nota de estudio personal y no constituye asesoría fiscal.
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn thuế. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+---
+
+## 补译增量（2026-11-15 14:55轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 1 — 실무 네 칸 점검: 주를 넘나드는 가족 신탁은 설립할 때와 거주지를 옮길 때 네 칸을 하나씩 확인해야 합니다 — 수탁자의 소재지, 신탁을 규율하는 법, 자산의 소재지, 그리고 수익자가 순수 재량 수익자인지 확정된 청구권을 가진 수익자인지. Kaestner가 해결한 것은 이 중 가장 약한 한 칸, 즉 순수 재량에 분배가 전혀 없었던 경우뿐이며, 나머지 칸에서는 각 주의 과세 주장 강도가 서로 다릅니다.
+
+보충 세부 2 — 캘리포니아의 비례 주장과 판단 순서: 수익자의 권익이 비우발적(noncontingent)이고 확정되어 있으면 캘리포니아는 그 거주 비례에 따라 과세를 주장하는데, 이것이 바로 Kaestner가 판단을 남겨 둔 칸입니다. 그래서 이 사건을 인용할 때는 먼저 수익자 권익의 우발성을 가르고 그다음에 거주지를 논해야 하며, 순서가 뒤바뀌면 결론도 뒤바뀝니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 — bốn ô kiểm tra trong thực tế: với tín thác gia đình xuyên bang, khi thành lập và khi chuyển nơi cư trú phải kiểm tra từng ô một — nơi ở của người được ủy thác, luật điều chỉnh tín thác, nơi đặt tài sản, và người hưởng lợi là người hưởng tùy nghi thuần túy hay có quyền yêu cầu đã xác định. Kaestner chỉ giải quyết ô yếu nhất trong bốn ô — tùy nghi thuần túy cộng với không phân phối chút nào — còn ở các ô khác, sức mạnh yêu sách đánh thuế của mỗi bang là khác nhau.
+
+Chi tiết bổ sung 2 — yêu sách theo tỷ lệ của California và thứ tự xét: khi quyền lợi của người hưởng lợi là không phụ thuộc điều kiện (noncontingent) và đã xác định, California yêu sách đánh thuế theo tỷ lệ cư trú của người đó — và đây chính là ô mà Kaestner để ngỏ chưa quyết. Vì vậy khi trích dẫn vụ án này, phải phân định tính có điều kiện của quyền lợi người hưởng lợi trước, rồi mới bàn đến nơi cư trú; đảo thứ tự là đảo kết luận.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक विवरण 1 — व्यवहार में चार खानों की जाँच: राज्यों के पार जाने वाले पारिवारिक ट्रस्ट की स्थापना और निवास-परिवर्तन के समय चार खाने एक-एक करके जाँचने होते हैं — न्यासी का स्थान, ट्रस्ट को शासित करने वाला कानून, संपत्ति का स्थान, और यह कि लाभार्थी पूर्णतः विवेकाधीन है या उसके पास निश्चित माँग-अधिकार है। Kaestner ने इनमें सबसे कमज़ोर खाना ही तय किया — पूर्ण विवेकाधिकार और शून्य वितरण — बाकी खानों में हर राज्य के कर-दावे की ताक़त अलग होती है।
+
+पूरक विवरण 2 — California का अनुपात-दावा और जाँच का क्रम: जब लाभार्थी का हित ग़ैर-आकस्मिक (noncontingent) और निश्चित हो, तो California उसके निवास-अनुपात के अनुसार कर का दावा करता है — यही वह खाना है जिसे Kaestner ने अनिर्णीत रखा। इसलिए इस मामले का हवाला देते समय पहले लाभार्थी के हित की आकस्मिकता तय करें, फिर निवास की बात करें; क्रम उलटने से निष्कर्ष उलट जाता है।
