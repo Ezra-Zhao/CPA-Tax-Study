@@ -41,3 +41,22 @@ Bản dịch sơ bộ, chờ hiệu đính. Cổ tức tái đầu tư qua kế 
 ---
 
 声明：本文为个人学习笔记，不构成税务建议。具体事项请以 IRC 第 61、301、1091 条、IRS Publication 550、551 等当期出版物与持牌专业人士意见为准。
+
+
+---
+
+## 补译增量（2026-11-18 04:55 轮）
+
+本节把中文主文已有的两组细节补齐到韩／越／印三语，只取中文主文原有事实，不新增数字与法条。
+
+### 한국어 (초역, 교정 대기) (初译待校)
+
+첫째 묶음은 평균가액법의 적용 범위와 서류 보관입니다. 평균가액법은 같은 계좌 안의 같은 종류 주식에 통일적으로 적용되며, 선택과 철회 모두 정해진 절차가 있으니 선택 전에 신중히 생각해야 합니다. 2012년 1월 1일보다 전에 DRIP로 취득한 비 covered 로트는 브로커 보고가 없어 본인이 연도별 명세서를 모아 취득가액을 맞춰야 하므로, 분기 명세서와 연간 합계표를 반드시 보관해야 합니다. 둘째 묶음은 워시세일을 피하는 실무 방법입니다. 손실을 보고 판 주식의 재투자 계획을 꺼 두거나, 매도 후 만 31일이 지난 뒤에 자동 매입이 재개되게 하는 것이 가장 손쉬운 예방법입니다. 자동 매입은 본인이 팔았는지와 무관하게 돌아가므로, 창 안에 다시 사들이면 손실이 대체 주식 비율만큼 부인됩니다.
+
+### Tiếng Việt (初译待校)
+
+Cụm thứ nhất là phạm vi áp dụng của phương pháp cơ sở bình quân và việc lưu chứng từ: phương pháp cơ sở bình quân áp dụng thống nhất cho các cổ phiếu cùng loại trong cùng một tài khoản, và cả việc lựa chọn lẫn việc thu hồi lựa chọn đều có yêu cầu về thủ tục, nên cần cân nhắc kỹ trước khi chọn. Các lô không được bao phủ (non-covered) mua qua DRIP trước ngày 1 tháng 1 năm 2012 không có báo cáo cơ sở từ môi giới, nên cơ sở phải tự ráp lại từ sao kê từng năm, và nhất thiết phải lưu giữ sao kê hằng quý cùng bảng tổng hợp hằng năm. Cụm thứ hai là cách phòng tránh wash sale trong thực tế: tắt kế hoạch tái đầu tư đối với cổ phiếu vừa bán lỗ, hoặc chờ đủ 31 ngày sau ngày bán mới để việc mua tự động hoạt động trở lại, là cách phòng đơn giản nhất. Việc mua tự động vận hành bất kể bạn có bán hay không, nên nếu nó mua lại trong cửa sổ thì phần lỗ tương ứng với số cổ phiếu thay thế sẽ bị bác.
+
+### हिन्दी (初译待校)
+
+पहला समूह average basis पद्धति के दायरे और दस्तावेज़ रखने का है: average basis एक ही खाते की एक ही प्रकार की shares पर समान रूप से लागू होती है, और चुनाव करने व उसे वापस लेने, दोनों की निर्धारित प्रक्रिया है, इसलिए चुनने से पहले अच्छी तरह सोच लें। 1 जनवरी 2012 से पहले DRIP से ली गई non-covered lots पर broker की basis रिपोर्ट नहीं होती, इसलिए उनका basis अपने वर्षों के statements से जोड़कर बनाना पड़ता है, और तिमाही statements व वार्षिक सारांश अवश्य संभालकर रखने चाहिए। दूसरा समूह wash sale से बचने का व्यावहारिक उपाय है: घाटे में बेची गई share की पुनर्निवेश योजना बंद कर देना, या बिक्री के बाद पूरे 31 दिन प्रतीक्षा करके ही स्वचालित ख़रीद फिर शुरू होने देना, सबसे आसान बचाव है। स्वचालित ख़रीद इस बात से बेख़बर चलती है कि आपने बेचा है या नहीं, इसलिए यदि वह window के भीतर फिर ख़रीद ले तो replacement shares के अनुपात में हानि अस्वीकृत हो जाती है।
