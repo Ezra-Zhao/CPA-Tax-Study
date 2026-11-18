@@ -117,3 +117,11 @@ Chi tiết bổ sung 2 (đối chiếu văn bản chính tiếng Trung): Thứ n
 
 ---
 *个人学习笔记，不构成税务建议。*
+
+## 补译增量（2026-11-17 15:55轮）
+### 한국어 (초역·교정 대기)
+(A) ABLE 플랜은 전국 단위로 비교할 수 있습니다. CalABLE에 가입하려고 캘리포니아 주민일 필요는 없고, 다른 주의 플랜을 고를 수도 있으며 그 반대도 마찬가지입니다. 플랜 선택은 수수료와 투자 옵션을 보고 정하고, 복지는 보지 않습니다. 복지 기준은 수익자가 거주하는 주를 따릅니다. (B) 사회보장 경로를 통하지 않는 경우, 장애 증명은 의사가 장애가 법정 심각도 및 지속 기간 기준(사회보장 장애 판정과 같은 궤도의 의학·직업 기준)을 충족함을 증명해야 합니다.
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+(A) Các chương trình ABLE có thể so sánh trên toàn quốc: mở tài khoản CalABLE không đòi hỏi phải là cư dân California mới được chọn chương trình của bang khác, và ngược lại. Chọn chương trình thì xem phí và lựa chọn đầu tư, không xem phúc lợi — tiêu chuẩn phúc lợi đi theo bang nơi người thụ hưởng cư trú. (B) Nếu không đi qua kênh an sinh xã hội, giấy chứng nhận khuyết tật phải do bác sĩ chứng nhận rằng tình trạng khuyết tật đáp ứng tiêu chuẩn luật định về mức độ nghiêm trọng và thời gian kéo dài (chuẩn y khoa — nghề nghiệp cùng hệ với xét duyệt khuyết tật của an sinh xã hội).
+### हिन्दी (प्रारंभिक अनुवाद, संशोधन अपेक्षित)
+(A) ABLE योजनाएँ पूरे देश में तुलनीय हैं: CalABLE खोलने के लिए California निवासी होना ज़रूरी नहीं, किसी अन्य राज्य की योजना भी चुनी जा सकती है और इसका उलटा भी। योजना चुनते समय शुल्क और निवेश विकल्प देखें, लाभ नहीं — लाभ का मानदंड लाभार्थी के निवास राज्य के अनुसार चलता है। (B) यदि सामाजिक सुरक्षा मार्ग न अपनाया जाए, तो विकलांगता प्रमाणपत्र में चिकित्सक को प्रमाणित करना होगा कि विकलांगता गंभीरता और अवधि के वैधानिक मानक (सामाजिक सुरक्षा विकलांगता निर्धारण जैसी ही चिकित्सा-व्यावसायिक कसौटी) पूरे करती है।
