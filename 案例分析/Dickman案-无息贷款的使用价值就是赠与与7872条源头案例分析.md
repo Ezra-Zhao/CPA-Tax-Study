@@ -61,3 +61,24 @@ Este artículo es una nota de estudio personal y no constituye asesoría fiscal.
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn thuế. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-19 04:55轮）
+
+### 한국어 (초역, 교정 대기)
+
+보충 세부 사항 1 (재심 기각 그룹): 연방대법원은 1984년 4월 16일에 재심 신청을 기각했습니다(466 U.S. 945). 따라서 1984년 2월 22일의 본안 판결이 그대로 최종 확정됐고, 가족 내 무이자 요구불 대출의 사용 가치가 과세 대상 증여라는 판단에는 더 이상의 불복 단계가 남지 않았습니다. (초역, 교정 대기)
+
+보충 세부 사항 2 (기한부 증여 대출의 증여세 쪽 처리 그룹): 제7872조 (d)항 제(2)호에 따르면, 증여 대출이 기한부 대출인 경우 증여세 쪽에서는 (a)항의 연도별 방식이 아니라 (b)항의 방식을 따릅니다. 즉 대출 성립일에 대출액이 전체 지급액의 현재가치를 넘는 초과분이 한 번에 이전된 것으로 처리합니다. 수요불 대출과 기한부 대출을 혼동하면 증여세의 시기와 금액이 모두 달라지므로, 두 궤도를 섞는 것은 본안 노트가 꼽는 대표적인 오류입니다. (초역, 교정 대기)
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 (nhóm bác đơn xin tái thẩm): Tòa án Tối cao đã bác đơn xin tái thẩm vào ngày 16 tháng 4 năm 1984 (466 U.S. 945). Như vậy phán quyết chính ngày 22 tháng 2 năm 1984 đứng vững như phán quyết cuối cùng, và kết luận rằng giá trị sử dụng của khoản vay không lãi, thu hồi theo yêu cầu trong gia đình là khoản tặng cho chịu thuế không còn bước khiếu kiện nào nữa. (Bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 2 (nhóm xử lý phía thuế tặng cho đối với vay tặng cho có kỳ hạn): theo điểm (d)(2) của Điều 7872, nếu khoản vay tặng cho là khoản vay có kỳ hạn, phía thuế tặng cho sẽ đi theo cách của khoản (b) chứ không theo cách từng năm của khoản (a): phần vượt của số tiền cho vay trên giá trị hiện tại của mọi khoản thanh toán được coi là chuyển giao một lần ngay tại ngày cho vay. Nhầm lẫn giữa vay theo yêu cầu và vay có kỳ hạn sẽ làm sai cả thời điểm lẫn số tiền của thuế tặng cho, và đây là lỗi điển hình mà bài ghi chú gốc đã chỉ ra. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक विवरण 1 (पुनर्विचार याचिका ख़ारिज समूह): सर्वोच्च न्यायालय ने 16 अप्रैल 1984 को पुनर्विचार याचिका ख़ारिज कर दी (466 U.S. 945)। इस प्रकार 22 फ़रवरी 1984 का मुख्य निर्णय ही अंतिम रहा, और परिवार के भीतर ब्याज-मुक्त, माँग पर देय ऋण के उपयोग-मूल्य को करयोग्य उपहार मानने वाले निष्कर्ष के विरुद्ध कोई आगे की अपील-सीढ़ी नहीं बची। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक विवरण 2 (सावधि उपहार ऋण का उपहार-कर पक्ष समूह): धारा 7872(d)(2) के अनुसार, यदि उपहार ऋण सावधि ऋण है, तो उपहार-कर की ओर से उसका व्यवहार उपधारा (a) की वर्ष-दर-वर्ष पद्धति से नहीं, बल्कि उपधारा (b) की पद्धति से होता है: ऋण-दिवस पर ही, उधार दी गई राशि का सभी भुगतानों के वर्तमान मूल्य पर आधिक्य एकमुश्त हस्तांतरित माना जाता है। माँग ऋण और सावधि ऋण को गढ़मढ़ करने से उपहार कर का समय और राशि दोनों बिगड़ जाते हैं, और मूल नोट इसी भ्रम को प्रमुख त्रुटियों में गिनता है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
