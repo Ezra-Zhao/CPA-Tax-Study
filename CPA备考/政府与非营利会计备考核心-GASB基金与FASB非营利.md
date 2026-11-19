@@ -165,3 +165,32 @@ Este artículo es solo una nota de estudio personal y no constituye asesoramient
 Bài viết này chỉ là ghi chú học tập cá nhân, không cấu thành tư vấn thuế, tài chính hay kiểm toán; chuẩn mực và đề cương thi sẽ thay đổi, hãy dựa vào văn bản chính thức hiện hành của GASB, FASB và AICPA. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और कर, वित्तीय या लेखापरीक्षा सलाह नहीं है; मानक और परीक्षा रूपरेखाएँ बदलती रहती हैं, इसलिए GASB, FASB और AICPA के वर्तमान आधिकारिक पाठों पर भरोसा करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-19 00:55 轮）
+
+本节为存量补译：中文主文第二节已有、韩／越／印三语此前同缺的 2 项细节，在此以三语补齐。均为中文主文原有内容，不新增事实。（初译待校）
+
+补译 1（保管基金归属要件一）：受托类的保管基金（custodial fund）装的是替他人代管的资产——政府只是替别人拿着这笔钱，资产服务于他人，不是政府自身项目的钱。
+
+补译 2（保管基金归属要件二）：进受托类的另一要件是政府对所管资产没有行政参与（administrative involvement）；政府一旦对资产的运用有行政参与，就不再是单纯代管，归属判断随之改变。
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 1(보관기금 귀속 요건 1): 수탁 가족의 보관기금(custodial fund)에 들어가는 것은 남을 대신해 맡아 둔 자산입니다. 정부는 남의 돈을 대신 들고 있을 뿐이며, 그 자산은 타인을 위한 것이지 정부 자체 사업의 돈이 아닙니다.
+
+보충 2(보관기금 귀속 요건 2): 수탁류로 들어가는 또 하나의 요건은 정부가 맡은 자산에 대해 행정적 관여(administrative involvement)가 없어야 한다는 것입니다. 정부가 자산 운용에 행정적으로 관여하게 되면 단순한 대리 보관이 아니게 되어 귀속 판단이 달라집니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1 (điều kiện thuộc diện ủy thác thứ nhất của quỹ ký thác): quỹ ký thác (custodial fund) thuộc họ ủy thác chứa tài sản giữ hộ cho người khác — chính phủ chỉ cầm hộ tiền của người khác, tài sản phục vụ người khác chứ không phải tiền cho chương trình của chính chính phủ.
+
+Bổ sung 2 (điều kiện thuộc diện ủy thác thứ hai của quỹ ký thác): điều kiện còn lại để vào diện ủy thác là chính phủ không có sự tham gia hành chính (administrative involvement) đối với tài sản được giữ; một khi chính phủ tham gia hành chính vào việc sử dụng tài sản, đó không còn là giữ hộ đơn thuần và phán đoán phân loại sẽ thay đổi theo.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक 1 (अभिरक्षा निधि के न्यासी वर्ग की पहली शर्त): न्यासी परिवार की अभिरक्षा निधि (custodial fund) में वह संपत्ति आती है जो दूसरों के लिए रखी गई हो — सरकार केवल दूसरों का धन संभाले हुए है, संपत्ति दूसरों के लिए है, सरकार के अपने कार्यक्रमों का धन नहीं।
+
+पूरक 2 (अभिरक्षा निधि के न्यासी वर्ग की दूसरी शर्त): न्यासी वर्ग में आने की दूसरी शर्त यह है कि रखी गई संपत्ति में सरकार की कोई प्रशासनिक भागीदारी (administrative involvement) न हो; जैसे ही सरकार संपत्ति के उपयोग में प्रशासनिक रूप से भाग लेने लगे, वह केवल रखवाली नहीं रहती और वर्गीकरण का निर्णय उसी अनुसार बदल जाता है।
