@@ -208,3 +208,22 @@ IRC §§245A, 250, 59A, 904, 951A, 960; TCJA, Pub. L. 115-97; §250 प्रत
 ### अस्वीकरण
 
 व्यक्तिगत अध्ययन नोट्स हैं, कर सलाह नहीं।
+
+
+---
+
+## 补译增量（2026-11-19 06:55轮）
+
+> 本节为存量补译增量：以下两组细节仅见于本篇中文主文，此前韩／越／印三语段同缺，本轮各补 2 项，纯增量只加不删、不新增事实。三语段末均标「初译待校」。
+
+### 한국어 (초역, 교정 대기)
+
+보충 1 — FDII 계산 순서: FDII는 세 단계로 계산합니다. 먼저 공제가능소득(DEI)을 산출하면서 Subpart F 소득, GILTI, 배당 등을 제외하고, 다음에 그중 외국 사용에 귀속되는 부분(FDDEI)을 나누고, 마지막에 유형자산 간주수익(QBAI의 10%)을 차감합니다. 보충 2 — BEAT와 GILTI의 관계: BEAT는 일반세와 비교해 큰 쪽을 취하는 구조이며, GILTI와 동시에 겹쳐 적용될 수 있지만 두 제도의 계산 순서는 서로 독립적입니다. *개인 학습 노트이며 세무 자문이 아닙니다. (초역, 원어민 감수 대기)*
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1 — Thứ tự tính FDII: FDII được tính theo ba bước: trước hết tính thu nhập đủ điều kiện khấu trừ (DEI), loại trừ các khoản như thu nhập Subpart F, GILTI và cổ tức; tiếp theo tách phần thuộc về sử dụng ở nước ngoài (FDDEI); cuối cùng trừ lợi nhuận hữu hình giả định (10% QBAI). Bổ sung 2 — Quan hệ giữa BEAT và GILTI: BEAT lấy số lớn hơn khi so với thuế thông thường, và có thể áp dụng chồng lên GILTI, nhưng thứ tự tính của hai chế độ độc lập với nhau. *Ghi chú học tập cá nhân, không phải tư vấn thuế. (Bản dịch sơ bộ, chờ hiệu đính)*
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक 1 — FDII की गणना का क्रम: FDII तीन चरणों में गिना जाता है: पहले कटौती-योग्य आय (DEI) निकालें, जिसमें Subpart F आय, GILTI और लाभांश जैसे मद बाहर रहते हैं; फिर उसका विदेशी उपयोग से जुड़ा भाग (FDDEI) अलग करें; अंत में अभिप्रेत मूर्त प्रतिफल (QBAI का 10%) घटाएँ। पूरक 2 — BEAT और GILTI का संबंध: BEAT सामान्य कर से तुलना करके बड़ा अंक लेता है, और यह GILTI के साथ एक साथ लागू हो सकता है, परंतु दोनों व्यवस्थाओं की गणना का क्रम एक-दूसरे से स्वतंत्र है। *व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं। (प्रारंभिक अनुवाद, समीक्षा लंबित)*
