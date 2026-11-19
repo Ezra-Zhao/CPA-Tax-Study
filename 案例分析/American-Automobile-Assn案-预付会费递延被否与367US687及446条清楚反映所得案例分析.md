@@ -100,3 +100,17 @@ Español: Notas personales de estudio; no constituyen asesoría fiscal.
 한국어: 개인 학습 노트이며 세무 자문이 아닙니다. (초역·待校)
 Tiếng Việt: Ghi chú học tập cá nhân, không phải tư vấn thuế. (bản dịch sơ bộ·待校)
 हिन्दी: व्यक्तिगत अध्ययन नोट्स; कर सलाह नहीं। (प्रारंभिक अनुवाद·待校)
+
+## 补译增量（2026-11-18 22:55 轮）
+
+### 한국어 (초역, 교정 대기)
+- 회원은 가맹 지방 클럽뿐 아니라 협회가 직접 운영하는 열 곳의 클럽에도 회비를 냈습니다. 서비스는 고정 일정이 아니라 회원이 요청할 때만 제공됐습니다. 구조가 이렇기 때문에 미래 서비스의 시기와 양을 미리 확정할 수 없다는 점이 이연을 무너뜨리는 핵심이 됐습니다.
+- 후대의 성문법 출구는 2017년 TCJA가 신설한 제451조 (c)항입니다. 발생주의이고 적용 재무제표가 있는 납세자는 선불금을 원칙적으로 재무제표 인식에 맞춰 이연할 수 있지만, 이연은 늦어도 수령 다음 과세연도 말을 넘길 수 없습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+- Hội viên đóng phí không chỉ cho các câu lạc bộ địa phương liên kết mà còn cho mười câu lạc bộ do Hiệp hội trực tiếp vận hành. Dịch vụ chỉ được cung cấp khi hội viên yêu cầu, không theo lịch cố định; vì cấu trúc này, thời điểm và khối lượng dịch vụ tương lai không thể xác định trước, và đó là điểm then chốt khiến việc hoãn lại sụp đổ.
+- Lối ra thành văn về sau là khoản (c) của Điều 451 do TCJA năm 2017 thêm vào: người nộp thuế theo cơ sở dồn tích có báo cáo tài chính áp dụng có thể hoãn khoản thu trước theo cách ghi nhận trên báo cáo, nhưng việc hoãn không được kéo dài quá cuối năm tính thuế tiếp theo sau năm thu tiền.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+- सदस्यों ने शुल्क केवल संबद्ध स्थानीय क्लबों को नहीं, बल्कि एसोसिएशन द्वारा सीधे चलाए जाने वाले दस क्लबों को भी दिया। सेवाएँ निश्चित कार्यक्रम से नहीं, केवल सदस्य के माँगने पर दी जाती थीं; इसी संरचना के कारण भविष्य की सेवा का समय और मात्रा पहले से तय नहीं हो सकती थी, और यही आस्थगन गिरने का केंद्रीय बिंदु बना।
+- बाद का वैधानिक निकास 2017 के TCJA द्वारा जोड़ी गई धारा 451(c) है: देय-आधार (accrual) करदाता, जिसके पास लागू वित्तीय विवरण हों, अग्रिम प्राप्ति को सिद्धांततः वित्तीय विवरण मान्यता के अनुरूप आस्थगित कर सकता है, परंतु आस्थगन प्राप्ति के अगले कर वर्ष के अंत से आगे नहीं जा सकता।
