@@ -51,3 +51,28 @@ Wolder 援引 Merriam 案（263 U.S. 179 (1923)，遗嘱里写明代替执行人
 - 稿件未做修改。
 - X 版权重：265（规格硬顶 270，距平台上限 280 余量 15），固定披露句逐字未动。
 - 定稿结论：通过（OVH 跨模型交叉审＋第二巡回判决原文人工复核，2026-11-10）。
+
+
+---
+
+## 六语补译（2026-11-19 补齐：English / Español / 한국어 / Tiếng Việt / हिन्दी，初译待校）
+
+### English
+
+Wolder v. Commissioner, 493 F.2d 608 (2d Cir. 1974). Lawyer Victor Wolder agreed in writing in 1947 to serve client Marguerite Boyce for life without billing her; in exchange her will would leave him stock. After a merger the holding became 750 shares of Schering common stock plus preferred shares redeemed in 1964 for 15,845 dollars. Boyce died in 1965 leaving him 15,845 dollars in cash and the 750 shares (worth 46,945.31 dollars at her death). The Tax Court (58 T.C. 974) and the Second Circuit held the transfer was compensation for services under section 61(a)(1), not an excludable bequest under section 102(a): the will was only the payment mechanism for a bargained-for fee, tested by the transferor's dominant intent under Duberstein; the Merriam line did not control because there was a real services contract. The Second Circuit reversed on timing: because the shares sat in a co-executor's custody account and his demands were refused, he had no constructive receipt in 1965; the income fell in 1966. The estate could deduct the payment as a claim under section 2053(a). Lesson: a promise to "pay you in my will" for services is taxed as pay, not as a gift. Information only, not tax advice.
+
+### Español (初译待校)
+
+Wolder v. Commissioner, 493 F.2d 608 (2d Cir. 1974). El abogado Victor Wolder acordó por escrito en 1947 servir de por vida a su clienta Marguerite Boyce sin facturarle; a cambio, el testamento de ella le dejaría acciones. Tras una fusión, la tenencia se convirtió en 750 acciones comunes de Schering, más acciones preferentes rescatadas en 1964 por 15,845 dólares. Boyce murió en 1965 y le dejó 15,845 dólares en efectivo y las 750 acciones (valuadas en 46,945.31 dólares a su muerte). El Tribunal Fiscal (58 T.C. 974) y el Segundo Circuito sostuvieron que fue remuneración por servicios según la sección 61(a)(1), no un legado excluible según la 102(a): el testamento era solo el mecanismo de pago de un honorario pactado, juzgado por la intención dominante según Duberstein. El Segundo Circuito revocó el año de imputación: sin recibo constructivo en 1965, el ingreso correspondió a 1966. Solo información, no es asesoría fiscal.
+
+### 한국어 (초역, 교정 대기)
+
+Wolder v. Commissioner, 493 F.2d 608 (2d Cir. 1974). 변호사 Victor Wolder는 1947년 서면 계약으로 고객 Marguerite Boyce에게 평생 청구 없이 법률 서비스를 제공하기로 했고, 그 대가로 그녀의 유언이 그에게 주식을 남기기로 했다. 합병 후 보유분은 Schering 보통주 750주와 1964년 15,845달러에 상환된 우선주가 되었다. Boyce는 1965년 사망하며 현금 15,845달러와 750주(사망일 가치 46,945.31달러)를 남겼다. 조세법원(58 T.C. 974)과 제2순회법원은 이를 제102(a)조의 면세 유증이 아니라 제61(a)(1)조의 서비스 보수라고 판시했다. 유언은 약정된 보수의 지급 방식일 뿐이며, Duberstein의 지배적 의도 기준이 적용된다. 다만 제2순회법원은 1965년에 constructive receipt가 없었다고 보아 소득 연도를 1966년으로 정정했다. 정보 제공용이며 세무 자문이 아니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Wolder v. Commissioner, 493 F.2d 608 (2d Cir. 1974). Luật sư Victor Wolder thỏa thuận bằng văn bản năm 1947 sẽ phục vụ khách hàng Marguerite Boyce suốt đời mà không xuất hóa đơn; đổi lại, di chúc của bà sẽ để lại cho ông cổ phiếu. Sau một vụ sáp nhập, khoản nắm giữ trở thành 750 cổ phiếu phổ thông Schering cùng cổ phiếu ưu đãi được mua lại năm 1964 với giá 15.845 đô la. Boyce qua đời năm 1965, để lại cho ông 15.845 đô la tiền mặt và 750 cổ phiếu (trị giá 46.945,31 đô la khi bà mất). Tòa Thuế (58 T.C. 974) và Tòa Phúc thẩm Khu vực 2 phán quyết đây là thù lao dịch vụ theo mục 61(a)(1), không phải di sản được miễn theo mục 102(a): di chúc chỉ là cơ chế thanh toán cho khoản phí đã thỏa thuận, xét theo ý định chủ đạo kiểu Duberstein. Tòa Khu vực 2 sửa năm tính thu nhập thành 1966 vì năm 1965 chưa có nhận thu nhập mang tính suy định. Chỉ là thông tin, không phải tư vấn thuế.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+
+Wolder v. Commissioner, 493 F.2d 608 (2d Cir. 1974). वकील Victor Wolder ने 1947 में लिखित समझौते से ग्राहक Marguerite Boyce को जीवनभर बिना बिल किए सेवा देने का वादा किया; बदले में उनकी वसीयत उन्हें शेयर देगी। विलय के बाद यह 750 Schering सामान्य शेयर और 1964 में 15,845 डॉलर में भुनाए गए preferred शेयर बन गए। Boyce का 1965 में निधन हुआ और उन्होंने 15,845 डॉलर नकद तथा 750 शेयर (मृत्यु तिथि मूल्य 46,945.31 डॉलर) छोड़े। Tax Court (58 T.C. 974) और Second Circuit ने कहा कि यह धारा 102(a) के तहत कर-मुक्त वसीयत नहीं, बल्कि धारा 61(a)(1) के तहत सेवाओं का पारिश्रमिक है: वसीयत केवल तय शुल्क का भुगतान-माध्यम थी, और Duberstein के प्रमुख आशय का परीक्षण लागू होता है। Second Circuit ने वर्ष सुधारा: 1965 में constructive receipt नहीं था, आय 1966 की मानी गई। यह केवल जानकारी है, कर सलाह नहीं।
