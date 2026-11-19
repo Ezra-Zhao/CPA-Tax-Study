@@ -136,3 +136,19 @@ Phần số liệu chỉ đối chiếu hai khoản tiền mà bản án xác nh
 
 声明：个人学习笔记，不构成税务或法律建议。个案定性请以法典条文与最新判例为准，并咨询持牌专业人士。
 Disclaimer: Personal study notes only; not tax or legal advice.
+
+## 补译增量（2026-11-19 07:55轮）
+
+> 本节为存量补译增量：以下两组细节仅见于本篇中文主文，此前韩／越／印三语段同缺（三语第一节均以「只用判决确认的骨架数字」一句带过募资细节，加州段均只作泛称），本轮各补 2 项，纯增量只加不删、不新增事实。三语段末均标「初译待校」。
+
+### 한국어 (초역, 교정 대기)
+
+보충 1 — 두 펀드의 모집 규모: 두 헤지펀드는 합쳐서 약 2,400만 달러를 모집했고, 투자자는 100명이 넘었습니다(판결에 기재된 내용이며, 세부 사항은 판결 원문을 기준으로 합니다). 보충 2 — 캘리포니아 집행 기관의 구체적인 이름: 캘리포니아 자체 행정 집행의 예는 주 금융보호혁신부(Department of Financial Protection and Innovation) 일대의 집행이며, 이는 캘리포니아 헌법과 주법에 따라 따로 판단합니다. *개인 학습 노트이며 세무 자문이 아닙니다. (초역, 원어민 감수 대기)*
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1 — Quy mô huy động của hai quỹ: hai quỹ đầu cơ cộng lại đã huy động khoảng 24 triệu đô la, với hơn một trăm nhà đầu tư (theo ghi chép trong bản án; chi tiết lấy bản án chính thức làm chuẩn). Bổ sung 2 — Tên cụ thể của cơ quan thực thi California: ví dụ về hoạt động thực thi hành chính riêng của California là hoạt động thực thi của Sở Bảo vệ Tài chính và Đổi mới của bang (Department of Financial Protection and Innovation) và các cơ quan quanh đó, được xét theo hiến pháp và luật của bang. *Ghi chú học tập cá nhân, không phải tư vấn thuế. (Bản dịch sơ bộ, chờ hiệu đính)*
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक 1 — दो फंडों द्वारा जुटाई गई राशि: दोनों हेज फंडों ने मिलकर लगभग 24 मिलियन डॉलर जुटाए और निवेशक सौ से अधिक थे (यह निर्णय में दर्ज है; विवरण के लिए मूल निर्णय ही प्रमाण है)। पूरक 2 — California की प्रवर्तन एजेंसी का विशिष्ट नाम: California के अपने प्रशासनिक प्रवर्तन का उदाहरण राज्य वित्तीय संरक्षण और नवाचार विभाग (Department of Financial Protection and Innovation) आदि का प्रवर्तन है, जिसे राज्य संविधान और राज्य विधि के अनुसार अलग से परखा जाता है। *व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं। (प्रारंभिक अनुवाद, समीक्षा लंबित)*
