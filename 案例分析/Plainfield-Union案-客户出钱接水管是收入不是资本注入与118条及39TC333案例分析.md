@@ -42,3 +42,17 @@
 
 ---
 *声明：个人学习笔记，不构成税务建议。具体数字以判决原文与 IRS、FTB 当期出版物为准。*
+
+## 补译增量（2026-11-20 09:55 轮）
+
+### 한국어 (초역, 初译待校)
+
+보충 1: Chicago, Burlington & Quincy Railroad 사건(412 U.S. 401 (1973))이 체계화한 비주주 자본 출연의 특징에는 대가 동기가 없을 것, 회사의 자본이 될 것, 보상적 성격이 없을 것 등이 포함됩니다. 본 사건의 동기 검사는 바로 그 특징 목록의 원류 가운데 하나입니다. 보충 2: 교육용 예시의 기수 쪽을 보충합니다. 접속 지급액 120,000달러가 소득으로 규정되면 회사는 본관에 대해 120,000달러의 원가 기수를 그대로 보유하고 이후 통상대로 감가상각합니다. 반대로 자본 출연으로 규정되면 그 해에는 소득에서 빠지지만, 그 돈으로 산 자산의 기수는 출연 규칙의 제약을 받습니다. 두 길의 현금 흐름은 똑같고, 차이는 오직 성격 규정 하나에서 납니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (bản dịch sơ bộ, 初译待校)
+
+Bổ sung 1: Các đặc điểm của đóng góp vốn từ người không phải cổ đông mà vụ United States v. Chicago, Burlington & Quincy Railroad, 412 U.S. 401 (1973), hệ thống hóa gồm: không có động cơ đối giá, trở thành vốn của công ty, và không mang tính chất bồi hoàn. Phép thử động cơ trong vụ án này chính là một trong những nguồn gốc của danh sách đặc điểm đó. Bổ sung 2: Bổ sung phía giá vốn của ví dụ giảng dạy. Nếu khoản thanh toán kết nối 120.000 đô la được định tính là thu nhập, công ty giữ nguyên giá vốn 120.000 đô la đối với đường ống chính và khấu hao bình thường về sau; nếu được định tính là đóng góp vốn, khoản tiền được loại trừ khỏi thu nhập trong năm đó, nhưng giá vốn của tài sản mua bằng khoản tiền đó phải chịu các ràng buộc của quy tắc đóng góp. Dòng tiền của hai con đường hoàn toàn giống nhau, chênh lệch chỉ nằm ở khâu định tính. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+
+पूरक 1: United States v. Chicago, Burlington & Quincy Railroad, 412 U.S. 401 (1973) ने जिन गैर-शेयरधारक पूंजी-अंशदान विशेषताओं को व्यवस्थित किया, उनमें शामिल हैं: प्रतिफल की प्रेरणा का अभाव, कंपनी की पूंजी बनना, और प्रतिपूरक स्वरूप का न होना। इस मामले का प्रेरणा-परीक्षण उसी विशेषता-सूची के स्रोतों में से एक है। पूरक 2: शिक्षण-उदाहरण का आधार-पक्ष जोड़ा जाता है। यदि $120,000 का कनेक्शन भुगतान आय ठहरता है, तो कंपनी मुख्य पाइपलाइन पर $120,000 का लागत-आधार बनाए रखती है और आगे सामान्य रूप से मूल्यह्रास करती है; यदि वह पूंजी-अंशदान ठहरता है, तो राशि उस वर्ष आय से बाहर रहती है, किंतु उस धन से ख़रीदी गई संपत्ति का आधार अंशदान-नियमों की बाध्यताओं के अधीन रहता है। दोनों रास्तों का नकदी-प्रवाह एक समान है, अंतर केवल चरित्र-निर्धारण में है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
