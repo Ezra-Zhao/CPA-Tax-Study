@@ -47,3 +47,24 @@ La § 461(l), creada por la Tax Cuts and Jobs Act, limita cuánto pérdida empre
 ---
 
 *声明：本文为个人学习笔记，不构成法律、税务或医疗建议。*
+
+
+## 补译增量（2026-11-20 13:55 轮）
+
+### 한국어
+
+보충 1 — 합산 범위: 제461(l)조의 합산에는 사업 활동의 손익만 들어갑니다. 임금 같은 비사업 항목은 이 합산에 들어가지 않지만, 파트너십과 S 법인을 통해 흘러 들어오는 사업 손익의 몫(share)은 합산에 포함해야 합니다. 즉 본인이 직접 경영하지 않는 사업이라도, 관통(pass-through)되어 온 사업 몫은 빠짐없이 세어야 합니다.
+
+보충 2 — 캘리포니아 NOL의 세부 차이: 캘리포니아의 NOL 제도는 이월 기간과 공제 방식이 연방과 모두 다르고, 캘리포니아에는 역사적으로 NOL 적용 자체가 일시 중단(suspension)된 연도도 있었습니다. 그래서 같은 사업 손실이라도 연방 잔액과 주 잔액을 같은 숫자로 보면 안 되고, 중단 연도가 있었는지를 포함해 주 쪽 장부를 따로 확인해야 합니다.
+
+### Tiếng Việt
+
+Bổ sung 1 — Phạm vi cộng gộp: phép cộng gộp theo Điều 461(l) chỉ gồm lãi lỗ của hoạt động kinh doanh. Các khoản phi kinh doanh như tiền lương không nằm trong phép cộng gộp này, nhưng phần lãi lỗ kinh doanh chuyển qua từ hợp danh và công ty S thì phải tính vào. Nói cách khác, dù không trực tiếp điều hành hoạt động đó, phần kinh doanh được chuyển qua (pass-through) vẫn phải đếm đủ.
+
+Bổ sung 2 — Khác biệt chi tiết của NOL California: chế độ NOL của California khác liên bang cả về thời hạn chuyển tiếp lẫn cách khấu trừ, và California trong lịch sử từng có những năm tạm dừng (suspension) việc áp dụng NOL. Vì vậy, với cùng một khoản lỗ kinh doanh, không thể lấy số dư liên bang làm số dư của bang; sổ sách cấp bang phải kiểm tra riêng, kể cả việc có năm bị tạm dừng hay không.
+
+### हिन्दी
+
+पूरक 1 — संकलन का दायरा: धारा 461(l) के संकलन में केवल व्यापारिक गतिविधियों के लाभ-हानि आते हैं। वेतन जैसे गैर-व्यापारिक मद इस संकलन में नहीं आते, परंतु साझेदारी और S कंपनी से प्रवाहित (pass-through) होकर आने वाला व्यावसायिक लाभ-हानि का हिस्सा संकलन में शामिल करना होता है। अर्थात जिस व्यवसाय को करदाता स्वयं न चलाता हो, उसका पास-थ्रू हिस्सा भी पूरा गिना जाएगा।
+
+पूरक 2 — California NOL के विस्तृत अंतर: California की NOL व्यवस्था संघीय व्यवस्था से कैरीफ़ॉरवर्ड अवधि और कटौती-पद्धति दोनों में भिन्न है, और California के इतिहास में ऐसे वर्ष भी रहे हैं जब NOL का 적용 ही अस्थायी रूप से निलंबित (suspension) रहा। इसलिए एक ही व्यावसायिक घाटे के लिए संघीय शेष को राज्य शेष मानना ग़लत होगा; राज्य की बही अलग से जाँचनी होगी, जिसमें निलंबन-वर्षों का होना भी शामिल है।
