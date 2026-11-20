@@ -126,3 +126,12 @@ Español: Notas personales de estudio; no constituyen asesoría fiscal, contable
 한국어: 개인 학습 노트이며 세무·회계·감사 자문이 아닙니다. (초역·待校)
 Tiếng Việt: Ghi chú học tập cá nhân, không phải tư vấn thuế, kế toán hay kiểm toán. (bản dịch sơ bộ·待校)
 हिन्दी: व्यक्तिगत अध्ययन नोट्स; कर, लेखांकन या अंकेक्षण सलाह नहीं। (प्रारंभिक अनुवाद·待校)
+
+## 补译增量（2026-11-19 21:55 轮）
+
+韩／越／印三语各补中文主文已有、三语同缺的 2 项细节（经特征词回查 ACFR、Blueprint 等在三语段同缺），纯增量、不改原文：
+
+- 한국어 (초역, 初译待校)：(1) 캘리포니아 공시 접점 — 주 회계감사관(State Controller)의 연례 종합재무보고서(ACFR)와 지방 재무제표 속 헤지 공시는 GASB 기준을 따르며, 캘리포니아에는 별도의 주 자체 벤치마크 교체 규칙이 없습니다. (2) 기준 출처와 역할 분담 지표 — 본 글의 시험 좌표는 AICPA CPA 시험 블루프린트(Exam Blueprint)의 FAR와 BAR 정부회계 현행 기준이며, 이 저장소의 정부 리스 핵심 글은 GASB 제87호 본체를, 본 글은 제93호의 교체 예외 본체만을 다룹니다. 개인 학습 노트이며 세무·회계 조언이 아닙니다. (초역, 初译待校)
+- Tiếng Việt (bản dịch sơ bộ, 初译待校)：(1) Điểm rơi công bố của California — báo cáo tài chính tổng hợp hằng năm (ACFR) của Kiểm soát viên bang (State Controller) và phần thuyết minh phòng hộ trong các báo cáo địa phương đều theo chuẩn GASB, và California không có quy tắc thay thế benchmark riêng của bang. (2) Nguồn chuẩn và chỉ dấu phân công — tọa độ ôn thi của bài này là chuẩn hiện hành trong AICPA CPA Exam Blueprint (phần FAR và BAR về kế toán chính quyền); bài lõi về thuê của chính quyền trong kho này quản bản thể GASB 87, còn bài này chỉ quản bản thể ngoại lệ thay thế của GASB 93. Ghi chú học tập cá nhân; không phải tư vấn thuế hay kế toán. (Bản dịch sơ bộ, 初译待校)
+- हिन्दी (प्रारंभिक अनुवाद, 初译待校)：(1) California का प्रकटीकरण बिंदु — राज्य नियंत्रक (State Controller) की वार्षिक व्यापक वित्तीय रिपोर्ट (ACFR) और स्थानीय विवरणों में हेज प्रकटीकरण GASB मानक से चलते हैं, और California का अपना राज्य-स्तरीय बेंचमार्क-प्रतिस्थापन नियम नहीं है। (2) मानक-स्रोत और विभाजन-संकेत — इस लेख का परीक्षा-निर्देशांक AICPA CPA Exam Blueprint (FAR और BAR सरकारी लेखांकन) का वर्तमान मानक है; इस भंडार का सरकारी पट्टा मूल लेख GASB 87 के मूल भाग को देखता है, जबकि यह लेख केवल GASB 93 के प्रतिस्थापन-अपवाद मूल भाग को देखता है। व्यक्तिगत अध्ययन नोट; कर या लेखांकन सलाह नहीं। (प्रारंभिक अनुवाद, 初译待校)
+
