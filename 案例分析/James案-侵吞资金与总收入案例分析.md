@@ -237,3 +237,17 @@ Trong thực hành, hãy giữ vụ án này trong hai sổ riêng. Sổ thứ n
 *अस्वीकरण: यह लेख व्यक्तिगत अध्ययन नोट है और कर सलाह नहीं है। वापसी-वर्ष की कटौतियों और § 1341 से संबंधित अंश केवल दिशा-संकेत हैं और वर्तमान कानून से सत्यापित किए जाने चाहिए; किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त CPA या कर वकील से परामर्श करें.*
 
 *Nota: Las versiones en español, coreano, vietnamita e hindi de este artículo son traducciones preliminares pendientes de revisión (初译待校).*
+
+## 补译增量（2026-11-20 18:55 轮）
+
+### 한국어 (초역, 교정 대기)
+
+세부 정렬 두 가지. 첫째, 표결 구조: Wilcox를 뒤집는 데는 여섯 표가 모였지만 Warren 대법원장의 주된 의견에는 세 명만 동참한 상대다수 의견(plurality)이었으므로, '횡령금은 소득'이라는 명제와 그 이유 설명을 같은 무게로 읽으면 안 됩니다. 둘째, 핵심 구분 문장: 납세자가 금액을 받을 때 권리자와 '상환 의무에 대한 합의된 인정(consensual recognition of an obligation to repay)'이 없었다면 그 금액은 차입금처럼 비소득으로 취급되지 않으며, 횡령자가 바로 이 경우에 해당합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Hai chi tiết đối chiếu. Một, cấu trúc biểu quyết: việc lật lại Wilcox gom được sáu phiếu, nhưng ý kiến chính của Chánh án Warren chỉ có ba thẩm phán tham gia — đó là ý kiến tương đối đa số (plurality), nên mệnh đề "tiền biển thủ là thu nhập" và phần lập luận không nên đọc với cùng trọng lượng. Hai, câu phân biệt cốt lõi: nếu khi nhận một khoản tiền, người nộp thuế không có "sự thừa nhận được đồng thuận về nghĩa vụ hoàn trả" (consensual recognition of an obligation to repay) với người có quyền, khoản tiền đó không được coi là phi thu nhập như khoản vay — và người biển thủ đúng là trường hợp này.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+
+दो विवरण संरेखण। पहला, मतदान संरचना: Wilcox को पलटने के लिए छह मत जुटे, किंतु मुख्य न्यायाधीश Warren की मुख्य राय में केवल तीन न्यायाधीश शामिल हुए — यह सापेक्ष बहुमत राय (plurality) थी, इसलिए «गबन की रकम आय है» कथन और उसके तर्क को एक ही भार से नहीं पढ़ना चाहिए। दूसरा, मूल विभेदक वाक्य: यदि किसी राशि को प्राप्त करते समय करदाता और अधिकार-धारक के बीच «वापसी के दायित्व की सहमतिपूर्ण मान्यता» (consensual recognition of an obligation to repay) न हो, तो वह राशि ऋण की तरह गैर-आय नहीं मानी जाती — और गबनकर्ता ठीक इसी श्रेणी में आता है।
