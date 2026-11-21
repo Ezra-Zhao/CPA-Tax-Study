@@ -107,3 +107,21 @@ Kho lưu trữ này chỉ là ghi chép học tập cá nhân, không cấu thà
 यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और कर, वित्तीय, कानूनी या बीमा सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-20 22:55 轮）
+
+### 한국어 (초역, 교정 대기)
+
+- 이 사건의 완전한 판례 인용은 Welch v. Helvering, 290 U.S. 111 (1933)이다.
+- 머리말의 한 문장 규칙을 옮기면 이렇다. 여러 해에 걸쳐서야 실현되는 영업권과 신용을 사기 위해 낸 돈은 자본적 지출이며, 그해에 공제할 수 있는 보통이고 필요한 비용이 아니다. 그리고 Cardozo가 내린 ordinary의 정의는 오늘날에도 IRC 제162조 판단의 출발점으로 쓰인다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Trích dẫn đầy đủ của vụ án là Welch v. Helvering, 290 U.S. 111 (1933).
+- Quy tắc một câu ở phần mở đầu: số tiền bỏ ra để mua thiện chí và uy tín mà giá trị chỉ phát huy qua nhiều năm là khoản chi vốn, không phải chi phí thông thường và cần thiết được khấu trừ trong năm; và định nghĩa về ordinary của Cardozo đến nay vẫn là điểm khởi đầu cho việc xét đoán theo Điều 162 của IRC.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+
+- इस मामले का पूरा उद्धरण Welch v. Helvering, 290 U.S. 111 (1933) है।
+- आरंभिक परिचय की एक-वाक्य नियम-पंक्ति: जो धन ऐसी गुडविल और साख खरीदने के लिए दिया गया जिनका लाभ कई वर्षों में जाकर मिलता है, वह पूँजीगत व्यय है, उसी वर्ष में कटौती-योग्य सामान्य और आवश्यक व्यय नहीं; और Cardozo की दी हुई ordinary की परिभाषा आज भी IRC धारा 162 के निर्णय का प्रारंभ-बिंदु है।
+

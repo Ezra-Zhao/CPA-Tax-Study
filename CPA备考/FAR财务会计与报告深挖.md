@@ -463,3 +463,21 @@ FAR की सामग्री बहुत है, लेकिन संर�
 *Chỉ là ghi chú học tập, không phải lời khuyên. Kho lưu trữ này là hồ sơ học tập cá nhân, không phải tư vấn thuế, tài chính hay pháp lý; cấu trúc và nội dung kỳ thi theo phiên bản hiện hành của AICPA.*
 
 *केवल अध्ययन नोट, सलाह नहीं। यह भंडार एक व्यक्तिगत अध्ययन अभिलेख है और कर, वित्तीय या कानूनी सलाह नहीं है; परीक्षा संरचना और पाठ्यक्रम AICPA के वर्तमान संस्करण के अनुसार हैं।*
+
+## 补译增量（2026-11-20 22:55 轮）
+
+### 한국어 (초역, 교정 대기)
+
+- 참고 출처 항목 첫째: AICPA 《Uniform CPA Examination Blueprints》 현행판(FAR 내용 영역 가중치와 기술 배합의 근거)은 aicpa-cima.com에서 확인하고, FASB 회계기준 코디피케이션(ASC 606 수익, ASC 842 리스 등 기준 원문)은 asc.fasb.org에서 확인한다. 이 출처 목록은 이 글의 중문 참고 출처 절에만 실려 있고, 한국어·베트남어·힌디어 절에는 없다.
+- 참고 출처 항목 둘째: 같은 중문 출처 목록에는 FASB 개념 프레임워크(Statements of Financial Accounting Concepts), GASB 공식 자료(주·지방 정부 회계 기초, gasb.org), SEC 재무보고 관련 요구(상장회사 보고 기준, sec.gov)도 함께 적혀 있다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Mục nguồn tham khảo thứ nhất: 《Uniform CPA Examination Blueprints》 bản hiện hành của AICPA (căn cứ cho trọng số các lĩnh vực nội dung và tỷ trọng kỹ năng của FAR) tra tại aicpa-cima.com; Bộ chuẩn mực kế toán của FASB (văn bản gốc các chuẩn mực như ASC 606 về doanh thu, ASC 842 về thuê tài sản) tra tại asc.fasb.org. Danh mục nguồn này chỉ có trong mục nguồn tham khảo tiếng Trung của bài, không có trong các phần tiếng Hàn, tiếng Việt và tiếng Hindi.
+- Mục nguồn tham khảo thứ hai: cùng danh mục nguồn tiếng Trung đó còn ghi Khung khái niệm của FASB (Statements of Financial Accounting Concepts), tài liệu chính thức của GASB (cơ bản kế toán chính quyền bang và địa phương, gasb.org) và các yêu cầu về báo cáo tài chính của SEC (chuẩn báo cáo của công ty niêm yết, sec.gov).
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+
+- संदर्भ स्रोत मद पहली: AICPA के 《Uniform CPA Examination Blueprints》 का वर्तमान संस्करण (FAR के सामग्री-क्षेत्र भार और कौशल मिश्रण का आधार) aicpa-cima.com पर मिलता है, और FASB लेखांकन मानक संहिता (ASC 606 आय, ASC 842 पट्टे आदि मानकों का मूल पाठ) asc.fasb.org पर मिलती है। यह स्रोत-सूची केवल इस लेख के चीनी संदर्भ-स्रोत खंड में है, कोरियाई, वियतनामी और हिन्दी खंडों में नहीं।
+- संदर्भ स्रोत मद दूसरी: उसी चीनी स्रोत-सूची में FASB का वैचारिक ढाँचा (Statements of Financial Accounting Concepts), GASB की आधिकारिक सामग्री (राज्य और स्थानीय सरकार लेखांकन की मूल बातें, gasb.org) और SEC की वित्तीय रिपोर्टिंग आवश्यकताएँ (सूचीबद्ध कंपनियों का रिपोर्टिंग मानक, sec.gov) भी दर्ज हैं।
+
