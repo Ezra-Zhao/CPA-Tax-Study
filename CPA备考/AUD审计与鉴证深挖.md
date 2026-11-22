@@ -354,3 +354,17 @@ Bài viết này là ghi chú học tập cá nhân, không phải tư vấn thu
 - 한국어 (초역, 원어민 감수 대기): 개인 학습 노트이며 세무 자문이 아닙니다. 구체적인 사안은 자격 있는 CPA 또는 세무 전문가와 상담하십시오.
 - Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ghi chú học tập cá nhân, không phải tư vấn thuế. Vui lòng tham khảo CPA có giấy phép hoặc chuyên gia thuế cho vấn đề cụ thể.
 - हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित): व्यक्तिगत अध्ययन नोट; कर सलाह नहीं। विशिष्ट मामलों के लिए लाइसेंसधारी CPA या कर विशेषज्ञ से परामर्श करें।
+
+## 补译增量（2026-11-22 13:55 轮）
+
+### 한국어（初译待校）
+
+AUD 과목은 시험 시간 4시간에 객관식과 과제 기반 시뮬레이션(TBS)으로 구성되며, AICPA 블루프린트는 감사 수행과 증거 평가를 가장 큰 비중으로 둔다. 답안을 쓸 때는 중요성(materiality)과 감사위험의 관계를 먼저 세우고 절차를 고르는 순서가 안전하다.
+
+### Tiếng Việt（初译待校）
+
+Phần AUD kéo dài 4 giờ, gồm câu hỏi trắc nghiệm và mô phỏng theo nhiệm vụ (TBS); blueprint của AICPA đặt trọng số lớn nhất vào việc thực hiện kiểm toán và đánh giá bằng chứng. Khi làm bài, hãy xác lập quan hệ giữa tính trọng yếu và rủi ro kiểm toán trước rồi mới chọn thủ tục.
+
+### हिन्दी（初译待校）
+
+AUD खंड 4 घंटे का होता है, जिसमें बहुविकल्पीय प्रश्न और task-based simulations (TBS) होते हैं; AICPA blueprint में लेखापरीक्षा निष्पादन और साक्ष्य मूल्यांकन का भार सबसे अधिक है। उत्तर लिखते समय पहले materiality और audit risk का संबंध स्थापित करना, फिर प्रक्रिया चुनना सुरक्षित क्रम है।
