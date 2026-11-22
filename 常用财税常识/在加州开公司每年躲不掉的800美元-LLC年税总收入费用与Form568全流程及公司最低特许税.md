@@ -50,3 +50,22 @@ California में संगठित, वहाँ पंजीकृत, य
 
 *声明：本文为个人学习笔记，不构成税务建议。*
 *Disclaimer: Personal study notes only; not tax advice.*
+
+## 补译增量（2026-11-22 02:55 轮）
+
+本节为存量补译增量：回查中文主文，以下 2 项细节仅见于中文主文、韩／越／印三语段同缺，现各补译一句，正文原有段落未改动。
+
+### 한국어 (초역·初译待校)
+
+- 수수료는 연방에서는 비용공제가 되지만 캘리포니아 자체 계산에서는 그 기초에서 빠지지 않는 그룹: 제17942조 총수입 수수료는 연방세에서는 일반적으로 사업 비용으로 공제되지만(연방 규칙 기준), 캘리포니아 자체 계산에서는 자기 계산 기초에서 공제되지 않는다. 두 층의 처리를 섞으면 안 된다. (초역, 교정 대기)
+- 자격정지 상태가 은행 계좌와 계약, 소송까지 건드리는 그룹: 정식 취소 없이 휴면 상태로 두면 연세와 신고 의무가 계속될 뿐 아니라 FTB와 국무장관이 법인 상태를 자격정지(suspended)로 만들 수 있고, 그러면 은행 계좌 개설, 계약 체결, 소송 진행이 모두 영향을 받는다. (초역, 교정 대기)
+
+### Tiếng Việt (bản dịch sơ bộ·初译待校)
+
+- Nhóm phí được khấu trừ ở cấp liên bang nhưng không được trừ khỏi chính căn cứ tính của nó ở cấp California: khoản phí theo điều 17942 về tổng thu nhập nói chung được khấu trừ như chi phí kinh doanh ở cấp thuế liên bang (theo quy tắc liên bang), nhưng ở cấp California nó không được trừ khỏi chính căn cứ tính của mình; không được lẫn hai tầng xử lý này. (Bản dịch sơ bộ, chờ hiệu đính)
+- Nhóm trạng thái bị đình chỉ chạm tới cả tài khoản ngân hàng, hợp đồng và kiện tụng: để thực thể ngủ yên mà không hủy bỏ chính thức thì thuế hằng năm và nghĩa vụ khai báo vẫn tiếp tục, FTB và Bộ trưởng Ngoại giao bang còn có thể đánh trạng thái thực thể thành bị đình chỉ (suspended), và khi đó việc mở tài khoản ngân hàng, ký hợp đồng và tiến hành kiện tụng đều bị ảnh hưởng. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद·初译待校)
+
+- शुल्क संघीय स्तर पर कटौती योग्य है किंतु California की अपनी गणना में उसके आधार से नहीं घटता, वाला समूह: धारा 17942 का कुल-आय शुल्क संघीय कर में सामान्यतः व्यापार-व्यय के रूप में कटौती योग्य है (संघीय नियमों के अनुसार), परंतु California की अपनी गणना में वह अपने ही गणना-आधार से नहीं घटता; दोनों स्तरों के व्यवहार को मिलाना नहीं चाहिए। (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+- निलंबित स्थिति बैंक खाते, अनुबंध और मुक़दमे तक को छूने वाला समूह: औपचारिक रद्दीकरण के बिना इकाई को निष्क्रिय छोड़ देने पर वार्षिक कर व दाखिला-दायित्व बने ही रहते हैं, FTB और Secretary of State इकाई की स्थिति को निलंबित (suspended) भी कर सकते हैं, और तब बैंक खाता खोलना, अनुबंध करना और मुक़दमा चलाना, सब प्रभावित होते हैं। (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
