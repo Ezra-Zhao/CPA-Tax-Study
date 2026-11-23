@@ -95,3 +95,24 @@ Dixie Pine Products Co. मिसिसिपी में ठूँठों �
 स्रोत: Dixie Pine Products Co. v. Commissioner, 320 U.S. 516 (1944); 45 B.T.A. 286; 134 F.2d 273 (5th Cir. 1943); IRC धाराएँ 461(f), 461(h)।
 
 टिप्पणी: व्यक्तिगत अध्ययन नोट; कर सलाह नहीं है।
+
+
+## 补译增量（2026-11-23 10:55 轮补译，韩／越／印各补 2 项，初译待校）
+
+### 한국어（初译待校）
+
+보충 1 (가족 내 분업 좌표): 본 저장소의 가족 안에서 분담이 정해져 있습니다. General Dynamics 사건은 전부 사건 요건(all events)이 준비금에서 어디까지 미치는지를, Hughes Properties 사건은 잭팟 부채가 언제 확정되는지를 다룹니다. 본 사건은 다투는 세금이라는 칸의 원점입니다. 그리고 과세연도 독립의 원칙은 본 저장소의 Sanford & Brooks 사건 글과 분담합니다. 1938년의 처리가 1937년을 구하지 못하는 이유가 바로 이 연도 독립에 있습니다.
+
+보충 2 (합의 사실진술 절차): 주 소송의 결말에는 절차적 디테일이 하나 더 있습니다. 1938년 12월 양측이 합의한 사실진술(stipulated facts)을 제출했고, 1심 법원은 이를 바탕으로 해당 용제에 대한 휘발유세를 영구 금지하는 종국 판결을 내렸으며, 주 대법원이 이를 유지했습니다(191 So. 429). 회사는 1938년 신고에서 상계 분개로 약 21,000달러를 회수액으로 소득에 넣었습니다.
+
+### Tiếng Việt（初译待校）
+
+Bổ sung 1 (tọa độ phân công trong họ án): Trong cùng kho, sự phân công đã rõ. Vụ General Dynamics quản ranh giới của kiểm tra mọi sự kiện (all events) đối với các khoản dự phòng; vụ Hughes Properties quản khi nào khoản nợ giải thưởng cố định; vụ này là nguồn gốc của ô «thuế đang tranh chấp». Nguyên tắc mỗi năm thuế đứng độc lập được phân công với bài Sanford & Brooks trong cùng kho — đó là lý do cách xử lý năm 1938 không cứu được năm 1937.
+
+Bổ sung 2 (thủ tục bản tường trình sự kiện thỏa thuận): Hồi kết của vụ kiện cấp bang còn một chi tiết thủ tục. Tháng 12 năm 1938, hai bên nộp bản tường trình sự kiện đã thỏa thuận (stipulated facts), tòa sơ thẩm dựa trên đó ra phán quyết cuối cùng cấm vĩnh viễn việc đánh thuế xăng lên dung môi này, và Tòa Tối cao bang giữ nguyên (191 So. 429). Công ty đã ghi khoảng 21.000 đô la là khoản thu hồi vào thu nhập năm 1938 bằng một bút toán bù trừ.
+
+### हिन्दी（初译待校）
+
+पूरक 1 (परिवार में विभाजन के निर्देशांक): इसी भंडार के परिवार में विभाजन तय है। General Dynamics मामला सभी-घटना परीक्षण (all events) की आरक्षित निधियों पर सीमा देखता है; Hughes Properties मामला देखता है कि जैकपॉट दायित्व कब स्थिर होता है; यह मामला विवादित कर वाले खाने का स्रोत है। कर-वर्ष की स्वतंत्रता का सिद्धांत इसी भंडार के Sanford & Brooks लेख के साथ बँटा है — यही कारण है कि 1938 का निपटान 1937 को नहीं बचा सका।
+
+पूरक 2 (सहमत तथ्य-कथन की प्रक्रिया): राज्य मुकदमे के अंत में एक प्रक्रियात्मक विवरण और है। दिसंबर 1938 में दोनों पक्षों ने सहमत तथ्यों का कथन (stipulated facts) प्रस्तुत किया, निचली अदालत ने उसी आधार पर उस विलायक पर गैसोलीन कर स्थायी रूप से रोकने का अंतिम आदेश दिया, और राज्य सर्वोच्च न्यायालय ने उसे बनाए रखा (191 So. 429)। कंपनी ने 1938 के रिटर्न में प्रतिपूरक प्रविष्टि से लगभग 21,000 डॉलर वसूली के रूप में आय में शामिल किए।
