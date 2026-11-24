@@ -115,3 +115,30 @@ Aviso: Notas personales de estudio; no constituye asesoría fiscal. (初译待�
 Lưu ý: Ghi chú học tập cá nhân, không phải tư vấn thuế. (初译待校)
 
 टिप्पणी: व्यक्तिगत अध्ययन नोट है, कर सलाह नहीं है। (初译待校)
+
+
+---
+
+## 补译增量（2026-11-23 20:55 轮）
+
+本节为存量补译：以下两组细节仅见于中文主文、韩／越／印三语原译文同缺，现逐组补齐，纯增量、不改原文；译文均标初译待校。
+
+### 增量一：程序坐标组——判决日期、下级审引证与发回指示
+
+中文主文细节：本案由联邦第七巡回上诉法院于 1999 年 11 月 16 日判决，Posner 首席法官执笔；下级审为税务法院，案卷引证 75 T.C.M. (CCH) 2522 (1998)；第七巡回推翻核定，并发回指示按纳税人胜诉改判（reversed and remanded with instructions），不是一般的发回重审。
+
+한국어（初译待校）: 이 사건은 연방 제7순회 항소법원이 1999년 11월 16일에 판결했고, Posner 수석판사가 의견을 썼습니다. 하급심은 조세법원으로, 인용 표기는 75 T.C.M. (CCH) 2522 (1998)입니다. 제7순회법원은 부족세액 결정을 뒤집고, 일반적인 환송이 아니라 납세자 승소로 판결하라는 지시를 붙여 환송했습니다(reversed and remanded with instructions).
+
+Tiếng Việt（初译待校）: Vụ án được Tòa Phúc thẩm Liên bang Khu vực 7 phán quyết ngày 16 tháng 11 năm 1999, do Chánh thẩm Posner viết ý kiến; cấp dưới là Tòa án Thuế, trích dẫn hồ sơ 75 T.C.M. (CCH) 2522 (1998). Khu vực 7 đã lật lại quyết định truy thu và gửi hồ sơ trở lại kèm chỉ thị phán quyết cho người nộp thuế thắng kiện (reversed and remanded with instructions), chứ không phải một lần hoàn lại xét xử thông thường.
+
+हिन्दी（初译待校）: मामले का निर्णय संघीय Seventh Circuit अपील न्यायालय ने 16 नवंबर 1999 को दिया, राय मुख्य न्यायाधीश Posner ने लिखी; निचला न्यायालय Tax Court था, जिसका अभिलेख उद्धरण 75 T.C.M. (CCH) 2522 (1998) है। Seventh Circuit ने कमी-निर्धारण को उलट दिया और मामले को करदाता के पक्ष में निर्णय देने के निर्देश सहित वापस भेजा (reversed and remanded with instructions) — यह कोई सामान्य पुनः सुनवाई वाली वापसी नहीं थी।
+
+### 增量二：方法分工组——两派差别在方法不在目的，备考按巡回选尺
+
+中文主文细节：Elliotts 五因素中的第四因素（利益冲突的可能）与第五因素（内部一致性）其实已经摸到「变相股息」这个目的问题，所以 Exacto 与 Elliotts 两派的差别不在目的、而在方法：Elliotts 仍是无法定权重的清单，结论靠法官逐项说理；Exacto 要求一个可算的锚——先算独立投资者满不满意，再谈其他。备考口径随之分轨：税务法院至今仍普遍使用多因素分析，第七巡回以独立投资者测试为主导，答题时先看案件落在哪个巡回、再选尺。
+
+한국어（初译待校）: Elliotts 다섯 요소 중 넷째 요소(이해상충 가능성)와 다섯째 요소(내부 일관성)는 사실 «변장 배당»이라는 목적 문제에 이미 닿아 있습니다. 그래서 Exacto와 Elliotts 두 파의 차이는 목적이 아니라 방법에 있습니다. Elliotts는 여전히 법정 가중치가 없는 목록이라 결론이 판사의 항목별 설명에 기대고, Exacto는 계산 가능한 닻을 요구합니다. 먼저 독립투자자가 만족하는지를 계산하고, 그다음에 나머지를 논하라는 것입니다. 시험 대응도 갈립니다. 조세법원은 오늘날에도 다요소 분석을 널리 쓰고, 제7순회법원은 독립투자자 테스트가 주도적이므로, 답을 쓸 때는 먼저 사건이 어느 순회법원에 속하는지 보고 잣대를 골라야 합니다.
+
+Tiếng Việt（初译待校）: Trong năm yếu tố của Elliotts, yếu tố thứ tư (khả năng xung đột lợi ích) và yếu tố thứ năm (tính nhất quán nội bộ) thực ra đã chạm tới câu hỏi mục đích là «cổ tức ngụy trang». Vì vậy, khác biệt giữa hai trường phái Exacto và Elliotts không nằm ở mục đích mà ở phương pháp: Elliotts vẫn là một danh sách không có trọng số pháp định, kết luận dựa vào việc thẩm phán lập luận từng mục; còn Exacto đòi một cái neo có thể tính được — trước hết tính xem nhà đầu tư độc lập có hài lòng không, rồi mới bàn phần còn lại. Cách làm bài thi cũng tách theo đó: Tòa án Thuế đến nay vẫn phổ biến dùng phân tích đa yếu tố, Khu vực 7 lấy phép thử nhà đầu tư độc lập làm chủ đạo, nên khi trả lời phải xem trước vụ việc thuộc khu vực nào rồi mới chọn thước.
+
+हिन्दी（初译待校）: Elliotts के पाँच कारकों में से चौथा कारक (हित-टकराव की संभावना) और पाँचवाँ कारक (आंतरिक संगति) वास्तव में «छिपा हुआ लाभांश» वाले उद्देश्य-प्रश्न को पहले ही छू चुके हैं। इसलिए Exacto और Elliotts दो धड़ों का अंतर उद्देश्य में नहीं, विधि में है: Elliotts अब भी बिना वैधानिक भार वाली सूची है, जिसका निष्कर्ष न्यायाधीश के मद-दर-मद तर्क पर टिका है; Exacto एक गिनी जा सकने वाली कसौटी माँगता है — पहले गिनिए कि स्वतंत्र निवेशक संतुष्ट है या नहीं, फिर बाकी बात कीजिए। परीक्षा की तैयारी भी इसी से बँटती है: Tax Court आज भी व्यापक रूप से बहु-कारक विश्लेषण का प्रयोग करता है, Seventh Circuit में स्वतंत्र निवेशक परीक्षण प्रमुख है, इसलिए उत्तर लिखते समय पहले देखिए कि मामला किस Circuit में पड़ता है, फिर मापदंड चुनिए।
