@@ -138,3 +138,14 @@ Nguồn: Albrecht v. Commissioner, T.C. Memo. 2022-53 (Tòa Thuế, thẩm phán
 स्रोत: Albrecht v. Commissioner, T.C. Memo. 2022-53 (Tax Court, न्यायाधीश Greaves, Docket No. 13314-20, 25 मई 2022); IRC § 170(f)(8); 15 W. 17th Street LLC v. Commissioner, 147 T.C. 557 (2016); French, RP Golf और Averyt स्मरण-पत्र मत (समग्र-पठन शृंखला); Reg. § 1.170A-13(f); California R&TC § 17201। सभी आँकड़े शिक्षण आँकड़े हैं, स्थानीय रूप से पुनर्गणना किए गए।
 
 *अस्वीकरण: व्यक्तिगत अध्ययन नोट; कर सलाह नहीं। अपने मामले के लिए लाइसेंसधारी पेशेवर से सलाह लें।*
+
+## 补译增量（2026-11-24 02:55轮：韩／越／印三语补齐中文主文细节，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+판결의 두 층을 보충합니다. 첫째, 문면 결함입니다. § 170(f)(8)(B)는 CWA에 수증 기관이 대가를 제공했는지를 적도록 요구하는데, 증서 어디에도 그 문장이 없었고 인용된 증여 합의서도 이를 보완하지 않았습니다. 둘째, 전체 추론도 구하지 못했습니다. 증서가 권리 이전은 별도 합의에 달리 정함이 있으면 그에 따른다고 스스로 밝혔기 때문에, 법원은 다른 약정이나 박물관의 급부 가능성을 배제할 수 없었습니다. 담당 판사는 Greaves, 판결일은 2022년 5월 25일, 의견 번호는 T.C. Memo. 2022-53입니다. *개인 학습 노트이며 세무 자문이 아닙니다.*
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung hai tầng của phán quyết. Tầng một là thiếu sót trên văn bản: § 170(f)(8)(B) yêu cầu CWA phải nêu tổ chức nhận tặng có cung cấp hàng hóa hay dịch vụ để đổi lại hay không, nhưng văn kiện không hề có câu đó và thỏa thuận tặng cho được viện dẫn cũng không bổ sung. Tầng hai, suy luận tổng thể cũng không cứu được: vì văn kiện tự nói việc chuyển quyền tuân theo thỏa thuận riêng nếu thỏa thuận đó quy định khác, tòa không thể loại trừ khả năng có sắp xếp khác hoặc bảo tàng có cấp đối giá. Thẩm phán là Greaves, ngày phán quyết 25 tháng 5 năm 2022, số ý kiến T.C. Memo. 2022-53. *Ghi chép học tập cá nhân, không phải tư vấn thuế.*
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+निर्णय की दो परतें पूरक हैं। पहली, पाठ्य कमी: § 170(f)(8)(B) चाहता है कि CWA बताए कि प्राप्तकर्ता संस्था ने बदले में वस्तुएँ या सेवाएँ दीं या नहीं, किंतु deed में वह वाक्य कहीं नहीं था और संदर्भित दान-समझौता भी उसे पूरा नहीं करता था। दूसरी, समग्र अनुमान भी नहीं बचा सका: क्योंकि deed स्वयं कहता था कि अधिकार-हस्तांतरण अलग समझौते के अन्यथा प्रावधान के अधीन है, न्यायालय अन्य व्यवस्थाओं या संग्रहालय द्वारा प्रतिफल की संभावना को बाहर नहीं कर सका। न्यायाधीश Greaves थे, निर्णय-तिथि 25 मई 2022, ज्ञापन संख्या T.C. Memo. 2022-53 है। *व्यक्तिगत अध्ययन टिप्पणी; कर सलाह नहीं।*

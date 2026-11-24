@@ -1,0 +1,27 @@
+# Levine 案：代际分保寿险里保留的是债权不是指定权与 158 T.C. No. 2 案例分析
+
+## 中文主文
+
+### 一、案情：九旬老人签下代际分保寿险，八年后遗产被追第 2036 条
+Levine v. Commissioner, 158 T.C. No. 2 (2022)，美国税务法院。Marion Levine 在 90 多岁时经家族安排订立代际分保寿险（intergenerational split-dollar life insurance）安排：由其可撤销信托出资购买大额人寿保单，子女一辈的信托持有到期收回出资加约定回报的权利，保单的死亡给付部分则归家族下一代。Levine 女士 2016 年去世（享年 98 岁上下，以判决口径为准），国税局主张第 2036 条 (a)(2) 款：她生前保留了与他人共同指定谁享用财产的权利，安排项下资产应计回遗产，追税加罚款合计逾千万美元量级（以判决书数字为准）。算例：2026－2022＝4，本案是近年家族财富安排的最新一线判例。
+### 二、判决：税务法院判纳税人胜——保留的只是合同权利，不是第 2036 条的指定权
+法院逐项拆解后判遗产方胜诉。关键推理有三层：第一，第 2036 条 (a)(2) 款的「指定谁享用」指的是对已转让财产本身保留享用层面的支配，而 Levine 保留的是分保协议下的合同性权利——到期收回出资与约定回报的债权式权利，其经济实质在交易订立时已由对价结构定死，不随她的意愿改变受益格局；第二，她对保单与信托安排没有单方面变更受益人、撤回资产或改变享用分配的权力，家族各方的权利义务由协议与信托文件锁定；第三，交易具备真实经济风险与对价形态（出资有回报要求、安排经精算与法律文件成形），不是只为死后转移贴标签。据此，第 2036 条不适用，资产不计回。与 Bongard、Powell 对读：那两案倒在「目的不真、享用保留」，本案过关靠的是「权利被合同锁死、保留的是债权不是支配权」——同一法条，胜负分界在保留权利的性质。
+### 三、备考回收：判断第 2036 条先问保留的是什么权利
+三句带走：①第 2036 条 (a)(1) 管保留享用、(a)(2) 管保留指定权，两款的事实测试不同，别混用；②保留一项按合同公式自动执行的债权式回收权，不等于保留指定谁享用的权力（Levine 的核心区分）；③文件锁定加真实对价加无单方变更权，是家族安排过第 2036 条审查的三件套。加州口径：加州无州遗产税，本案结论只管联邦遗产税；但安排涉及的加州信托与保险合同效力仍按加州《遗嘱认证法典》与保险法独立判断。来源：Levine v. Commissioner, 158 T.C. No. 2 (2022) 判决原文（2026 年查核）。
+
+> 声明：本文为个人学习笔记，不构成法律、税务或医疗建议；具体事项请咨询持牌专业人士。 / Disclaimer: Personal study notes only; not legal, tax, or medical advice.
+
+## English
+In Levine v. Commissioner, 158 T.C. No. 2 (2022), a woman in her nineties entered an intergenerational split-dollar life insurance arrangement funded through her revocable trust; after her death the IRS argued under § 2036(a)(2) that she had retained, jointly with others, the right to designate who would enjoy the property, seeking to pull the arrangement back into her estate. The Tax Court held for the estate: what she retained was a fixed contractual right to repayment with a stated return — a creditor-like right locked by the agreements — not a power to change who enjoyed the property, and she held no unilateral power to alter beneficiaries or withdraw assets. Section 2036 therefore did not apply. Read against Bongard and Powell, the line is the nature of the retained right: a contractually frozen repayment claim is not a retained power to designate enjoyment.
+
+## Español (初译待校)
+En Levine v. Commissioner, 158 T.C. No. 2 (2022), una mujer de más de noventa años suscribió un acuerdo intergeneracional de seguro de vida split-dollar financiado por su fideicomiso revocable; tras su muerte, el IRS sostuvo bajo el § 2036(a)(2) que ella había retenido, junto con otros, el derecho a designar quién disfrutaría de los bienes. El Tax Court falló a favor del caudal: lo retenido era un derecho contractual fijo de reembolso con rendimiento pactado — un derecho de tipo acreedor bloqueado por los acuerdos — y no la facultad de cambiar quién disfrutaba de los bienes, sin poder unilateral de alterar beneficiarios ni retirar activos. El § 2036 no se aplicó. Frente a Bongard y Powell, la frontera es la naturaleza del derecho retenido.
+
+## 한국어 (초역 · 初译待校)
+Levine v. Commissioner, 158 T.C. No. 2 (2022)에서 90대의 여성이 취소가능 신탁을 통해 세대간 분할지급(split-dollar) 생명보험 약정을 맺었고, 사망 후 IRS는 § 2036(a)(2)에 따라 그녀가 타인과 공동으로 향유자를 지정할 권리를 유보했다고 주장했습니다. 조세법원은 상속재산 측의 손을 들었습니다. 그녀가 유보한 것은 약정으로 고정된 상환 청구권과 약정 수익에 대한 채권적 권리였을 뿐, 누가 재산을 향유할지를 바꿀 권한이 아니었고, 수익자를 일방적으로 변경하거나 자산을 인출할 권한도 없었습니다. 따라서 § 2036은 적용되지 않았습니다. Bongard·Powell과 나란히 읽으면 승패의 경계는 유보한 권리의 성격에 있습니다.
+
+## Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Trong Levine v. Commissioner, 158 T.C. No. 2 (2022), một phụ nữ ngoài chín mươi tuổi tham gia thỏa thuận bảo hiểm nhân thọ split-dollar liên thế hệ được tài trợ qua quỹ tín thác có thể hủy ngang của bà; sau khi bà qua đời, IRS lập luận theo § 2036(a)(2) rằng bà đã giữ lại, cùng với người khác, quyền chỉ định ai được hưởng tài sản. Tòa Thuế phán quyết cho phía di sản: thứ bà giữ lại là quyền hợp đồng cố định được hoàn trả kèm lợi suất đã thỏa thuận — một quyền kiểu chủ nợ bị khóa bởi các thỏa thuận — chứ không phải quyền thay đổi người hưởng, và bà không có quyền đơn phương đổi người thụ hưởng hay rút tài sản. Do đó § 2036 không áp dụng. Đọc cùng Bongard và Powell, ranh giới nằm ở bản chất của quyền được giữ lại.
+
+## हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+Levine v. Commissioner, 158 T.C. No. 2 (2022) में नब्बे वर्ष से अधिक आयु की महिला ने अपने revocable trust से वित्तपोषित अंतर-पीढ़ी split-dollar जीवन बीमा व्यवस्था की; उनकी मृत्यु के बाद IRS ने § 2036(a)(2) के तहत कहा कि उन्होंने दूसरों के साथ मिलकर यह तय करने का अधिकार बनाए रखा था कि संपत्ति का आनंद कौन लेगा। Tax Court ने संपदा के पक्ष में निर्णय दिया: उन्होंने जो बनाए रखा वह समझौतों से बँधा निश्चित प्रतिपूर्ति अधिकार व तय प्रतिलाभ था — ऋणदाता-जैसा अधिकार — न कि आनंद लेने वालों को बदलने की शक्ति, और न ही उन्हें लाभार्थी बदलने या संपत्ति निकालने की एकतरफ़ा शक्ति थी। इसलिए § 2036 लागू नहीं हुआ। Bongard और Powell के साथ पढ़ने पर सीमा बनाए रखे गए अधिकार की प्रकृति है।
