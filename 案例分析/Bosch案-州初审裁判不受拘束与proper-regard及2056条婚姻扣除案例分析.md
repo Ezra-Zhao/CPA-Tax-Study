@@ -247,3 +247,17 @@ Bài viết này chỉ là ghi chú học tập cá nhân, không cấu thành t
 यह लेख केवल एक व्यक्तिगत अध्ययन नोट है और कर सलाह नहीं है।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-24 06:55轮）
+
+### 한국어 (초역·初译待校)
+① Douglas 반대의견의 동반 사건 특정 묶음(제5절 중문 본문에서): Douglas는 같은 묶음으로 심리된 제240호 사건을 직접 들어, 손주 신탁이 주법 아래에서는 세액을 나눠 지게 되는데도 연방 계산은 안분 법률이 없는 것처럼 진행되어 미망인의 혼인공제가 줄고 세액이 커진다고 지적했다. 「의회가 이런 부당한 결과를 의도했다고 나는 믿을 수 없다」는 그의 문장은 이 제240호 동반 사건의 구도에 기대고 있다. (초역·待校)
+② Harlan 반대의견의 이중 요인 묶음(제5절 중문 본문에서): Harlan에 따르면 하급 주법원 재판이 받아야 할 무게는 단일 공식으로 정해지지 않으며, 주 절차의 성격과 그 주법원이 주 사법 체계 안에서 차지하는 위치, 두 가지가 모두 그 재판이 마땅히 받을 무게에 영향을 줄 수 있다. 다수의견이 다이버시티 사건에서 도출된 공식을 수정 없이 연방 세금 장면으로 옮긴 것이 그의 비판의 핵심이다. (초역·待校)
+
+### Tiếng Việt (bản dịch sơ bộ·初译待校)
+① Nhóm cụ thể hóa vụ đồng hành trong ý kiến bất đồng của Douglas (từ văn bản chính tiếng Trung, phần năm): Douglas viện dẫn trực tiếp vụ số 240 được nghe cùng đợt — theo luật bang, các quỹ của cháu sẽ phải gánh phần thuế, nhưng phép tính liên bang lại tiến hành như thể luật phân bổ không tồn tại, làm khấu trừ hôn nhân của góa phụ co lại và thuế phình ra; câu nói của ông «tôi không thể tin Quốc hội đã định những kết quả bất công như vậy» dựa trên chính bố cục của vụ đồng hành số 240 này. (bản dịch sơ bộ·待校)
+② Nhóm hai yếu tố của Harlan (từ văn bản chính tiếng Trung, phần năm): theo Harlan, trọng lượng mà một phán quyết của tòa bang cấp dưới đáng nhận không do một công thức duy nhất ấn định; cả tính chất của thủ tục bang lẫn vị trí của chính tòa bang đó trong hệ thống tư pháp của bang đều có thể ảnh hưởng tới trọng lượng ấy. Việc đa số mang công thức sinh ra từ các vụ đa dạng thẩm quyền sang nguyên vẹn vào bối cảnh thuế liên bang là trọng tâm phê phán của ông. (bản dịch sơ bộ·待校)
+
+### हिन्दी (प्रारंभिक अनुवाद·初译待校)
+① Douglas की असहमति में साथ वाले मामले का विशिष्ट समूह (खंड पाँच के चीनी मूल पाठ से): Douglas ने उसी समूह में सुने गए नंबर 240 मामले का सीधा हवाला दिया — राज्य कानून के तहत पोतों के न्यास कर का हिस्सा उठाएँगे, किंतु संघीय गणना ऐसे चलती है मानो विभाजन कानून हो ही नहीं, जिससे विधवा की वैवाहिक कटौती सिकुड़ती है और कर बढ़ता है; उनका वाक्य «मैं नहीं मान सकता कि कांग्रेस ने ऐसे अन्यायपूर्ण परिणाम चाहे थे» ठीक इसी नंबर 240 साथ वाले मामले की बनावट पर टिका है। (प्रारंभिक अनुवाद·待校)
+② Harlan की असहमति का दो-कारक समूह (खंड पाँच के चीनी मूल पाठ से): Harlan के अनुसार निचले राज्य न्यायालय के निर्णय को मिलने वाला वज़न किसी एक सूत्र से तय नहीं होता; राज्य कार्यवाही का चरित्र और राज्य न्यायिक प्रणाली के भीतर उस राज्य न्यायालय का स्थान, दोनों ही उस वज़न पर असर डाल सकते हैं। बहुमत द्वारा diversity मामलों से निकले सूत्र को बिना संशोधन संघीय कर परिदृश्य में ले आना उनकी आलोचना का केंद्र है। (प्रारंभिक अनुवाद·待校)
