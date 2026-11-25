@@ -127,3 +127,32 @@ Este repositorio contiene solo notas personales de estudio y no constituye aseso
 Kho lưu trữ này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn thuế hay pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और कर या कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+
+## 补译增量（2026-11-24 19:55轮·韩／越／印初译待校）
+
+补中文主文第五节五条学习要点组（三语原稿各仅一段、五条要点缺）：
+
+### 한국어 (初译待校)
+
+1. 제162조와 제263조는 동전의 양면이다. 먼저 자본화 판단을 하고 그다음 공제 판단을 하며, 입증 책임은 납세자에게 있다.
+2. '독립 자산'은 충분조건이지 필요조건은 아니다. 이것이 INDOPCO에서 가장 자주 출제되는 한 문장이다.
+3. '미래 이익이 해당 연도를 넘어서고 중대해야 하며, 부수적 이익으로는 부족하다.' 이것이 본 사건의 기준이자 이후 규정과 안전항(safe harbor)의 경계선이다.
+4. 숫자를 확실히 기억하라. Morgan Stanley 수수료 총액 2,225,586달러, 그리고 하급심 인용인 조세법원 93 T.C. 67, 제3순회 918 F.2d 426은 REG와 TCP 모두에서 출제될 수 있다.
+5. Welch 사건과 대조해 읽어라. Welch(290 U.S. 111)는 '통상적'인 쪽에서 선을 긋고 INDOPCO는 '자본' 쪽에서 선을 그으므로, 두 사건을 합치면 제162조 (a)의 완전한 경계가 된다.
+
+### Tiếng Việt (初译待校)
+
+Một, Điều 162 và Điều 263 là hai mặt của một đồng xu: phán đoán vốn hóa trước, phán đoán khấu trừ sau, và gánh nặng chứng minh thuộc về người nộp thuế.
+Hai, 'tài sản độc lập' là điều kiện đủ chứ không phải điều kiện cần — đây là câu được thi nhiều nhất của INDOPCO.
+Ba, 'lợi ích tương lai phải vượt ra ngoài năm hiện tại và phải trọng yếu, lợi ích phụkèm không đủ' — đây vừa là chuẩn của vụ án, vừa là ranh giới của các quy định và bến an toàn sau này.
+Bốn, ghi nhớ con số: tổng số 2.225.586 đô la của Morgan Stanley, cùng các trích dẫn cấp dưới Tòa Thuế 93 T.C. 67 và Tòa Phúc thẩm Khu vực 3, 918 F.2d 426, đều có thể xuất hiện trong REG và TCP.
+Năm, đọc đối chiếu với vụ Welch: Welch (290 U.S. 111) vạch ranh giới từ phía 'thông thường', INDOPCO vạch từ phía 'vốn', hai vụ hợp lại thành ranh giới trọn vẹn của Điều 162(a).
+
+### हिन्दी (初译待校)
+
+एक, धारा 162 और धारा 263 एक ही सिक्के के दो पहलू हैं: पहले पूँजीकरण का निर्णय, फिर कटौती का निर्णय, और सिद्ध करने का भार करदाता पर है।
+दो, 'स्वतंत्र संपत्ति' पर्याप्त शर्त है, आवश्यक शर्त नहीं — यह INDOPCO की सबसे अधिक पूछी जाने वाली एक पंक्ति है।
+तीन, 'भावी लाभ चालू वर्ष से आगे और महत्वपूर्ण होना चाहिए, आनुषंगिक लाभ पर्याप्त नहीं' — यही इस मामले का मानदंड है और बाद के विनियमों व safe harbor की सीमा-रेखा भी।
+चार, संख्याएँ पक्की याद रखें: Morgan Stanley का कुल $2,225,586, तथा निचले उद्धरण Tax Court 93 T.C. 67 और Third Circuit 918 F.2d 426 — REG और TCP दोनों में पूछे जा सकते हैं।
+पाँच, Welch मामले के साथ तुलना करके पढ़ें: Welch (290 U.S. 111) 'साधारण' पक्ष से रेखा खींचता है, INDOPCO 'पूँजी' पक्ष से, और दोनों मिलकर धारा 162(a) की पूर्ण सीमा बनाते हैं।
