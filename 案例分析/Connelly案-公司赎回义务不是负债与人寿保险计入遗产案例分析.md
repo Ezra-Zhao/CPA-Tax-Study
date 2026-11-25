@@ -116,3 +116,20 @@ Notas personales de estudio; no constituye asesoramiento fiscal. (初译待校)
 개인 학습 노트이며 세무 자문이 아닙니다. (初译待校)
 Ghi chú học tập cá nhân, không cấu thành tư vấn thuế. (初译待校)
 व्यक्तिगत अध्ययन नोट; कर सलाह नहीं है। (初译待校)
+
+
+## 补译增量（2026-11-24 16:55 轮）
+
+以下两组细节原仅见于文末来源与声明一节的中文表述，韩／越／印三语正文此前同缺，本轮补齐（初译待校）：
+
+### 한국어 (초역·待校)
+
+① 절차 좌표: 이 사건의 번호는 No. 23-146이며, 2024년 6월 6일에 판결되어 제8순회법원의 판결이 확정(affirm)됐습니다. ② 평가 법원(法源): 사망 시점 공정 시장가치 평가의 근거는 내국세법 제2031조와 재무부 규정 Treas. Reg. § 20.2031-2이며, 매매 합의 가격의 존중 조건은 제2703조가 정합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+① Tọa độ thủ tục: vụ án mang số No. 23-146, được phán quyết ngày 6 tháng 6 năm 2024, giữ nguyên phán quyết của Tòa Phúc thẩm Khu vực 8. ② Nguồn luật về định giá: việc định giá theo giá trị thị trường hợp lý tại thời điểm qua đời dựa trên Điều 2031 của Bộ luật Thuế vụ Nội địa và Quy định của Bộ Tài chính Treas. Reg. § 20.2031-2; các điều kiện để mức giá trong thỏa thuận mua bán được tôn trọng do Điều 2703 quy định.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+① प्रक्रियात्मक निर्देशांक: इस मामले की संख्या No. 23-146 है, इसका निर्णय 6 जून 2024 को हुआ और आठवें सर्किट के निर्णय की पुष्टि (affirm) हुई। ② मूल्यांकन के विधि-स्रोत: मृत्यु के समय के उचित बाज़ार मूल्य पर मूल्यांकन का आधार Internal Revenue Code की धारा 2031 और ख़ज़ाना विनियम Treas. Reg. § 20.2031-2 है; खरीद-बिक्री समझौते की कीमत को सम्मान मिलने की शर्तें धारा 2703 तय करती है।
