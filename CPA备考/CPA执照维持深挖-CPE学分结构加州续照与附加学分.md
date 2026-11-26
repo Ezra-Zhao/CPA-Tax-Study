@@ -141,3 +141,22 @@ Bổ sung về căn cứ: các con số trong bài dựa trên khung giấy phé
 - 한국어: 본 글은 개인 학습 노트이며 세무·재무·법률·보험 자문이 아닙니다. CPE 수치와 기준은 California Board of Accountancy의 당기 공표를 따르므로, 갱신 신고 전에 반드시 재확인하십시오. (초역, 교정 대기)
 - Tiếng Việt: Đây là ghi chú học tập cá nhân, không phải tư vấn thuế, tài chính, pháp lý hay bảo hiểm. Số liệu và quy định CPE theo công bố hiện hành của California Board of Accountancy; hãy kiểm chứng lại trước khi nộp gia hạn. (Bản dịch sơ bộ, chờ hiệu đính)
 - हिन्दी: ये व्यक्तिगत अध्ययन नोट्स हैं और कर, वित्तीय, कानूनी या बीमा सलाह नहीं हैं। CPE के आँकड़े और नियम California Board of Accountancy के वर्तमान प्रकाशनों के अनुसार हैं; नवीनीकरण दाखिल करने से पहले उन्हें सत्यापित करें। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-25 18:55 轮）
+
+以下两组事实见于中文主文，韩、越、印三语此前未成段译出，现补齐（初译待校）：
+
+### 한국어 (初译待校)
+
+첫째, 학점 취득 방식의 상한: 자기학습(self-study)은 전체 학점을 채울 수 있으나 수료 시험에서 90% 이상을 받아야 하고, 강의 학점은 최대 50%, 논문·기사 발표는 최대 25%까지만 인정된다. 수료 증서와 성적 기록은 5년간 보관해야 하며 CBA 무작위 감사 시 제시할 수 있어야 한다. 둘째, 규제 심사(Regulatory Review)의 리듬: 6년마다 2시간의 CBA 승인 과정을 이수해야 하고 통과선은 역시 90%이며, 매 주기 4시간 윤리와 서로 대체되지 않는다. 두 항목 모두 80시간 안에 포함되며 추가 분량이 아니다.
+
+### Tiếng Việt (初译待校)
+
+Thứ nhất, giới hạn theo hình thức học: tự học (self-study) có thể tính đủ toàn bộ tín chỉ nhưng bài thi kết thúc phải đạt từ 90% trở lên; tín chỉ giảng dạy tối đa 50%, xuất bản bài viết tối đa 25%. Chứng chỉ hoàn thành và điểm số phải lưu giữ 5 năm để xuất trình khi CBA kiểm tra ngẫu nhiên. Thứ hai, nhịp của Regulatory Review: mỗi 6 năm phải hoàn thành khóa 2 giờ thuộc danh sách được CBA phê duyệt, điểm đậu cũng là 90%, và không thay thế được cho 4 giờ đạo đức mỗi chu kỳ — hai mục đều nằm trong 80 giờ, không phải cộng thêm. (初译待校)
+
+### हिन्दी (初译待校)
+
+पहला, प्रारूप-सीमाएँ: स्व-अध्ययन (self-study) से पूरे क्रेडिट मिल सकते हैं पर समापन परीक्षा में 90% या अधिक अंक चाहिए; अध्यापन क्रेडिट अधिकतम 50% और लेख-प्रकाशन अधिकतम 25% तक ही गिने जाते हैं। पूर्णता प्रमाणपत्र और अंक-अभिलेख 5 वर्ष तक रखने होते हैं ताकि CBA की यादृच्छिक जाँच में दिखाए जा सकें। दूसरा, Regulatory Review की लय: हर 6 वर्ष में CBA-अनुमोदित सूची का 2-घंटे का पाठ्यक्रम पूरा करना होता है, उत्तीर्ण सीमा वहाँ भी 90% है, और यह हर चक्र के 4-घंटे नैतिकता पाठ्यक्रम का विकल्प नहीं है — दोनों मदें 80 घंटों के भीतर ही हैं, अतिरिक्त नहीं। (初译待校)

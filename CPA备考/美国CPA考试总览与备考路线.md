@@ -329,3 +329,22 @@ Thời gian ôn mỗi môn tùy người; ôn toàn thời gian thường 4–8 
 *Chỉ là ghi chú học tập, không phải lời khuyên. Kho lưu trữ này là hồ sơ học tập cá nhân, không phải tư vấn thuế, tài chính hay nghề nghiệp; điều kiện dự thi theo nguyên văn hiện hành do Board của từng bang công bố.*
 
 *केवल अध्ययन नोट। यह भंडार एक व्यक्तिगत अध्ययन अभिलेख है और कर, वित्तीय या करियर सलाह नहीं है; पात्रता नियम प्रत्येक राज्य बोर्ड द्वारा प्रकाशित वर्तमान मूल पाठ के अनुसार हैं.*
+
+
+---
+
+## 补译增量（2026-11-25 18:55 轮）
+
+以下两组事实见于中文主文，韩、越、印三语此前未成段译出，现补齐（初译待校）：
+
+### 한국어 (初译待校)
+
+첫째, 발급과 출제의 분리: CPA 면허는 각 주 회계위원회(Board of Accountancy)가 발급하지만, 시험 자체는 전국 통일이며 AICPA가 개발하고 NASBA 및 각 주 위원회와 함께 시행한다. 둘째, 2024년 이후의 구조: CPA Evolution 모델에 따라 시험은 Core 3과목에 본인이 선택하는 Discipline 1과목을 더한 총 4과목으로 구성되며, 총览의 나머지 부분은 응시 자격, 채점 규칙, 실행 가능한 학습 순서를 이 구조 위에 배열한다.
+
+### Tiếng Việt (初译待校)
+
+Thứ nhất, tách bạch giữa cấp phép và ra đề: giấy phép CPA do Hội đồng Kế toán (Board of Accountancy) của từng bang cấp, nhưng kỳ thi là thống nhất toàn quốc, do AICPA xây dựng và phối hợp tổ chức cùng NASBA và các hội đồng bang. Thứ hai, cấu trúc từ năm 2024: theo mô hình CPA Evolution, kỳ thi gồm 3 phần Core cộng 1 phần Discipline tự chọn, tổng cộng 4 phần; phần còn lại của bài tổng quan này sắp xếp điều kiện dự thi, quy tắc chấm điểm và trình tự ôn tập khả thi trên cấu trúc đó. (初译待校)
+
+### हिन्दी (初译待校)
+
+पहला, लाइसेंस और परीक्षा का पृथक्करण: CPA लाइसेंस प्रत्येक राज्य का Board of Accountancy देता है, जबकि परीक्षा स्वयं राष्ट्रव्यापी एकसमान है, जिसे AICPA विकसित करता है और NASBA व राज्य बोर्डों के साथ मिलकर आयोजित किया जाता है। दूसरा, 2024 के बाद की संरचना: CPA Evolution मॉडल के तहत परीक्षा में 3 Core खंड और अभ्यर्थी की पसंद का 1 Discipline खंड, कुल 4 खंड होते हैं; इस अवलोकन का शेष भाग पात्रता, अंकन नियम और व्यावहारिक अध्ययन क्रम इसी संरचना पर रखता है। (初译待校)
